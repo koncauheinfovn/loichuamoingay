@@ -1,0 +1,4 @@
+name = "loichuamoingay"
+main = "worker-vatican-news-tieng-viet.js"
+compatibility_date = "2024-11-01"
+workers_dev = true
