@@ -1,16 +1,12 @@
 {
-  "name": "loichuamoingay-final-system",
-  "version": "4.0.0",
-  "private": true,
+  "name": "loichuamoingay-final-fix-v2",
+  "version": "5.0.0",
   "type": "module",
+  "private": true,
   "scripts": {
-    "build:data": "node scripts/generate-data.js",
-    "build:full": "FULL_READINGS=1 node scripts/generate-data.js",
-    "check": "node --check scripts/generate-data.js"
+    "build:data": "node scripts/generate-data.js"
   },
   "dependencies": {
-    "axios": "^1.7.9",
-    "cheerio": "^1.0.0",
-    "node-fetch": "^3.3.2"
+    "axios": "^1.7.9"
   }
 }

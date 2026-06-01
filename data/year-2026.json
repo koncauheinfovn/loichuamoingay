@@ -2,12 +2,7 @@
   "success": true,
   "year": 2026,
   "count": 365,
-  "source": {
-    "calendar": "https://augustino.net/lich-phung-vu",
-    "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
-    "note": "year file contains full readings"
-  },
-  "updated": "2026-06-01T05:14:01.529Z",
+  "updated": "2026-06-01T07:03:47.614Z",
   "days": [
     {
       "date": "2026-01-01",

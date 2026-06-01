@@ -1,15 +1,7 @@
 {
   "success": true,
-  "mode": "2026",
   "years": [
     2026
   ],
-  "files": [
-    {
-      "year": 2026,
-      "count": 365,
-      "file": "year-2026.json"
-    }
-  ],
-  "updated": "2026-06-01T05:14:01.574Z"
+  "updated": "2026-06-01T07:03:47.647Z"
 }
