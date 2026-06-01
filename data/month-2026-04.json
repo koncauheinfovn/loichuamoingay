@@ -3,16 +3,1500 @@
   "year": 2026,
   "month": 4,
   "month_key": "2026-04",
-  "count": 0,
+  "count": 30,
   "source": {
     "calendar": "https://augustino.net/lich-phung-vu",
-    "readings_primary": "https://www.augustino.net/loi-chua-hom-nay",
-    "readings_fallback": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
-    "images": [
-      "Wikipedia API",
-      "Wikimedia Commons API"
-    ]
+    "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
+    "note": "year file contains calendar and reading references; Cloudflare Worker loads full readings live for selected date"
   },
-  "updated": "2026-06-01T02:05:17.049Z",
-  "days": []
+  "updated": "2026-06-01T04:53:30.763Z",
+  "days": [
+    {
+      "date": "2026-04-01",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Tuần Thánh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Is 50,4-9a",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 26,14-25",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "Tối ngắm 15 Sự Thương Khó Chúa Giêsu.",
+        "Không cử hành lễ nào khác, trừ lễ an táng."
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-02",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Thánh Đa Minh Vũ Đình Tước (1775-1839), Linh Mục, Tử Đạo",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Đa Minh Vũ Đình Tước (1775-1839)",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Is 61,1-3a.6a.8b-9 Kh 1,5-8",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 4,16-21",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "Lưu ý: Hôm nay chỉ cử hành Thánh lễ Truyền Dầu và Thánh lễ Tiệc Ly. Cấm mọi Thánh lễ không có giáo dân tham dự và cấm cử hành lễ an táng.",
+        "Thánh lễ truyền dầu do Giám mục giáo phận chủ tế cùng với Linh mục đoàn của ngài đồng tế, bày tỏ sự hiệp thông của Linh mục đoàn với Giám mục của mình. Trong Thánh Lễ này tất cả các Linh mục hay các Linh mục đại diện cho các miền trong giáo phận đồng tế chứng kiến làm phép dầu như những cộng sự viên của Giám mục giáo phận mà họ tham gia vào chức vụ Thánh của ngài để xây dựng, Thánh hóa và quản trị Dân Thiên Chúa. Vì thế, Thánh Lễ này diễn tả rõ ràng sự hiệp thông của chức vụ Linh mục và Hy Tế của Chúa Kitô trong Hội Thánh.",
+        "Dầu mới được làm phép và hiến Thánh, sẽ được cung kính đưa tới các nhà thờ giáo xứ; dầu cũ thì đốt đi hoặc dùng để đốt đèn chầu.",
+        "Có thể tổ chức rước dầu mới trước Thánh lễ Tiệc Ly hay vào thời gian thích hợp, nhằm dạy các tín hữu về việc sử dụng Dầu Thánh và về hiệu năng của Dầu Thánh trong đời sống Kitô giáo.",
+        "Nếu hôm nay khó có thể quy tụ giáo sĩ và giáo dân về bên Giám mục giáo phận, Thánh lễ Truyền Dầu có thể cử hành vào một ngày nào trước đó gần Lễ Phục Sinh.",
+        "Hết mùa Chay, khởi đầu Tam Nhật Vượt Qua",
+        "TAM NHẬT VƯỢT QUA",
+        "1. Qua việc cử hành Tam Nhật Phục Sinh - sự chết, mai táng và phục sinh của Hôn Phu mình - Hội Thánh muốn hiện tại hóa và hoàn thiện mầu nhiệm Vượt Qua, sự vượt qua của Chúa từ trần gian về với Thiên Chúa Cha.",
+        "Theo truyền thống xa xưa của Hội Thánh, việc giữ chay được cử hành vào ngày thứ Sáu Tuần Thánh, nếu thuận tiện có thể nới rộng sang ngày thứ Bảy Tuần Thánh.",
+        "2. Việc cử hành Tam Nhật Thánh chỉ được cử hành ở những nơi nghi thức có thể làm với sự tôn nghiêm và trang trọng. Vì thế, thật là thích hợp khi các cộng đoàn tu sỹ tụ hợp lại tại những nhà thờ quan trọng và giáo dân cũng có thể tụ họp lại tại những nhà thờ lớn để tham dự nghi thức.",
+        "Ở những nơi, một Linh mục phải coi sóc hai hay nhiều giáo xứ, nếu xét thấy các giáo xứ có đủ điều kiện để cử hành nghi thức trọng thể và sốt sáng với số lượng giáo dân đông đủ, Linh mục có thể cử hành nghi thức Tam Nhật Thánh hai lần tại hai nhà thờ khác nhau vì lợi ích của các tín hữu.",
+        "3. Nên cử hành giờ Kinh Sách và Kinh Sáng chung với cộng đoàn vào ngày thứ Sáu và thứ Bảy Tuần Thánh để cộng đoàn tín hữu suy niệm sâu xa hơn về sự Thương Khó trong khi ngóng chờ công bố Tin Mừng Phục Sinh.",
+        "4. Trong Tam Nhật Vượt Qua, cấm cử hành bất kỳ Thánh lễ nào khác, kể cả Thánh lễ an táng.",
+        "Về việc rước lễ:",
+        "Ngày thứ Năm Tuần Thánh chỉ được cho tín hữu rước lễ trong Thánh lễ làm phép dầu và Thánh lễ Tiệc Ly mà thôi. Theo Giáo Luật, ai đã rước lễ trong Thánh Lễ Truyền Dầu ban sáng, còn được rước lễ trong Thánh lễ Tiệc Ly ban chiều. Có thể đưa Mình Thánh Chúa cho bệnh nhân vào bất cứ giờ nào trong ngày.",
+        "Ngày thứ Sáu Tuần Thánh chỉ được cho tín hữu rước lễ trong nghi thức tưởng niệm cuộc thương khó của Chúa mà thôi. Có thể đưa Mình Thánh Chúa cho bệnh nhân vào bất cứ giờ nào trong ngày.",
+        "Ngày thứ Bảy Tuần Thánh, trước Đêm Canh Thức Vượt Qua, chỉ được đưa Mình Thánh Chúa như Của Ăn Đàng mà thôi.",
+        "THÁNH LỄ TIỆC LY. Chúa Giêsu Lập Bí Tích Thánh Thể.",
+        "Lễ nghi cử hành vào chiều tối.",
+        "Bài đọc: Xh 12,1-8.11-14 1 Cr 11,23-26 Ga 13,1-15",
+        "Tối ngắm 15 Sự Thương Khó Chúa Giêsu.",
+        "Lưu ý: Tiền lạc quyên trong Thánh lễ này được dùng để giúp người nghèo trong giáo xứ.",
+        "1. Với Thánh lễ Tiệc Ly chiều hôm nay, Hội Thánh bắt đầu Tam Nhật Vượt Qua và tưởng niệm bữa tiệc ly cuối cùng khi Chúa Giêsu, trong đêm bị trao nộp, vì yêu mến những kẻ thuộc về mình đến tột cùng đã trao hiến Mình và Máu Thánh Người dưới hai hình thái bánh rượu cho các Tông đồ và truyền cho họ và những người kế vị làm lại việc này để nhớ đến ngài.",
+        "2. Bài giảng sẽ đề cập đến các mầu nhiệm được tưởng niệm trong Thánh lễ này, tức là việc thiết lập bí tích Thánh Thể, chức Linh mục và điều răn yêu thương của Chúa.",
+        "Sau bài giảng, sẽ cử hành nghi thức rửa chân, nếu lý do mục vụ khuyên nên làm.",
+        "Theo truyền thống lâu đời của Hội Thánh, hôm nay cấm cử hành mọi Thánh lễ không có giáo dân tham dự.",
+        "Thánh lễ Tiệc Ly cử hành vào lúc thuận tiện chiều tối, có toàn thể cộng đoàn địa phương tham dự đông đủ, trong khi các tư tế (và các thừa tác viên) thi hành phận vụ của mình.",
+        "Các tư tế đã đồng tế trong lễ Truyền Dầu (hoặc đã cử hành Thánh lễ vì lợi ích giáo dân) cũng được đồng tế trong Thánh lễ Tiệc Ly ban chiều nữa.",
+        "3. Nơi nào vì lý do mục vụ đòi hỏi, thì Bản Quyền Địa Phương có thể cho phép cử hành một Thánh lễ Tiệc Ly (thứ Hai) trong các nhà thờ, nhà nguyện công và nhà nguyện bán công vào ban chiều. Còn trường hợp thật sự cần thiết, có thể cho phép cử hành Thánh lễ Tiệc Ly cả vào lúc ban sáng, nhưng chỉ dành cho các tín hữu không có cách nào tham dự Thánh lễ Tiệc Ly ban chiều được. Tuy nhiên, đừng cử hành chỉ vì lợi ích riêng tư, kẻo làm thiệt hại cho việc cử hành chính Thánh lễ Tiệc Ly vào ban chiều.",
+        "Chỉ có thể cho giáo dân rước lễ trong Thánh lễ mà thôi; nhưng vào bất cứ giờ nào trong ngày, cũng có thể đem Mình Thánh Chúa cho bệnh nhân.",
+        "4. Nhà Tạm trong cung Thánh hoàn toàn để trống (cửa nhà tạm để mở). Trong Thánh lễ Tiệc Ly chiều nay sẽ truyền phép bánh Thánh đủ cho mọi người rước lễ hôm nay và ngày mai, vì thế các Linh mục phải lo liệu để Mình Thánh được rước hết trong những ngày trước Thánh Lễ Tiệc Ly.",
+        "5. Khi hát Kinh Vinh Danh thì đánh đàn và rung chuông. Sau đó, không rung chuông nữa cho đến Đêm Canh Thức Vượt Qua; trừ khi Hội Đồng Giám mục (hay Giám mục giáo phận) đã quy định thể khác.",
+        "Nơi nào giáo dân đã được chuẩn bị, có thể tổ chức nghi thức rửa chân cho những người đàn ông (hoặc đàn bà) đã được tuyển chọn, để nói lên ý nghĩa phục vụ và bác ái của Chúa Kitô, Đấng đã đến không phải để được phục vụ mà để phục vụ.",
+        "6. Khi rước lễ vật đến bàn thờ, cũng nên đem theo những lễ vật dành cho người nghèo, nhất là các phẩm vật đã được thu góp trong mùa Chay như hoa trái của việc sám hối.",
+        "7. Sau khi rước lễ, Linh mục đặt bình Mình Thánh Chúa (ciborium) trên bàn thờ. Kết thúc Lời Nguyện Hiệp Lễ (bỏ ban phép lành cuối lễ), Linh mục xông hương rồi dùng khăn vai phủ bình Mình Thánh và kiệu Mình Thánh Chúa sang bàn thờ phụ, với Thánh Giá đi trước, hương và đèn nến cùng với những người giúp lễ. Khi bắt đầu rước thì hát Ca Lên Lưỡi Người Công Chính (Pange, lingua). Vì việc tưởng niệm cuộc thương khó được bắt đầu sau Lễ Tiệc Ly, nên việc kiệu Mình Thánh phải được cử hành trong tôn kính, trang nghiêm, nhưng đơn giản (không nên tung hoa trước Mình Thánh).",
+        "Bàn thờ phụ được trang hoàng thích hợp với việc lưu giữ Mình Thánh Chúa. Nơi đây phải có Nhà Tạm đóng kín và tránh việc trưng bày (hay đặt) Mình Thánh Chúa trong mặt nhật. Ngoài ra, về hình thức Nhà Tạm, tránh cách dùng kiểu nhà mồ vì nơi lưu giữ Mình Thánh Chúa không muốn biểu thị mồ Chúa, nhưng chỉ phục vụ cho việc rước lễ ngày hôm sau (Không che hay quây màn kín nơi cất giữ Mình Thánh, khiến giáo dân có thể hình dung đây là nhà mồ). Sau khi đặt Mình Thánh vào Nhà Tạm, Linh mục xông hương, trong khi đó, ca đoàn hát Ca Kính Mình Thánh (Tantum ergo), không có lời nguyện, Linh mục đóng cửa Nhà Tạm và trở về nhà áo trong thinh lặng.",
+        "8. Kết thúc buổi cử hành hôm nay thì lột khăn bàn thờ, và nếu có thể, cất các Thánh Giá. Nếu còn Thánh Giá nào trong nhà thờ, thì phải phủ khăn.",
+        "9. Khuyên giáo dân, nên tuỳ hoàn cảnh, đến Chầu Mình Thánh Chúa ban tối hay đêm vào giờ thuận tiện. Nhưng từ nửa đêm trở đi, không tổ chức Chầu Mình Thánh Chúa trọng thể nữa.",
+        "10. Không tổ chức kiệu Mình Thánh Chúa và đặt Mình Thánh Chúa nơi bàn thờ phụ trong các nhà thờ không cử hành nghi lễ tưởng niệm cuộc thương khó của Chúa vào chiều thứ Sáu Tuần Thánh."
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-03",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "KÍNH NHỚ CHÚA GIÊSU CHỊU CHẾT CHUỘC TỘI NHÂN LOẠI",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "CHÚA GIÊSU CHỊU CHẾT CHUỘC TỘI NHÂN LOẠI Hôm nay giữ chay và kiêng thịt",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Is 52,13–53,12 Hr 4,14-16; 5,7-9",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 18,1–19,42",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "1. Hôm nay, Chiên Vượt Qua của chúng ta là Đức Kitô chịu hiến tế, nên Hội Thánh cử hành việc suy tôn và kính thờ Thánh Giá, vì nhờ Thánh Giá mà ơn cứu độ được ban cho cả thế giới.",
+        "2. Theo truyền thống rất xa xưa, hôm nay Hội Thánh không cử hành Thánh lễ.",
+        "Hôm nay chỉ cho giáo dân rước lễ trong nghi thức tưởng niệm cuộc thương khó của Chúa mà thôi. Tuy nhiên, vào bất cứ giờ nào trong ngày, cũng có thể đem Mình Thánh Chúa cho những bệnh nhân nào không thể tham dự nghi thức ngày hôm nay được.",
+        "3. Hôm nay và ngày mai, Hội Thánh không cử hành Bí tích nào hết, trừ bí tích Hòa Giải và Xức Dầu Bệnh Nhân. Hôm nay, nếu có phải An táng, thì không hát, không đàn, không chiêng trống.",
+        "Hôm nay giữ chay và kiêng thịt. Vì là chay Vượt Qua, do đó rất nên kéo dài cho tới Đêm Canh Thức Vượt Qua (PV 110).",
+        "Nếu có thể, nên cử hành long trọng giờ Kinh Sách và Kinh Sáng chung với giáo dân.",
+        "5. Bàn thờ hoàn toàn để trống: không Thánh Giá, không chân đèn, không khăn trải bàn. Bắt đầu nghi thức, Linh mục và giúp lễ tiến ra cung Thánh trong thinh lặng và khi kết thúc cũng sẽ trở về nhà áo trong thinh lặng.",
+        "6. Khi đọc Bài Thương Khó, không mang đèn nến, không xông hương, không chào và cũng không ghi dấu Thánh Giá trên sách. Phó tế đọc Bài Thương Khó, hoặc nếu không có phó tế thì Linh mục đọc.",
+        "Giáo dân cũng có thể đọc Bài Thương Khó, nhưng nếu được, nên dành những lời của Chúa Kitô cho Linh mục (hay phó tế).",
+        "Nếu là phó tế, trước khi đọc Bài Thương Khó, phải đến xin chủ tế ban phép lành như trong lễ nào khác.",
+        "Hết Bài Thương Khó, xướng “Đó là Lời Chúa” như thường lệ, nhưng không hôn sách. Sau đó có thể giảng vắn tắt.",
+        "7. Chỉ dùng một Thánh Giá duy nhất trong nghi thức tôn kính Thánh Giá.",
+        "Nếu vì số dân chúng đông, mỗi người không thể lên tôn kính Thánh Giá được, thì sau khi một phần tín hữu đã tôn kính Thánh Giá, chủ sự cầm Thánh Giá lên đứng trước bàn thờ, nói ít lời kêu mời dân chúng kính thờ Thánh Giá, rồi nâng cao Thánh Giá trong giây lát để mọi người thinh lặng tôn thờ.",
+        "8. Tôn kính Thánh Giá xong, đi kiệu Mình Thánh từ bàn thờ phụ về và cho rước lễ. Sau khi cho rước lễ xong, lại kiệu Mình Thánh (bằng hình thức đơn giản) về nơi cất giữ, với đèn chầu như thường lệ.",
+        "Sau buổi cử hành, thì lột khăn bàn thờ, nhưng để lại Thánh Giá và các chân đèn.",
+        "9. Từ sau lễ nghi tôn kính Thánh Giá cho đến Đêm Canh Thức Vượt Qua, phải cúi mình mỗi khi đi ngang qua trước Thánh Giá.",
+        "Nên quý trọng các việc đạo đức có giá trị mục vụ; như kiệu thương khó, đi Đàng Thánh Giá, suy gẫm các sự thương khó của Đức Mẹ."
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-04",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Tuần Thánh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "St 1,1–2,2 (hoặc St 1,1.26-31a); St 22,1-18 (hoặc St 22,1-2.9a.10-13.15-18); Xh 14,15–15,1a; Is 54,5-14; Is 55,1-11; Br 3,9-15.32–4,4; Ed 36,16-17a.18-28; Rm 6,3-11",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 28,1-10",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "Chiều ngắm 7 hoặc 15 sự Thương Khó Đức Mẹ.",
+        "Hôm nay cấm cử hành Thánh lễ và các Bí tích khác, trừ bí tích Hòa Giải và Xức Dầu Bệnh Nhân. Chỉ có thể cho bệnh nhân rước lễ như Của Ăn Đàng mà thôi.",
+        "Hôm nay, nếu có phải An táng, thì không hát, không đàn, không chiêng trống.",
+        "MÙA PHỤC SINH",
+        "Năm mươi ngày, từ Chúa Nhật Lễ Phục Sinh đến Chúa Nhật Lễ Đức Chúa Thánh Thần Hiện Xuống, được cử hành trong niềm hân hoan phấn khởi, như một ngày lễ duy nhất; hơn thế, như một Đại Chúa Nhật. Đặc biệt, trong những ngày này, hát Allêluia (AC 22).",
+        "Ban tối: LỄ VỌNG CHÚA PHỤC SINH.",
+        "ĐÊM CANH THỨC VƯỢT QUA",
+        "1. Theo truyền thống xa xưa, đêm nay là đêm Chúa truyền phải giữ, và Đêm Canh Thức Vượt Qua được cử hành để kính nhớ đêm Thánh Chúa sống lại, gọi là Mẹ của mọi Đêm Canh Thức.",
+        "2. Trong Đêm Canh Thức Vượt Qua này, Hội Thánh canh thức để mong đợi Chúa sống lại và cử hành mầu nhiệm Vượt Qua ấy trong các Bí tích khai tâm Kitô giáo. Toàn thể truyền thống Kitô giáo luôn nhìn nhận Đêm Canh Thức Vượt Qua này mang tính chất trông đợi cuộc quang lâm cánh chung của Chúa.",
+        "3. Vì Đêm Canh Thức Vượt Qua thuộc về ngày Chúa Nhật Phục Sinh, nên phải tránh trình bày nghi thức đó như là những giờ phút cuối cùng của ngày thứ Bảy Tuần Thánh (Thánh Bộ Phụng Tự, Thông tư 16/01/1988, số 95).",
+        "Tất cả Đêm Canh Thức Vượt Qua được cử hành về đêm, nên không được bắt đầu trước lúc chập tối và phải kết thúc trước rạng đông ngày Chúa Nhật.",
+        "Không được phép chỉ cử hành Thánh lễ mà không có các nghi thức Đêm Canh Thức Vượt Qua.",
+        "4. Có thể cử hành Đêm Canh Thức Vượt Qua tại các nhà thờ (và nhà nguyện) đã không cử hành các nghi thức ngày thứ Năm Tuần Thánh và thứ Sáu Tuần Thánh. Tại các nơi đã cử hành các nghi thức ngày thứ Năm Tuần Thánh và thứ Sáu Tuần Thánh, có thể bỏ không cử hành Đêm Canh Thức Vượt Qua. Nhưng nơi nào có Giếng Rửa Tội thì buộc phải cử hành Đêm Canh Thức Vượt Qua.",
+        "5. Trong tất cả buổi cử hành, tư tế (và các thừa tác viên khác) mặc lễ phục màu trắng như khi cử hành Thánh lễ.",
+        "6. Trong Đêm Canh Thức Vượt Qua này, nghi thức được sắp xếp như sau:",
+        "- Phần thứ nhất: Thắp Nến Phục Sinh",
+        "Nến Phục Sinh tượng trưng cho Chúa Kitô Phục Sinh. Chúa Kitô là ánh sáng đến thế gian này để soi sáng cho mọi người, để tiêu diệt sự chết, để làm cho nhân loại được tham dự vào sự phục sinh sáng láng của Người.",
+        "Tin tưởng vào Lời Chúa và điều Chúa hứa, Hội Thánh suy niệm những kỳ công Chúa đã làm cho dân Người ngay từ lúc khởi nguyên.",
+        "Vì bí tích Thánh Tẩy gắn liền mật thiết với mầu nhiệm Vượt Qua của Chúa Kitô. Đêm nay, Hội Thánh đón nhận các anh chị em tân tòng. Họ ước cùng chết và sống lại với Chúa Kitô trong bí tích Thánh Tẩy. Toàn thể cộng đoàn cũng lặp lại những lời đã cam kết khi lãnh nhận bí tích Thánh Tẩy.",
+        "Gần rạng sáng ngày Phục Sinh, cùng với những chi thể mới đã được tái sinh trong bí tích Thánh Tẩy, Hội Thánh được mời vào bàn tiệc mà Chúa đã dọn sẵn cho dân Người qua sự chết và qua sự phục sinh của Người.",
+        "7. Phải cử hành Đêm Canh Thức Vượt Qua cách trang trọng, để giáo dân có thể hiểu ý nghĩa của các biểu tượng và các nghi thức. Ý nghĩa này cũng được nói lên qua các lời nhắn nhủ và các Lời Nguyện.",
+        "8. Để duy trì tính chân thật của dấu chỉ, Nến Phục Sinh phải được làm bằng sáp nguyên tuyền, đủ lớn và mới, để diễn tả hình ảnh Chúa Kitô là ánh Sáng thật soi chiếu thế gian.",
+        "9. Do nhu cầu, bài Công Bố Tin Mừng Phục Sinh (Exsultet) cũng có thể do một ca viên (không phải là phó tế) công bố; nhưng người này không xin chủ tế ban phép lành và bỏ câu “Vậy giờ đây…” cho đến hết lời kêu gọi, kể cả lời chào “Chúa ở cùng anh chị em.” Có thể hát bài dài hay bài ngắn.",
+        "10. Phải đọc ít nhất ba bài Cựu Ước, và trong trường hợp gấp rút thì đọc ít nhất là hai bài; nhưng không bao giờ được bỏ bài trích sách Xuất Hành.",
+        "Nên hướng dẫn vắn tắt để giáo dân hiểu ý nghĩa Kitô giáo của các bài Cựu Ước.",
+        "Bằng không, tại các nhà thờ giáo xứ thì làm phép nước Rửa Tội; nơi nào không có ai lãnh nhận bí tích Thánh Tẩy và cũng không phải làm phép Giếng Rửa Tội, thì làm phép nước nhắc lại bí tích Thánh Tẩy, sau đó lặp lại lời tuyên hứa khi lãnh nhận bí tích này, rồi rảy nước Thánh trên dân chúng.",
+        "12. Có thể xông hương khi đọc Tin Mừng, nhưng không mang đèn nến.",
+        "13. Dấu chỉ bí tích Thánh Thể được hoàn hảo khi cho rước lễ dưới hai hình bánh rượu trong Đêm Canh Thức Vượt Qua. Bản Quyền Địa Phương suy xét và ấn định các quy tắc về điều này.",
+        "14. Thánh lễ Đêm Canh Thức Vượt Qua là Thánh lễ Phục Sinh, tưởng niệm Chúa sống lại. Các tư tế đã cử hành (hoặc đồng tế) trong Thánh lễ Đêm Canh Thức Vượt Qua, còn được cử hành (hoặc đồng tế) trong Thánh lễ ngày Lễ Phục Sinh."
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-05",
+      "weekday": "Chúa Nhật",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Chúa Sống Lại, lễ trọng và buộc",
+        "rank": "Lễ trọng",
+        "color": "Trắng",
+        "saint": {
+          "name": "Chúa Sống Lại",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 10,34a.37-43 Cl 3,1-4 (hoặc 1 Cr 5,6b-8)",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 20,1-9",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "Ngày đại lễ. Các giáo hữu không bận công việc cần, phải nghỉ việc xác cả ngày.",
+        "Thánh Lễ Phục Sinh ban ngày phải được cử hành rất trọng thể. Phải đọc (hay hát) Ca Tiếp Liên trong ngày lễ Phục sinh, còn trong Tuần Bát Nhật thì tùy ý.",
+        "Trong lễ Phục Sinh ban ngày thay vì dùng công thức thống hối, sẽ rảy nước Thánh (đã được Thánh hóa vào đêm Vọng Phục Sinh) trên cộng đoàn, để nhắc nhở bí tích Rửa Tội của tất cả các tín hữu.",
+        "Không cử hành lễ nào khác, kể cả lễ an táng.",
+        "1. Trong Thánh Lễ này và suốt Tuần Bát Nhật cuối Thánh lễ Linh mục chúc: “Lễ đã xong…. Allêluia.” Từ Chúa Nhật Phục Sinh đọc Kinh Lạy Nữ Vương Thiên Đàng cho đến hết mùa Phục sinh.",
+        "3. Các ngày trong Tuần Bát Nhật Phục Sinh chỉ được cử hành Thánh lễ an táng mà thôi, không được cử hành lễ nào khác. Trong trường hợp cần thiết, có thể cử hành nghi thức Hôn Phối trong Thánh Lễ với lời nguyện chúc hôn và phép lành tân hôn cuối lễ, nhưng phải theo lễ của ngày trong Tuần Bát Nhật Phục Sinh, tuy nhiên một (01) bài đọc của Lễ Hôn Phối có thể được chọn thêm vào cùng với các bài đọc của ngày trong tuần.",
+        "4. Trong các ngày Chúa Nhật của mùa Phục sinh, cấm cử hành Thánh lễ khác, kể cả Thánh lễ an táng.",
+        "5. Các ngày trong tuần của mùa Phục sinh, cấm cử hành các Thánh lễ cầu hồn hàng ngày (IM 337). Nhưng được cử hành các Thánh lễ tuỳ nhu cầu hay Thánh lễ ngoại lịch, khi thực sự có nhu cầu và mục đích đòi hỏi (IM 333); cũng được cử hành các lễ nhớ bắt buộc hay không bắt buộc về vị Thánh có ghi trong Sổ Bộ Các Thánh ngày hôm đó (IM 316b), nhưng phải đọc Kinh Tiền Tụng Mùa Phục Sinh."
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-06",
+      "weekday": "Thứ Hai",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Thánh Phaolô Lê Bảo Tịnh (1793-1857), Linh Mục, Tử Đạo",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Phaolô Lê Bảo Tịnh (1793-1857)",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 2,14.22b-33",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 28,8-15",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-07",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Thánh Phêrô Nguyễn Văn Lựu (1812-1861), Linh Mục, Tử Đạo",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Phêrô Nguyễn Văn Lựu (1812-1861)",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 2,36-41",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 20,11-18",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-08",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Tuần Bát Nhật Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 3,1-10",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 24,13-35",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-09",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Tuần Bát Nhật Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 3,11-26",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 24,35-48",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-10",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Tuần Bát Nhật Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 4,1-12",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 21,1-14",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-11",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Tuần Bát Nhật Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 4,13-21",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mc 16,9-15",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-12",
+      "weekday": "Chúa Nhật",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "2 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 2,42-47 1 Pr 1,3-9",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 20,19-31",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "CHÚA NHẬT LÒNG THƯƠNG XÓT CHÚA",
+        "Không không cử hành lễ nào khác, kể cả lễ an táng."
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-13",
+      "weekday": "Thứ Hai",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 2 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh Máctinô I, Giáo Hoàng, Tử Đạo, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Máctinô I",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 4,23-31",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 3,1-8",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-14",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 2 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Tuần 2 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 4,32-37",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 3,7b-15",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-15",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 2 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Tuần 2 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 5,17-26",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 3,16-21",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-16",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 2 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Tuần 2 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 5,27-33",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 3,31-36",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.360Z"
+    },
+    {
+      "date": "2026-04-17",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 2 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Tuần 2 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 5,34-42",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 6,1-15",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-18",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 2 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Tuần 2 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 6,1-7",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 6,16-21",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-19",
+      "weekday": "Chúa Nhật",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "3 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 2,14.22b-33 1 Pr 1,17-21",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 24,13-35",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-20",
+      "weekday": "Thứ Hai",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 3 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Tuần 3 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 6,8-15",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 6,22-29",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-21",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 3 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh Anselmô, Giám Mục, Tiến Sĩ Hội Thánh, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Anselmô",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 7,51–8,1a",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 6,30-35",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-22",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 3 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Tuần 3 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 8,1b-8",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 6,35-40",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-23",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 3 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh George, Tử Đạo, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh George",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 8,26-40",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 6,44-51",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-24",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 3 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh Fidelis Sigmaringen, Linh Mục, Tử Đạo, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Fidelis Sigmaringen",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 9,1-20",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 6,52-59",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-25",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 3 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh Máccô, Tác Giả Sách Tin Mừng, lễ kính",
+        "rank": "Lễ kính",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Máccô",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-26",
+      "weekday": "Chúa Nhật",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "4 Phục Sinh",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 2,14a.36-41 1 Pr 2,20b-25",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 10,1-10",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-27",
+      "weekday": "Thứ Hai",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 4 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh Lôrenxô Nguyễn Văn Hưởng (1802-1856), Linh Mục, Tử Đạo",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Lôrenxô Nguyễn Văn Hưởng (1802-1856)",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 11,1-18",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 10,11-18",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-28",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 4 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh Phêrô Chanel, Linh Mục, Tử Đạo",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Phêrô Chanel",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 11,19-26",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 10,22-30",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-29",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 4 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh Catarina thành Siêna, Trinh Nữ, Tiến Sĩ Hội Thánh, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Catarina thành Siêna",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 12,24–13,5a",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 12,44-50",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    },
+    {
+      "date": "2026-04-30",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Phục Sinh",
+        "week": "Tuần 4 Phục Sinh",
+        "year_cycle": "A",
+        "celebration": "Thánh Piô V, Giáo Hoàng",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Piô V",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Cv 13,13-25",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Ga 13,16-20",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "Cứ yêu Chúa đi rồi muốn làm gì thì làm",
+        "04/2026",
+        "03/2026 05/2026"
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=04",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:26.361Z"
+    }
+  ]
 }

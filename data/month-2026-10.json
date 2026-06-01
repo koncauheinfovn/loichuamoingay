@@ -3,16 +3,1447 @@
   "year": 2026,
   "month": 10,
   "month_key": "2026-10",
-  "count": 0,
+  "count": 31,
   "source": {
     "calendar": "https://augustino.net/lich-phung-vu",
-    "readings_primary": "https://www.augustino.net/loi-chua-hom-nay",
-    "readings_fallback": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
-    "images": [
-      "Wikipedia API",
-      "Wikimedia Commons API"
-    ]
+    "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
+    "note": "year file contains calendar and reading references; Cloudflare Worker loads full readings live for selected date"
   },
-  "updated": "2026-06-01T02:05:17.049Z",
-  "days": []
+  "updated": "2026-06-01T04:53:30.763Z",
+  "days": [
+    {
+      "date": "2026-10-01",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 26 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Têrêsa Hài Đồng Giêsu, Trinh Nữ, Tiến Sĩ Hội Thánh, Quan Thầy Các Xứ Truyền Giáo, lễ kính",
+        "rank": "Lễ kính",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Têrêsa Hài Đồng Giêsu",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Is 66,10-14c",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 18,1-5",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "Không cử hành lễ cầu cho người qua đời, trừ lễ an táng."
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.603Z"
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 26 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Các Thiên Thần Hộ Thủ, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Xh 23,20-23",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 18,1-5.10",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.603Z"
+    },
+    {
+      "date": "2026-10-03",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 26 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 26 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "G 42,1-3.5-6.12-17",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 10,17-24",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.603Z"
+    },
+    {
+      "date": "2026-10-04",
+      "weekday": "Chúa Nhật",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "27 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Is 5,1-7 Pl 4,6-9",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 21,33-43",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.603Z"
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Thứ Hai",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 27 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Faustina Kowalska, Trinh Nữ, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Faustina Kowalska",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Gl 1,6-12",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 10,25-37",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.603Z"
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 27 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Bruno, Linh Mục",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Bruno",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Gl 1,13-24",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 10,38-42",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.603Z"
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 27 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Đức Mẹ Mân Côi, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Trắng",
+        "saint": {
+          "name": "Đức Mẹ Mân Côi",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "St 3,9-15.20 Cv 1,12-14",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 1,26-38",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.603Z"
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 27 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 27 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Gl 3,1-5",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 11,5-13",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 27 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Denis (Dionysius), Giám Mục, và Các Bạn, Tử Đạo tại Pháp",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Denis (Dionysius)",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Gl 3,7-14",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 11,15-26",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-10",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 27 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 27 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Gl 3,22-29",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 11,27-28",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-11",
+      "weekday": "Chúa Nhật",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "Thánh Phêrô Lê Tùy (1773-1833), Linh Mục, Tử Đạo",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Phêrô Lê Tùy (1773-1833)",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Is 25,6-10a Pl 4,12-14.19-20",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 22,1-14",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-12",
+      "weekday": "Thứ Hai",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 28 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 28 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Gl 4,22-24.26-27.31–5,1",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 11,29-32",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-13",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 28 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 28 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Gl 5,1-6",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 11,37-41",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-14",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 28 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Callistus I, Giáo Hoàng, Tử Đạo",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Callistus I",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Gl 5,18-25",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 11,42-46",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-15",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 28 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Têrêsa Giêsu (Thành Avila), Trinh Nữ, Tiến Sĩ Hội Thánh, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Têrêsa Giêsu (Thành Avila)",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 1,1-10",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 11,47-54",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-16",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 28 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Hedwig, Nữ Tu",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Hedwig",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 1,11-14",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 12,1-7",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-17",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 28 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Inhaxiô thành Antiôkia, Giám Mục, Tử Đạo, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Inhaxiô thành Antiôkia",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 1,15-23",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 12,8-12",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.604Z"
+    },
+    {
+      "date": "2026-10-18",
+      "weekday": "Chúa Nhật",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "29 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Is 45,1.4-6 1 Tx 1,1-5b",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 22,15-21",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-19",
+      "weekday": "Thứ Hai",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 29 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Gioan de Brébeuf và Thánh Ixaác Jogues, Linh Mục, và Các Bạn, Tử Đạo tại Bắc Mỹ, lễ nhớ",
+        "rank": "Lễ nhớ",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Gioan de Brébeuf và Thánh Ixaác Jogues",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 2,1-10",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 12,13-21",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-20",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 29 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 29 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 2,12-22",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 12,35-38",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-21",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 29 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 29 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 3,2-12",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 12,39-48",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-22",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 29 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Gioan Phaolô II, Giáo Hoàng",
+        "rank": "Lễ thường",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Gioan Phaolô II",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 3,14-21",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 12,49-53",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-23",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 29 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Gioan Capistrano, Linh Mục",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Gioan Capistrano",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 4,1-6",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 12,54-59",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-24",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 29 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Antôn Maria Clarat, Giám Mục",
+        "rank": "Lễ thường",
+        "color": "Trắng",
+        "saint": {
+          "name": "Thánh Antôn Maria Clarat",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 4,7-16",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 13,1-9",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-25",
+      "weekday": "Chúa Nhật",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "",
+        "year_cycle": "A",
+        "celebration": "30 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Xh 22,20-26 1 Tx 1,5c-10",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Mt 22,34-40",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-26",
+      "weekday": "Thứ Hai",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 30 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 30 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 4,32–5,8",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 13,10-17",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-27",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 30 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 30 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 5,21-33",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 13,18-21",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-28",
+      "weekday": "Thứ Tư",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 30 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Thánh Simôn và Thánh Giuđa, Tông Đồ, lễ kính",
+        "rank": "Lễ kính",
+        "color": "Đỏ",
+        "saint": {
+          "name": "Thánh Simôn và Thánh Giuđa",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 2,19-22",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 6,12-19",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "Có thể cử hành lễ an táng."
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-29",
+      "weekday": "Thứ Năm",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 30 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 30 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Ep 6,10-20",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 13,31-35",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-30",
+      "weekday": "Thứ Sáu",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 30 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 30 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Pl 1,1-11",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 14,1-6",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    },
+    {
+      "date": "2026-10-31",
+      "weekday": "Thứ Ba",
+      "liturgy": {
+        "season": "Mùa Thường Niên",
+        "week": "Tuần 30 Thường Niên",
+        "year_cycle": "A",
+        "celebration": "Tuần 30 Thường Niên",
+        "rank": "Lễ thường",
+        "color": "Xanh",
+        "saint": {
+          "name": "",
+          "image": "",
+          "wiki": ""
+        }
+      },
+      "readings": {
+        "reading1": {
+          "reference": "Pl 1,18b-26",
+          "text": ""
+        },
+        "reading2": {
+          "reference": "",
+          "text": ""
+        },
+        "psalm": {
+          "reference": "",
+          "response": ""
+        },
+        "gospel_acclamation": "",
+        "gospel": {
+          "reference": "Lc 14,1.7-11",
+          "text": ""
+        }
+      },
+      "reflection": {
+        "title": "",
+        "content": ""
+      },
+      "notes": [
+        "Cứ yêu Chúa đi rồi muốn làm gì thì làm",
+        "10/2026",
+        "09/2026 11/2026"
+      ],
+      "source": {
+        "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=10",
+        "gospel": ""
+      },
+      "updated": "2026-06-01T04:53:29.605Z"
+    }
+  ]
 }

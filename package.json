@@ -1,12 +1,12 @@
 {
-  "name": "loichuamoingay-dynamic-forever",
-  "version": "3.0.0",
-  "type": "module",
+  "name": "loichuamoingay-final-system",
+  "version": "4.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "build:data": "node scripts/generate-data.js",
-    "crawl": "node scripts/generate-data.js",
-    "check": "node --check scripts/generate-data.js && node --check scripts/image-fetcher.js && node --check worker/cloudflare-worker-dynamic.js"
+    "build:full": "FULL_READINGS=1 node scripts/generate-data.js",
+    "check": "node --check scripts/generate-data.js"
   },
   "dependencies": {
     "axios": "^1.7.9",

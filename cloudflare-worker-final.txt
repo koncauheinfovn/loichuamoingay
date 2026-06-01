@@ -1,164 +1,222 @@
-import axios from "axios";
-import fs from "fs/promises";
-import path from "path";
+// ======================================================
+// CLOUDFLARE WORKER - LỜI CHÚA + LỊCH PHỤNG VỤ
+// Không cố định năm.
+// Không xuất Suy niệm.
+// Không tự tìm ảnh ngoài.
+// Lịch: Augustino.
+// Lời Chúa: Vatican News, tách đủ Bài đọc I, Bài đọc II, Đáp ca,
+// Tung hô Tin Mừng, Tin Mừng.
+// ======================================================
 
-const OUT_DIR = path.resolve("data");
-const AUGUSTINO_CALENDAR = "https://augustino.net/lich-phung-vu";
-const VATICAN_READINGS = "https://www.vaticannews.va/vi/loi-chua-hang-ngay";
-const TZ = "Asia/Ho_Chi_Minh";
-const UA = process.env.USER_AGENT || "Mozilla/5.0 loichuamoingay-final-system/4.0";
-const FULL_READINGS = /^(1|true|yes|y)$/i.test(String(process.env.FULL_READINGS || "0"));
+const CONFIG = {
+  GITHUB_DATA_BASES: [
+    "https://koncauheinfovn.github.io/loichuamoingay/data",
+    "https://raw.githubusercontent.com/koncauheinfovn/loichuamoingay/main/data"
+  ],
+  AUGUSTINO_CALENDAR: "https://augustino.net/lich-phung-vu",
+  VATICAN_READINGS: "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
+  TIMEZONE: "Asia/Ho_Chi_Minh",
+  CACHE: {
+    date: 300,
+    month: 900,
+    year: 3600
+  }
+};
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+export default {
+  async fetch(request) {
+    try {
+      if (request.method === "OPTIONS") return cors("", 204);
 
-async function main() {
-  await fs.mkdir(OUT_DIR, { recursive: true });
+      if (request.method !== "GET" && request.method !== "HEAD") {
+        return json({ success: false, error: "Method not allowed" }, 405, 60);
+      }
 
-  const years = resolveYears(process.env.DATA_YEARS || "auto");
-  const index = [];
+      const url = new URL(request.url);
+      const path = cleanPath(url.pathname);
 
-  for (const year of years) {
-    const yearData = await buildYear(year);
-    index.push({ year, count: yearData.days.length, file: `year-${year}.json` });
+      if (path === "/" && url.searchParams.has("date")) {
+        return handleDate(url.searchParams.get("date"));
+      }
 
-    await writeJson(`year-${year}.json`, yearData);
+      if (path === "/" || path === "/api") {
+        return json({
+          success: true,
+          name: "Lời Chúa + Lịch phụng vụ Việt Nam",
+          fixed_year: false,
+          no_reflection: true,
+          safe_image: true,
+          sources: {
+            calendar: CONFIG.AUGUSTINO_CALENDAR + "?y=YYYY&m=MM",
+            readings: CONFIG.VATICAN_READINGS + "/YYYY/MM/DD.html"
+          },
+          endpoints: [
+            "/api/today",
+            "/api/date/2026-06-01",
+            "/api/month?y=2026&m=6",
+            "/api/year/2026"
+          ],
+          updated: new Date().toISOString()
+        }, 200, 300);
+      }
 
-    for (let month = 1; month <= 12; month++) {
-      const monthKey = `${year}-${pad(month)}`;
-      const days = yearData.days.filter(day => day.date.startsWith(monthKey));
+      if (path === "/api/health") {
+        return json({
+          success: true,
+          ok: true,
+          today_vietnam: todayVN(),
+          updated: new Date().toISOString()
+        }, 200, 60);
+      }
 
-      await writeJson(`month-${monthKey}.json`, {
-        success: true,
-        year,
-        month,
-        month_key: monthKey,
-        count: days.length,
-        source: yearData.source,
-        updated: yearData.updated,
-        days
-      });
+      if (path === "/api/today") return handleDate(url.searchParams.get("date") || todayVN());
+      if (path === "/api/date") return handleDate(url.searchParams.get("date"));
+      if (path.startsWith("/api/date/")) return handleDate(decodeURIComponent(path.slice("/api/date/".length)));
+
+      if (path === "/api/month") {
+        const today = todayVN();
+        const year = Number(url.searchParams.get("y") || url.searchParams.get("year") || today.slice(0, 4));
+        const month = Number(url.searchParams.get("m") || url.searchParams.get("month") || today.slice(5, 7));
+        return handleMonth(year, month);
+      }
+
+      if (path.startsWith("/api/year/")) {
+        const year = Number(path.slice("/api/year/".length));
+        return handleYear(year);
+      }
+
+      return json({ success: false, error: "Endpoint không tồn tại", path }, 404, 60);
+    } catch (err) {
+      return json({ success: false, error: err?.message || String(err) }, 500, 60);
     }
   }
+};
 
-  await writeJson("years.json", {
+async function handleDate(inputDate) {
+  const date = normalizeDate(inputDate);
+  if (!date) return json({ success: false, error: "Ngày không hợp lệ. Dùng YYYY-MM-DD." }, 400, 60);
+
+  const year = Number(date.slice(0, 4));
+  const month = Number(date.slice(5, 7));
+  const monthData = await getMonthData(year, month);
+  const day = monthData.days.find(item => item.date === date) || null;
+
+  if (!day) return json({ success: false, error: "Không tìm thấy lịch phụng vụ cho ngày này.", date }, 404, 120);
+
+  const readings = await getReadings(date).catch(() => null);
+  if (readings && hasAnyReading(readings.readings)) {
+    day.readings = mergeReadings(day.readings, readings.readings);
+    day.source.gospel = readings.source || "";
+  }
+
+  day.reflection = { title: "", content: "" };
+  if (day.liturgy?.saint) day.liturgy.saint.image = "";
+
+  return json({
     success: true,
-    mode: process.env.DATA_YEARS || "auto",
-    years: index.map(item => item.year),
-    files: index,
+    ...day,
+    data: day,
     updated: new Date().toISOString()
-  });
-
-  await writeTodayWeekMonth(years);
-
-  console.log(`[done] built: ${years.join(", ")}`);
+  }, 200, CONFIG.CACHE.date);
 }
 
-async function buildYear(year) {
-  const all = [];
+async function handleMonth(year, month) {
+  if (!validYear(year) || !validMonth(month)) {
+    return json({ success: false, error: "Năm hoặc tháng không hợp lệ." }, 400, 60);
+  }
+  return json(await getMonthData(year, month), 200, CONFIG.CACHE.month);
+}
 
+async function handleYear(year) {
+  if (!validYear(year)) return json({ success: false, error: "Năm không hợp lệ." }, 400, 60);
+
+  const months = [];
   for (let month = 1; month <= 12; month++) {
-    const calendarUrl = `${AUGUSTINO_CALENDAR}?y=${year}&m=${pad(month)}`;
-    console.log(`[calendar] ${calendarUrl}`);
-    const html = await fetchText(calendarUrl);
-    all.push(...parseAugustinoCalendar(html, year, month));
+    const data = await getMonthData(year, month);
+    months.push(...data.days);
   }
 
-  const days = [...new Map(all.map(day => [day.date, day])).values()]
+  const days = [...new Map(months.map(item => [item.date, item])).values()]
     .sort((a, b) => a.date.localeCompare(b.date));
 
-  if (FULL_READINGS) {
-    for (const day of days) {
-      console.log(`[readings] ${day.date}`);
-      const readings = await fetchReadings(day.date).catch(() => null);
-      if (readings && hasAnyReading(readings.readings)) {
-        day.readings = mergeReadings(day.readings, readings.readings);
-        day.source.gospel = readings.source;
-      }
-      day.reflection = { title: "", content: "" };
-      day.updated = new Date().toISOString();
-      await sleep(250);
-    }
-  }
-
-  return {
+  return json({
     success: true,
     year,
     count: days.length,
-    source: {
-      calendar: AUGUSTINO_CALENDAR,
-      readings: VATICAN_READINGS,
-      note: FULL_READINGS
-        ? "year file contains full readings"
-        : "year file contains calendar and reading references; Cloudflare Worker loads full readings live for selected date"
-    },
-    updated: new Date().toISOString(),
-    days
+    days,
+    source: { calendar: CONFIG.AUGUSTINO_CALENDAR },
+    updated: new Date().toISOString()
+  }, 200, CONFIG.CACHE.year);
+}
+
+// =========================
+// CALENDAR
+// =========================
+
+async function getMonthData(year, month) {
+  const monthKey = `${year}-${pad(month)}`;
+
+  const monthFile = await loadJson(`month-${monthKey}.json`, CONFIG.CACHE.month).catch(() => null);
+  if (monthFile?.days?.length) return normalizeMonth(year, month, monthFile.days, monthFile.source, monthFile.updated);
+
+  const yearFile = await loadJson(`year-${year}.json`, CONFIG.CACHE.month).catch(() => null);
+  if (yearFile?.days?.length) {
+    const days = yearFile.days.filter(item => String(item.date || "").startsWith(monthKey));
+    if (days.length) return normalizeMonth(year, month, days, yearFile.source, yearFile.updated);
+  }
+
+  const calendarUrl = `${CONFIG.AUGUSTINO_CALENDAR}?y=${year}&m=${pad(month)}`;
+  const html = await fetchText(calendarUrl, CONFIG.CACHE.month);
+  const days = parseAugustinoCalendar(html, year, month);
+
+  return normalizeMonth(year, month, days, { calendar: calendarUrl }, new Date().toISOString());
+}
+
+function normalizeMonth(year, month, days, source = {}, updated = "") {
+  return {
+    success: true,
+    year,
+    month,
+    month_key: `${year}-${pad(month)}`,
+    count: days.length,
+    source,
+    updated: updated || new Date().toISOString(),
+    days: days.map(normalizeDay).filter(Boolean).sort((a, b) => a.date.localeCompare(b.date))
   };
 }
 
-async function writeTodayWeekMonth(years) {
-  const today = todayVN();
-  const year = Number(today.slice(0, 4));
-  const monthKey = today.slice(0, 7);
+async function loadJson(filename, cacheSeconds) {
+  const errors = [];
 
-  if (!years.includes(year)) {
-    await writeJson("today.json", {
-      success: false,
-      date: today,
-      data: null,
-      updated: new Date().toISOString()
-    });
-    return;
+  for (const base of CONFIG.GITHUB_DATA_BASES) {
+    const fileUrl = `${base.replace(/\/+$/, "")}/${filename}`;
+    try {
+      const res = await fetch(fileUrl, {
+        headers: { "Accept": "application/json", "User-Agent": "CloudflareWorker loichuamoingay" },
+        cf: { cacheTtl: cacheSeconds, cacheEverything: true }
+      });
+      if (!res.ok) {
+        errors.push(`${fileUrl} HTTP ${res.status}`);
+        continue;
+      }
+      return await res.json();
+    } catch (err) {
+      errors.push(`${fileUrl} ${err?.message || err}`);
+    }
   }
 
-  const yearData = JSON.parse(await fs.readFile(path.join(OUT_DIR, `year-${year}.json`), "utf8"));
-  const todayDay = yearData.days.find(day => day.date === today) || null;
-  const weekDates = getWeekDates(today);
-
-  await writeJson("today.json", {
-    success: Boolean(todayDay),
-    date: today,
-    data: todayDay,
-    updated: new Date().toISOString()
-  });
-
-  await writeJson("month.json", {
-    success: true,
-    month_key: monthKey,
-    days: yearData.days.filter(day => day.date.startsWith(monthKey)),
-    updated: new Date().toISOString()
-  });
-
-  await writeJson("week.json", {
-    success: true,
-    start: weekDates[0],
-    end: weekDates[6],
-    days: yearData.days.filter(day => weekDates.includes(day.date)),
-    updated: new Date().toISOString()
-  });
+  throw new Error(errors.join(" | "));
 }
-
-// =========================
-// AUGUSTINO CALENDAR
-// =========================
 
 function parseAugustinoCalendar(html, year, month) {
   const text = htmlToText(html);
-  const lines = text
-    .split("\n")
-    .map(cleanLine)
-    .filter(Boolean)
-    .filter(line => !isNoise(line));
+  const lines = text.split("\n").map(cleanLine).filter(Boolean).filter(line => !isNoise(line));
 
   const blocks = [];
   let current = null;
 
   for (const line of lines) {
     const header = line.match(/^(\d{1,2})\s+(Chúa Nhật|Thứ Hai|Thứ Ba|Thứ Tư|Thứ Năm|Thứ Sáu|Thứ Bảy)(?:[.\s]+)?(.*)$/i);
-
     if (header) {
       if (current) blocks.push(current);
       current = {
@@ -169,7 +227,6 @@ function parseAugustinoCalendar(html, year, month) {
       };
       continue;
     }
-
     if (current) current.lines.push(line);
   }
 
@@ -184,7 +241,6 @@ function buildCalendarDay(block, year, month) {
   const date = `${year}-${pad(month)}-${pad(block.day)}`;
   const readingIndex = block.lines.findIndex(line => /^Bài đọc:/i.test(line));
   const readingLine = readingIndex >= 0 ? block.lines[readingIndex].replace(/^Bài đọc:\s*/i, "").trim() : "";
-
   const before = readingIndex >= 0 ? block.lines.slice(0, readingIndex) : block.lines;
   const after = readingIndex >= 0 ? block.lines.slice(readingIndex + 1) : [];
 
@@ -210,11 +266,7 @@ function buildCalendarDay(block, year, month) {
       celebration,
       rank,
       color,
-      saint: {
-        name: saintName,
-        image: "",
-        wiki: ""
-      }
+      saint: { name: saintName, image: "", wiki: "" }
     },
     readings: {
       reading1: { reference: refs.reading1, text: "" },
@@ -225,33 +277,26 @@ function buildCalendarDay(block, year, month) {
     },
     reflection: { title: "", content: "" },
     notes: after.filter(line => !isNoise(line)),
-    source: {
-      calendar: `${AUGUSTINO_CALENDAR}?y=${year}&m=${pad(month)}`,
-      gospel: ""
-    },
+    source: { calendar: `${CONFIG.AUGUSTINO_CALENDAR}?y=${year}&m=${pad(month)}`, gospel: "" },
     updated: new Date().toISOString()
   };
 }
 
 // =========================
-// VATICAN READINGS
+// READINGS
 // =========================
 
-async function fetchReadings(date) {
+async function getReadings(date) {
   const [year, month, day] = date.split("-");
-  const url = `${VATICAN_READINGS}/${year}/${month}/${day}.html`;
-  const html = await fetchText(url);
+  const url = `${CONFIG.VATICAN_READINGS}/${year}/${month}/${day}.html`;
+  const html = await fetchText(url, CONFIG.CACHE.date);
   return parseVaticanReadings(html, url);
 }
 
 function parseVaticanReadings(html, source) {
   let text = htmlToText(html);
 
-  const start = findFirstIndex(text, [
-    "Bài đọc ngày hôm nay",
-    "Bài đọc 1",
-    "Bài đọc I"
-  ]);
+  const start = findFirstIndex(text, ["Bài đọc ngày hôm nay", "Bài đọc 1", "Bài đọc I"]);
   if (start >= 0) text = text.slice(start);
 
   const end = findFirstIndex(text, [
@@ -278,14 +323,7 @@ function parseVaticanReadings(html, source) {
     .filter(line => !isVaticanChrome(line));
 
   const readings = emptyReadings();
-  const buckets = {
-    reading1: [],
-    reading2: [],
-    psalm: [],
-    acclamation: [],
-    gospel: []
-  };
-
+  const buckets = { reading1: [], reading2: [], psalm: [], acclamation: [], gospel: [] };
   let current = "";
   let hasStarted = false;
 
@@ -306,9 +344,7 @@ function parseVaticanReadings(html, source) {
         if (current === "gospel") readings.gospel.reference = header.reference;
       }
 
-      if (header.keepLine && current === "gospel") {
-        buckets.gospel.push(line);
-      }
+      if (header.keepLine && current === "gospel") buckets.gospel.push(line);
       continue;
     }
 
@@ -327,44 +363,25 @@ function parseVaticanReadings(html, source) {
     if (ref) readings.gospel.reference = ref[0].trim();
   }
 
-  return {
-    readings,
-    reflection: { title: "", content: "" },
-    source
-  };
+  return { readings, reflection: { title: "", content: "" }, source };
 }
 
 function detectReadingHeader(line) {
   const value = cleanLine(line);
   const normalized = noAccent(value).toLowerCase();
 
-  if (/^bai doc\s*(1|i)\b/.test(normalized)) {
-    return { type: "reading1", reference: extractReference(value), keepLine: false };
-  }
-
-  if (/^bai doc\s*(2|ii)\b/.test(normalized)) {
-    return { type: "reading2", reference: extractReference(value), keepLine: false };
-  }
+  if (/^bai doc\s*(1|i)\b/.test(normalized)) return { type: "reading1", reference: extractReference(value), keepLine: false };
+  if (/^bai doc\s*(2|ii)\b/.test(normalized)) return { type: "reading2", reference: extractReference(value), keepLine: false };
 
   if (/^dap ca\b/.test(normalized)) {
-    return {
-      type: "psalm",
-      reference: extractReference(value) || value.replace(/^Đáp ca\s*/i, "").trim(),
-      keepLine: false
-    };
+    return { type: "psalm", reference: extractReference(value) || value.replace(/^Đáp ca\s*/i, "").trim(), keepLine: false };
   }
 
   if (/^tung ho tin mung\b/.test(normalized)) {
-    return {
-      type: "acclamation",
-      reference: extractReference(value) || value.replace(/^Tung hô Tin Mừng\s*/i, "").trim(),
-      keepLine: false
-    };
+    return { type: "acclamation", reference: extractReference(value) || value.replace(/^Tung hô Tin Mừng\s*/i, "").trim(), keepLine: false };
   }
 
-  if (/^tin mung ngay hom nay\b/.test(normalized)) {
-    return { type: "gospel", reference: "", keepLine: false };
-  }
+  if (/^tin mung ngay hom nay\b/.test(normalized)) return { type: "gospel", reference: "", keepLine: false };
 
   if (/^(✠\s*)?tin mung\b/.test(normalized) || /^phuc am\b/.test(normalized)) {
     return { type: "gospel", reference: extractReference(value), keepLine: true };
@@ -383,10 +400,8 @@ function isIntroOnlyLine(line = "") {
   if (/^chuong trinh$/i.test(normalized)) return true;
   if (/^podcast$/i.test(normalized)) return true;
 
-  if (
-    /^(thu hai|thu ba|thu tu|thu nam|thu sau|thu bay|chua nhat)\b/i.test(normalized) &&
-    !/(bai doc|dap ca|tung ho|tin mung|phuc am)/i.test(normalized)
-  ) {
+  if (/^(thu hai|thu ba|thu tu|thu nam|thu sau|thu bay|chua nhat)\b/i.test(normalized) &&
+      !/(bai doc|dap ca|tung ho|tin mung|phuc am)/i.test(normalized)) {
     return true;
   }
 
@@ -408,31 +423,53 @@ function cleanScriptureText(value = "") {
 }
 
 // =========================
-// COMMON HELPERS
+// HELPERS
 // =========================
 
-async function fetchText(url, tries = 3) {
-  let last;
-  for (let i = 0; i < tries; i++) {
-    try {
-      const res = await axios.get(url, {
-        responseType: "text",
-        timeout: 25000,
-        headers: {
-          "User-Agent": UA,
-          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-          "Accept-Language": "vi,en;q=0.8"
-        },
-        validateStatus: s => s >= 200 && s < 500
-      });
-      if (res.status >= 400) throw new Error(`HTTP ${res.status}: ${url}`);
-      return res.data;
-    } catch (err) {
-      last = err;
-      await sleep(500 * (i + 1));
-    }
-  }
-  throw last;
+async function fetchText(url, cacheSeconds) {
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 CloudflareWorker loichuamoingay",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "vi,en;q=0.8"
+    },
+    cf: { cacheTtl: cacheSeconds, cacheEverything: true }
+  });
+
+  if (!res.ok) throw new Error(`HTTP ${res.status}: ${url}`);
+  return await res.text();
+}
+
+function normalizeDay(input) {
+  if (!input || typeof input !== "object" || !input.date) return null;
+  const liturgy = input.liturgy || {};
+  const saint = typeof liturgy.saint === "string" ? { name: liturgy.saint } : (liturgy.saint || {});
+  const readings = input.readings || emptyReadings();
+
+  return {
+    date: input.date,
+    weekday: input.weekday || "",
+    liturgy: {
+      season: text(liturgy.season),
+      week: text(liturgy.week),
+      year_cycle: text(liturgy.year_cycle),
+      celebration: text(liturgy.celebration),
+      rank: text(liturgy.rank),
+      color: text(liturgy.color),
+      saint: { name: text(saint.name), image: "", wiki: "" }
+    },
+    readings: {
+      reading1: readings.reading1 || { reference: "", text: "" },
+      reading2: readings.reading2 || { reference: "", text: "" },
+      psalm: readings.psalm || { reference: "", response: "" },
+      gospel_acclamation: readings.gospel_acclamation || "",
+      gospel: readings.gospel || { reference: "", text: "" }
+    },
+    reflection: { title: "", content: "" },
+    notes: Array.isArray(input.notes) ? input.notes : [],
+    source: input.source || { calendar: "", gospel: "" },
+    updated: input.updated || ""
+  };
 }
 
 function htmlToText(html = "") {
@@ -471,34 +508,16 @@ function emptyReadings() {
 
 function mergeReadings(base = emptyReadings(), extra = emptyReadings()) {
   return {
-    reading1: {
-      reference: extra.reading1?.reference || base.reading1?.reference || "",
-      text: extra.reading1?.text || base.reading1?.text || ""
-    },
-    reading2: {
-      reference: extra.reading2?.reference || base.reading2?.reference || "",
-      text: extra.reading2?.text || base.reading2?.text || ""
-    },
-    psalm: {
-      reference: extra.psalm?.reference || base.psalm?.reference || "",
-      response: extra.psalm?.response || base.psalm?.response || ""
-    },
+    reading1: { reference: extra.reading1?.reference || base.reading1?.reference || "", text: extra.reading1?.text || base.reading1?.text || "" },
+    reading2: { reference: extra.reading2?.reference || base.reading2?.reference || "", text: extra.reading2?.text || base.reading2?.text || "" },
+    psalm: { reference: extra.psalm?.reference || base.psalm?.reference || "", response: extra.psalm?.response || base.psalm?.response || "" },
     gospel_acclamation: extra.gospel_acclamation || base.gospel_acclamation || "",
-    gospel: {
-      reference: extra.gospel?.reference || base.gospel?.reference || "",
-      text: extra.gospel?.text || base.gospel?.text || ""
-    }
+    gospel: { reference: extra.gospel?.reference || base.gospel?.reference || "", text: extra.gospel?.text || base.gospel?.text || "" }
   };
 }
 
 function hasAnyReading(readings = {}) {
-  return Boolean(
-    readings.reading1?.text ||
-    readings.reading2?.text ||
-    readings.psalm?.response ||
-    readings.gospel_acclamation ||
-    readings.gospel?.text
-  );
+  return Boolean(readings.reading1?.text || readings.reading2?.text || readings.psalm?.response || readings.gospel_acclamation || readings.gospel?.text);
 }
 
 function extractReference(value = "") {
@@ -611,97 +630,55 @@ function findFirstIndex(text, needles) {
   return best;
 }
 
-function resolveYears(value) {
-  const current = Number(todayVN().slice(0, 4));
-  const raw = String(value || "auto").trim().toLowerCase();
-
-  if (raw === "auto") {
-    const ahead = Number(process.env.YEARS_AHEAD || 5);
-    const behind = Number(process.env.YEARS_BEHIND || 0);
-    return range(current - behind, current + ahead);
-  }
-
-  if (raw === "current") return [current];
-
-  const currentPlus = raw.match(/^current\+(\d+)$/);
-  if (currentPlus) return range(current, current + Number(currentPlus[1]));
-
-  const currentMinusPlus = raw.match(/^current-(\d+)\+(\d+)$/);
-  if (currentMinusPlus) return range(current - Number(currentMinusPlus[1]), current + Number(currentMinusPlus[2]));
-
-  const rangeMatch = raw.match(/^(\d{4})-(\d{4})$/);
-  if (rangeMatch) return range(Number(rangeMatch[1]), Number(rangeMatch[2]));
-
-  const years = raw
-    .split(",")
-    .map(s => Number(s.trim()))
-    .filter(y => Number.isInteger(y) && y >= 1900 && y <= 2199);
-
-  if (years.length) return [...new Set(years)].sort((a, b) => a - b);
-
-  return range(current, current + 5);
-}
-
-function getWeekDates(dateString) {
-  const d = new Date(`${dateString}T00:00:00Z`);
-  const day = d.getUTCDay();
-  const offset = day === 0 ? -6 : 1 - day;
-  const start = new Date(d);
-  start.setUTCDate(d.getUTCDate() + offset);
-
-  return Array.from({ length: 7 }, (_, i) => {
-    const item = new Date(start);
-    item.setUTCDate(start.getUTCDate() + i);
-    return `${item.getUTCFullYear()}-${pad(item.getUTCMonth() + 1)}-${pad(item.getUTCDate())}`;
-  });
+function normalizeDate(value) {
+  const match = String(value || "").trim().match(/^(\d{4})-(\d{1,2})-(\d{1,2})$/);
+  if (!match) return "";
+  const y = Number(match[1]);
+  const m = Number(match[2]);
+  const d = Number(match[3]);
+  if (!validYear(y) || !validMonth(m) || d < 1 || d > 31) return "";
+  const date = new Date(Date.UTC(y, m - 1, d));
+  if (date.getUTCFullYear() !== y || date.getUTCMonth() + 1 !== m || date.getUTCDate() !== d) return "";
+  return `${y}-${pad(m)}-${pad(d)}`;
 }
 
 function todayVN() {
   const parts = new Intl.DateTimeFormat("en-CA", {
-    timeZone: TZ,
+    timeZone: CONFIG.TIMEZONE,
     year: "numeric",
     month: "2-digit",
     day: "2-digit"
   }).formatToParts(new Date());
-
   const get = type => parts.find(p => p.type === type)?.value || "";
   return `${get("year")}-${get("month")}-${get("day")}`;
 }
 
-function range(start, end) {
-  const out = [];
-  for (let y = start; y <= end; y++) out.push(y);
-  return out;
+function validYear(year) { return Number.isInteger(year) && year >= 1900 && year <= 2199; }
+function validMonth(month) { return Number.isInteger(month) && month >= 1 && month <= 12; }
+function daysInMonth(year, month) { return new Date(year, month, 0).getDate(); }
+function text(value) { return String(value || "").replace(/\s+/g, " ").trim(); }
+function cleanLine(line = "") { return String(line).replace(/\^\{([^}]+)\}/g, "$1").replace(/\s+/g, " ").replace(/\s+([,.;:])/g, "$1").trim(); }
+function noAccent(str = "") { return String(str).normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D"); }
+function cleanPath(pathname) { let path = String(pathname || "/").replace(/\/{2,}/g, "/"); if (path.length > 1) path = path.replace(/\/+$/, ""); return path || "/"; }
+function pad(n) { return String(n).padStart(2, "0"); }
+
+function json(data, status = 200, maxAge = 300) {
+  return cors(JSON.stringify(data, null, 2), status, {
+    "Content-Type": "application/json; charset=UTF-8",
+    "Cache-Control": `public, max-age=${maxAge}, s-maxage=${maxAge}, stale-while-revalidate=86400`
+  });
 }
 
-function daysInMonth(year, month) {
-  return new Date(year, month, 0).getDate();
-}
-
-function cleanLine(line = "") {
-  return String(line)
-    .replace(/\^\{([^}]+)\}/g, "$1")
-    .replace(/\s+/g, " ")
-    .replace(/\s+([,.;:])/g, "$1")
-    .trim();
-}
-
-function noAccent(str = "") {
-  return String(str)
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/đ/g, "d")
-    .replace(/Đ/g, "D");
-}
-
-function pad(n) {
-  return String(n).padStart(2, "0");
-}
-
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-async function writeJson(filename, data) {
-  await fs.writeFile(path.join(OUT_DIR, filename), JSON.stringify(data, null, 2), "utf8");
+function cors(body, status = 200, extraHeaders = {}) {
+  return new Response(body, {
+    status,
+    headers: {
+      ...extraHeaders,
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type, Authorization, X-Requested-With",
+      "Access-Control-Max-Age": "86400",
+      "X-Content-Type-Options": "nosniff"
+    }
+  });
 }

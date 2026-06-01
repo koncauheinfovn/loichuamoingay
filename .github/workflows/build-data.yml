@@ -1,4 +1,4 @@
-name: Build Dynamic Catholic Data
+name: Build Lời Chúa Data
 
 on:
   workflow_dispatch:
@@ -7,6 +7,10 @@ on:
         description: "auto, current, current+5, current-1+5, 2026-2030, or 2026,2027"
         required: false
         default: "auto"
+      full_readings:
+        description: "1 = fetch full readings into JSON, 0 = calendar only; Worker always loads full readings live"
+        required: false
+        default: "0"
   schedule:
     - cron: "5 17 * * *"
 
@@ -16,7 +20,7 @@ permissions:
   id-token: write
 
 jobs:
-  crawl:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,11 +29,12 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
-      - run: DATA_YEARS="${{ github.event.inputs.years || 'auto' }}" npm run build:data
+      - name: Build JSON data
+        run: DATA_YEARS="${{ github.event.inputs.years || 'auto' }}" FULL_READINGS="${{ github.event.inputs.full_readings || '0' }}" npm run build:data
       - name: Commit data
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data
-          git diff --cached --quiet || git commit -m "Update dynamic liturgy data"
+          git diff --cached --quiet || git commit -m "Update Catholic liturgy data"
           git push
