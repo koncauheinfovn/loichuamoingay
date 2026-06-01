@@ -1,0 +1,29 @@
+{
+  "name": "catholic-daily-data-system",
+  "version": "2.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Crawler dữ liệu Công giáo hằng ngày cho giai đoạn 2026-2030: GCatholic, Vatican News, Wikipedia, Wikimedia Commons.",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "build:data": "node scripts/generate-json.js",
+    "crawl": "node scripts/generate-json.js",
+    "crawl:auto": "DATA_YEARS=auto node scripts/generate-json.js",
+    "crawl:today": "DATA_YEARS=auto CRAWL_SCOPE=today node scripts/generate-json.js",
+    "crawl:week": "DATA_YEARS=auto CRAWL_SCOPE=week node scripts/generate-json.js",
+    "crawl:month": "DATA_YEARS=auto CRAWL_SCOPE=month node scripts/generate-json.js",
+    "crawl:year": "DATA_YEARS=${DATA_YEARS:-auto} FULL_BACKFILL=true node scripts/generate-json.js",
+    "crawl:all": "DATA_YEARS=auto FULL_BACKFILL=true node scripts/generate-json.js",
+    "check": "node --check scripts/crawler.js && node --check scripts/image-fetcher.js && node --check scripts/generate-json.js && node --check worker/cloudflare-worker.js",
+    "crawl:2026-2030": "DATA_YEARS=2026-2030 node scripts/generate-json.js",
+    "backfill:2026-2030": "DATA_YEARS=2026-2030 FULL_BACKFILL=true node scripts/generate-json.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {}
+}

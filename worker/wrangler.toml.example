@@ -1,0 +1,7 @@
+name = "loichuamoingay"
+main = "cloudflare-worker.js"
+compatibility_date = "2026-06-01"
+
+[vars]
+DATA_BASE_URL = "https://raw.githubusercontent.com/koncauheinfovn/loichuamoingay/main/data"
+REQUEST_RETRIES = "3"
