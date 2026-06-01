@@ -1,34 +1,34 @@
 import fetch from "node-fetch";
 
-const UA = process.env.USER_AGENT || "Mozilla/5.0 loichuamoingay-bot/2.0";
-const imageCache = new Map();
+const UA = process.env.USER_AGENT || "Mozilla/5.0 loichuamoingay-dynamic/3.0";
+const cache = new Map();
 
 export async function fetchSaintImage(name) {
-  const query = cleanQuery(name);
+  const query = normalizeQuery(name);
   if (!query) return { name: "", image: "", wiki: "" };
-  if (imageCache.has(query)) return imageCache.get(query);
+  if (cache.has(query)) return cache.get(query);
 
   const result =
-    (await fromWikipedia("vi", query)) ||
-    (await fromWikipedia("en", query)) ||
-    (await fromCommons(query)) ||
+    (await wiki("vi", query)) ||
+    (await wiki("en", query)) ||
+    (await commons(query)) ||
     { name: query, image: "", wiki: "" };
 
-  imageCache.set(query, result);
+  cache.set(query, result);
   return result;
 }
 
-function cleanQuery(value = "") {
+function normalizeQuery(value = "") {
   return String(value)
-    .replace(/\blễ\s+(trọng|kính|nhớ|nhớ tự do)\b/gi, "")
+    .replace(/\blễ\s+(trọng|kính|nhớ|nhớ tự do|buộc)\b/gi, "")
     .replace(/\bquan thầy.*$/gi, "")
     .replace(/\([^)]*\)/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
 
-async function fromWikipedia(lang, query) {
-  const api = `https://${lang}.wikipedia.org/w/api.php?` + new URLSearchParams({
+async function wiki(lang, query) {
+  const url = `https://${lang}.wikipedia.org/w/api.php?` + new URLSearchParams({
     action: "query",
     generator: "search",
     gsrsearch: query,
@@ -41,26 +41,27 @@ async function fromWikipedia(lang, query) {
     origin: "*"
   });
 
-  const data = await fetchJson(api).catch(() => null);
+  const data = await fetchJson(url).catch(() => null);
   const pages = data?.query?.pages;
   if (!pages) return null;
 
   for (const page of Object.values(pages)) {
     const image = page?.original?.source || page?.thumbnail?.source || "";
-    const wiki = page?.fullurl || "";
-    if (isHttps(image) || wiki) {
+    const wikiUrl = page?.fullurl || "";
+    if (https(image) || https(wikiUrl)) {
       return {
         name: page?.title || query,
-        image: isHttps(image) ? image : "",
-        wiki: isHttps(wiki) ? wiki : ""
+        image: https(image) ? image : "",
+        wiki: https(wikiUrl) ? wikiUrl : ""
       };
     }
   }
+
   return null;
 }
 
-async function fromCommons(query) {
-  const api = "https://commons.wikimedia.org/w/api.php?" + new URLSearchParams({
+async function commons(query) {
+  const url = "https://commons.wikimedia.org/w/api.php?" + new URLSearchParams({
     action: "query",
     generator: "search",
     gsrnamespace: "6",
@@ -72,41 +73,39 @@ async function fromCommons(query) {
     origin: "*"
   });
 
-  const data = await fetchJson(api).catch(() => null);
+  const data = await fetchJson(url).catch(() => null);
   const pages = data?.query?.pages;
   if (!pages) return null;
 
   for (const page of Object.values(pages)) {
     const image = page?.imageinfo?.[0]?.url || "";
-    if (isHttps(image)) {
-      return {
-        name: page?.title || query,
-        image,
-        wiki: ""
-      };
-    }
+    if (https(image)) return { name: page?.title || query, image, wiki: "" };
   }
+
   return null;
 }
 
 async function fetchJson(url, tries = 3) {
-  let lastError;
+  let error;
   for (let i = 0; i < tries; i++) {
     try {
       const res = await fetch(url, {
-        headers: { "User-Agent": UA, "Accept": "application/json" }
+        headers: {
+          "User-Agent": UA,
+          "Accept": "application/json"
+        }
       });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return await res.json();
     } catch (err) {
-      lastError = err;
+      error = err;
       await sleep(350 * (i + 1));
     }
   }
-  throw lastError;
+  throw error;
 }
 
-function isHttps(url = "") {
+function https(url = "") {
   return /^https:\/\//i.test(String(url));
 }
 

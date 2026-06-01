@@ -1,26 +1,45 @@
-# Lời Chúa + Lịch phụng vụ Việt Nam 2026
+# Lời Chúa + Lịch Phụng Vụ Tự Động
 
-Nguồn lịch phụng vụ: Augustino `https://augustino.net/lich-phung-vu?y=2026&m=MM`
+Bộ này không cố định năm. Website chỉ cần gọi một API Worker duy nhất, ví dụ:
 
-## Cài đặt
+```txt
+https://TEN-WORKER-CUA-BAN.workers.dev/api/date/2026-06-01
+https://TEN-WORKER-CUA-BAN.workers.dev/api/month?y=2026&m=6
+https://TEN-WORKER-CUA-BAN.workers.dev/api/today
+```
+
+Worker sẽ ưu tiên đọc JSON trên GitHub Pages. Nếu chưa có JSON của năm/tháng đó, Worker tự đọc trực tiếp từ Augustino theo `y` và `m`.
+
+## Cài đặt GitHub
 
 ```bash
 npm install
-YEAR=2026 npm run build:data
+DATA_YEARS=auto npm run build:data
 ```
 
-## File chính
+`DATA_YEARS` hỗ trợ:
 
-- `data/year-2026.json`
-- `data/month-2026-06.json`
-- `data/today.json`
-- `worker/cloudflare-worker-2026.js`
-- `blogger-widget-augustino-2026.html`
+```txt
+auto
+current
+current+5
+current-1+5
+2026-2030
+2026,2027,2028
+```
 
 ## Cloudflare Worker
 
-Dán toàn bộ code trong `worker/cloudflare-worker-2026.js` vào Worker và Save/Deploy.
+Dán toàn bộ `worker/cloudflare-worker-dynamic.js` vào Cloudflare Worker.
 
 ## Blogger
 
-Dán toàn bộ `blogger-widget-augustino-2026.html` vào HTML/JavaScript widget.
+Dán `blogger-widget-dynamic.html` vào HTML/JavaScript widget.
+
+Trong widget, sửa một lần:
+
+```js
+API_BASE: 'https://TEN-WORKER-CUA-BAN.workers.dev'
+```
+
+Từ đó website dùng lâu dài, không cần sửa năm.

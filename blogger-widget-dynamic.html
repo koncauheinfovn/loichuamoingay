@@ -41,14 +41,13 @@
 
       <div class="dn-lc-monthbar">
         <button type="button" id="dnLcPrevMonth" class="dn-lc-month-btn" aria-label="Tháng trước">‹</button>
-        <div id="dnLcMonthLabel" class="dn-lc-month-label">Tháng 01/2026</div>
+        <div id="dnLcMonthLabel" class="dn-lc-month-label">Tháng</div>
         <button type="button" id="dnLcNextMonth" class="dn-lc-month-btn" aria-label="Tháng sau">›</button>
       </div>
 
       <div class="dn-lc-weekdays" aria-hidden="true">
         <span>T2</span><span>T3</span><span>T4</span><span>T5</span><span>T6</span><span>T7</span><span>CN</span>
       </div>
-
       <div class="dn-lc-days" id="dnLcCalendarDays"></div>
     </section>
   </div>
@@ -165,19 +164,16 @@ html.dn-light-root .dn-lc-day.is-weekend,html[data-theme="light"] .dn-lc-day.is-
   'use strict';
 
   var DN_LC_CONFIG = {
-    WORKER_API_BASE: '',
+    API_BASE: 'https://TEN-WORKER-CUA-BAN.workers.dev',
     GITHUB_DATA_BASES: [
       'https://koncauheinfovn.github.io/loichuamoingay/data',
       'https://raw.githubusercontent.com/koncauheinfovn/loichuamoingay/main/data'
-    ],
-    FALLBACK_WORD_API: '',
-    MIN_DATE: '2026-01-01',
-    MAX_DATE: '2026-12-31'
+    ]
   };
 
   var MONTH_NAMES = ['Tháng 01','Tháng 02','Tháng 03','Tháng 04','Tháng 05','Tháng 06','Tháng 07','Tháng 08','Tháng 09','Tháng 10','Tháng 11','Tháng 12'];
   var yearCache = {};
-  var selectedDate = clampDate(startOfDay(new Date()));
+  var selectedDate = startOfDay(new Date());
   var viewMonth = new Date(selectedDate.getFullYear(), selectedDate.getMonth(), 1);
   var latestRequest = 0;
   var currentDay = null;
@@ -188,8 +184,7 @@ html.dn-light-root .dn-lc-day.is-weekend,html[data-theme="light"] .dn-lc-day.is-
   function startOfDay(d){ return new Date(d.getFullYear(), d.getMonth(), d.getDate()); }
   function formatDate(d){ return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()); }
   function rawParseDate(value){ var m=String(value||'').match(/^(\d{4})-(\d{2})-(\d{2})$/); return m ? new Date(Number(m[1]), Number(m[2])-1, Number(m[3])) : startOfDay(new Date()); }
-  function parseDate(value){ var m=String(value||'').match(/^(\d{4})-(\d{2})-(\d{2})$/); return m ? clampDate(new Date(Number(m[1]),Number(m[2])-1,Number(m[3]))) : clampDate(startOfDay(new Date())); }
-  function clampDate(date){ var min=rawParseDate(DN_LC_CONFIG.MIN_DATE), max=rawParseDate(DN_LC_CONFIG.MAX_DATE); if(date<min)return min; if(date>max)return max; return date; }
+  function parseDate(value){ var m=String(value||'').match(/^(\d{4})-(\d{2})-(\d{2})$/); return m ? new Date(Number(m[1]),Number(m[2])-1,Number(m[3])) : startOfDay(new Date()); }
   function sameDate(a,b){ return a && b && formatDate(a) === formatDate(b); }
 
   function textFrom(value){
@@ -201,44 +196,30 @@ html.dn-light-root .dn-lc-day.is-weekend,html[data-theme="light"] .dn-lc-day.is-
     return str.replace(/<script[\s\S]*?<\/script>/gi,' ').replace(/<style[\s\S]*?<\/style>/gi,' ').replace(/<[^>]+>/g,' ').replace(/[ \t]{2,}/g,' ').trim();
   }
 
-  function isBlockedText(value){
-    return /Bản văn Kinh Thánh|Nhóm Phiên Dịch Các Giờ Kinh Phụng Vụ|ktcgkpv\.org|Gửi đi|In trang này|In$/i.test(textFrom(value));
-  }
-
+  function isBlockedText(value){ return /Bản văn Kinh Thánh|Nhóm Phiên Dịch Các Giờ Kinh Phụng Vụ|ktcgkpv\.org|Gửi đi|In trang này|In$/i.test(textFrom(value)); }
   function safeUrl(url){ var u=String(url||'').trim(); return /^https:\/\//i.test(u)||/^data:image\//i.test(u)?u:''; }
   function setChildren(node,children){ while(node.firstChild)node.removeChild(node.firstChild); children.forEach(function(child){node.appendChild(child);}); }
   function makeEl(tag,className,text){ var el=document.createElement(tag); if(className)el.className=className; if(text!==undefined)el.textContent=text; return el; }
   function normalizeColor(value){ var c=textFrom(value).replace(/^màu\s+/i,'').trim(); var l=c.toLowerCase(); if(l.indexOf('trắng')>=0)return'Trắng'; if(l.indexOf('đỏ')>=0)return'Đỏ'; if(l.indexOf('xanh')>=0)return'Xanh'; if(l.indexOf('tím')>=0)return'Tím'; if(l.indexOf('hồng')>=0)return'Hồng'; return c||'Xanh'; }
   function normalizeRank(value){ var r=textFrom(value); var l=r.toLowerCase(); if(l.indexOf('lễ trọng')>=0)return'Lễ trọng'; if(l.indexOf('lễ kính')>=0)return'Lễ kính'; if(l.indexOf('lễ nhớ')>=0)return'Lễ nhớ'; if(l.indexOf('nhớ tự do')>=0)return'Lễ nhớ tự do'; if(l.indexOf('chúa nhật')>=0)return'Chúa nhật'; return r||'Lễ thường'; }
 
-  function renderCalendar(){
-    var label=$('dnLcMonthLabel'), days=$('dnLcCalendarDays'); if(!label||!days)return;
-    label.textContent=MONTH_NAMES[viewMonth.getMonth()]+'/'+viewMonth.getFullYear();
-    var first=new Date(viewMonth.getFullYear(),viewMonth.getMonth(),1);
-    var startOffset=(first.getDay()+6)%7;
-    var gridStart=new Date(first); gridStart.setDate(first.getDate()-startOffset);
-    var today=startOfDay(new Date()), nodes=[];
-    for(var i=0;i<42;i++){
-      var day=new Date(gridStart); day.setDate(gridStart.getDate()+i);
-      var btn=document.createElement('button'), dateKey=formatDate(day), isWeekend=day.getDay()===0||day.getDay()===6;
-      btn.type='button';
-      btn.className='dn-lc-day'+(day.getMonth()!==viewMonth.getMonth()?' is-muted':'')+(isWeekend?' is-weekend':'')+(sameDate(day,selectedDate)?' is-selected':'')+(sameDate(day,today)?' is-today':'');
-      btn.textContent=String(day.getDate());
-      btn.setAttribute('data-date',dateKey);
-      btn.setAttribute('aria-label',dateKey);
-      if(sameDate(day,selectedDate)) btn.setAttribute('aria-current','date');
-      btn.addEventListener('click',function(){ selectedDate=parseDate(this.getAttribute('data-date')); viewMonth=new Date(selectedDate.getFullYear(),selectedDate.getMonth(),1); var picker=$('dnLcDatePicker'); if(picker)picker.value=formatDate(selectedDate); loadDay(); });
-      nodes.push(btn);
-    }
-    setChildren(days,nodes); markMonthData();
+  function fetchJSON(url,timeout){ timeout=timeout||9000; var ctrl=typeof AbortController!=='undefined'?new AbortController():null; var timer=ctrl?setTimeout(function(){ctrl.abort();},timeout):null; return fetch(url,{signal:ctrl?ctrl.signal:undefined,cache:'no-cache'}).then(function(res){ if(timer)clearTimeout(timer); if(!res.ok)throw new Error('HTTP '+res.status); return res.json(); }); }
+  function apiBase(){ return String(DN_LC_CONFIG.API_BASE||'').replace(/\/+$/,''); }
+  function hasApi(){ return /^https:\/\//i.test(apiBase()) && apiBase().indexOf('TEN-WORKER-CUA-BAN') < 0; }
+
+  function fetchDay(key){
+    if(hasApi()) return fetchJSON(apiBase() + '/api/date/' + encodeURIComponent(key)).then(normalizeDay);
+    return fetchDayFromGithub(key);
   }
 
-  function markMonthData(){
-    fetchYear(2026).then(function(items){
-      var map={}; items.forEach(function(item){map[item.date]=true;});
-      document.querySelectorAll('#dnLcCalendarDays .dn-lc-day').forEach(function(btn){ if(map[btn.getAttribute('data-date')]) btn.classList.add('has-data'); });
-    });
+  function fetchMonth(year, month){
+    if(hasApi()) return fetchJSON(apiBase() + '/api/month?y=' + year + '&m=' + month).then(function(data){ return (data.days || []).map(normalizeDay).filter(Boolean); });
+    return fetchYear(year).then(function(days){ var key=year+'-'+pad(month); return days.filter(function(d){return d.date.indexOf(key)===0;}); });
   }
+
+  function fetchDayFromGithub(key){ return fetchYear(Number(key.slice(0,4))).then(function(days){ return days.filter(function(item){return item.date===key;})[0]||null; }); }
+  function fetchYear(year){ if(yearCache[year])return yearCache[year]; yearCache[year]=tryBases(DN_LC_CONFIG.GITHUB_DATA_BASES,'year-'+year+'.json').then(function(data){ return (data.days||data.data||[]).map(normalizeDay).filter(Boolean); }).catch(function(){return[];}); return yearCache[year]; }
+  function tryBases(bases,file){ var chain=Promise.reject(new Error('start')); bases.forEach(function(base){ chain=chain.catch(function(){return fetchJSON(base.replace(/\/+$/,'')+'/'+file);});}); return chain; }
 
   function normalizeDay(input){
     if(!input||typeof input!=='object')return null;
@@ -247,21 +228,8 @@ html.dn-light-root .dn-lc-day.is-weekend,html[data-theme="light"] .dn-lc-day.is-
     return {
       date:day.date,
       weekday:textFrom(day.weekday)||vietnameseWeekday(rawParseDate(day.date)),
-      liturgy:{
-        season:textFrom(liturgy.season||day.season),
-        week:textFrom(liturgy.week||day.week),
-        year_cycle:textFrom(liturgy.year_cycle||day.year_cycle||day.cycle),
-        celebration:textFrom(liturgy.celebration||day.celebration||day.title||day.name),
-        rank:normalizeRank(liturgy.rank||day.rank||liturgy.celebration||day.celebration),
-        color:normalizeColor(liturgy.color||day.color),
-        saint:{name:textFrom(saint.name||saint.title||''),image:safeUrl(saint.image||saint.thumbnail||saint.image_url||''),wiki:safeUrl(saint.wiki||saint.wikipedia||saint.url||'')}
-      },
-      readings:{
-        reading1:normalizeReading(readings.reading1||day.reading1),
-        psalm:normalizePsalm(readings.psalm||day.psalm),
-        gospel_acclamation:textFrom(readings.gospel_acclamation||day.gospel_acclamation),
-        gospel:normalizeReading(readings.gospel||day.gospel)
-      },
+      liturgy:{season:textFrom(liturgy.season||day.season),week:textFrom(liturgy.week||day.week),year_cycle:textFrom(liturgy.year_cycle||day.year_cycle||day.cycle),celebration:textFrom(liturgy.celebration||day.celebration||day.title||day.name),rank:normalizeRank(liturgy.rank||day.rank||liturgy.celebration||day.celebration),color:normalizeColor(liturgy.color||day.color),saint:{name:textFrom(saint.name||saint.title||''),image:safeUrl(saint.image||saint.thumbnail||saint.image_url||''),wiki:safeUrl(saint.wiki||saint.wikipedia||saint.url||'')}},
+      readings:{reading1:normalizeReading(readings.reading1||day.reading1),psalm:normalizePsalm(readings.psalm||day.psalm),gospel_acclamation:textFrom(readings.gospel_acclamation||day.gospel_acclamation),gospel:normalizeReading(readings.gospel||day.gospel)},
       reflection:{title:textFrom(day.reflection&&day.reflection.title||day.reflection_title),content:textFrom(day.reflection&&day.reflection.content||day.reflection||day.meditation)},
       source:day.source||{},
       updated:day.updated||''
@@ -270,92 +238,37 @@ html.dn-light-root .dn-lc-day.is-weekend,html[data-theme="light"] .dn-lc-day.is-
 
   function normalizeReading(value){ if(!value)return{reference:'',text:''}; if(typeof value!=='object')return{reference:'',text:textFrom(value)}; return{reference:textFrom(value.reference||value.ref||value.title),text:textFrom(value.text||value.content||value.paragraphs||value.html)}; }
   function normalizePsalm(value){ if(!value)return{reference:'',response:''}; if(typeof value!=='object')return{reference:'',response:textFrom(value)}; return{reference:textFrom(value.reference||value.ref||value.title),response:textFrom(value.response||value.text||value.content||value.paragraphs)}; }
-  function normalizeYearDays(data){ var raw=[]; if(Array.isArray(data))raw=data; else if(data&&Array.isArray(data.days))raw=data.days; else if(data&&Array.isArray(data.data))raw=data.data; else if(data&&data.data&&Array.isArray(data.data.days))raw=data.data.days; return raw.map(normalizeDay).filter(Boolean); }
 
-  function fetchJSON(url,timeout){ timeout=timeout||9000; var ctrl=typeof AbortController!=='undefined'?new AbortController():null; var timer=ctrl?setTimeout(function(){ctrl.abort();},timeout):null; return fetch(url,{signal:ctrl?ctrl.signal:undefined,cache:'no-cache'}).then(function(res){ if(timer)clearTimeout(timer); if(!res.ok)throw new Error('HTTP '+res.status); return res.json(); }); }
-  function tryBases(bases,file){ var chain=Promise.reject(new Error('start')); bases.forEach(function(base){ chain=chain.catch(function(){return fetchJSON(base.replace(/\/+$/,'')+'/'+file);});}); return chain; }
-  function fetchYear(year){ if(yearCache[year])return yearCache[year]; yearCache[year]=tryBases(DN_LC_CONFIG.GITHUB_DATA_BASES,'year-'+year+'.json').then(normalizeYearDays).catch(function(){return[];}); return yearCache[year]; }
-  function fetchDayFromWorker(key){ var base=String(DN_LC_CONFIG.WORKER_API_BASE||'').replace(/\/+$/,''); if(!base)return Promise.reject(new Error('Worker API chưa cấu hình')); return fetchJSON(base+'/api/date/'+encodeURIComponent(key)).then(normalizeDay); }
-  function fetchDayFromGithub(key){ return fetchYear(2026).then(function(days){ return days.filter(function(item){return item.date===key;})[0]||null; }); }
+  function renderCalendar(){
+    var label=$('dnLcMonthLabel'), days=$('dnLcCalendarDays'); if(!label||!days)return;
+    label.textContent=MONTH_NAMES[viewMonth.getMonth()]+'/'+viewMonth.getFullYear();
+    var first=new Date(viewMonth.getFullYear(),viewMonth.getMonth(),1), startOffset=(first.getDay()+6)%7, gridStart=new Date(first); gridStart.setDate(first.getDate()-startOffset);
+    var today=startOfDay(new Date()), nodes=[];
+    for(var i=0;i<42;i++){ var day=new Date(gridStart); day.setDate(gridStart.getDate()+i); var btn=document.createElement('button'), key=formatDate(day), wk=day.getDay()===0||day.getDay()===6; btn.type='button'; btn.className='dn-lc-day'+(day.getMonth()!==viewMonth.getMonth()?' is-muted':'')+(wk?' is-weekend':'')+(sameDate(day,selectedDate)?' is-selected':'')+(sameDate(day,today)?' is-today':''); btn.textContent=String(day.getDate()); btn.setAttribute('data-date',key); btn.addEventListener('click',function(){ selectedDate=parseDate(this.getAttribute('data-date')); viewMonth=new Date(selectedDate.getFullYear(),selectedDate.getMonth(),1); var picker=$('dnLcDatePicker'); if(picker)picker.value=formatDate(selectedDate); loadDay(); }); nodes.push(btn); }
+    setChildren(days,nodes);
+    fetchMonth(viewMonth.getFullYear(), viewMonth.getMonth()+1).then(function(items){ var map={}; items.forEach(function(i){map[i.date]=true;}); document.querySelectorAll('#dnLcCalendarDays .dn-lc-day').forEach(function(btn){ if(map[btn.getAttribute('data-date')])btn.classList.add('has-data'); }); });
+  }
 
   function hasReadingData(day){ var r=day&&day.readings||{}; return !!(textFrom(r.reading1&&r.reading1.text)||textFrom(r.psalm&&r.psalm.response)||textFrom(r.gospel_acclamation)||textFrom(r.gospel&&r.gospel.text)); }
+  function buildReadingSections(day){ day=normalizeDay(day); if(!day)return[]; var r=day.readings||{}, out=[]; if(r.reading1&&(r.reading1.reference||r.reading1.text))out.push({title:'Bài đọc I',reference:r.reading1.reference,paragraphs:[r.reading1.text].filter(Boolean)}); if(r.psalm&&(r.psalm.reference||r.psalm.response))out.push({title:'Đáp ca',reference:r.psalm.reference,paragraphs:[r.psalm.response].filter(Boolean)}); if(r.gospel_acclamation)out.push({title:'Tung hô Tin Mừng',reference:'',paragraphs:[r.gospel_acclamation]}); if(r.gospel&&(r.gospel.reference||r.gospel.text))out.push({title:'Tin Mừng',reference:r.gospel.reference,paragraphs:[r.gospel.text].filter(Boolean)}); if(day.reflection&&(day.reflection.title||day.reflection.content))out.push({title:day.reflection.title||'Suy niệm',reference:'',paragraphs:[day.reflection.content].filter(Boolean)}); out.forEach(function(s){s.paragraphs=s.paragraphs.map(textFrom).filter(function(p){return p&&!isBlockedText(p);});}); return out.filter(function(s){return s.paragraphs.length||s.reference;}); }
 
-  function buildReadingSections(data){
-    var day=normalizeDay(data); if(!day)return[];
-    var r=day.readings||{}, out=[];
-    if(r.reading1&&(r.reading1.reference||r.reading1.text))out.push({title:'Bài đọc I',reference:r.reading1.reference,paragraphs:[r.reading1.text].filter(Boolean)});
-    if(r.psalm&&(r.psalm.reference||r.psalm.response))out.push({title:'Đáp ca',reference:r.psalm.reference,paragraphs:[r.psalm.response].filter(Boolean)});
-    if(r.gospel_acclamation)out.push({title:'Tung hô Tin Mừng',reference:'',paragraphs:[r.gospel_acclamation]});
-    if(r.gospel&&(r.gospel.reference||r.gospel.text))out.push({title:'Tin Mừng',reference:r.gospel.reference,paragraphs:[r.gospel.text].filter(Boolean)});
-    if(day.reflection&&(day.reflection.title||day.reflection.content))out.push({title:day.reflection.title||'Suy niệm',reference:'',paragraphs:[day.reflection.content].filter(Boolean)});
-    out.forEach(function(section){ section.paragraphs=section.paragraphs.map(textFrom).filter(function(p){return p&&!isBlockedText(p);}); });
-    return out.filter(function(section){return section.paragraphs.length||section.reference;});
-  }
+  function renderReadings(day){ var box=$('dnLcReadings'); if(!box)return; currentSections=buildReadingSections(day); if(!currentSections.length){setChildren(box,[makeEl('div','dn-lc-state','Chưa có dữ liệu Lời Chúa cho ngày này.')]);return;} var nodes=[]; currentSections.forEach(function(s){ var wrap=makeEl('section','dn-lc-reading-section'); if(s.title)wrap.appendChild(makeEl('h3','dn-lc-reading-section-title',s.title)); if(s.reference)wrap.appendChild(makeEl('span','dn-lc-reference',s.reference)); s.paragraphs.forEach(function(p){wrap.appendChild(makeEl('p','dn-lc-reading-text',p));}); nodes.push(wrap); }); setChildren(box,nodes); }
+  function showReadingState(msg){ currentSections=[]; var box=$('dnLcReadings'); if(box)setChildren(box,[makeEl('div','dn-lc-state',msg)]); }
 
-  function renderReadings(data){
-    var box=$('dnLcReadings'); if(!box)return;
-    currentSections=buildReadingSections(data); var nodes=[];
-    if(!currentSections.length){ setChildren(box,[makeEl('div','dn-lc-state','Chưa có dữ liệu Lời Chúa cho ngày này.')]); return; }
-    currentSections.forEach(function(section){
-      var wrap=makeEl('section','dn-lc-reading-section');
-      if(section.title)wrap.appendChild(makeEl('h3','dn-lc-reading-section-title',section.title));
-      if(section.reference)wrap.appendChild(makeEl('span','dn-lc-reference',section.reference));
-      section.paragraphs.forEach(function(p){ if(p)wrap.appendChild(makeEl('p','dn-lc-reading-text',p)); });
-      nodes.push(wrap);
-    });
-    setChildren(box,nodes);
-  }
-
-  function showReadingState(message){ currentSections=[]; var box=$('dnLcReadings'); if(box)setChildren(box,[makeEl('div','dn-lc-state',message)]); }
-
-  function renderDayInfo(day){
-    currentDay=normalizeDay(day); var l=currentDay?currentDay.liturgy:{};
-    var titleEl=$('dnLcFeastTitle'), dateEl=$('dnLcFeastDate'), rankEl=$('dnLcRankBadge'), colorEl=$('dnLcColorBadge'), saintEl=$('dnLcSaintName'), img=$('dnLcFeastImg');
-    var color=normalizeColor(l&&l.color)||'Xanh', rank=normalizeRank(l&&l.rank)||'Lễ thường', saintName=textFrom(l&&l.saint&&l.saint.name), celebration=textFrom(l&&l.celebration), saintImage=safeUrl(l&&l.saint&&l.saint.image);
-    var lineParts=[textFrom(l&&l.season),textFrom(l&&l.week),textFrom(l&&l.year_cycle?'Năm '+l.year_cycle:''),celebration,rank,'Lễ phục màu '+color].filter(uniqueText);
-    if(dateEl)dateEl.textContent=vietnameseDate(selectedDate);
-    if(titleEl)titleEl.textContent=currentDay?lineParts.join(' - '):'Dữ liệu phụng vụ đang được cập nhật.';
-    if(rankEl)rankEl.textContent=rank;
-    if(colorEl){colorEl.textContent='Màu '+color;colorEl.setAttribute('data-color',color);}
-    if(saintEl)saintEl.textContent=saintName||celebration||'Lễ trong ngày';
-    var imageTitle=saintName||celebration||rank||'Phụng vụ trong ngày';
-    if(img){img.alt='Hình '+imageTitle;img.src=saintImage||defaultLiturgySVG(imageTitle,color,rank);}
-    if(imageTitle&&!saintImage)loadLiturgyImage(imageTitle,formatDate(selectedDate),color,rank);
-  }
-
-  function uniqueText(value,index,arr){ value=textFrom(value); if(!value)return false; return arr.map(textFrom).indexOf(value)===index; }
-  function vietnameseWeekday(date){ return ['Chúa Nhật','Thứ Hai','Thứ Ba','Thứ Tư','Thứ Năm','Thứ Sáu','Thứ Bảy'][date.getDay()]; }
-  function vietnameseDate(date){ return vietnameseWeekday(date)+', ngày '+pad(date.getDate())+'/'+pad(date.getMonth()+1)+'/'+date.getFullYear(); }
-  function escapeSVG(text){ return String(text).replace(/[&<>\"]/g,function(ch){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch];}); }
-  function defaultLiturgySVG(name,color,rank){ var title=(name||'Phụng vụ').slice(0,46),sub=(rank||'').slice(0,26); var bg=color==='Đỏ'?'#8f1d1d':color==='Tím'?'#5b2ca2':color==='Trắng'?'#b88a2a':'#0f6b37'; var svg='<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520"><rect width="520" height="520" rx="64" fill="'+bg+'"/><circle cx="260" cy="170" r="88" fill="rgba(255,255,255,.20)"/><path d="M260 76v188M166 170h188" stroke="white" stroke-width="24" stroke-linecap="round" opacity=".92"/><path d="M120 360c56-76 224-76 280 0v62H120z" fill="rgba(255,255,255,.24)"/><text x="260" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="white">'+escapeSVG(title)+'</text><text x="260" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="rgba(255,255,255,.82)">'+escapeSVG(sub)+'</text></svg>'; return 'data:image/svg+xml;charset=UTF-8,'+encodeURIComponent(svg); }
-
-  function loadLiturgyImage(query,dateKey,color,rank){ var cacheKey='dn_lc_liturgy_img_'+query.toLowerCase(); try{var cached=sessionStorage.getItem(cacheKey); if(cached){updateLiturgyImage(cached,dateKey);return;}}catch(e){} fetchWikiImage(query).then(function(url){ if(url){try{sessionStorage.setItem(cacheKey,url);}catch(e){} updateLiturgyImage(url,dateKey);} }).catch(function(){ var img=$('dnLcFeastImg'); if(img&&dateKey===formatDate(selectedDate)&&!img.getAttribute('src'))img.src=defaultLiturgySVG(query,color,rank); }); }
-  function fetchWikiImage(query){ var url='https://vi.wikipedia.org/w/api.php?action=query&generator=search&gsrlimit=1&gsrsearch='+encodeURIComponent(query)+'&prop=pageimages|info&piprop=original|thumbnail&pithumbsize=900&inprop=url&format=json&origin=*'; return fetchJSON(url,5000).then(function(json){ var pages=json&&json.query&&json.query.pages, found=''; if(pages){Object.keys(pages).some(function(k){var p=pages[k];found=safeUrl(p.original&&p.original.source)||safeUrl(p.thumbnail&&p.thumbnail.source);return!!found;});} return found; }).catch(function(){return'';}); }
-  function updateLiturgyImage(url,dateKey){ var img=$('dnLcFeastImg'); if(img&&dateKey===formatDate(selectedDate))img.src=url; }
-
-  function buildShareText(){ var lines=['Lời Chúa hằng ngày - '+vietnameseDate(selectedDate)]; if(currentDay){ var l=currentDay.liturgy||{}; var info=[textFrom(l.season),textFrom(l.week),textFrom(l.year_cycle?'Năm '+l.year_cycle:''),textFrom(l.celebration),textFrom(l.rank),textFrom(l.color?'Màu '+l.color:'')].filter(uniqueText).join(' - '); if(info)lines.push(info);} currentSections.forEach(function(section){lines.push('');lines.push(section.title+(section.reference?' - '+section.reference:''));section.paragraphs.forEach(function(p){if(!isBlockedText(p))lines.push(p);});}); return lines.join('\n').trim(); }
-  function copyText(){ var value=buildShareText()||'Chưa có dữ liệu.'; if(navigator.clipboard&&navigator.clipboard.writeText)return navigator.clipboard.writeText(value).then(function(){flashButton('dnLcCopyBtn','Đã copy');}); }
-  function updateShareLinks(){ var text=buildShareText(), page=location.href.split('#')[0]+'#loi-chua-'+formatDate(selectedDate), title='Lời Chúa hằng ngày '+formatDate(selectedDate); var u=encodeURIComponent(page), t=encodeURIComponent(title+'\n'+text); $('dnShareFacebook').href='https://www.facebook.com/sharer/sharer.php?u='+u; $('dnShareZalo').href='https://zalo.me/share?u='+u; $('dnShareTelegram').href='https://t.me/share/url?url='+u+'&text='+t; $('dnShareX').href='https://twitter.com/intent/tweet?url='+u+'&text='+t; $('dnShareEmail').href='mailto:?subject='+encodeURIComponent(title)+'&body='+t; }
-  function shareText(){ var text=buildShareText(), title='Lời Chúa hằng ngày - '+formatDate(selectedDate), url=location.href.split('#')[0]+'#loi-chua-'+formatDate(selectedDate); if(navigator.share){navigator.share({title:title,text:text,url:url}).catch(function(){});return;} updateShareLinks(); var menu=$('dnLcShareMenu'); if(menu)menu.classList.toggle('is-open'); }
-  function printText(){ var title='Lời Chúa hằng ngày - '+formatDate(selectedDate); var html='<!doctype html><html><head><meta charset="utf-8"><title>'+escapeHTML(title)+'</title><style>body{font-family:Arial,sans-serif;line-height:1.7;padding:28px;color:#111}h1{font-size:24px}h2{font-size:18px;margin-top:24px}.ref{font-weight:bold;color:#555;text-transform:uppercase;font-size:12px}p{white-space:pre-line;text-align:justify}</style></head><body><h1>'+escapeHTML(title)+'</h1><p>'+escapeHTML(vietnameseDate(selectedDate))+'</p>'; currentSections.forEach(function(section){html+='<h2>'+escapeHTML(section.title)+'</h2>'; if(section.reference)html+='<div class="ref">'+escapeHTML(section.reference)+'</div>'; section.paragraphs.forEach(function(p){if(!isBlockedText(p))html+='<p>'+escapeHTML(p)+'</p>';});}); html+='</body></html>'; var win=window.open('','_blank'); if(!win){window.print();return;} win.document.open();win.document.write(html);win.document.close();win.focus();setTimeout(function(){win.print();},300); }
-  function escapeHTML(value){ return String(value||'').replace(/[&<>"']/g,function(ch){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch];});}
+  function renderDayInfo(day){ currentDay=normalizeDay(day); var l=currentDay?currentDay.liturgy:{}; var titleEl=$('dnLcFeastTitle'), dateEl=$('dnLcFeastDate'), rankEl=$('dnLcRankBadge'), colorEl=$('dnLcColorBadge'), saintEl=$('dnLcSaintName'), img=$('dnLcFeastImg'); var color=normalizeColor(l&&l.color)||'Xanh', rank=normalizeRank(l&&l.rank)||'Lễ thường', saintName=textFrom(l&&l.saint&&l.saint.name), celebration=textFrom(l&&l.celebration), image=safeUrl(l&&l.saint&&l.saint.image); var line=[textFrom(l&&l.season),textFrom(l&&l.week),textFrom(l&&l.year_cycle?'Năm '+l.year_cycle:''),celebration,rank,'Lễ phục màu '+color].filter(uniqueText); if(dateEl)dateEl.textContent=vietnameseDate(selectedDate); if(titleEl)titleEl.textContent=currentDay?line.join(' - '):'Dữ liệu phụng vụ đang được cập nhật.'; if(rankEl)rankEl.textContent=rank; if(colorEl){colorEl.textContent='Màu '+color;colorEl.setAttribute('data-color',color);} if(saintEl)saintEl.textContent=saintName||celebration||'Lễ trong ngày'; var imageTitle=saintName||celebration||rank||'Phụng vụ trong ngày'; if(img){img.alt='Hình '+imageTitle;img.src=image||defaultLiturgySVG(imageTitle,color,rank);} }
+  function uniqueText(v,i,a){v=textFrom(v);return !!v&&a.map(textFrom).indexOf(v)===i;}
+  function vietnameseWeekday(d){return['Chúa Nhật','Thứ Hai','Thứ Ba','Thứ Tư','Thứ Năm','Thứ Sáu','Thứ Bảy'][d.getDay()];}
+  function vietnameseDate(d){return vietnameseWeekday(d)+', ngày '+pad(d.getDate())+'/'+pad(d.getMonth()+1)+'/'+d.getFullYear();}
+  function escapeSVG(t){return String(t).replace(/[&<>\"]/g,function(ch){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch];});}
+  function defaultLiturgySVG(name,color,rank){var title=(name||'Phụng vụ').slice(0,46),sub=(rank||'').slice(0,26),bg=color==='Đỏ'?'#8f1d1d':color==='Tím'?'#5b2ca2':color==='Trắng'?'#b88a2a':'#0f6b37';var svg='<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520"><rect width="520" height="520" rx="64" fill="'+bg+'"/><circle cx="260" cy="170" r="88" fill="rgba(255,255,255,.20)"/><path d="M260 76v188M166 170h188" stroke="white" stroke-width="24" stroke-linecap="round" opacity=".92"/><path d="M120 360c56-76 224-76 280 0v62H120z" fill="rgba(255,255,255,.24)"/><text x="260" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="white">'+escapeSVG(title)+'</text><text x="260" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="rgba(255,255,255,.82)">'+escapeSVG(sub)+'</text></svg>';return'data:image/svg+xml;charset=UTF-8,'+encodeURIComponent(svg);}
+  function buildShareText(){var lines=['Lời Chúa hằng ngày - '+vietnameseDate(selectedDate)]; if(currentDay){var l=currentDay.liturgy||{};var info=[textFrom(l.season),textFrom(l.week),textFrom(l.year_cycle?'Năm '+l.year_cycle:''),textFrom(l.celebration),textFrom(l.rank),textFrom(l.color?'Màu '+l.color:'')].filter(uniqueText).join(' - ');if(info)lines.push(info);} currentSections.forEach(function(s){lines.push('');lines.push(s.title+(s.reference?' - '+s.reference:''));s.paragraphs.forEach(function(p){if(!isBlockedText(p))lines.push(p);});});return lines.join('\n').trim();}
+  function copyText(){var v=buildShareText()||'Chưa có dữ liệu.';if(navigator.clipboard&&navigator.clipboard.writeText)return navigator.clipboard.writeText(v).then(function(){flashButton('dnLcCopyBtn','Đã copy');});}
+  function updateShareLinks(){var text=buildShareText(),page=location.href.split('#')[0]+'#loi-chua-'+formatDate(selectedDate),title='Lời Chúa hằng ngày '+formatDate(selectedDate);var u=encodeURIComponent(page),t=encodeURIComponent(title+'\n'+text);$('dnShareFacebook').href='https://www.facebook.com/sharer/sharer.php?u='+u;$('dnShareZalo').href='https://zalo.me/share?u='+u;$('dnShareTelegram').href='https://t.me/share/url?url='+u+'&text='+t;$('dnShareX').href='https://twitter.com/intent/tweet?url='+u+'&text='+t;$('dnShareEmail').href='mailto:?subject='+encodeURIComponent(title)+'&body='+t;}
+  function shareText(){var text=buildShareText(),title='Lời Chúa hằng ngày - '+formatDate(selectedDate),url=location.href.split('#')[0]+'#loi-chua-'+formatDate(selectedDate);if(navigator.share){navigator.share({title:title,text:text,url:url}).catch(function(){});return;} updateShareLinks();var menu=$('dnLcShareMenu');if(menu)menu.classList.toggle('is-open');}
+  function printText(){window.print();}
   function flashButton(id,text){var btn=$(id);if(!btn)return;var old=btn.textContent;btn.textContent=text;setTimeout(function(){btn.textContent=old;},1400);}
-
-  function loadDay(){ var requestId=++latestRequest, key=formatDate(selectedDate); renderCalendar(); showReadingState('Đang tải dữ liệu...'); renderDayInfo(null); fetchDayFromWorker(key).catch(function(){return fetchDayFromGithub(key);}).then(function(day){ if(requestId!==latestRequest)return; renderDayInfo(day); if(hasReadingData(day)){renderReadings(day);return;} renderReadings(day); }).catch(function(){ if(requestId!==latestRequest)return; renderDayInfo(null); showReadingState('Dữ liệu đang được cập nhật.'); }); }
-
-  function init(){
-    var root=$('dnLcCompact'); if(!root)return;
-    var picker=$('dnLcDatePicker'), todayBtn=$('dnLcTodayBtn'), prev=$('dnLcPrevMonth'), next=$('dnLcNextMonth');
-    if(picker){ picker.min=DN_LC_CONFIG.MIN_DATE; picker.max=DN_LC_CONFIG.MAX_DATE; picker.value=formatDate(selectedDate); picker.addEventListener('change',function(){ selectedDate=parseDate(this.value); viewMonth=new Date(selectedDate.getFullYear(),selectedDate.getMonth(),1); this.value=formatDate(selectedDate); loadDay(); }); }
-    if(todayBtn)todayBtn.addEventListener('click',function(){ selectedDate=clampDate(startOfDay(new Date())); viewMonth=new Date(selectedDate.getFullYear(),selectedDate.getMonth(),1); if(picker)picker.value=formatDate(selectedDate); loadDay(); });
-    if(prev)prev.addEventListener('click',function(){ var m=new Date(viewMonth.getFullYear(),viewMonth.getMonth()-1,1); if(m<new Date(2026,0,1))return; viewMonth=m; renderCalendar(); });
-    if(next)next.addEventListener('click',function(){ var m=new Date(viewMonth.getFullYear(),viewMonth.getMonth()+1,1); if(m>new Date(2026,11,1))return; viewMonth=m; renderCalendar(); });
-    $('dnLcCopyBtn')&&$('dnLcCopyBtn').addEventListener('click',copyText);
-    $('dnLcShareBtn')&&$('dnLcShareBtn').addEventListener('click',shareText);
-    $('dnLcPrintBtn')&&$('dnLcPrintBtn').addEventListener('click',printText);
-    loadDay();
-  }
-
+  function loadDay(){var requestId=++latestRequest,key=formatDate(selectedDate);renderCalendar();showReadingState('Đang tải dữ liệu...');renderDayInfo(null);fetchDay(key).then(function(day){if(requestId!==latestRequest)return;renderDayInfo(day);renderReadings(day);}).catch(function(){if(requestId!==latestRequest)return;renderDayInfo(null);showReadingState('Dữ liệu đang được cập nhật.');});}
+  function init(){var picker=$('dnLcDatePicker'),todayBtn=$('dnLcTodayBtn'),prev=$('dnLcPrevMonth'),next=$('dnLcNextMonth');if(picker){picker.value=formatDate(selectedDate);picker.addEventListener('change',function(){selectedDate=parseDate(this.value);viewMonth=new Date(selectedDate.getFullYear(),selectedDate.getMonth(),1);loadDay();});} if(todayBtn)todayBtn.addEventListener('click',function(){selectedDate=startOfDay(new Date());viewMonth=new Date(selectedDate.getFullYear(),selectedDate.getMonth(),1);if(picker)picker.value=formatDate(selectedDate);loadDay();}); if(prev)prev.addEventListener('click',function(){viewMonth=new Date(viewMonth.getFullYear(),viewMonth.getMonth()-1,1);renderCalendar();}); if(next)next.addEventListener('click',function(){viewMonth=new Date(viewMonth.getFullYear(),viewMonth.getMonth()+1,1);renderCalendar();}); $('dnLcCopyBtn')&&$('dnLcCopyBtn').addEventListener('click',copyText);$('dnLcShareBtn')&&$('dnLcShareBtn').addEventListener('click',shareText);$('dnLcPrintBtn')&&$('dnLcPrintBtn').addEventListener('click',printText);loadDay();}
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
 })();
 </script>
