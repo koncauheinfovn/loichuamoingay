@@ -1,15 +1,21 @@
 {
-  "success": true,
+  "success": false,
   "year": 2026,
   "month": 12,
   "month_key": "2026-12",
   "count": 31,
+  "expected_count": 31,
+  "complete_days": true,
+  "full_readings": false,
+  "missing_calendar": [],
+  "missing_gospel": [
+    "2026-12-28"
+  ],
   "source": {
-    "calendar": "https://augustino.net/lich-phung-vu",
-    "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
-    "note": "year file contains full readings"
+    "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
+    "gospel": ""
   },
-  "updated": "2026-06-01T07:03:47.572Z",
+  "updated": "2026-06-01T09:47:43.614Z",
   "days": [
     {
       "date": "2026-12-01",
@@ -55,7 +61,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:01.803Z"
+      "updated": "2026-06-01T09:47:39.973Z"
     },
     {
       "date": "2026-12-02",
@@ -101,7 +107,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:05.733Z"
+      "updated": "2026-06-01T09:47:39.978Z"
     },
     {
       "date": "2026-12-03",
@@ -149,7 +155,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:09.635Z"
+      "updated": "2026-06-01T09:47:39.986Z"
     },
     {
       "date": "2026-12-04",
@@ -195,7 +201,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:13.573Z"
+      "updated": "2026-06-01T09:47:39.983Z"
     },
     {
       "date": "2026-12-05",
@@ -241,7 +247,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:17.508Z"
+      "updated": "2026-06-01T09:47:40.087Z"
     },
     {
       "date": "2026-12-06",
@@ -287,7 +293,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:21.666Z"
+      "updated": "2026-06-01T09:47:41.078Z"
     },
     {
       "date": "2026-12-07",
@@ -333,7 +339,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:25.579Z"
+      "updated": "2026-06-01T09:47:40.107Z"
     },
     {
       "date": "2026-12-08",
@@ -381,7 +387,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:30.046Z"
+      "updated": "2026-06-01T09:47:41.083Z"
     },
     {
       "date": "2026-12-09",
@@ -427,7 +433,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:33.815Z"
+      "updated": "2026-06-01T09:47:40.213Z"
     },
     {
       "date": "2026-12-10",
@@ -473,7 +479,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:37.936Z"
+      "updated": "2026-06-01T09:47:41.076Z"
     },
     {
       "date": "2026-12-11",
@@ -519,7 +525,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:41.813Z"
+      "updated": "2026-06-01T09:47:40.335Z"
     },
     {
       "date": "2026-12-12",
@@ -565,7 +571,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:45.911Z"
+      "updated": "2026-06-01T09:47:40.536Z"
     },
     {
       "date": "2026-12-13",
@@ -611,7 +617,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:50.085Z"
+      "updated": "2026-06-01T09:47:40.653Z"
     },
     {
       "date": "2026-12-14",
@@ -657,7 +663,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:53.834Z"
+      "updated": "2026-06-01T09:47:40.770Z"
     },
     {
       "date": "2026-12-15",
@@ -703,7 +709,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:12:57.655Z"
+      "updated": "2026-06-01T09:47:40.903Z"
     },
     {
       "date": "2026-12-16",
@@ -749,7 +755,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:01.595Z"
+      "updated": "2026-06-01T09:47:41.018Z"
     },
     {
       "date": "2026-12-17",
@@ -803,7 +809,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:05.432Z"
+      "updated": "2026-06-01T09:47:41.168Z"
     },
     {
       "date": "2026-12-18",
@@ -849,7 +855,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:09.840Z"
+      "updated": "2026-06-01T09:47:41.199Z"
     },
     {
       "date": "2026-12-19",
@@ -895,7 +901,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:13.751Z"
+      "updated": "2026-06-01T09:47:41.228Z"
     },
     {
       "date": "2026-12-20",
@@ -941,7 +947,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:17.979Z"
+      "updated": "2026-06-01T09:47:41.215Z"
     },
     {
       "date": "2026-12-21",
@@ -987,7 +993,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:21.750Z"
+      "updated": "2026-06-01T09:47:41.313Z"
     },
     {
       "date": "2026-12-22",
@@ -1033,7 +1039,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:25.581Z"
+      "updated": "2026-06-01T09:47:41.311Z"
     },
     {
       "date": "2026-12-23",
@@ -1079,7 +1085,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:29.372Z"
+      "updated": "2026-06-01T09:47:41.356Z"
     },
     {
       "date": "2026-12-24",
@@ -1125,7 +1131,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:33.243Z"
+      "updated": "2026-06-01T09:47:41.378Z"
     },
     {
       "date": "2026-12-25",
@@ -1178,7 +1184,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:37.126Z"
+      "updated": "2026-06-01T09:47:41.444Z"
     },
     {
       "date": "2026-12-26",
@@ -1226,7 +1232,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:40.997Z"
+      "updated": "2026-06-01T09:47:41.424Z"
     },
     {
       "date": "2026-12-27",
@@ -1274,7 +1280,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:45.153Z"
+      "updated": "2026-06-01T09:47:43.525Z"
     },
     {
       "date": "2026-12-28",
@@ -1320,7 +1326,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:49.185Z"
+      "updated": "2026-06-01T09:47:43.535Z"
     },
     {
       "date": "2026-12-29",
@@ -1366,7 +1372,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:53.404Z"
+      "updated": "2026-06-01T09:47:41.532Z"
     },
     {
       "date": "2026-12-30",
@@ -1412,7 +1418,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:13:57.376Z"
+      "updated": "2026-06-01T09:47:41.548Z"
     },
     {
       "date": "2026-12-31",
@@ -1462,7 +1468,7 @@
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=12",
         "gospel": ""
       },
-      "updated": "2026-06-01T05:14:01.278Z"
+      "updated": "2026-06-01T09:47:43.535Z"
     }
   ]
 }

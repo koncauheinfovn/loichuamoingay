@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://koncauheinfovn.github.io/loichuamoingay/schema/day.schema.json",
+  "title": "LoiChuaDay",
+  "type": "object",
+  "required": ["date", "weekday", "liturgy", "readings", "reflection", "source"],
+  "properties": {
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "weekday": { "type": "string" },
+    "liturgy": {
+      "type": "object",
+      "required": ["season", "week", "year_cycle", "celebration", "rank", "color", "saint"],
+      "properties": {
+        "season": { "type": "string" },
+        "week": { "type": "string" },
+        "year_cycle": { "type": "string" },
+        "celebration": { "type": "string" },
+        "rank": { "type": "string" },
+        "color": { "type": "string" },
+        "saint": {
+          "type": "object",
+          "required": ["name", "image", "wiki"],
+          "properties": {
+            "name": { "type": "string" },
+            "image": { "type": "string" },
+            "wiki": { "type": "string" }
+          }
+        }
+      }
+    },
+    "readings": {
+      "type": "object",
+      "required": ["reading1", "reading2", "psalm", "gospel_acclamation", "gospel"],
+      "properties": {
+        "reading1": { "$ref": "#/$defs/reading" },
+        "reading2": { "$ref": "#/$defs/reading" },
+        "psalm": {
+          "type": "object",
+          "required": ["reference", "response"],
+          "properties": {
+            "reference": { "type": "string" },
+            "response": { "type": "string" }
+          }
+        },
+        "gospel_acclamation": { "type": "string" },
+        "gospel": { "$ref": "#/$defs/reading" }
+      }
+    },
+    "reflection": {
+      "type": "object",
+      "required": ["title", "content"],
+      "properties": {
+        "title": { "type": "string" },
+        "content": { "type": "string" }
+      }
+    },
+    "notes": { "type": "array", "items": { "type": "string" } },
+    "source": { "type": "object", "additionalProperties": { "type": "string" } },
+    "updated": { "type": "string" }
+  },
+  "$defs": {
+    "reading": {
+      "type": "object",
+      "required": ["reference", "text"],
+      "properties": {
+        "reference": { "type": "string" },
+        "text": { "type": "string" }
+      }
+    }
+  }
+}

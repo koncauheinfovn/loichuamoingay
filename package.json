@@ -1,12 +1,16 @@
 {
-  "name": "loichuamoingay-final-fix-v2",
-  "version": "5.0.0",
+  "name": "loichuamoingay-full-data-v4",
+  "version": "7.0.0",
   "type": "module",
   "private": true,
   "scripts": {
-    "build:data": "node scripts/generate-data.js"
+    "build:data": "node scripts/generate-data.js",
+    "build:current-year": "node scripts/generate-data.js --years=current",
+    "build:full": "node scripts/generate-data.js --years=current+5",
+    "check:worker": "node --check cloudflare-worker-full-data-v4.js",
+    "check:data-script": "node --check scripts/generate-data.js"
   },
-  "dependencies": {
-    "axios": "^1.7.9"
+  "engines": {
+    "node": ">=18"
   }
 }

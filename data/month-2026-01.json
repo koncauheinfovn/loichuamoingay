@@ -4,12 +4,17 @@
   "month": 1,
   "month_key": "2026-01",
   "count": 31,
+  "expected_count": 31,
+  "complete_days": true,
+  "full_readings": true,
+  "missing_calendar": [],
+  "missing_gospel": [],
   "source": {
-    "calendar": "https://augustino.net/lich-phung-vu",
-    "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
-    "note": "year file contains full readings"
+    "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
+    "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/31.html",
+    "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/31.html"
   },
-  "updated": "2026-06-01T07:03:35.459Z",
+  "updated": "2026-06-01T09:47:07.140Z",
   "days": [
     {
       "date": "2026-01-01",
@@ -29,21 +34,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Ds 6,22-27 Gl 4,4-7",
-          "text": ""
+          "reference": "Ds 6,22-27",
+          "text": "Khi chúng kêu cầu danh Ta cho con cái Ít-ra-en, Ta sẽ ban phúc lành.\nBài trích sách Dân số.\n22 Đức Chúa phán với ông Mô-sê: 23 “Hãy nói với A-ha-ron và các con nó rằng: Khi chúc lành cho con cái Ít-ra-en, anh em hãy nói thế này:\n24 ‘Nguyện Đức Chúa chúc lành và gìn giữ anh em!\n25 Nguyện Đức Chúa tươi nét mặt nhìn đến anh em,\nvà dủ lòng thương anh em!\n26 Nguyện Đức Chúa ghé mắt nhìn,\nvà ban bình an cho anh em!’\n27 Chúc như thế là đặt con cái Ít-ra-en dưới quyền bảo trợ của danh Ta, và Ta, Ta sẽ chúc lành cho chúng.”"
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "Gl 4,4-7",
+          "text": "Thiên Chúa đã sai Con mình tới, sinh làm con một người phụ nữ.\nBài trích thư của thánh Phao-lô tông đồ gửi tín hữu Ga-lát.\n4 Thưa anh em, khi thời gian tới hồi viên mãn, Thiên Chúa đã sai Con mình tới, sinh làm con một người phụ nữ, và sống dưới Lề Luật, 5 để chuộc những ai sống dưới Lề Luật, hầu chúng ta nhận được ơn làm nghĩa tử. 6 Để chứng thực anh em là con cái, Thiên Chúa đã sai Thần Khí của Con mình đến ngự trong lòng anh em mà kêu lên: “Áp-ba, Cha ơi!” 7 Vậy anh em không còn phải là nô lệ nữa, nhưng là con, mà đã là con thì cũng là người thừa kế, nhờ Thiên Chúa."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 66,2-3.5.6",
+          "response": "Đ. Nguyện Chúa Trời dủ thương và chúc phúc cho chúng con.\n2 Nguyện Chúa Trời dủ thương và chúc phúc,\nxin toả ánh tôn nhan rạng ngời trên chúng con,\n3 cho cả hoàn cầu biết đường lối Chúa,\nvà muôn nước biết ơn cứu độ của Ngài.\nĐ. Nguyện Chúa Trời dủ thương và chúc phúc cho chúng con.\n5 Ước gì muôn nước reo hò mừng rỡ,\nvì Chúa cai trị cả hoàn cầu theo lẽ công minh,\nNgười cai trị muôn nước theo đường chính trực\nvà lãnh đạo muôn dân trên mặt đất này.\nĐ. Nguyện Chúa Trời dủ thương và chúc phúc cho chúng con.\n6 Ước gì chư dân cảm tạ Ngài, lạy Thiên Chúa,\nchư dân phải đồng thanh cảm tạ Ngài.\n8 Nguyện Chúa Trời ban phúc lộc cho ta!\nƯớc chi toàn cõi đất kính sợ Người!\nĐ. Nguyện Chúa Trời dủ thương và chúc phúc cho chúng con."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nThuở xưa, nhiều lần nhiều cách, Thiên Chúa đã phán dạy cha ông chúng ta qua các ngôn sứ;\nnhưng vào thời sau hết này, Thiên Chúa đã phán dạy chúng ta qua Thánh Tử.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Lc 2,16-21",
-          "text": "C&aacute;c người chăn chi&ecirc;n gặp b&agrave; Ma-ri-a, &ocirc;ng Giu-se v&agrave; H&agrave;i Nhi. Được đủ t&aacute;m ng&agrave;y, người ta đặt t&ecirc;n cho H&agrave;i Nhi l&agrave; Gi&ecirc;-su.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 2,16-21\n16 Khi ấy, c&aacute;c người chăn chi&ecirc;n hối hả ra đi đến B&ecirc;-lem. Họ gặp b&agrave; Ma-ri-a, &ocirc;ng Giu-se, c&ugrave;ng với H&agrave;i Nhi đặt nằm trong m&aacute;ng cỏ. 17 Thấy thế, họ kể lại điều họ đ&atilde; được nghe n&oacute;i về H&agrave;i Nhi n&agrave;y. 18 Tất cả những ai nghe đều ngạc nhi&ecirc;n về những g&igrave; c&aacute;c người chăn chi&ecirc;n n&oacute;i cho biết. 19 C&ograve;n b&agrave; Ma-ri-a th&igrave; hằng ghi nhớ tất cả những điều ấy, v&agrave; suy đi nghĩ lại trong l&ograve;ng. 20 Rồi c&aacute;c người chăn chi&ecirc;n ra về, vừa đi vừa t&ocirc;n vinh ca tụng Thi&ecirc;n Ch&uacute;a, v&igrave; mọi điều họ đ&atilde; được tai nghe mắt thấy theo như họ đ&atilde; được loan b&aacute;o.\n21 Khi H&agrave;i Nhi được đủ t&aacute;m ng&agrave;y, nghĩa l&agrave; đến l&uacute;c phải l&agrave;m lễ cắt b&igrave;, người ta đặt t&ecirc;n cho H&agrave;i Nhi l&agrave; Gi&ecirc;-su; đ&oacute; l&agrave; t&ecirc;n m&agrave; sứ thần đ&atilde; đặt cho Người trước khi Người được thụ thai trong l&ograve;ng mẹ."
+          "text": "Các người chăn chiên gặp bà Ma-ri-a, ông Giu-se và Hài Nhi. Được đủ tám ngày, người ta đặt tên cho Hài Nhi là Giê-su.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Lu-ca. Lc 2,16-21\n16 Khi ấy, các người chăn chiên hối hả ra đi đến Bê-lem. Họ gặp bà Ma-ri-a, ông Giu-se, cùng với Hài Nhi đặt nằm trong máng cỏ. 17 Thấy thế, họ kể lại điều họ đã được nghe nói về Hài Nhi này. 18 Tất cả những ai nghe đều ngạc nhiên về những gì các người chăn chiên nói cho biết. 19 Còn bà Ma-ri-a thì hằng ghi nhớ tất cả những điều ấy, và suy đi nghĩ lại trong lòng. 20 Rồi các người chăn chiên ra về, vừa đi vừa tôn vinh ca tụng Thiên Chúa, vì mọi điều họ đã được tai nghe mắt thấy theo như họ đã được loan báo.\n21 Khi Hài Nhi được đủ tám ngày, nghĩa là đến lúc phải làm lễ cắt bì, người ta đặt tên cho Hài Nhi là Giê-su; đó là tên mà sứ thần đã đặt cho Người trước khi Người được thụ thai trong lòng mẹ."
         }
       },
       "reflection": {
@@ -55,9 +60,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/01.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/01.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/01.html"
       },
-      "updated": "2026-06-01T05:01:19.891Z"
+      "updated": "2026-06-01T09:47:05.178Z"
     },
     {
       "date": "2026-01-02",
@@ -77,21 +83,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "1",
-          "text": ""
+          "reference": "1 Ga 2,22-28\n22 A",
+          "text": "Ước chi điều anh em đã nghe từ đầu ở lại trong anh em.\nBài trích thư thứ nhất của thánh Gio-an tông đồ. 1 Ga 2,22-28\n22 Anh em thân mến,\nai là kẻ dối trá, nếu không phải là kẻ chối rằng\nĐức Giê-su là Đấng Ki-tô?\nKẻ ấy là tên Phản Ki-tô,\nlà kẻ chối Chúa Cha và Chúa Con.\n23 Ai chối Chúa Con thì cũng không có Chúa Cha;\nkẻ tuyên xưng Chúa Con thì cũng có Chúa Cha.\n24 Phần anh em,\nước chi điều anh em đã nghe từ lúc khởi đầu\nở lại trong anh em.\nNếu điều anh em đã nghe từ lúc khởi đầu\nở lại trong anh em,\nthì chính anh em sẽ ở lại trong Chúa Con và Chúa Cha.\n25 Và đây là điều\nmà chính Đức Ki-tô đã hứa ban cho chúng ta:\nsự sống đời đời.\n26 Tôi viết cho anh em những điều ấy\nđể nói về những kẻ tìm cách làm cho anh em đi lạc đường.\n27 Phần anh em,\ndầu mà anh em đã lãnh nhận từ Đức Ki-tô\nở lại trong anh em,\nvà anh em chẳng cần ai dạy dỗ nữa.\nNhưng vì dầu của Người dạy dỗ anh em mọi sự\n-mà dầu ấy dạy sự thật chứ không phải sự dối trá-,\nthì theo như dầu ấy đã dạy anh em,\nanh em hãy ở lại trong Người.\n28 Giờ đây, hỡi anh em là những người con bé nhỏ,\nanh em hãy ở lại trong Người,\nđể khi Người xuất hiện,\nchúng ta được mạnh dạn, chứ không bị xấu hổ,\nvì phải xa cách Người trong ngày Người quang lâm."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 97,1.2-3ab.3cd-4",
+          "response": "Đ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n1 Hát lên mừng Chúa một bài ca mới,\nvì Người đã thực hiện bao kỳ công.\nNgười chiến thắng nhờ bàn tay hùng mạnh,\nnhờ cánh tay chí thánh của Người.\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n2 Chúa đã biểu dương ơn Người cứu độ,\nmặc khải đức công chính của Người trước mặt chư dân;\n3ab Người đã nhớ lại ân tình và tín nghĩa\ndành cho nhà Ít-ra-en.\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n3cd Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n4 Tung hô Chúa, hỡi toàn thể địa cầu,\nmừng vui lên, reo hò đàn hát.\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nThuở xưa, nhiều lần nhiều cách, Thiên Chúa đã phán dạy cha ông chúng ta qua các ngôn sứ;\nnhưng vào thời sau hết này, Thiên Chúa đã phán dạy chúng ta qua Thánh Tử.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 1,19-28",
-          "text": "Người sẽ đến sau t&ocirc;i.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 1,19-28\n19 Đ&acirc;y l&agrave; lời chứng của &ocirc;ng Gio-an, khi người Do-th&aacute;i từ Gi&ecirc;-ru-sa-lem cử một số tư tế v&agrave; mấy thầy L&ecirc;-vi đến hỏi &ocirc;ng: “&Ocirc;ng l&agrave; ai ?” 20 &Ocirc;ng tuy&ecirc;n bố thẳng thắn, &ocirc;ng tuy&ecirc;n bố rằng: “T&ocirc;i kh&ocirc;ng phải l&agrave; Đấng Ki-t&ocirc;.” 21 Họ lại hỏi &ocirc;ng: “Vậy th&igrave; thế n&agrave;o ? &Ocirc;ng c&oacute; phải l&agrave; &ocirc;ng &Ecirc;-li-a kh&ocirc;ng ?” &Ocirc;ng n&oacute;i: “Kh&ocirc;ng phải.” - “&Ocirc;ng c&oacute; phải l&agrave; vị ng&ocirc;n sứ chăng ?” &Ocirc;ng đ&aacute;p: “Kh&ocirc;ng.” 22 Họ liền n&oacute;i với &ocirc;ng: “Thế &ocirc;ng l&agrave; ai, để ch&uacute;ng t&ocirc;i c&ograve;n trả lời cho những người đ&atilde; cử ch&uacute;ng t&ocirc;i đến ? &Ocirc;ng n&oacute;i g&igrave; về ch&iacute;nh &ocirc;ng ?” 23 &Ocirc;ng n&oacute;i: T&ocirc;i l&agrave; tiếng người h&ocirc; trong hoang địa: H&atilde;y sửa đường cho thẳng để Đức Ch&uacute;a đi, như ng&ocirc;n sứ I-sai-a đ&atilde; n&oacute;i. 24 Trong nh&oacute;m được cử đi, c&oacute; mấy người thuộc ph&aacute;i Pha-ri-s&ecirc;u. 25 Họ hỏi &ocirc;ng: “Vậy tại sao &ocirc;ng l&agrave;m ph&eacute;p rửa, nếu &ocirc;ng kh&ocirc;ng phải l&agrave; Đấng Ki-t&ocirc;, cũng kh&ocirc;ng phải l&agrave; &ocirc;ng &Ecirc;-li-a hay vị ng&ocirc;n sứ ?” 26 &Ocirc;ng Gio-an trả lời: “T&ocirc;i đ&acirc;y l&agrave;m ph&eacute;p rửa trong nước. Nhưng c&oacute; một vị đang ở giữa c&aacute;c &ocirc;ng m&agrave; c&aacute;c &ocirc;ng kh&ocirc;ng biết. 27 Người sẽ đến sau t&ocirc;i v&agrave; t&ocirc;i kh&ocirc;ng đ&aacute;ng cởi quai d&eacute;p cho Người.” 28 C&aacute;c việc đ&oacute; đ&atilde; xảy ra tại B&ecirc;-ta-ni-a, b&ecirc;n kia s&ocirc;ng Gio-đan, nơi &ocirc;ng Gio-an l&agrave;m ph&eacute;p rửa."
+          "text": "Người sẽ đến sau tôi.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 1,19-28\n19 Đây là lời chứng của ông Gio-an, khi người Do-thái từ Giê-ru-sa-lem cử một số tư tế và mấy thầy Lê-vi đến hỏi ông: “Ông là ai?” 20 Ông tuyên bố thẳng thắn, ông tuyên bố rằng: “Tôi không phải là Đấng Ki-tô.” 21 Họ lại hỏi ông: “Vậy thì thế nào? Ông có phải là ông Ê-li-a không?” Ông nói: “Không phải.” - “Ông có phải là vị ngôn sứ chăng?” Ông đáp: “Không.” 22 Họ liền nói với ông: “Thế ông là ai, để chúng tôi còn trả lời cho những người đã cử chúng tôi đến? Ông nói gì về chính ông?” 23 Ông nói: Tôi là tiếng người hô trong hoang địa: Hãy sửa đường cho thẳng để Đức Chúa đi, như ngôn sứ I-sai-a đã nói. 24 Trong nhóm được cử đi, có mấy người thuộc phái Pha-ri-sêu. 25 Họ hỏi ông: “Vậy tại sao ông làm phép rửa, nếu ông không phải là Đấng Ki-tô, cũng không phải là ông Ê-li-a hay vị ngôn sứ?” 26 Ông Gio-an trả lời: “Tôi đây làm phép rửa trong nước. Nhưng có một vị đang ở giữa các ông mà các ông không biết. 27 Người sẽ đến sau tôi và tôi không đáng cởi quai dép cho Người.” 28 Các việc đó đã xảy ra tại Bê-ta-ni-a, bên kia sông Gio-đan, nơi ông Gio-an làm phép rửa."
         }
       },
       "reflection": {
@@ -101,9 +107,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/02.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/02.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/02.html"
       },
-      "updated": "2026-06-01T05:01:20.261Z"
+      "updated": "2026-06-01T09:47:05.329Z"
     },
     {
       "date": "2026-01-03",
@@ -123,21 +130,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "1",
-          "text": ""
+          "reference": "1 Ga 2,29 - 3,6\n2 29 A",
+          "text": "Phàm ai ở lại trong Đức Giê-su thì không phạm tội.\nBài trích thư thứ nhất của thánh Gio-an tông đồ. 1 Ga 2,29 - 3,6\n2 29 Anh em thân mến,\nnếu anh em biết Thiên Chúa là Đấng Công Chính,\nanh em cũng phải biết rằng: phàm ai sống công chính\nthì đã được Thiên Chúa sinh ra.\n3 1 Anh em hãy xem Chúa Cha yêu chúng ta dường nào:\nNgười yêu đến nỗi\ncho chúng ta được gọi là con Thiên Chúa\n- mà thực sự chúng ta là con Thiên Chúa.\nSở dĩ thế gian không nhận biết chúng ta,\nlà vì thế gian đã không biết Người.\n2 Anh em thân mến, hiện giờ chúng ta là con Thiên Chúa;\nnhưng chúng ta sẽ như thế nào, điều ấy chưa được bày tỏ.\nChúng ta biết rằng khi Đức Ki-tô xuất hiện,\nchúng ta sẽ nên giống như Người,\nvì Người thế nào, chúng ta sẽ thấy Người như vậy.\n3 Phàm ai đặt hy vọng như thế vào Đức Ki-tô\nthì làm cho mình nên thanh sạch\nnhư Người là Đấng thanh sạch.\n4 Phàm ai phạm tội thì cũng chống lại luật Thiên Chúa,\nvì tội lỗi chống lại luật Thiên Chúa.\n5 Thế mà anh em biết: Đức Giê-su đã xuất hiện\nđể xoá bỏ tội lỗi, và nơi Người không có tội lỗi.\n6 Phàm ai ở lại trong Người thì không phạm tội.\nCòn ai phạm tội\nthì đã không thấy Người, và cũng chẳng biết Người."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 97,1.3cd-4.5-6",
+          "response": "Tv 97,1.3cd-4.5-6 (Đ. c.3cd)\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n1 Hát lên mừng Chúa một bài ca mới,\nvì Người đã thực hiện bao kỳ công.\nNgười chiến thắng nhờ bàn tay hùng mạnh,\nnhờ cánh tay chí thánh của Người.\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n3cd Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n4 Tung hô Chúa, hỡi toàn thể địa cầu,\nmừng vui lên, reo hò đàn hát.\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n5 Đàn lên mừng Chúa khúc hạc cầm dìu dặt,\nnương khúc hạc cầm réo rắt giọng ca.\n6 Kèn thổi vang xen tiếng tù và,\ntung hô mừng Chúa, vị Quân Vương!\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nNgôi Lời đã trở nên người phàm, và cư ngụ giữa chúng ta;\nnhững ai đón nhận Người, thì Người cho họ quyền trở nên con Thiên Chúa.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 1,29-34",
-          "text": "Đ&acirc;y l&agrave; Chi&ecirc;n Thi&ecirc;n Ch&uacute;a.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 1,29-34\n29 H&ocirc;m sau, khi &ocirc;ng Gio-an thấy Đức Gi&ecirc;-su tiến về ph&iacute;a m&igrave;nh, liền n&oacute;i: “Đ&acirc;y l&agrave; Chi&ecirc;n Thi&ecirc;n Ch&uacute;a, đ&acirc;y Đấng xo&aacute; bỏ tội trần gian. 30 Ch&iacute;nh Người l&agrave; Đấng t&ocirc;i đ&atilde; n&oacute;i tới khi bảo rằng: C&oacute; người đến sau t&ocirc;i, nhưng trổi hơn t&ocirc;i, v&igrave; c&oacute; trước t&ocirc;i.\n31 T&ocirc;i đ&atilde; kh&ocirc;ng biết Người, nhưng t&ocirc;i đến l&agrave;m ph&eacute;p rửa trong nước để Người được tỏ ra cho d&acirc;n &Iacute;t-ra-en.” 32 &Ocirc;ng Gio-an c&ograve;n l&agrave;m chứng: “T&ocirc;i đ&atilde; thấy Thần Kh&iacute; tựa chim bồ c&acirc;u từ trời xuống v&agrave; ngự tr&ecirc;n Người. 33 T&ocirc;i đ&atilde; kh&ocirc;ng biết Người. Nhưng ch&iacute;nh Đấng sai t&ocirc;i đi l&agrave;m ph&eacute;p rửa trong nước đ&atilde; bảo t&ocirc;i: ‘Ngươi thấy Thần Kh&iacute; xuống v&agrave; ngự tr&ecirc;n ai, th&igrave; người đ&oacute; ch&iacute;nh l&agrave; Đấng l&agrave;m ph&eacute;p rửa trong Th&aacute;nh Thần.’ 34 T&ocirc;i đ&atilde; thấy, n&ecirc;n xin chứng thực rằng Người l&agrave; Đấng Thi&ecirc;n Ch&uacute;a tuyển chọn.”"
+          "text": "Đây là Chiên Thiên Chúa.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 1,29-34\n29 Hôm sau, khi ông Gio-an thấy Đức Giê-su tiến về phía mình, liền nói: “Đây là Chiên Thiên Chúa, đây Đấng xoá bỏ tội trần gian. 30 Chính Người là Đấng tôi đã nói tới khi bảo rằng: Có người đến sau tôi, nhưng trổi hơn tôi, vì có trước tôi.\n31 Tôi đã không biết Người, nhưng tôi đến làm phép rửa trong nước để Người được tỏ ra cho dân Ít-ra-en.” 32 Ông Gio-an còn làm chứng: “Tôi đã thấy Thần Khí tựa chim bồ câu từ trời xuống và ngự trên Người. 33 Tôi đã không biết Người. Nhưng chính Đấng sai tôi đi làm phép rửa trong nước đã bảo tôi: ‘Ngươi thấy Thần Khí xuống và ngự trên ai, thì người đó chính là Đấng làm phép rửa trong Thánh Thần.’ 34 Tôi đã thấy, nên xin chứng thực rằng Người là Đấng Thiên Chúa tuyển chọn.”"
         }
       },
       "reflection": {
@@ -147,9 +154,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/03.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/03.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/03.html"
       },
-      "updated": "2026-06-01T05:01:20.657Z"
+      "updated": "2026-06-01T09:47:05.368Z"
     },
     {
       "date": "2026-01-04",
@@ -169,21 +177,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Is 60,1-6 Ep 3,2-3a.5-6",
-          "text": ""
+          "reference": "Is 60,1-6\n1",
+          "text": "Vinh quang của Đức Chúa chiếu toả trên ngươi.\nBài trích sách ngôn sứ I-sai-a. Is 60,1-6\n1 Đứng lên, bừng sáng lên, Giê-ru-sa-lem hỡi,\nvì ánh sáng của ngươi đến rồi.\nVinh quang của Đức Chúa\nnhư bình minh chiếu toả trên ngươi.\n2 Kìa bóng tối bao trùm mặt đất,\nvà mây mù phủ lấp chư dân;\ncòn trên ngươi, Đức Chúa như bình minh chiếu toả,\nvinh quang Người xuất hiện trên ngươi.\n3 Chư dân sẽ đi về phía ánh sáng của ngươi,\nvua chúa hướng về ánh bình minh của ngươi mà tiến bước.\n4 Đưa mắt nhìn tứ phía mà xem,\ntất cả đều tập hợp, kéo đến với ngươi:\ncon trai ngươi từ phương xa tới,\ncon gái ngươi được ẵm bên hông.\n5 Trước cảnh đó, mặt mày ngươi rạng rỡ,\nlòng dạ ngươi hớn hở tưng bừng,\nvì nguồn giàu sang sẽ đổ về từ biển cả,\ncủa cải muôn dân nước sẽ tràn đến với ngươi.\n6 Lạc đà từng đàn che rợp đất, lạc đà Ma-đi-an và Ê-pha:\ntất cả những người từ Sơ-va kéo đến,\nđều mang theo vàng với trầm hương,\nvà loan truyền lời ca tụng Đức Chúa."
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "Ep 3,2-3a.5-6",
+          "text": "Nay mầu nhiệm được mặc khải là các dân ngoại được cùng thừa kế gia nghiệp.\nBài trích thư của thánh Phao-lô tông đồ gửi tín hữu Ê-phê-xô.\n2 Thưa anh em, hẳn anh em đã được nghe biết về kế hoạch ân sủng mà Thiên Chúa đã uỷ thác cho tôi, liên quan đến anh em. 3a Người đã mặc khải để tôi được biết mầu nhiệm Đức Ki-tô. 5 Mầu nhiệm này, Thiên Chúa đã không cho những người thuộc các thế hệ trước được biết, nhưng nay Người đã dùng Thần Khí mà mặc khải cho các thánh Tông Đồ và ngôn sứ của Người. 6 Mầu nhiệm đó là: trong Đức Ki-tô Giê-su và nhờ Tin Mừng, các dân ngoại được cùng thừa kế gia nghiệp với người Do-thái, cùng làm thành một thân thể và cùng chia sẻ điều Thiên Chúa hứa."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 71,1-2.7-8.10-11.12-13",
+          "response": "Đ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n1 Tâu Thượng Đế, xin ban quyền bính Ngài cho vị Tân Vương,\ntrao công lý Ngài vào tay Thái Tử,\n2 để Tân Vương xét xử dân Ngài theo công lý,\nvà bênh vực quyền lợi kẻ nghèo hèn.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n7 Triều đại Người, đua nở hoa công lý\nvà thái bình thịnh trị\ntới ngày nao tuế nguyệt chẳng còn.\n8 Người làm bá chủ từ biển này qua biển nọ,\ntừ Sông Cả đến tận cùng cõi đất.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n10 Từ Tác-sít và hải đảo xa xăm,\nhàng vương giả sẽ về triều cống.\nCả những vua Ả-rập, Xơ-va,\ncũng đều tới tiến dâng lễ vật.\n11 Mọi quân vương phủ phục trước bệ rồng,\nmuôn dân nước thảy đều phụng sự.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n12 Người giải thoát bần dân kêu khổ\nvà kẻ khốn cùng không chỗ tựa nương,\n13 chạnh lòng thương ai bé nhỏ khó nghèo.\nMạng sống dân nghèo, Người ra tay tế độ.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúng tôi đã thấy ngôi sao của Người xuất hiện bên phương Đông,\nnên chúng tôi đến bái lạy Người.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mt 2,1-12",
-          "text": "Từ phương Đ&ocirc;ng ch&uacute;ng t&ocirc;i đến b&aacute;i lạy Người.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 2,1-12\n1 Khi Đức Gi&ecirc;-su ra đời tại B&ecirc;-lem, miền Giu-đ&ecirc;, thời vua H&ecirc;-r&ocirc;-đ&ecirc; trị v&igrave;, c&oacute; mấy nh&agrave; chi&ecirc;m tinh từ phương Đ&ocirc;ng đến Gi&ecirc;-ru-sa-lem, 2 v&agrave; hỏi: “Đức Vua d&acirc;n Do-th&aacute;i mới sinh, hiện ở đ&acirc;u ? Ch&uacute;ng t&ocirc;i đ&atilde; thấy ng&ocirc;i sao của Người xuất hiện b&ecirc;n phương Đ&ocirc;ng, n&ecirc;n ch&uacute;ng t&ocirc;i đến b&aacute;i lạy Người.” 3 Nghe tin ấy, vua H&ecirc;-r&ocirc;-đ&ecirc; bối rối, v&agrave; cả th&agrave;nh Gi&ecirc;-ru-sa-lem cũng x&ocirc;n xao. 4 Nh&agrave; vua liền triệu tập tất cả c&aacute;c thượng tế v&agrave; kinh sư trong d&acirc;n lại, rồi hỏi cho biết Đấng Ki-t&ocirc; phải sinh ra ở đ&acirc;u. 5 Họ trả lời: “Tại B&ecirc;-lem, miền Giu-đ&ecirc;, v&igrave; trong s&aacute;ch ng&ocirc;n sứ, c&oacute; ch&eacute;p rằng: 6 Phần ngươi, hỡi B&ecirc;-lem, miền đất Giu-đa, ngươi đ&acirc;u phải l&agrave; th&agrave;nh nhỏ nhất của Giu-đa, v&igrave; ngươi l&agrave; nơi vị l&atilde;nh tụ chăn dắt &Iacute;t-ra-en d&acirc;n Ta sẽ ra đời.”\n7 Bấy giờ vua H&ecirc;-r&ocirc;-đ&ecirc; b&iacute; mật vời c&aacute;c nh&agrave; chi&ecirc;m tinh đến, hỏi cặn kẽ về ng&agrave;y giờ ng&ocirc;i sao đ&atilde; xuất hiện. 8 Rồi vua ph&aacute;i c&aacute;c vị ấy đi B&ecirc;-lem v&agrave; dặn rằng: “Xin qu&yacute; ng&agrave;i đi d&ograve; hỏi tường tận về H&agrave;i Nhi, v&agrave; khi đ&atilde; t&igrave;m thấy, xin b&aacute;o lại cho t&ocirc;i, để t&ocirc;i cũng đến b&aacute;i lạy Người.” 9 Nghe nh&agrave; vua n&oacute;i thế, họ ra đi. Bấy giờ ng&ocirc;i sao họ đ&atilde; thấy ở phương Đ&ocirc;ng, lại dẫn đường cho họ đến tận nơi H&agrave;i Nhi ở, mới dừng lại. 10 Tr&ocirc;ng thấy ng&ocirc;i sao, họ mừng rỡ v&ocirc; c&ugrave;ng. 11 Họ v&agrave;o nh&agrave;, thấy H&agrave;i Nhi với th&acirc;n mẫu l&agrave; b&agrave; Ma-ri-a, liền sấp m&igrave;nh thờ lạy Người. Rồi họ mở bảo tr&aacute;p, lấy v&agrave;ng, nhũ hương v&agrave; một dược m&agrave; d&acirc;ng tiến. 12 Sau đ&oacute;, họ được b&aacute;o mộng l&agrave; đừng trở lại gặp vua H&ecirc;-r&ocirc;-đ&ecirc; nữa, n&ecirc;n đ&atilde; đi lối kh&aacute;c m&agrave; về xứ m&igrave;nh."
+          "text": "Từ phương Đông chúng tôi đến bái lạy Người.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mát-thêu. Mt 2,1-12\n1 Khi Đức Giê-su ra đời tại Bê-lem, miền Giu-đê, thời vua Hê-rô-đê trị vì, có mấy nhà chiêm tinh từ phương Đông đến Giê-ru-sa-lem, 2 và hỏi: “Đức Vua dân Do-thái mới sinh, hiện ở đâu? Chúng tôi đã thấy ngôi sao của Người xuất hiện bên phương Đông, nên chúng tôi đến bái lạy Người.” 3 Nghe tin ấy, vua Hê-rô-đê bối rối, và cả thành Giê-ru-sa-lem cũng xôn xao. 4 Nhà vua liền triệu tập tất cả các thượng tế và kinh sư trong dân lại, rồi hỏi cho biết Đấng Ki-tô phải sinh ra ở đâu. 5 Họ trả lời: “Tại Bê-lem, miền Giu-đê, vì trong sách ngôn sứ, có chép rằng: 6 Phần ngươi, hỡi Bê-lem, miền đất Giu-đa, ngươi đâu phải là thành nhỏ nhất của Giu-đa, vì ngươi là nơi vị lãnh tụ chăn dắt Ít-ra-en dân Ta sẽ ra đời.”\n7 Bấy giờ vua Hê-rô-đê bí mật vời các nhà chiêm tinh đến, hỏi cặn kẽ về ngày giờ ngôi sao đã xuất hiện. 8 Rồi vua phái các vị ấy đi Bê-lem và dặn rằng: “Xin quý ngài đi dò hỏi tường tận về Hài Nhi, và khi đã tìm thấy, xin báo lại cho tôi, để tôi cũng đến bái lạy Người.” 9 Nghe nhà vua nói thế, họ ra đi. Bấy giờ ngôi sao họ đã thấy ở phương Đông, lại dẫn đường cho họ đến tận nơi Hài Nhi ở, mới dừng lại. 10 Trông thấy ngôi sao, họ mừng rỡ vô cùng. 11 Họ vào nhà, thấy Hài Nhi với thân mẫu là bà Ma-ri-a, liền sấp mình thờ lạy Người. Rồi họ mở bảo tráp, lấy vàng, nhũ hương và một dược mà dâng tiến. 12 Sau đó, họ được báo mộng là đừng trở lại gặp vua Hê-rô-đê nữa, nên đã đi lối khác mà về xứ mình."
         }
       },
       "reflection": {
@@ -196,9 +204,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/04.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/04.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/04.html"
       },
-      "updated": "2026-06-01T05:01:21.015Z"
+      "updated": "2026-06-01T09:47:04.985Z"
     },
     {
       "date": "2026-01-05",
@@ -218,21 +227,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "1",
-          "text": ""
+          "reference": "1 Ga 3,22 - 4,6",
+          "text": "Hãy cân nhắc các thần khí xem có phải bởi Thiên Chúa hay không?\nBài trích thư thứ nhất của thánh Gio-an tông đồ.\n3 22 Anh em thân mến,\nbất cứ điều gì chúng ta xin,\nchúng ta được Thiên Chúa ban cho,\nbởi vì chúng ta tuân giữ các điều răn của Người\nvà làm những gì đẹp ý Người.\n23 Đây là điều răn của Người: chúng ta phải tin\nvào danh Đức Giê-su Ki-tô, Con của Người,\nvà phải yêu thương nhau,\ntheo điều răn Người đã ban cho chúng ta.\n24 Ai tuân giữ các điều răn của Thiên Chúa\nthì ở lại trong Thiên Chúa\nvà Thiên Chúa ở lại trong người ấy.\nCăn cứ vào điều này, chúng ta biết được\nThiên Chúa ở lại trong chúng ta,\nđó là nhờ Thần Khí,\nThần Khí Người đã ban cho chúng ta.\n4 1 Anh em thân mến, anh em đừng cứ thần khí nào cũng tin,\nnhưng hãy cân nhắc xem thần khí nào\nmới phát xuất từ Thiên Chúa,\nvì đã có nhiều ngôn sứ giả lan tràn khắp thế gian.\n2 Căn cứ vào điều này,\nanh em nhận ra thần khí của Thiên Chúa:\nthần khí nào tuyên xưng Đức Giê-su Ki-tô\nlà Đấng đã đến và trở nên người phàm,\nthì thần khí ấy bởi Thiên Chúa;\n3 còn thần khí nào không tuyên xưng Đức Giê-su,\nthì không bởi Thiên Chúa;\nđó là thần khí của tên Phản Ki-tô.\nAnh em đã nghe nói là nó đang tới,\nvà hiện nay nó ở trong thế gian rồi.\n4 Hỡi anh em là những người con bé nhỏ,\nanh em thuộc về Thiên Chúa,\nvà anh em đã thắng được các ngôn sứ giả đó,\nvì Đấng ở trong anh em mạnh hơn kẻ ở trong thế gian.\n5 Các ngôn sứ giả đó thuộc về thế gian;\nvì thế, chúng nói theo thế gian, và thế gian nghe chúng.\n6 Còn chúng ta, chúng ta thuộc về Thiên Chúa.\nAi biết Thiên Chúa thì nghe chúng ta.\nAi không thuộc về Thiên Chúa thì không nghe chúng ta.\nChúng ta cứ dựa vào đó mà nhận ra\nthần khí dẫn đến sự thật và thần khí làm cho sai lầm."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 2,7-8.10-11",
+          "response": "Đ. Con cứ xin, rồi Cha ban tặng\nmuôn dân nước làm sản nghiệp riêng.\n7 Tân vương lên tiếng: Tôi xin đọc sắc phong của Chúa,\nNgười phán bảo tôi rằng: “Con là con của Cha,\nngày hôm nay Cha đã sinh ra con.\n8 Con cứ xin, rồi Cha ban tặng\nmuôn dân nước làm sản nghiệp riêng,\ntoàn cõi đất làm phần lãnh địa.\nĐ. Con cứ xin, rồi Cha ban tặng\nmuôn dân nước làm sản nghiệp riêng.\n10 Vậy giờ đây, hỡi các vua chúa, hãy biết điều,\nthủ lãnh trần gian, nào tỉnh ngộ!\n11 Đem lòng kính sợ mà phụng thờ Đức Chúa,\nhãy khiếp run phủ phục dưới chân Người!\nĐ. Con cứ xin, rồi Cha ban tặng\nmuôn dân nước làm sản nghiệp riêng."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐức Giê-su rao giảng Tin Mừng Nước Trời,\nvà chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mt 4,12-17.23-25",
-          "text": "Nước Trời đ&atilde; đến gần.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 4,12-17.23-25\n12 Khi ấy, Đức Gi&ecirc;-su nghe tin &ocirc;ng Gio-an đ&atilde; bị nộp, Người l&aacute;nh qua miền Ga-li-l&ecirc;. 13 Rồi Người bỏ Na-da-r&eacute;t, đến ở Ca-ph&aacute;c-na-um, một th&agrave;nh ven biển hồ Ga-li-l&ecirc;, thuộc địa hạt Dơ-vu-lun v&agrave; N&aacute;p-ta-li, 14 để ứng nghiệm lời ng&ocirc;n sứ I-sai-a đ&atilde; n&oacute;i: 15 N&agrave;y đất Dơ-vu-lun, v&agrave; đất N&aacute;p-ta-li, hỡi con đường ven biển, v&agrave; v&ugrave;ng tả ngạn s&ocirc;ng Gio-đan, hỡi Ga-li-l&ecirc;, miền đất của d&acirc;n ngoại ! 16 Đo&agrave;n d&acirc;n đang ngồi trong cảnh tối tăm đ&atilde; thấy một &aacute;nh s&aacute;ng huy ho&agrave;ng, những kẻ đang ngồi trong v&ugrave;ng b&oacute;ng tối của tử thần nay được &aacute;nh s&aacute;ng bừng l&ecirc;n chiếu rọi.\n17 Từ l&uacute;c đ&oacute;, Đức Gi&ecirc;-su bắt đầu rao giảng v&agrave; n&oacute;i rằng: “Anh em h&atilde;y s&aacute;m hối, v&igrave; Nước Trời đ&atilde; đến gần.”\n23 Thế rồi Đức Gi&ecirc;-su đi khắp miền Ga-li-l&ecirc;, giảng dạy trong c&aacute;c hội đường, rao giảng Tin Mừng Nước Trời, v&agrave; chữa hết mọi kẻ bệnh hoạn tật nguyền trong d&acirc;n. 24 Danh tiếng Người đồn ra khắp xứ Xy-ri. Thi&ecirc;n hạ đem đến cho Người mọi kẻ ốm đau, mắc đủ thứ bệnh hoạn tật nguyền: những kẻ bị quỷ &aacute;m, kinh phong, bại liệt; v&agrave; Người đ&atilde; chữa họ. 25 Từ miền Ga-li-l&ecirc;, v&ugrave;ng Thập Tỉnh, th&agrave;nh Gi&ecirc;-ru-sa-lem, miền Giu-đ&ecirc; v&agrave; v&ugrave;ng b&ecirc;n kia s&ocirc;ng Gio-đan, d&acirc;n ch&uacute;ng lũ lượt k&eacute;o đến đi theo Người."
+          "text": "Nước Trời đã đến gần.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mát-thêu. Mt 4,12-17.23-25\n12 Khi ấy, Đức Giê-su nghe tin ông Gio-an đã bị nộp, Người lánh qua miền Ga-li-lê. 13 Rồi Người bỏ Na-da-rét, đến ở Ca-phác-na-um, một thành ven biển hồ Ga-li-lê, thuộc địa hạt Dơ-vu-lun và Náp-ta-li, 14 để ứng nghiệm lời ngôn sứ I-sai-a đã nói: 15 Này đất Dơ-vu-lun, và đất Náp-ta-li, hỡi con đường ven biển, và vùng tả ngạn sông Gio-đan, hỡi Ga-li-lê, miền đất của dân ngoại! 16 Đoàn dân đang ngồi trong cảnh tối tăm đã thấy một ánh sáng huy hoàng, những kẻ đang ngồi trong vùng bóng tối của tử thần nay được ánh sáng bừng lên chiếu rọi.\n17 Từ lúc đó, Đức Giê-su bắt đầu rao giảng và nói rằng: “Anh em hãy sám hối, vì Nước Trời đã đến gần.”\n23 Thế rồi Đức Giê-su đi khắp miền Ga-li-lê, giảng dạy trong các hội đường, rao giảng Tin Mừng Nước Trời, và chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân. 24 Danh tiếng Người đồn ra khắp xứ Xy-ri. Thiên hạ đem đến cho Người mọi kẻ ốm đau, mắc đủ thứ bệnh hoạn tật nguyền: những kẻ bị quỷ ám, kinh phong, bại liệt; và Người đã chữa họ. 25 Từ miền Ga-li-lê, vùng Thập Tỉnh, thành Giê-ru-sa-lem, miền Giu-đê và vùng bên kia sông Gio-đan, dân chúng lũ lượt kéo đến đi theo Người."
         }
       },
       "reflection": {
@@ -242,9 +251,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/05.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/05.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/05.html"
       },
-      "updated": "2026-06-01T05:01:21.381Z"
+      "updated": "2026-06-01T09:47:05.157Z"
     },
     {
       "date": "2026-01-06",
@@ -264,21 +274,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "1",
-          "text": ""
+          "reference": "1 Ga 4,7-10",
+          "text": "Thiên Chúa là tình yêu.\nBài trích thư thứ nhất của thánh Gio-an tông đồ.\n7 Anh em thân mến, chúng ta hãy yêu thương nhau,\nvì tình yêu bắt nguồn từ Thiên Chúa.\nPhàm ai yêu thương, thì đã được Thiên Chúa sinh ra,\nvà người ấy biết Thiên Chúa.\n8 Ai không yêu thương, thì không biết Thiên Chúa,\nvì Thiên Chúa là tình yêu.\n9 Tình yêu của Thiên Chúa đối với chúng ta\nđược biểu lộ như thế này:\nThiên Chúa đã sai Con Một đến thế gian\nđể nhờ Con Một của Người mà chúng ta được sống.\n10 Tình yêu cốt ở điều này:\nkhông phải chúng ta đã yêu mến Thiên Chúa,\nnhưng chính Người đã yêu thương chúng ta,\nvà sai Con của Người đến làm của lễ đền tội cho chúng ta."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 71,1-2.3-4ab.7-8",
+          "response": "Đ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n1 Tâu Thượng Đế, xin ban quyền bính Ngài cho vị Tân Vương,\ntrao công lý Ngài vào tay Thái Tử,\n2 để Tân Vương xét xử dân Ngài theo công lý,\nvà bênh vực quyền lợi kẻ nghèo hèn.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n3 Núi đem lại cảnh hoà bình trăm họ,\nđồi rước về nền công lý vạn dân.\n4ab Người sẽ bảo toàn quyền lợi dân cùng khổ,\nra tay cứu độ kẻ khó nghèo.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n7 Triều đại Người, đua nở hoa công lý\nvà thái bình thịnh trị\ntới ngày nao tuế nguyệt chẳng còn.\n8 Người làm bá chủ từ biển này qua biển nọ,\ntừ Sông Cả đến tận cùng cõi đất.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa đã sai tôi đi loan báo Tin Mừng cho kẻ nghèo hèn,\ncông bố cho kẻ bị giam cầm biết họ được tha.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 6,34-44",
-          "text": "Khi ho&aacute; b&aacute;nh ra nhiều, Đức Gi&ecirc;-su tỏ m&igrave;nh l&agrave; ng&ocirc;n sứ.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 6,34-44\n34 Khi ấy, Đức Gi&ecirc;-su thấy một đo&agrave;n người đ&ocirc;ng đảo, th&igrave; chạnh l&ograve;ng thương, v&igrave; họ như bầy chi&ecirc;n kh&ocirc;ng người chăn dắt. V&agrave; Người bắt đầu dạy dỗ họ nhiều điều. 35 V&igrave; bấy giờ đ&atilde; kh&aacute; muộn, c&aacute;c m&ocirc;n đệ đến gần Người v&agrave; thưa: “Nơi đ&acirc;y hoang vắng v&agrave; giờ đ&atilde; kh&aacute; muộn. 36 Xin Thầy cho d&acirc;n ch&uacute;ng về, để họ v&agrave;o th&ocirc;n x&oacute;m v&agrave; l&agrave;ng mạc chung quanh m&agrave; mua g&igrave; ăn.” 37 Người đ&aacute;p: “Ch&iacute;nh anh em h&atilde;y cho họ ăn đi !” C&aacute;c &ocirc;ng n&oacute;i với Người: “Ch&uacute;ng con phải đi mua tới hai trăm quan tiền b&aacute;nh m&agrave; cho họ ăn sao ?” 38 Người bảo c&aacute;c &ocirc;ng: “Anh em c&oacute; mấy c&aacute;i b&aacute;nh ? Đi coi xem !”. Khi biết rồi, c&aacute;c &ocirc;ng thưa: “C&oacute; năm c&aacute;i b&aacute;nh v&agrave; hai con c&aacute;.” 39 Người ra lệnh cho c&aacute;c &ocirc;ng bảo mọi người ngồi th&agrave;nh từng nh&oacute;m tr&ecirc;n cỏ xanh. 40 Họ ngồi xuống th&agrave;nh từng đ&aacute;m, chỗ th&igrave; một trăm, chỗ th&igrave; năm mươi. 41 Người cầm lấy năm c&aacute;i b&aacute;nh v&agrave; hai con c&aacute;, ngước mắt l&ecirc;n trời, d&acirc;ng lời ch&uacute;c tụng, rồi bẻ b&aacute;nh ra, trao cho m&ocirc;n đệ để c&aacute;c &ocirc;ng dọn ra cho d&acirc;n ch&uacute;ng. Người cũng chia hai con c&aacute; cho mọi người. 42 Ai nấy đều ăn v&agrave; được no n&ecirc;. 43 Người ta thu lại những mẩu b&aacute;nh được mười hai th&uacute;ng đầy, c&ugrave;ng với c&aacute; c&ograve;n dư. 44 Số người ăn b&aacute;nh l&agrave; năm ng&agrave;n người đ&agrave;n &ocirc;ng."
+          "text": "Khi hoá bánh ra nhiều, Đức Giê-su tỏ mình là ngôn sứ.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 6,34-44\n34 Khi ấy, Đức Giê-su thấy một đoàn người đông đảo, thì chạnh lòng thương, vì họ như bầy chiên không người chăn dắt. Và Người bắt đầu dạy dỗ họ nhiều điều. 35 Vì bấy giờ đã khá muộn, các môn đệ đến gần Người và thưa: “Nơi đây hoang vắng và giờ đã khá muộn. 36 Xin Thầy cho dân chúng về, để họ vào thôn xóm và làng mạc chung quanh mà mua gì ăn.” 37 Người đáp: “Chính anh em hãy cho họ ăn đi!” Các ông nói với Người: “Chúng con phải đi mua tới hai trăm quan tiền bánh mà cho họ ăn sao?” 38 Người bảo các ông: “Anh em có mấy cái bánh? Đi coi xem!”. Khi biết rồi, các ông thưa: “Có năm cái bánh và hai con cá.” 39 Người ra lệnh cho các ông bảo mọi người ngồi thành từng nhóm trên cỏ xanh. 40 Họ ngồi xuống thành từng đám, chỗ thì một trăm, chỗ thì năm mươi. 41 Người cầm lấy năm cái bánh và hai con cá, ngước mắt lên trời, dâng lời chúc tụng, rồi bẻ bánh ra, trao cho môn đệ để các ông dọn ra cho dân chúng. Người cũng chia hai con cá cho mọi người. 42 Ai nấy đều ăn và được no nê. 43 Người ta thu lại những mẩu bánh được mười hai thúng đầy, cùng với cá còn dư. 44 Số người ăn bánh là năm ngàn người đàn ông."
         }
       },
       "reflection": {
@@ -288,9 +298,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/06.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/06.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/06.html"
       },
-      "updated": "2026-06-01T05:01:22.085Z"
+      "updated": "2026-06-01T09:47:05.314Z"
     },
     {
       "date": "2026-01-07",
@@ -310,21 +321,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "1",
-          "text": ""
+          "reference": "1 Ga 4,11-18",
+          "text": "Nếu chúng ta yêu thương nhau, thì Thiên Chúa ở lại trong chúng ta.\nBài trích thư thứ nhất của thánh Gio-an tông đồ.\n11 Anh em thân mến,\nnếu Thiên Chúa đã yêu thương chúng ta,\nchúng ta cũng phải yêu thương nhau.\n12 Thiên Chúa, chưa ai được chiêm ngưỡng bao giờ.\nNếu chúng ta yêu thương nhau,\nthì Thiên Chúa ở lại trong chúng ta,\nvà tình yêu của Người nơi chúng ta mới nên hoàn hảo.\n13 Căn cứ vào điều này, chúng ta biết được rằng\nchúng ta ở lại trong Người và Người ở lại trong chúng ta:\nđó là Người đã ban Thần Khí của Người cho chúng ta.\n14 Phần chúng tôi, chúng tôi đã chiêm ngưỡng\nvà làm chứng rằng: Chúa Cha đã sai Con của Người đến\nlàm Đấng cứu độ thế gian.\n15 Hễ ai tuyên xưng Đức Giê-su là Con Thiên Chúa,\nthì Thiên Chúa ở lại trong người ấy\nvà người ấy ở lại trong Thiên Chúa.\n16 Còn chúng ta, chúng ta đã biết\ntình yêu của Thiên Chúa nơi chúng ta,\nvà đã tin vào tình yêu đó.\nThiên Chúa là tình yêu:\nai ở lại trong tình yêu, thì ở lại trong Thiên Chúa,\nvà Thiên Chúa ở lại trong người ấy.\n17 Căn cứ vào điều này\nmà tình yêu đã nên hoàn hảo với chúng ta:\nđó là chúng ta được mạnh dạn trong ngày phán xét,\nvì Đức Giê-su thế nào\nthì chúng ta cũng như vậy ở thế gian này.\n18 Tình yêu không biết đến sợ hãi;\ntrái lại, tình yêu hoàn hảo loại trừ sợ hãi,\nvì sợ hãi gắn liền với hình phạt,\nvà ai sợ hãi thì không đạt tới tình yêu hoàn hảo."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 71,1-2.10-11.12-13",
+          "response": "Đ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n1 Tâu Thượng Đế, xin ban quyền bính Ngài cho vị Tân Vương,\ntrao công lý Ngài vào tay Thái Tử,\n2 để Tân Vương xét xử dân Ngài theo công lý,\nvà bênh vực quyền lợi kẻ nghèo hèn.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n10 Từ Tác-sít và hải đảo xa xăm,\nhàng vương giả sẽ về triều cống.\nCả những vua Ả-rập, Xơ-va,\ncũng đều tới tiến dâng lễ vật.\n11 Mọi quân vương phủ phục trước bệ rồng,\nmuôn dân nước thảy đều phụng sự.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n12 Người giải thoát bần dân kêu khổ\nvà kẻ khốn cùng không chỗ tựa nương,\n13 chạnh lòng thương ai bé nhỏ khó nghèo.\nMạng sống dân nghèo, Người ra tay tế độ.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLạy Chúa Ki-tô, vinh danh Chúa là Đấng được loan truyền giữa muôn dân.\nVinh danh Chúa là Đấng cả hoàn cầu tin kính.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 6,45-52",
-          "text": "C&aacute;c &ocirc;ng thấy Đức Gi&ecirc;-su đi tr&ecirc;n mặt biển.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 6,45-52"
+          "text": "Các ông thấy Đức Giê-su đi trên mặt biển.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 6,45-52\n45 Sau khi cho năm ngàn người được ăn no nê, lập tức, Đức Giê-su bắt các môn đệ xuống thuyền qua bờ bên kia trước, về phía thành Bết-xai-đa, trong lúc Người giải tán đám đông. 46 Sau khi cho họ đi, Người lên núi cầu nguyện. 47 Chiều đến, chiếc thuyền đang ở giữa biển hồ, chỉ còn một mình Người ở trên đất. 48 Người thấy các ông phải vất vả chèo chống vì gió ngược, nên vào khoảng canh tư đêm ấy, Người đi trên mặt biển mà đến với các ông, và Người định vượt các ông. 49 Nhưng khi các ông thấy Người đi trên mặt biển, lại tưởng là ma, thì la lên. 50 Quả thế, tất cả các ông đều nhìn thấy Người và đều hoảng hốt. Lập tức, Người bảo các ông: “Cứ yên tâm, chính Thầy đây, đừng sợ!” 51 Người lên thuyền với các ông, và gió lặng. Các ông cảm thấy bàng hoàng sửng sốt, 52 vì các ông đã không hiểu phép lạ bánh hoá nhiều: lòng các ông còn chai đá!"
         }
       },
       "reflection": {
@@ -334,9 +345,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/07.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/07.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/07.html"
       },
-      "updated": "2026-06-01T05:01:22.438Z"
+      "updated": "2026-06-01T09:47:05.348Z"
     },
     {
       "date": "2026-01-08",
@@ -356,21 +368,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "1",
-          "text": ""
+          "reference": "1 Ga 4,19 - 5,4",
+          "text": "Ai yêu mến Thiên Chúa, thì cũng yêu thương anh em mình.\nBài trích thư thứ nhất của thánh Gio-an tông đồ.\n4 19 Anh em thân mến,\nchúng ta yêu mến Thiên Chúa,\nvì Thiên Chúa đã yêu thương chúng ta trước.\n20 Nếu ai nói: “Tôi yêu mến Thiên Chúa”\nmà lại ghét anh em mình, người ấy là kẻ nói dối;\nvì ai không yêu thương người anh em mà họ trông thấy,\nthì không thể yêu mến Thiên Chúa\nmà họ không trông thấy.\n21 Đây là điều răn mà chúng ta đã nhận được từ Người:\nai yêu mến Thiên Chúa, thì cũng yêu thương anh em mình.\n5 1 Phàm ai tin rằng Đức Giê-su là Đấng Ki-tô,\nkẻ ấy đã được Thiên Chúa sinh ra.\nVà ai yêu mến Đấng sinh thành,\nthì cũng yêu thương kẻ được Đấng ấy sinh ra.\n2 Căn cứ vào điều này, chúng ta biết được\nmình yêu thương con cái Thiên Chúa:\nđó là chúng ta yêu mến Thiên Chúa\nvà thi hành các điều răn của Người.\n3 Quả thật, yêu mến Thiên Chúa\nlà tuân giữ các điều răn của Người.\nMà các điều răn của Người có nặng nề gì đâu,\n4 vì mọi kẻ đã được Thiên Chúa sinh ra đều thắng được thế gian.\nVà điều làm cho chúng ta thắng được thế gian,\nđó là lòng tin của chúng ta."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 71,1-2.13b-14",
+          "response": "Đ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n1 Tâu Thượng Đế, xin ban quyền bính Ngài cho vị Tân Vương,\ntrao công lý Ngài vào tay Thái Tử,\n2 để Tân Vương xét xử dân Ngài theo công lý,\nvà bênh vực quyền lợi kẻ nghèo hèn.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n13b Mạng sống dân nghèo, Người ra tay tế độ\n14 giải thoát cho khỏi áp bức bạo tàn,\ntừng giọt máu họ, Người đều coi là quý.\n15bc Thiên hạ sẽ đem vàng Ả-rập tiến dâng lên,\nvà cầu xin cho Người luôn mãi.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài.\n17 Danh thơm Người sẽ trường tồn vạn kỷ,\nnức tiếng gần xa dưới ánh mặt trời.\nƯớc gì mọi sắc tộc trần gian, nhờ Người được chúc lành,\nvà muôn dân thiên hạ ngợi khen Người có phúc.\nĐ. Lạy Chúa, muôn dân nước sẽ thờ lạy Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa đã sai tôi đi loan báo Tin Mừng cho kẻ nghèo hèn,\ncông bố cho kẻ bị giam cầm biết họ được tha.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Lc 4,14-22a",
-          "text": "H&ocirc;m nay đ&atilde; ứng nghiệm lời Kinh Th&aacute;nh qu&yacute; vị vừa nghe.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 4,14-22a\n14 Khi ấy, được đầy quyền năng Thần Kh&iacute;, Đức Gi&ecirc;-su trở về miền Ga-li-l&ecirc;, v&agrave; tiếng đồn Người lan ra khắp v&ugrave;ng l&acirc;n cận. 15 Người giảng dạy trong c&aacute;c hội đường của họ, v&agrave; được mọi người t&ocirc;n vinh.\n16 Rồi Đức Gi&ecirc;-su đến Na-da-r&eacute;t, l&agrave; nơi Người đ&atilde; được dưỡng dục. Người v&agrave;o hội đường như Người vẫn quen l&agrave;m trong ng&agrave;y sa-b&aacute;t, v&agrave; đứng l&ecirc;n đọc S&aacute;ch Th&aacute;nh. 17 Họ trao cho Người cuốn s&aacute;ch ng&ocirc;n sứ I-sai-a. Người mở ra, gặp đoạn ch&eacute;p rằng: 18 Thần Kh&iacute; Đức Ch&uacute;a ngự tr&ecirc;n t&ocirc;i, v&igrave; Ch&uacute;a đ&atilde; xức dầu tấn phong t&ocirc;i, để t&ocirc;i loan b&aacute;o Tin Mừng cho kẻ ngh&egrave;o h&egrave;n. Người đ&atilde; sai t&ocirc;i đi c&ocirc;ng bố cho kẻ bị giam cầm biết họ được tha, cho người m&ugrave; biết họ được s&aacute;ng mắt, trả lại tự do cho người bị &aacute;p bức, 19 c&ocirc;ng bố một năm hồng &acirc;n của Đức Ch&uacute;a.\n20 Đức Gi&ecirc;-su cuộn s&aacute;ch lại, trả cho người gi&uacute;p việc hội đường rồi ngồi xuống. Trong hội đường, trăm con mắt đều đổ dồn về ph&iacute;a Người. 21 Người bắt đầu n&oacute;i với họ: “H&ocirc;m nay đ&atilde; ứng nghiệm lời Kinh Th&aacute;nh tai qu&yacute; vị vừa nghe.” 22a Mọi người đều t&aacute;n th&agrave;nh v&agrave; th&aacute;n phục những lời &acirc;n sủng từ miệng Người n&oacute;i ra."
+          "text": "Hôm nay đã ứng nghiệm lời Kinh Thánh quý vị vừa nghe.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Lu-ca. Lc 4,14-22a\n14 Khi ấy, được đầy quyền năng Thần Khí, Đức Giê-su trở về miền Ga-li-lê, và tiếng đồn Người lan ra khắp vùng lân cận. 15 Người giảng dạy trong các hội đường của họ, và được mọi người tôn vinh.\n16 Rồi Đức Giê-su đến Na-da-rét, là nơi Người đã được dưỡng dục. Người vào hội đường như Người vẫn quen làm trong ngày sa-bát, và đứng lên đọc Sách Thánh. 17 Họ trao cho Người cuốn sách ngôn sứ I-sai-a. Người mở ra, gặp đoạn chép rằng: 18 Thần Khí Đức Chúa ngự trên tôi, vì Chúa đã xức dầu tấn phong tôi, để tôi loan báo Tin Mừng cho kẻ nghèo hèn. Người đã sai tôi đi công bố cho kẻ bị giam cầm biết họ được tha, cho người mù biết họ được sáng mắt, trả lại tự do cho người bị áp bức, 19 công bố một năm hồng ân của Đức Chúa.\n20 Đức Giê-su cuộn sách lại, trả cho người giúp việc hội đường rồi ngồi xuống. Trong hội đường, trăm con mắt đều đổ dồn về phía Người. 21 Người bắt đầu nói với họ: “Hôm nay đã ứng nghiệm lời Kinh Thánh tai quý vị vừa nghe.” 22a Mọi người đều tán thành và thán phục những lời ân sủng từ miệng Người nói ra."
         }
       },
       "reflection": {
@@ -380,9 +392,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/08.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/08.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/08.html"
       },
-      "updated": "2026-06-01T05:01:22.797Z"
+      "updated": "2026-06-01T09:47:05.457Z"
     },
     {
       "date": "2026-01-09",
@@ -402,21 +415,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "1",
-          "text": ""
+          "reference": "1 Ga 5,5-13",
+          "text": "Thần Khí, nước và máu.\nBài trích thư thứ nhất của thánh Gio-an tông đồ.\n5 Anh em thân mến,\nai là kẻ thắng được thế gian,\nnếu không phải là người tin rằng\nĐức Giê-su là Con Thiên Chúa?\n6 Chính Đức Giê-su Ki-tô là Đấng đã đến, nhờ nước và máu;\nkhông phải chỉ trong nước mà thôi,\nnhưng trong nước và trong máu.\nChính Thần Khí là chứng nhân,\nvà Thần Khí là sự thật.\n7 Có ba chứng nhân:\n8 Thần Khí, nước, và máu.\nCả ba cùng làm chứng một điều.\n9 Chúng ta vẫn nhận lời chứng của người phàm,\nthế mà lời chứng của Thiên Chúa còn cao trọng hơn,\nvì đó là lời chứng của Thiên Chúa,\nlời Thiên Chúa đã làm chứng về Con của Người.\n10 Ai tin vào Con Thiên Chúa,\nngười đó có lời chứng ấy nơi mình.\nAi không tin Thiên Chúa,\nthì coi Thiên Chúa là kẻ nói dối,\nvì kẻ ấy không tin vào lời Thiên Chúa\nđã làm chứng về Con của Người.\n11 Lời chứng đó là thế này:\nThiên Chúa đã ban cho chúng ta sự sống đời đời,\nvà sự sống ấy ở trong Con của Người.\n12 Ai có Chúa Con thì có sự sống;\nai không có Con Thiên Chúa thì không có sự sống.\n13 Tôi đã viết những điều đó cho anh em\nlà những người tin vào danh Con Thiên Chúa,\nđể anh em biết rằng anh em có sự sống đời đời."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 147,12-13.14-15.19-20",
+          "response": "Đ. Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!\n12 Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!\nNày Xi-on, hãy ca ngợi Thiên Chúa của ngươi!\n13 Then cửa nhà ngươi, Chúa làm cho thêm chắc,\ncon cái trong thành, Người giáng phúc thi ân.\nĐ. Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!\n14 Cõi biên cương, Người thiết lập hoà bình,\nvà cho ngươi no đầy lúa mì tinh hảo.\n15 Người tống đạt lệnh truyền xuống đất,\nlời phán ra, hoả tốc chạy đi.\nĐ. Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!\n19 Chúa bày tỏ lời Người cho nhà Gia-cóp,\nchiếu chỉ luật điều cho Ít-ra-en.\n20 Chúa không đối xử với dân nào như vậy,\nkhông cho họ biết những điều luật của Người.\nĐ. Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!"
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐức Giê-su rao giảng Tin Mừng Nước Trời,\nvà chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Lc 5,12-16",
-          "text": "Lập tức, chứng phong hủi biến khỏi anh.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 5,12-16\n12 Khi ấy, Đức Gi&ecirc;-su đang ở trong một th&agrave;nh kia; c&oacute; một người to&agrave;n th&acirc;n mắc bệnh phong vừa thấy Người, liền sấp mặt xuống, xin Người rằng: “Thưa Ng&agrave;i, nếu Ng&agrave;i muốn, Ng&agrave;i c&oacute; thể l&agrave;m cho t&ocirc;i được sạch.” 13 Người giơ tay đụng v&agrave;o anh v&agrave; bảo: “T&ocirc;i muốn, anh h&atilde;y được sạch.” Lập tức, bệnh phong biến khỏi anh. 14 Rồi Người ra lệnh cho anh kh&ocirc;ng được n&oacute;i với ai, v&agrave; Người bảo: “H&atilde;y đi tr&igrave;nh diện tư tế, v&agrave; v&igrave; anh đ&atilde; được sạch, th&igrave; h&atilde;y d&acirc;ng của lễ như &ocirc;ng M&ocirc;-s&ecirc; đ&atilde; truyền, để l&agrave;m chứng cho người ta biết.”"
+          "text": "Lập tức, chứng phong hủi biến khỏi anh.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Lu-ca. Lc 5,12-16\n12 Khi ấy, Đức Giê-su đang ở trong một thành kia; có một người toàn thân mắc bệnh phong vừa thấy Người, liền sấp mặt xuống, xin Người rằng: “Thưa Ngài, nếu Ngài muốn, Ngài có thể làm cho tôi được sạch.” 13 Người giơ tay đụng vào anh và bảo: “Tôi muốn, anh hãy được sạch.” Lập tức, bệnh phong biến khỏi anh. 14 Rồi Người ra lệnh cho anh không được nói với ai, và Người bảo: “Hãy đi trình diện tư tế, và vì anh đã được sạch, thì hãy dâng của lễ như ông Mô-sê đã truyền, để làm chứng cho người ta biết.”\n15 Tiếng đồn về Người ngày càng lan rộng; dân chúng lũ lượt tuôn đến để nghe Người và để được chữa bệnh. 16 Nhưng Người lui vào những nơi hoang vắng mà cầu nguyện."
         }
       },
       "reflection": {
@@ -426,9 +439,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/09.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/09.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/09.html"
       },
-      "updated": "2026-06-01T05:01:23.143Z"
+      "updated": "2026-06-01T09:47:05.468Z"
     },
     {
       "date": "2026-01-10",
@@ -448,21 +462,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "1",
-          "text": ""
+          "reference": "1 Ga 5,14-21",
+          "text": "Chúa nhậm lời chúng ta, khi chúng ta xin điều hợp ý Người.\nBài trích thư thứ nhất của thánh Gio-an tông đồ.\n14 Anh em thân mến,\nlý do khiến chúng ta được mạnh dạn\ntrước mặt Thiên Chúa, đó là:\nNgười nhậm lời chúng ta, khi chúng ta xin điều gì hợp ý Người.\n15 Nếu chúng ta biết rằng Người nhậm mọi lời chúng ta xin,\nthì chúng ta cũng biết rằng\nchúng ta sẽ được những gì chúng ta đã xin Người.\n16 Nếu ai biết anh em mình phạm thứ tội\nkhông đưa đến cái chết, thì hãy cầu xin,\nvà Thiên Chúa sẽ ban sự sống cho người anh em ấy;\nđó là nói về những ai phạm thứ tội không đưa đến cái chết.\nCó một thứ tội đưa đến cái chết,\ntôi không bảo phải cầu xin cho những người phạm thứ tội ấy.\n17 Mọi điều bất chính đều là tội,\nnhưng có một thứ tội không đưa đến cái chết.\n18 Chúng ta biết rằng phàm ai đã được Thiên Chúa sinh ra,\nngười đó không phạm tội;\nnhưng có Đấng Thiên Chúa đã sinh ra giữ gìn người ấy,\nvà Ác thần không đụng đến người ấy được.\n19 Chúng ta biết rằng chúng ta thuộc về Thiên Chúa,\ncòn tất cả thế gian đều nằm dưới ách thống trị của Ác thần.\n20 Chúng ta biết rằng Con Thiên Chúa đã đến\nvà ban cho chúng ta trí khôn để biết Thiên Chúa thật.\nChúng ta ở trong Thiên Chúa thật,\nở trong Con của Người là Đức Giê-su Ki-tô.\nĐức Giê-su Ki-tô là Thiên Chúa thật và là sự sống đời đời.\n21 Hỡi anh em là những người con bé nhỏ,\nhãy tránh xa các tà thần!"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 149,1-2.3-4.5-6a",
+          "response": "Đ. Chúa mến chuộng dân Người.\n1 Hát lên mừng Chúa một bài ca mới,\nngợi khen Người trong cộng đoàn những kẻ hiếu trung!\n2 Hỡi Ít-ra-en, nào hoan hỷ,\nvì có Chúa là Đấng tạo thành ngươi.\nCon cái Xi-on, hãy nhảy mừng,\nvì được Chúa làm Vua hiển trị.\nĐ. Chúa mến chuộng dân Người.\n3 Mừng Thánh Danh, nào dâng điệu vũ,\nnhịp trống hoạ đàn theo khúc hoan ca.\n4 Bởi vì Chúa mến chuộng dân Người,\nban cho kẻ nghèo hèn được vẻ vang chiến thắng.\nĐ. Chúa mến chuộng dân Người.\n5 Kẻ hiếu trung hãy vui mừng rạng rỡ,\nnào phủ phục mà cất tiếng reo hò,\n6a miệng vang lời tán dương Thiên Chúa.\n9b Đó là niềm vinh dự cho mọi kẻ trung hiếu với Người.\nĐ. Chúa mến chuộng dân Người."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐoàn dân đang ngồi trong cảnh tối tăm, đã thấy một ánh sáng huy hoàng,\nnhững kẻ đang ngồi trong vùng bóng tối của tử thần, nay được ánh sáng bừng lên chiếu rọi.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 3,22-30",
-          "text": "Người bạn của ch&uacute; rể vui mừng hớn hở v&igrave; được nghe tiếng n&oacute;i của ch&agrave;ng.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 3,22-30\n22 Khi ấy, Đức Gi&ecirc;-su v&agrave; c&aacute;c m&ocirc;n đệ đi tới miền Giu-đ&ecirc;. Người ở lại nơi ấy với c&aacute;c &ocirc;ng v&agrave; l&agrave;m ph&eacute;p rửa. 23 C&ograve;n &ocirc;ng Gio-an, &ocirc;ng cũng đang l&agrave;m ph&eacute;p rửa tại &Ecirc;-n&ocirc;n, gần Sa-lim, v&igrave; ở đấy c&oacute; nhiều nước, v&agrave; người ta thường đến chịu ph&eacute;p rửa. 24 L&uacute;c ấy, &ocirc;ng Gio-an chưa bị tống giam.\n25 Bấy giờ, c&oacute; một cuộc tranh luận xảy ra giữa c&aacute;c m&ocirc;n đệ của &ocirc;ng Gio-an v&agrave; một người Do-th&aacute;i về việc thanh tẩy. 26 Họ đến gặp &ocirc;ng Gio-an v&agrave; n&oacute;i: “Thưa thầy, người trước đ&acirc;y đ&atilde; ở với thầy b&ecirc;n kia s&ocirc;ng Gio-đan v&agrave; được thầy l&agrave;m chứng cho, b&acirc;y giờ &ocirc;ng ấy cũng đang l&agrave;m ph&eacute;p rửa, v&agrave; thi&ecirc;n hạ đều đến với &ocirc;ng.” 27 &Ocirc;ng Gio-an trả lời: “Chẳng ai c&oacute; thể nhận được g&igrave; m&agrave; kh&ocirc;ng do Trời ban. 28 Ch&iacute;nh anh em l&agrave;m chứng cho thầy l&agrave; thầy đ&atilde; n&oacute;i: ‘T&ocirc;i đ&acirc;y kh&ocirc;ng phải l&agrave; Đấng Ki-t&ocirc;, m&agrave; l&agrave; kẻ được sai đi trước mặt Người.’ 29 Ai cưới c&ocirc; d&acirc;u, người ấy l&agrave; ch&uacute; rể. C&ograve;n người bạn của ch&uacute; rể đứng đ&oacute; nghe ch&agrave;ng, th&igrave; vui mừng hớn hở v&igrave; được nghe tiếng n&oacute;i của ch&agrave;ng. Đ&oacute; l&agrave; niềm vui của thầy, niềm vui ấy b&acirc;y giờ đ&atilde; trọn vẹn. 30 Người phải nổi bật l&ecirc;n, c&ograve;n thầy phải lu mờ đi.”"
+          "text": "Người bạn của chú rể vui mừng hớn hở vì được nghe tiếng nói của chàng.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 3,22-30\n22 Khi ấy, Đức Giê-su và các môn đệ đi tới miền Giu-đê. Người ở lại nơi ấy với các ông và làm phép rửa. 23 Còn ông Gio-an, ông cũng đang làm phép rửa tại Ê-nôn, gần Sa-lim, vì ở đấy có nhiều nước, và người ta thường đến chịu phép rửa. 24 Lúc ấy, ông Gio-an chưa bị tống giam.\n25 Bấy giờ, có một cuộc tranh luận xảy ra giữa các môn đệ của ông Gio-an và một người Do-thái về việc thanh tẩy. 26 Họ đến gặp ông Gio-an và nói: “Thưa thầy, người trước đây đã ở với thầy bên kia sông Gio-đan và được thầy làm chứng cho, bây giờ ông ấy cũng đang làm phép rửa, và thiên hạ đều đến với ông.” 27 Ông Gio-an trả lời: “Chẳng ai có thể nhận được gì mà không do Trời ban. 28 Chính anh em làm chứng cho thầy là thầy đã nói: ‘Tôi đây không phải là Đấng Ki-tô, mà là kẻ được sai đi trước mặt Người.’ 29 Ai cưới cô dâu, người ấy là chú rể. Còn người bạn của chú rể đứng đó nghe chàng, thì vui mừng hớn hở vì được nghe tiếng nói của chàng. Đó là niềm vui của thầy, niềm vui ấy bây giờ đã trọn vẹn. 30 Người phải nổi bật lên, còn thầy phải lu mờ đi.”"
         }
       },
       "reflection": {
@@ -472,9 +486,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/10.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/10.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/10.html"
       },
-      "updated": "2026-06-01T05:01:23.526Z"
+      "updated": "2026-06-01T09:47:05.565Z"
     },
     {
       "date": "2026-01-11",
@@ -494,21 +509,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Is 42,1-4.6-7 Cv 10,34-38",
-          "text": ""
+          "reference": "Is 42,1-4.6-7",
+          "text": "Đây là người tôi trung Ta hết lòng quý mến.\nBài trích sách ngôn sứ I-sai-a.\n1 Đức Chúa phán:\n“Đây là người tôi trung Ta nâng đỡ,\nlà người Ta tuyển chọn và hết lòng quý mến,\nTa cho thần khí Ta ngự trên người;\nngười sẽ làm sáng tỏ công lý trước muôn dân.\n2 Người sẽ không kêu to, không nói lớn,\nkhông để ai nghe tiếng giữa phố phường.\n3 Cây lau bị giập, người không đành bẻ gẫy,\ntim đèn leo lét, cũng chẳng nỡ tắt đi.\nNgười sẽ trung thành làm sáng tỏ công lý.\n4 Người không yếu hèn, không chịu phục,\ncho đến khi thiết lập công lý trên địa cầu.\nDân các hải đảo xa xăm đều mong được người chỉ bảo.\n6 Ta là Đức Chúa, Ta đã gọi ngươi,\nvì muốn làm sáng tỏ đức công chính của Ta.\nTa đã nắm tay ngươi,\nđã gìn giữ ngươi và đặt làm giao ước với dân,\nlàm ánh sáng chiếu soi muôn nước,\n7 để mở mắt cho những ai mù loà,\nđưa ra khỏi tù những người bị giam giữ,\ndẫn ra khỏi ngục những kẻ ngồi trong chốn tối tăm.”"
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "Cv 10,34-38",
+          "text": "Thiên Chúa đã dùng Thánh Thần mà xức dầu tấn phong Người.\nBài trích sách Công vụ Tông Đồ.\n34 Khi ấy, ông Phê-rô lên tiếng nói: “Quả thật, tôi biết rõ Thiên Chúa không thiên vị người nào. 35 Nhưng hễ ai kính sợ Thiên Chúa và ăn ngay ở lành, thì dù thuộc bất cứ dân tộc nào, cũng đều được Người tiếp nhận.\n36 “Người đã gửi đến cho con cái nhà Ít-ra-en lời loan báo Tin Mừng bình an, nhờ Đức Giê-su Ki-tô, là Chúa của mọi người. 37 Quý vị biết rõ biến cố đã xảy ra trong toàn cõi Giu-đê, bắt đầu từ miền Ga-li-lê, sau phép rửa mà ông Gio-an rao giảng. 38 Quý vị biết rõ: Đức Giê-su xuất thân từ Na-da-rét, Thiên Chúa đã dùng Thánh Thần và quyền năng mà xức dầu tấn phong Người. Đi tới đâu là Người thi ân giáng phúc tới đó, và chữa lành mọi kẻ bị ma quỷ kiềm chế, bởi vì Thiên Chúa ở với Người.”"
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 28,1a",
+          "response": "Đ. Xin Chúa tuôn đổ phúc lành cho dân hưởng bình an.\n1a Hãy dâng Chúa, hỡi chư thần chư thánh,\n2 Hãy dâng Chúa vinh quang xứng danh Người,\nvà thờ lạy Chúa uy nghiêm thánh thiện.\nĐ. Xin Chúa tuôn đổ phúc lành cho dân hưởng bình an.\n3ac Tiếng Chúa rền vang trên sóng nước,\nChúa ngự trên nước lũ mênh mông.\n4 Tiếng Chúa thật hùng mạnh!\nTiếng Chúa thật uy nghiêm!\nĐ. Xin Chúa tuôn đổ phúc lành cho dân hưởng bình an.\n3b Thiên Chúa hiển vinh cho sấm nổ ầm ầm,\n9b còn trong thánh điện Người,\ntất cả cùng hô: “Vinh danh Chúa!\n” 10 Chúa ngự trị trên cơn hồng thuỷ,\nChúa là Vua ngự trị muôn đời.\nĐ. Xin Chúa tuôn đổ phúc lành cho dân hưởng bình an."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nCác tầng trời mở ra, và có tiếng Chúa Cha phán dạy:\nĐây là Con Ta yêu dấu, hãy vâng nghe lời Người.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mt 3,13-17",
-          "text": "Chịu ph&eacute;p rửa xong, Đức Gi&ecirc;-su thấy Thần Kh&iacute; Thi&ecirc;n Ch&uacute;a đến ngự tr&ecirc;n Người.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 3,13-17\n13 Bấy giờ Đức Gi&ecirc;-su từ miền Ga-li-l&ecirc; đến s&ocirc;ng Gio-đan, gặp &ocirc;ng Gio-an để xin &ocirc;ng l&agrave;m ph&eacute;p rửa cho m&igrave;nh. 14 Nhưng &ocirc;ng một mực can Người v&agrave; n&oacute;i: “Ch&iacute;nh t&ocirc;i mới cần được Ng&agrave;i l&agrave;m ph&eacute;p rửa, thế m&agrave; Ng&agrave;i lại đến với t&ocirc;i !” 15 Nhưng Đức Gi&ecirc;-su trả lời: “B&acirc;y giờ cứ thế đ&atilde;. V&igrave; ch&uacute;ng ta n&ecirc;n l&agrave;m như vậy để giữ trọn đức c&ocirc;ng ch&iacute;nh.” Bấy giờ &ocirc;ng Gio-an mới chiều theo &yacute; Người.\n16 Khi Đức Gi&ecirc;-su vừa chịu ph&eacute;p rửa xong, Người l&ecirc;n khỏi nước. L&uacute;c ấy c&aacute;c tầng trời mở ra; Người thấy Thần Kh&iacute; Thi&ecirc;n Ch&uacute;a đ&aacute;p xuống như chim bồ c&acirc;u v&agrave; ngự tr&ecirc;n Người. 17 V&agrave; c&oacute; tiếng từ trời ph&aacute;n rằng: “Đ&acirc;y l&agrave; Con y&ecirc;u dấu của Ta, Ta h&agrave;i l&ograve;ng về Người.”"
+          "text": "Chịu phép rửa xong, Đức Giê-su thấy Thần Khí Thiên Chúa đến ngự trên Người.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mát-thêu. Mt 3,13-17\n13 Bấy giờ Đức Giê-su từ miền Ga-li-lê đến sông Gio-đan, gặp ông Gio-an để xin ông làm phép rửa cho mình. 14 Nhưng ông một mực can Người và nói: “Chính tôi mới cần được Ngài làm phép rửa, thế mà Ngài lại đến với tôi!” 15 Nhưng Đức Giê-su trả lời: “Bây giờ cứ thế đã. Vì chúng ta nên làm như vậy để giữ trọn đức công chính.” Bấy giờ ông Gio-an mới chiều theo ý Người.\n16 Khi Đức Giê-su vừa chịu phép rửa xong, Người lên khỏi nước. Lúc ấy các tầng trời mở ra; Người thấy Thần Khí Thiên Chúa đáp xuống như chim bồ câu và ngự trên Người. 17 Và có tiếng từ trời phán rằng: “Đây là Con yêu dấu của Ta, Ta hài lòng về Người.”"
         }
       },
       "reflection": {
@@ -522,9 +537,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/11.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/11.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/11.html"
       },
-      "updated": "2026-06-01T05:01:23.885Z"
+      "updated": "2026-06-01T09:47:05.511Z"
     },
     {
       "date": "2026-01-12",
@@ -545,20 +561,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 1,1-8",
-          "text": ""
+          "text": "Đối thủ của bà An-na hạ nhục bà, vì Đức Chúa đã làm cho bà không sinh sản được.\nKhởi đầu sách Sa-mu-en quyển thứ nhất.\n1 Có một người quê thành Ra-ma-tha-gim Xô-phim, thuộc miền núi Ép-ra-im, tên là En-ca-na, con ông Giơ-rô-kham; ông Giơ-rô-kham là con ông Ê-li-hu, ông Ê-li-hu là con ông Tô-khu, ông Tô-khu là con ông Xúp, người Ép-ra-tha. 2 Người ấy có hai vợ, một bà tên là An-na, một bà tên là Pơ-nin-na. Bà Pơ-nin-na có con, còn bà An-na thì không. 3 Hằng năm, người ấy từ thành mình lên thờ lạy và dâng hy lễ cho Đức Chúa các đạo binh tại Si-lô. Ở đó có hai con trai ông Ê-li là Khóp-ni và Pin-khát làm tư tế của Đức Chúa.\n4 Đến ngày ông En-ca-na dâng hy lễ, ông thường chia các phần cho bà Pơ-nin-na, vợ ông, và cho các con trai con gái bà ấy. 5 Còn bà An-na, thì ông chia cho một phần ngon, vì ông yêu bà, mặc dù Đức Chúa đã làm cho bà không sinh sản được. 6 Bà kia, đối thủ của bà, cứ chọc tức bà, để hạ nhục bà, vì Đức Chúa đã làm cho bà không sinh sản được. 7 Ông chồng vẫn làm như thế năm này qua năm nọ, mỗi lần bà lên Nhà của Đức Chúa; còn bà kia cứ chọc tức bà như thế. Bà khóc và không chịu ăn. 8 Ông En-ca-na, chồng bà, bảo bà: “An-na, sao em khóc? Sao em không chịu ăn? Sao lòng em rầu rĩ vậy? Đối với em, anh lại không hơn mười đứa con trai sao?”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 115,12-13.16-17.18-19",
+          "response": "Đ. Lạy Chúa, con sẽ dâng lễ tế tạ ơn Ngài.\n12 Biết lấy chi đền đáp Chúa bây giờ\nvì mọi ơn lành Người đã ban cho?\n13 Tôi xin nâng chén mừng ơn cứu độ\nvà kêu cầu thánh danh Đức Chúa.\nĐ. Lạy Chúa, con sẽ dâng lễ tế tạ ơn Ngài.\n16 Vâng lạy Chúa, thân này là tôi tớ,\ntôi tớ Ngài, con của nữ tỳ Ngài,\nxiềng xích trói buộc con, Ngài đã tháo cởi. 1\n7 Con sẽ dâng lễ tế tạ ơn,\nvà kêu cầu thánh danh Đức Chúa.\nĐ. Lạy Chúa, con sẽ dâng lễ tế tạ ơn Ngài.\n18 Lời khấn nguyền với Chúa, tôi xin giữ trọn,\ntrước toàn thể dân Người,\n19 tại khuôn viên đền Chúa, giữa lòng ngươi,\nhỡi Giê-ru-sa-lem!\nĐ. Lạy Chúa, con sẽ dâng lễ tế tạ ơn Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: Triều đại Thiên Chúa đã đến gần.\nAnh em hãy sám hối và tin vào Tin Mừng.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 1,14-20",
-          "text": "Anh em h&atilde;y s&aacute;m hối v&agrave; tin v&agrave;o Tin Mừng.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 1,14-20\n14 Sau khi &ocirc;ng Gio-an bị nộp, Đức Gi&ecirc;-su đến miền Ga-li-l&ecirc; rao giảng Tin Mừng của Thi&ecirc;n Ch&uacute;a. 15 Người n&oacute;i: “Thời kỳ đ&atilde; m&atilde;n, v&agrave; Triều Đại Thi&ecirc;n Ch&uacute;a đ&atilde; đến gần. Anh em h&atilde;y s&aacute;m hối v&agrave; tin v&agrave;o Tin Mừng.”\n16 Người đang đi dọc theo biển hồ Ga-li-l&ecirc;, th&igrave; thấy &ocirc;ng Si-m&ocirc;n với người anh l&agrave; &ocirc;ng An-r&ecirc;, đang quăng lưới xuống biển, v&igrave; c&aacute;c &ocirc;ng l&agrave;m nghề đ&aacute;nh c&aacute;. 17 Người bảo c&aacute;c &ocirc;ng: “C&aacute;c anh h&atilde;y đi theo t&ocirc;i, t&ocirc;i sẽ l&agrave;m cho c&aacute;c anh trở th&agrave;nh những kẻ lưới người như lưới c&aacute;.” 18 Lập tức hai &ocirc;ng bỏ ch&agrave;i lưới m&agrave; theo Người.\n19 Đi xa hơn một ch&uacute;t, Người thấy &ocirc;ng Gia-c&ocirc;-b&ecirc;, con &ocirc;ng D&ecirc;-b&ecirc;-đ&ecirc;, v&agrave; người em l&agrave; &ocirc;ng Gio-an. Hai &ocirc;ng n&agrave;y đang v&aacute; lưới ở trong thuyền. 20 Người liền gọi c&aacute;c &ocirc;ng. V&agrave; c&aacute;c &ocirc;ng bỏ cha m&igrave;nh l&agrave; &ocirc;ng D&ecirc;-b&ecirc;-đ&ecirc; ở lại tr&ecirc;n thuyền với những người l&agrave;m c&ocirc;ng, m&agrave; đi theo Người."
+          "text": "Anh em hãy sám hối và tin vào Tin Mừng.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 1,14-20\n14 Sau khi ông Gio-an bị nộp, Đức Giê-su đến miền Ga-li-lê rao giảng Tin Mừng của Thiên Chúa. 15 Người nói: “Thời kỳ đã mãn, và Triều Đại Thiên Chúa đã đến gần. Anh em hãy sám hối và tin vào Tin Mừng.”\n16 Người đang đi dọc theo biển hồ Ga-li-lê, thì thấy ông Si-môn với người anh là ông An-rê, đang quăng lưới xuống biển, vì các ông làm nghề đánh cá. 17 Người bảo các ông: “Các anh hãy đi theo tôi, tôi sẽ làm cho các anh trở thành những kẻ lưới người như lưới cá.” 18 Lập tức hai ông bỏ chài lưới mà theo Người.\n19 Đi xa hơn một chút, Người thấy ông Gia-cô-bê, con ông Dê-bê-đê, và người em là ông Gio-an. Hai ông này đang vá lưới ở trong thuyền. 20 Người liền gọi các ông. Và các ông bỏ cha mình là ông Dê-bê-đê ở lại trên thuyền với những người làm công, mà đi theo Người."
         }
       },
       "reflection": {
@@ -568,9 +584,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/12.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/12.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/12.html"
       },
-      "updated": "2026-06-01T05:01:24.226Z"
+      "updated": "2026-06-01T09:47:05.569Z"
     },
     {
       "date": "2026-01-13",
@@ -591,20 +608,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 1,9-20",
-          "text": ""
+          "text": "Đức Chúa đã nhớ đến bà An-na và bà đã sinh ra Sa-mu-en.\nBài trích sách Sa-mu-en quyển thứ nhất.\n9 Hôm ấy, bà An-na đứng dậy sau khi đã ăn uống tại Si-lô. Tư tế Ê-li đang ngồi trên ghế ở cửa đền thờ Đức Chúa. 10 Tâm hồn cay đắng, bà cầu nguyện với Đức Chúa và khóc nức nở. 11 Bà khấn hứa rằng: “Lạy Đức Chúa các đạo binh, nếu Ngài đoái nhìn đến nỗi khổ cực của nữ tỳ Ngài đây, nếu Ngài nhớ đến con và không quên nữ tỳ Ngài, nếu Ngài cho nữ tỳ Ngài một mụn con trai, thì con sẽ dâng nó cho Đức Chúa mọi ngày đời nó, và dao cạo sẽ không đụng tới đầu nó.”\n12 Vì bà cầu nguyện lâu giờ trước nhan Đức Chúa, nên ông Ê-li để ý quan sát bà. 13 Bà An-na thầm thĩ trong lòng: chỉ có môi bà mấp máy, không ai nghe thấy tiếng bà. Ông Ê-li nghĩ rằng bà say rượu. 14 Ông Ê-li bảo bà: “Bà còn say đến bao giờ? Hãy lo dã rượu đi!” 15 Bà An-na trả lời: “Không, thưa ngài, tôi chỉ là một người đàn bà tâm thần đau khổ. Tôi đã không uống rượu và đồ uống có men, mà chỉ thổ lộ tâm can trước nhan Đức Chúa. 16 Xin đừng coi nữ tỳ ngài đây là đứa vô lại: chỉ vì quá lo âu phiền muộn mà tôi đã cầu nguyện cho đến bây giờ.” 17 Ông Ê-li trả lời: “Bà hãy đi về bình an. Xin Thiên Chúa của Ít-ra-en ban cho bà điều bà đã xin Người!” 18 Bà thưa: “Ước chi nữ tỳ của ngài đây được đẹp lòng ngài!” Rồi người đàn bà ra đi; bà dùng bữa, và nét mặt bà không còn như trước nữa.\n19 Hôm sau, họ thức dậy từ sớm; họ đến sụp lạy trước nhan Đức Chúa, rồi trở về nhà ở Ra-ma. Ông En-ca-na ăn ở với bà An-na, vợ mình, và Đức Chúa đã nhớ đến bà. 20 Ngày qua tháng lại, bà An-na thụ thai, sinh con trai và đặt tên cho nó là Sa-mu-en (nghĩa là Đức Chúa nhậm lời), vì bà nói: “Tôi đã xin Đức Chúa, và Người ban nó cho tôi.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "1 Sm 2,1.4-5.6-7.8abcd",
+          "response": "Đ. Tâm hồn con hoan hỷ vì Chúa, là Đấng cứu độ con.\n1 Tâm hồn con hoan hỷ vì Chúa,\nnhờ Chúa, con ngẩng đầu hiên ngang.\nCon mở miệng nhạo báng quân thù:\nVâng, con vui sướng vì được Ngài cứu độ.\nĐ. Tâm hồn con hoan hỷ vì Chúa, là Đấng cứu độ con.\n4 Cung nỏ người hùng bị bẻ tan,\nkẻ yếu sức lại trở nên hùng dũng.\n5 Người no phải làm mướn kiếm ăn,\ncòn kẻ đói được an nhàn thư thái.\nNgười hiếm hoi thì sinh năm đẻ bảy,\nmẹ nhiều con lại ủ rũ héo tàn.\nĐ. Tâm hồn con hoan hỷ vì Chúa, là Đấng cứu độ con.\n6 Chúa là Đấng cầm quyền sinh tử,\nđẩy xuống âm phủ rồi lại kéo lên.\n7 Chúa bắt phải nghèo và cho giàu có,\nNgười hạ xuống thấp, Người cũng nhắc lên cao.\nĐ. Tâm hồn con hoan hỷ vì Chúa, là Đấng cứu độ con.\n8abcd Kẻ mọn hèn, Chúa kéo ra khỏi nơi cát bụi,\nai nghèo túng, Người cất nhắc từ đống phân tro,\nđặt ngồi chung với hàng quyền quý,\ntặng ngai vinh hiển làm sản nghiệp riêng.\nĐ. Tâm hồn con hoan hỷ vì Chúa, là Đấng cứu độ con."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nAnh em hãy đón nhận lời Thiên Chúa, không phải như lời người phàm,\nnhưng như lời Thiên Chúa, đúng theo bản tính của lời ấy.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 1,21-28",
-          "text": "Người giảng dạy như một Đấng c&oacute; uy quyền.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 1,21-28\n21 Tại th&agrave;nh Ca-ph&aacute;c-na-um, ng&agrave;y sa-b&aacute;t, Đức Gi&ecirc;-su v&agrave;o hội đường v&agrave; giảng dạy: 22 Thi&ecirc;n hạ sửng sốt về lời giảng dạy của Người, v&igrave; Người giảng dạy như một Đấng c&oacute; uy quyền, chứ kh&ocirc;ng như c&aacute;c kinh sư.\n23 Lập tức, trong hội đường của họ, c&oacute; một người bị thần &ocirc; uế nhập, la l&ecirc;n 24 rằng: “&Ocirc;ng Gi&ecirc;-su Na-da-r&eacute;t, chuyện ch&uacute;ng t&ocirc;i can g&igrave; đến &ocirc;ng m&agrave; &ocirc;ng đến ti&ecirc;u diệt ch&uacute;ng t&ocirc;i ? T&ocirc;i biết &ocirc;ng l&agrave; ai rồi: &ocirc;ng l&agrave; Đấng Th&aacute;nh của Thi&ecirc;n Ch&uacute;a !” 25 Nhưng Đức Gi&ecirc;-su qu&aacute;t mắng n&oacute;: “C&acirc;m đi, h&atilde;y xuất khỏi người n&agrave;y !” 26 Thần &ocirc; uế lay mạnh người ấy, th&eacute;t l&ecirc;n một tiếng, v&agrave; xuất khỏi anh ta. 27 Mọi người đều sững sờ đến nỗi họ b&agrave;n t&aacute;n với nhau: “Thế nghĩa l&agrave; g&igrave; ? Lời giảng dạy th&igrave; mới mẻ, người dạy lại c&oacute; uy quyền. &Ocirc;ng ấy ra lệnh cho cả c&aacute;c thần &ocirc; uế v&agrave; ch&uacute;ng phải tu&acirc;n lệnh !” 28 Lập tức danh tiếng Người đồn ra mọi nơi, khắp cả v&ugrave;ng l&acirc;n cận miền Ga-li-l&ecirc;."
+          "text": "Người giảng dạy như một Đấng có uy quyền.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 1,21-28\n21 Tại thành Ca-phác-na-um, ngày sa-bát, Đức Giê-su vào hội đường và giảng dạy: 22 Thiên hạ sửng sốt về lời giảng dạy của Người, vì Người giảng dạy như một Đấng có uy quyền, chứ không như các kinh sư.\n23 Lập tức, trong hội đường của họ, có một người bị thần ô uế nhập, la lên 24 rằng: “Ông Giê-su Na-da-rét, chuyện chúng tôi can gì đến ông mà ông đến tiêu diệt chúng tôi? Tôi biết ông là ai rồi: ông là Đấng Thánh của Thiên Chúa!” 25 Nhưng Đức Giê-su quát mắng nó: “Câm đi, hãy xuất khỏi người này!” 26 Thần ô uế lay mạnh người ấy, thét lên một tiếng, và xuất khỏi anh ta. 27 Mọi người đều sững sờ đến nỗi họ bàn tán với nhau: “Thế nghĩa là gì? Lời giảng dạy thì mới mẻ, người dạy lại có uy quyền. Ông ấy ra lệnh cho cả các thần ô uế và chúng phải tuân lệnh!” 28 Lập tức danh tiếng Người đồn ra mọi nơi, khắp cả vùng lân cận miền Ga-li-lê."
         }
       },
       "reflection": {
@@ -614,9 +631,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/13.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/13.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/13.html"
       },
-      "updated": "2026-06-01T05:01:24.583Z"
+      "updated": "2026-06-01T09:47:05.605Z"
     },
     {
       "date": "2026-01-14",
@@ -637,20 +655,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 3,1-10.19-20",
-          "text": ""
+          "text": "Lạy Đức Chúa, xin Ngài phán, vì tôi tớ Ngài đang lắng nghe.\nBài trích sách Sa-mu-en quyển thứ nhất.\n1 Hồi ấy, cậu bé Sa-mu-en phụng sự Đức Chúa, có ông Ê-li trông nom. Thời ấy, lời Đức Chúa thì hiếm và thị kiến cũng không hay xảy ra. 2 Một ngày kia, ông Ê-li đang ngủ ở chỗ ông, mắt ông đã bắt đầu mờ, ông không còn thấy nữa. 3 Đèn của Thiên Chúa chưa tắt và Sa-mu-en đang ngủ trong đền thờ Đức Chúa, nơi có đặt Hòm Bia Thiên Chúa. 4 Đức Chúa gọi Sa-mu-en. Cậu thưa: “Dạ, con đây!”, 5 rồi chạy lại với ông Ê-li và thưa: “Dạ, con đây, thầy gọi con.” Ông bảo: “Thầy không gọi con đâu. Con về ngủ đi.” Cậu bèn đi ngủ. 6 Đức Chúa lại gọi Sa-mu-en lần nữa. Sa-mu-en dậy, đến với ông Ê-li và thưa: “Dạ, con đây, thầy gọi con.” Ông bảo: “Thầy không gọi con đâu, con ạ. Con về ngủ đi.” 7 Bấy giờ Sa-mu-en chưa biết Đức Chúa, và lời Đức Chúa chưa được mặc khải cho cậu. 8 Đức Chúa lại gọi Sa-mu-en lần thứ ba. Cậu dậy, đến với ông Ê-li và thưa: “Dạ, con đây, thầy gọi con.” Bấy giờ ông Ê-li hiểu là Đức Chúa gọi cậu bé. 9 Ông Ê-li nói với Sa-mu-en: “Con về ngủ đi, và hễ có ai gọi con thì con thưa: ‘Lạy Đức Chúa, xin Ngài phán, vì tôi tớ Ngài đang lắng nghe.’” Sa-mu-en về ngủ ở chỗ của mình.\n10 Đức Chúa đến, đứng đó và gọi như những lần trước: “Sa-mu-en! Sa-mu-en!” Sa-mu-en thưa: “Xin Ngài phán, vì tôi tớ Ngài đang lắng nghe.”\n19 Sa-mu-en lớn lên. Đức Chúa ở với ông và Người không để cho một lời nào của Người ra vô hiệu. 20 Toàn thể Ít-ra-en, từ Đan tới Bơ-e Se-va, biết rằng ông Sa-mu-en được Đức Chúa tín nhiệm cho làm ngôn sứ của Người."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 39,2",
+          "response": "Đ. Lạy Chúa, này con xin đến để thực thi ý Ngài.\n2 Tôi đã hết lòng trông đợi Chúa,\nNgười nghiêng mình xuống và nghe tiếng tôi kêu.\n5 Phúc thay ai đặt tin tưởng nơi Chúa,\nchẳng vào hùa với bọn kiêu căng\nvà những kẻ theo đường gian ác.\nĐ. Lạy Chúa, này con xin đến để thực thi ý Ngài.\n7 Chúa chẳng thích gì tế phẩm và lễ vật,\nnhưng đã mở tai con;\nlễ toàn thiêu và lễ xá tội, Chúa không đòi,\n8a con liền thưa: Này con xin đến!\nĐ. Lạy Chúa, này con xin đến để thực thi ý Ngài.\n8b Trong sách có lời chép về con\n9 rằng: con thích làm theo thánh ý,\nvà ấp ủ luật Chúa trong lòng, lạy Thiên Chúa của con.\nĐ. Lạy Chúa, này con xin đến để thực thi ý Ngài.\n10 Đức công chính của Ngài,\ncon loan truyền giữa lòng đại hội;\nlạy Chúa, Ngài từng biết:\ncon đâu có ngậm miệng làm thinh.\nĐ. Lạy Chúa, này con xin đến để thực thi ý Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: Chiên của tôi thì nghe tiếng tôi;\ntôi biết chúng, và chúng theo tôi.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 1,29-39",
-          "text": "Đức Gi&ecirc;-su chữa nhiều kẻ ốm đau mắc đủ thứ bệnh tật.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 1,29-39\n29 Khi ấy, vừa ra khỏi hội đường Ca-ph&aacute;c-na-um, Đức Gi&ecirc;-su đi đến nh&agrave; hai &ocirc;ng Si-m&ocirc;n v&agrave; An-r&ecirc;. C&oacute; &ocirc;ng Gia-c&ocirc;-b&ecirc; v&agrave; &ocirc;ng Gio-an c&ugrave;ng đi theo. 30 L&uacute;c đ&oacute;, b&agrave; mẹ vợ &ocirc;ng Si-m&ocirc;n đang l&ecirc;n cơn sốt, nằm tr&ecirc;n giường. Lập tức họ n&oacute;i cho Người về t&igrave;nh trạng của b&agrave;. 31 Người lại gần, cầm lấy tay b&agrave; m&agrave; đỡ dậy; cơn sốt dứt ngay v&agrave; b&agrave; phục vụ c&aacute;c ng&agrave;i.\n32 Chiều đến, khi mặt trời đ&atilde; lặn, người ta đem mọi kẻ ốm đau v&agrave; những ai bị quỷ &aacute;m đến cho Người. 33 Cả th&agrave;nh x&uacute;m lại trước cửa. 34 Đức Gi&ecirc;-su chữa nhiều kẻ ốm đau mắc đủ thứ bệnh tật, v&agrave; trừ nhiều quỷ, nhưng kh&ocirc;ng cho quỷ n&oacute;i, v&igrave; ch&uacute;ng biết Người l&agrave; ai."
+          "text": "Đức Giê-su chữa nhiều kẻ ốm đau mắc đủ thứ bệnh tật.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 1,29-39\n29 Khi ấy, vừa ra khỏi hội đường Ca-phác-na-um, Đức Giê-su đi đến nhà hai ông Si-môn và An-rê. Có ông Gia-cô-bê và ông Gio-an cùng đi theo. 30 Lúc đó, bà mẹ vợ ông Si-môn đang lên cơn sốt, nằm trên giường. Lập tức họ nói cho Người về tình trạng của bà. 31 Người lại gần, cầm lấy tay bà mà đỡ dậy; cơn sốt dứt ngay và bà phục vụ các ngài.\n32 Chiều đến, khi mặt trời đã lặn, người ta đem mọi kẻ ốm đau và những ai bị quỷ ám đến cho Người. 33 Cả thành xúm lại trước cửa. 34 Đức Giê-su chữa nhiều kẻ ốm đau mắc đủ thứ bệnh tật, và trừ nhiều quỷ, nhưng không cho quỷ nói, vì chúng biết Người là ai."
         }
       },
       "reflection": {
@@ -660,9 +678,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/14.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/14.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/14.html"
       },
-      "updated": "2026-06-01T05:01:24.974Z"
+      "updated": "2026-06-01T09:47:05.647Z"
     },
     {
       "date": "2026-01-15",
@@ -683,20 +702,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 4,1-11",
-          "text": ""
+          "text": "Ít-ra-en bị đánh bại và Hòm Bia Thiên Chúa bị chiếm đoạt.\nBài trích sách Sa-mu-en quyển thứ nhất.\n1 Hồi đó, Ít-ra-en ra giao chiến với người Phi-li-tinh. Họ đóng trại ở gần E-ven Ha E-de, còn người Phi-li-tinh thì đóng trại ở A-phếch. 2 Người Phi-li-tinh dàn quân đối diện với quân Ít-ra-en, cuộc chiến trở nên ác liệt và Ít-ra-en bị người Phi-li-tinh đánh bại: tại mặt trận, ở ngoài đồng, chúng đã giết chừng bốn ngàn người. 3 Khi dân trở về trại, các kỳ mục Ít-ra-en nói: “Sao hôm nay Đức Chúa để chúng ta bị người Phi-li-tinh đánh bại? Chúng ta hãy đi Si-lô lấy Hòm Bia Giao Ước của Đức Chúa về: Hòm Bia sẽ đến giữa chúng ta và sẽ cứu chúng ta khỏi bàn tay quân thù.” 4 Dân sai người đi Si-lô; từ đó họ mang Hòm Bia về, Hòm Bia Giao Ước của Đức Chúa các đạo binh, Đấng ngự trên các thần hộ giá; ở đó, bên cạnh Hòm Bia Giao Ước của Thiên Chúa, có hai con ông Ê-li là Khóp-ni và Pin-khát. 5 Khi Hòm Bia Giao Ước của Đức Chúa xuống trại, toàn thể Ít-ra-en hò reo vang dội khiến đất rung chuyển. 6 Người Phi-li-tinh nghe thấy tiếng hò reo thì hỏi nhau: “Tiếng hò reo vang dội ấy trong trại bọn Híp-ri là gì vậy?” Chúng biết là Hòm Bia Đức Chúa đã đến trại. 7 Người Phi-li-tinh sợ hãi, vì chúng nói: “Một vị thần đã đến trại!” Chúng bảo nhau: “Khốn thân ta, vì trước đây không có như vậy! 8 Khốn thân ta! Ai sẽ giải thoát ta khỏi tay những thần hùng mạnh ấy? Đó là những thần đã dùng mọi thứ đòn mà đánh phạt người Ai-cập trong sa mạc. 9 Hỡi người Phi-li-tinh, can đảm lên, hãy tỏ ra là nam nhi, kẻo phải làm nô lệ cho bọn Híp-ri như chúng đã làm nô lệ cho anh em. Hãy tỏ ra là nam nhi và chiến đấu!” 10 Người Phi-li-tinh giao chiến. Ít-ra-en bị đánh bại và ai nấy chạy trốn về lều của mình. Đó là một đòn rất đau: về phía Ít-ra-en có ba mươi ngàn bộ binh tử trận. 11 Hòm Bia Thiên Chúa bị chiếm đoạt, và hai con ông Ê-li là Khóp-ni và Pin-khát bị giết."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 43,10-11.14-15.24-25",
+          "response": "Đ. Lạy Chúa, xin thương tình cứu chuộc chúng con.\n10 Thế mà Ngài bỏ rơi, hạ nhục chúng con,\nvới quân đội nhà, Ngài chẳng còn xuất trận,\n11 làm chúng con thua giặc chạy dài,\nkẻ ghét chúng con cứ mặc tình cướp phá.\nĐ. Lạy Chúa, xin thương tình cứu chuộc chúng con.\n14 Ngài để cho láng giềng thoá mạ,\nkẻ chung quanh phỉ báng chê bai.\n15 Ngài làm cho chúng con nên trò cười cho dân ngoại,\nchúng lắc đầu, tỏ vẻ khinh khi.\nĐ. Lạy Chúa, xin thương tình cứu chuộc chúng con.\n24 Lạy Chúa, xin tỉnh giấc! Ngài cứ ngủ được sao?\nXin trỗi dậy đi nào, đừng đuổi xua mãi mãi!\n25 Sao Ngài còn ẩn mặt,\nquên rằng chúng con bị khổ cực đoạ đày?\nĐ. Lạy Chúa, xin thương tình cứu chuộc chúng con."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐức Giê-su rao giảng Tin Mừng Nước Trời,\nvà chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 1,40-45",
-          "text": "Chứng phong hủi biến khỏi anh, v&agrave; anh được sạch.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 1,40-45\n40 Khi ấy, c&oacute; người mắc bệnh phong đến gặp Đức Gi&ecirc;-su, anh ta quỳ xuống van xin rằng: “Nếu Ng&agrave;i muốn, Ng&agrave;i c&oacute; thể l&agrave;m cho t&ocirc;i được sạch.” 41 Đức Gi&ecirc;-su chạnh l&ograve;ng thương giơ tay đụng v&agrave;o anh v&agrave; bảo: “T&ocirc;i muốn, anh h&atilde;y được sạch !” 42 Lập tức, bệnh phong biến khỏi anh, v&agrave; anh được sạch. 43 Nhưng Người nghi&ecirc;m giọng đuổi anh đi ngay, 44 v&agrave; bảo anh: “Coi chừng, đừng n&oacute;i g&igrave; với ai cả, nhưng h&atilde;y đi tr&igrave;nh diện tư tế; v&agrave; v&igrave; anh đ&atilde; được l&agrave;nh sạch, th&igrave; h&atilde;y d&acirc;ng những g&igrave; &ocirc;ng M&ocirc;-s&ecirc; đ&atilde; truyền, để l&agrave;m chứng cho người ta biết.” 45 Nhưng vừa đi khỏi, anh đ&atilde; bắt đầu rao truyền v&agrave; loan tin ấy khắp nơi, đến nỗi Đức Gi&ecirc;-su kh&ocirc;ng thể c&ocirc;ng khai v&agrave;o th&agrave;nh n&agrave;o được, m&agrave; phải ở lại những nơi hoang vắng ngo&agrave;i th&agrave;nh. V&agrave; d&acirc;n ch&uacute;ng từ khắp nơi k&eacute;o đến với Người."
+          "text": "Chứng phong hủi biến khỏi anh, và anh được sạch.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 1,40-45\n40 Khi ấy, có người mắc bệnh phong đến gặp Đức Giê-su, anh ta quỳ xuống van xin rằng: “Nếu Ngài muốn, Ngài có thể làm cho tôi được sạch.” 41 Đức Giê-su chạnh lòng thương giơ tay đụng vào anh và bảo: “Tôi muốn, anh hãy được sạch!” 42 Lập tức, bệnh phong biến khỏi anh, và anh được sạch. 43 Nhưng Người nghiêm giọng đuổi anh đi ngay, 44 và bảo anh: “Coi chừng, đừng nói gì với ai cả, nhưng hãy đi trình diện tư tế; và vì anh đã được lành sạch, thì hãy dâng những gì ông Mô-sê đã truyền, để làm chứng cho người ta biết.” 45 Nhưng vừa đi khỏi, anh đã bắt đầu rao truyền và loan tin ấy khắp nơi, đến nỗi Đức Giê-su không thể công khai vào thành nào được, mà phải ở lại những nơi hoang vắng ngoài thành. Và dân chúng từ khắp nơi kéo đến với Người."
         }
       },
       "reflection": {
@@ -706,9 +725,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/15.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/15.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/15.html"
       },
-      "updated": "2026-06-01T05:01:25.329Z"
+      "updated": "2026-06-01T09:47:05.680Z"
     },
     {
       "date": "2026-01-16",
@@ -729,20 +749,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 8,4-7.10-22a",
-          "text": ""
+          "text": "Anh em sẽ kêu than vì vua của anh em, và Đức Chúa sẽ không đáp lời anh em.\nBài trích sách Sa-mu-en quyển thứ nhất.\n4 Thời ấy, toàn thể các kỳ mục tập hợp lại và đến với ông Sa-mu-en ở Ra-ma. 5 Họ nói với ông: “Ông coi, ông già rồi, và các con ông lại không đi theo đường lối của ông. Vậy bây giờ, xin ông lập cho chúng tôi một vua để vua xét xử chúng tôi, như trong tất cả các dân tộc.” 6 Ông Sa-mu-en bực mình vì lời họ nói: “Xin ông cho chúng tôi một vua để xét xử chúng tôi.” Và ông Sa-mu-en đã cầu nguyện với Đức Chúa. 7 Đức Chúa phán với ông Sa-mu-en: “Ngươi cứ nghe theo tiếng của dân trong mọi điều chúng nói với ngươi, vì không phải chúng gạt bỏ ngươi, mà là chúng gạt bỏ Ta, không chịu để Ta làm vua của chúng.”\n10 Ông Sa-mu-en nói lại mọi lời của Đức Chúa cho dân bấy giờ đang xin ông một vua. 11 Ông nói: “Đây là quyền hành của nhà vua sẽ cai trị anh em. Các con trai anh em, ông sẽ bắt mà cắt đặt vào việc trông coi xe và ngựa của ông, và chúng sẽ chạy đàng trước xe của ông. 12 Ông sẽ đặt chúng làm người chỉ huy một ngàn và chỉ huy năm mươi, sẽ bắt chúng cày đất cho ông, gặt lúa cho ông, chế tạo vũ khí cho ông và dụng cụ cho xe của ông. 13 Các con gái anh em, ông sẽ bắt vào làm thợ chế nước hoa, nấu ăn và làm bánh. 14 Đồng ruộng, vườn nho, vườn cây ô-liu tốt nhất của anh em, ông sẽ lấy mà cho bề tôi của ông. 15 Lúa thóc và vườn nho của anh em, ông sẽ đánh thuế thập phân mà cho các thái giám và bề tôi của ông. 16 Các tôi tớ nam nữ, các người trai tráng khá nhất của anh em, các con lừa của anh em, ông sẽ bắt mà dùng vào việc của ông. 17 Chiên dê của anh em, ông sẽ đánh thuế thập phân. Còn chính anh em sẽ làm nô lệ cho ông. 18 Ngày ấy, anh em sẽ kêu than vì vua của anh em mà anh em đã chọn cho mình, nhưng ngày ấy Đức Chúa sẽ không đáp lời anh em.”\n19 Nhưng dân không chịu nghe theo tiếng ông Sa-mu-en. Họ nói: “Không! Phải có một vua cai trị chúng tôi! 20 Cả chúng tôi cũng sẽ giống như mọi dân tộc. Vua chúng tôi sẽ xét xử chúng tôi, sẽ dẫn đầu chúng tôi và sẽ lãnh đạo các cuộc chiến của chúng tôi.” 21 Ông Sa-mu-en nghe tất cả những lời của dân và nói lại những lời ấy cho Đức Chúa nghe. 22a Đức Chúa phán với ông Sa-mu-en: “Hãy nghe theo tiếng chúng, và hãy đặt một vua cai trị chúng.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 88,16-17.18-19",
+          "response": "Đ. Lạy Chúa, tình thương Chúa, đời đời con ca tụng.\n16 Hạnh phúc thay dân nào biết ca ngợi tung hô;\nnhờ Thánh Nhan soi tỏ, họ tiến lên, lạy Chúa.\n17 Nhờ được nghe danh Ngài, họ suốt ngày hớn hở;\nbởi vì Ngài công chính, nên họ được hiên ngang.\nĐ. Lạy Chúa, tình thương Chúa, đời đời con ca tụng.\n18 Sức hùng cường hiển hách của dân chính là Ngài,\nhồng ân Ngài làm nổi bật uy thế chúng con.\n19 Đấng bảo vệ chúng con là người của Đức Chúa,\nvua chúng con thuộc quyền Đức Thánh của Ít-ra-en.\nĐ. Lạy Chúa, tình thương Chúa, đời đời con ca tụng."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nVị ngôn sứ vĩ đại đã xuất hiện giữa chúng ta,\nvà Thiên Chúa đã viếng thăm dân Người.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 2,1-12",
-          "text": "Ở dưới đất n&agrave;y, Con Người c&oacute; quyền tha tội.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. 2,1-12\n1 Bấy giờ, Đức Gi&ecirc;-su trở lại th&agrave;nh Ca-ph&aacute;c-na-um. Hay tin Người ở nh&agrave;, 2 d&acirc;n ch&uacute;ng tụ tập lại, đ&ocirc;ng đến nỗi ngo&agrave;i cửa cũng kh&ocirc;ng c&ograve;n chỗ đứng. Người n&oacute;i lời Thi&ecirc;n Ch&uacute;a cho họ. 3 Bấy giờ người ta đem đến cho Đức Gi&ecirc;-su một kẻ bại liệt, c&oacute; bốn người khi&ecirc;ng. 4 Nhưng v&igrave; d&acirc;n ch&uacute;ng qu&aacute; đ&ocirc;ng, n&ecirc;n họ kh&ocirc;ng sao khi&ecirc;ng đến gần Người được. Họ mới dỡ m&aacute;i nh&agrave;, ngay tr&ecirc;n chỗ Người ngồi, l&agrave;m th&agrave;nh một lỗ hổng, rồi thả người bại liệt nằm tr&ecirc;n ch&otilde;ng xuống. 5 Thấy họ c&oacute; l&ograve;ng tin như vậy, Đức Gi&ecirc;-su bảo người bại liệt: “N&agrave;y con, tội con được tha rồi.” 6 Nhưng c&oacute; mấy kinh sư đang ngồi đ&oacute;, họ nghĩ thầm trong bụng rằng: 7 “Sao &ocirc;ng n&agrave;y lại d&aacute;m n&oacute;i như vậy ? &Ocirc;ng ta n&oacute;i phạm thượng ! Ai c&oacute; quyền tha tội, ngo&agrave;i một m&igrave;nh Thi&ecirc;n Ch&uacute;a ?” 8 T&acirc;m tr&iacute; Đức Gi&ecirc;-su thấu biết ngay họ đang thầm nghĩ như thế, Người mới bảo họ: “Sao c&aacute;c &ocirc;ng lại nghĩ thầm trong bụng những điều ấy ? 9 Trong hai điều: một l&agrave; bảo người bại liệt: ‘Tội con được tha rồi’, hai l&agrave; bảo: ‘Đứng dậy, v&aacute;c ch&otilde;ng m&agrave; đi’, điều n&agrave;o dễ hơn ? 10 Vậy, để c&aacute;c &ocirc;ng biết: ở dưới đất n&agrave;y, Con Người c&oacute; quyền tha tội, -Đức Gi&ecirc;-su bảo người bại liệt-, 11 Ta truyền cho con: Đứng dậy, v&aacute;c ch&otilde;ng m&agrave; đi về nh&agrave; !” 12 Người bại liệt đứng dậy, v&agrave; lập tức v&aacute;c ch&otilde;ng đi ra trước mặt mọi người, khiến ai nấy đều sửng sốt v&agrave; t&ocirc;n vinh Thi&ecirc;n Ch&uacute;a. Họ bảo nhau: “Ch&uacute;ng ta chưa thấy vậy bao giờ !”"
+          "text": "Ở dưới đất này, Con Người có quyền tha tội.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. 2,1-12\n1 Bấy giờ, Đức Giê-su trở lại thành Ca-phác-na-um. Hay tin Người ở nhà, 2 dân chúng tụ tập lại, đông đến nỗi ngoài cửa cũng không còn chỗ đứng. Người nói lời Thiên Chúa cho họ. 3 Bấy giờ người ta đem đến cho Đức Giê-su một kẻ bại liệt, có bốn người khiêng. 4 Nhưng vì dân chúng quá đông, nên họ không sao khiêng đến gần Người được. Họ mới dỡ mái nhà, ngay trên chỗ Người ngồi, làm thành một lỗ hổng, rồi thả người bại liệt nằm trên chõng xuống. 5 Thấy họ có lòng tin như vậy, Đức Giê-su bảo người bại liệt: “Này con, tội con được tha rồi.” 6 Nhưng có mấy kinh sư đang ngồi đó, họ nghĩ thầm trong bụng rằng: 7 “Sao ông này lại dám nói như vậy? Ông ta nói phạm thượng! Ai có quyền tha tội, ngoài một mình Thiên Chúa?” 8 Tâm trí Đức Giê-su thấu biết ngay họ đang thầm nghĩ như thế, Người mới bảo họ: “Sao các ông lại nghĩ thầm trong bụng những điều ấy? 9 Trong hai điều: một là bảo người bại liệt: ‘Tội con được tha rồi’, hai là bảo: ‘Đứng dậy, vác chõng mà đi’, điều nào dễ hơn? 10 Vậy, để các ông biết: ở dưới đất này, Con Người có quyền tha tội, -Đức Giê-su bảo người bại liệt-, 11 Ta truyền cho con: Đứng dậy, vác chõng mà đi về nhà!” 12 Người bại liệt đứng dậy, và lập tức vác chõng đi ra trước mặt mọi người, khiến ai nấy đều sửng sốt và tôn vinh Thiên Chúa. Họ bảo nhau: “Chúng ta chưa thấy vậy bao giờ!”"
         }
       },
       "reflection": {
@@ -752,9 +772,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/16.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/16.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/16.html"
       },
-      "updated": "2026-06-01T05:01:25.696Z"
+      "updated": "2026-06-01T09:47:05.785Z"
     },
     {
       "date": "2026-01-17",
@@ -775,20 +796,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 9,1-4.17-19; 10,1a",
-          "text": ""
+          "text": "Đây là người mà Đức Chúa đã nói, Sa-un sẽ cai trị dân Người.\nBài trích sách Sa-mu-en quyển thứ nhất.\n9 1 Có một người thuộc chi tộc Ben-gia-min tên là Kít, con ông A-vi-ên; ông A-vi-ên là con ông Xơ-ro; ông Xơ-ro là con ông Bơ-khô-rát; ông Bơ-khô-rát là con ông A-phi-ác; ông A-phi-ác là con một người Ben-gia-min. Ông Kít là một người có thế giá. 2 Ông có một người con trai tên là Sa-un, một người trẻ và đẹp trai; trong số con cái Ít-ra-en, không có người nào đẹp trai hơn ông. Ông cao hơn toàn dân từ vai trở lên.\n3 Các con lừa cái của ông Kít, cha ông Sa-un, bị lạc; ông Kít bảo ông Sa-un, con ông: “Con hãy đem một trong các người đầy tớ đi với con và lên đường đi tìm lừa.” 4 Ông Sa-un đi qua miền núi Ép-ra-im, rồi đi qua đất Sa-li-sa, mà không tìm thấy. Họ đi qua đất Sa-a-lim: cũng không thấy gì. Ông đi qua đất Ben-gia-min, vẫn không tìm thấy. 17 Khi ông Sa-mu-en thấy ông Sa-un thì Đức Chúa mách bảo ông: “Đây là người mà Ta đã nói với ngươi: chính nó sẽ cai trị dân Ta.” 18 Ông Sa-un lại gần ông Sa-mu-en ở giữa cửa thành và nói: “Xin ông làm ơn cho tôi biết nhà thầy thị kiến ở đâu.” 19 Ông Sa-mu-en trả lời ông Sa-un rằng: “Tôi là thầy thị kiến đây. Ông hãy lên nơi cao, trước mặt tôi. Các ông sẽ dùng bữa với tôi hôm nay. Sáng mai tôi sẽ để cho ông đi và sẽ nói cho ông biết tất cả những gì đang làm ông bận tâm.”\n10 1a Ông Sa-mu-en lấy lọ dầu và đổ trên đầu ông Sa-un, rồi hôn ông."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 20,2-3.4-5.6-7",
+          "response": "Đ. Lạy Chúa, Ngài tỏ uy lực khiến nhà vua sung sướng.\n2 Lạy Chúa, Ngài tỏ uy lực khiến nhà vua sung sướng,\nNgài đã chiến thắng, vua hoan hỷ dường nào!\n3 Lòng vua ước nguyện sao, Chúa đã ban như vậy,\nmiệng vua khấn xin gì, Ngài cũng không từ chối.\nĐ. Lạy Chúa, Ngài tỏ uy lực khiến nhà vua sung sướng.\n4 Chúa đã ân cần ban muôn phúc lộc,\nvương miện vàng, Ngài đội cho vua.\n5 Vua xin được sống, Ngài cho được sống,\nnăm tháng dài lâu, tuổi thọ miên trường.\nĐ. Lạy Chúa, Ngài tỏ uy lực khiến nhà vua sung sướng.\n6 Vì Ngài chiến thắng, nên nhà vua rực rỡ vinh quang,\nNgài cho vua được oai phong lẫm liệt.\n7 Ngài đặt vua làm nguồn hạnh phúc đến muôn đời\nvà cho vua được hớn hở vui mừng trước Nhan Thánh.\nĐ. Lạy Chúa, Ngài tỏ uy lực khiến nhà vua sung sướng."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa đã sai tôi đi loan báo Tin Mừng cho kẻ nghèo hèn,\ncông bố cho kẻ bị giam cầm biết họ được tha.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 2,13-17",
-          "text": "T&ocirc;i kh&ocirc;ng đến để k&ecirc;u gọi người c&ocirc;ng ch&iacute;nh, m&agrave; để k&ecirc;u gọi người tội lỗi.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 2,13-17\n13 Khi ấy, Đức Gi&ecirc;-su lại đi ra bờ biển hồ. To&agrave;n thể d&acirc;n ch&uacute;ng đến với Người, v&agrave; Người dạy dỗ họ. 14 Đi ngang qua trạm thu thuế, Người thấy &ocirc;ng L&ecirc;-vi l&agrave; con &ocirc;ng An-ph&ecirc;, đang ngồi ở đ&oacute;. Người bảo &ocirc;ng: “Anh h&atilde;y theo t&ocirc;i !” &Ocirc;ng đứng dậy đi theo Người.\n15 Khi Đức Gi&ecirc;-su đang d&ugrave;ng bữa tại nh&agrave; &ocirc;ng ấy, c&oacute; nhiều người thu thuế v&agrave; người tội lỗi c&ugrave;ng ăn với Đức Gi&ecirc;-su v&agrave; c&aacute;c m&ocirc;n đệ, v&igrave; họ đ&ocirc;ng v&agrave; đi theo Người. 16 Những kinh sư thuộc nh&oacute;m Pha-ri-s&ecirc;u thấy Người ăn uống với những kẻ tội lỗi v&agrave; người thu thuế, th&igrave; n&oacute;i với c&aacute;c m&ocirc;n đệ Người: “Sao &ocirc;ng ấy ăn uống với bọn thu thuế v&agrave; qu&acirc;n tội lỗi ?” 17 Nghe thấy thế, Đức Gi&ecirc;-su n&oacute;i với họ: “Người khoẻ mạnh kh&ocirc;ng cần thầy thuốc, người đau ốm mới cần. T&ocirc;i kh&ocirc;ng đến để k&ecirc;u gọi người c&ocirc;ng ch&iacute;nh, m&agrave; để k&ecirc;u gọi người tội lỗi.”"
+          "text": "Tôi không đến để kêu gọi người công chính, mà để kêu gọi người tội lỗi.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 2,13-17\n13 Khi ấy, Đức Giê-su lại đi ra bờ biển hồ. Toàn thể dân chúng đến với Người, và Người dạy dỗ họ. 14 Đi ngang qua trạm thu thuế, Người thấy ông Lê-vi là con ông An-phê, đang ngồi ở đó. Người bảo ông: “Anh hãy theo tôi!” Ông đứng dậy đi theo Người.\n15 Khi Đức Giê-su đang dùng bữa tại nhà ông ấy, có nhiều người thu thuế và người tội lỗi cùng ăn với Đức Giê-su và các môn đệ, vì họ đông và đi theo Người. 16 Những kinh sư thuộc nhóm Pha-ri-sêu thấy Người ăn uống với những kẻ tội lỗi và người thu thuế, thì nói với các môn đệ Người: “Sao ông ấy ăn uống với bọn thu thuế và quân tội lỗi?” 17 Nghe thấy thế, Đức Giê-su nói với họ: “Người khoẻ mạnh không cần thầy thuốc, người đau ốm mới cần. Tôi không đến để kêu gọi người công chính, mà để kêu gọi người tội lỗi.”"
         }
       },
       "reflection": {
@@ -800,9 +821,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/17.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/17.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/17.html"
       },
-      "updated": "2026-06-01T05:01:26.098Z"
+      "updated": "2026-06-01T09:47:05.731Z"
     },
     {
       "date": "2026-01-18",
@@ -822,21 +844,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Is 49,3.5-6 1 Cr 1,1-3",
-          "text": ""
+          "reference": "Is 49,3.5-6",
+          "text": "Ta đặt ngươi làm ánh sáng muôn dân để ngươi đem ơn cứu độ của Ta đến tận cùng cõi đất.\nBài trích sách ngôn sứ I-sai-a.\n3 Đức Chúa đã phán cùng tôi:\n“Hỡi Ít-ra-en, ngươi là tôi trung của Ta.\nTa sẽ dùng ngươi để biểu lộ vinh quang.”\n5 Giờ đây Đức Chúa lại lên tiếng.\nNgười là Đấng nhào nặn ra tôi\ntừ khi tôi còn trong lòng mẹ\nđể tôi trở thành người tôi trung,\nđem nhà Gia-cóp về cho Người\nvà quy tụ dân Ít-ra-en chung quanh Người.\nThế nên tôi được Đức Chúa trân trọng,\nvà Thiên Chúa tôi thờ là sức mạnh của tôi.\n6 Người phán: “Nếu ngươi chỉ là tôi trung của Ta\nđể tái lập các chi tộc Gia-cóp,\nđể dẫn đưa các người Ít-ra-en sống sót trở về,\nthì vẫn còn quá ít.\nVì vậy, này Ta đặt ngươi làm ánh sáng muôn dân,\nđể ngươi đem ơn cứu độ của Ta đến tận cùng cõi đất.”"
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "1 Cr 1,1-3",
+          "text": "Xin Thiên Chúa là Cha chúng ta, và xin Chúa Giê-su ban cho anh em ân sủng và bình an.\nKhởi đầu thư thứ nhất của thánh Phao-lô tông đồ gửi tín hữu Cô-rin-tô.\n1 Tôi là Phao-lô, bởi ý Thiên Chúa được gọi làm Tông Đồ của Đức Ki-tô Giê-su, và ông Xốt-thê-nê là người anh em của chúng tôi, 2 kính gửi Hội Thánh của Thiên Chúa ở Cô-rin-tô, những người đã được hiến thánh trong Đức Ki-tô Giê-su, được kêu gọi làm dân thánh, cùng với tất cả những ai ở bất cứ nơi nào kêu cầu danh Chúa của chúng ta, Đức Giê-su Ki-tô, là Chúa của họ và của chúng ta. 3 Xin Thiên Chúa là Cha chúng ta, và xin Chúa Giê-su Ki-tô ban cho anh em ân sủng và bình an."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 39,2",
+          "response": "Đ. Lạy Chúa, này con xin đến để thực thi ý Ngài.\n2 Tôi đã hết lòng trông đợi Chúa,\nNgười nghiêng mình xuống và nghe tiếng tôi kêu.\n4ab Chúa cho miệng tôi hát bài ca mới,\nbài ca tụng Thiên Chúa chúng ta.\nĐ. Lạy Chúa, này con xin đến để thực thi ý Ngài.\n7 Chúa chẳng thích gì tế phẩm và lễ vật,\nnhưng đã mở tai con;\nlễ toàn thiêu và lễ xá tội, Chúa không đòi,\n8a con liền thưa: “Này con xin đến!\nĐ. Lạy Chúa, này con xin đến để thực thi ý Ngài.\n8b Trong sách có lời chép về con 9 rằng: con thích làm theo thánh ý,\nvà ấp ủ luật Chúa trong lòng,\nlạy Thiên Chúa của con.\nĐ. Lạy Chúa, này con xin đến để thực thi ý Ngài.\n10 Đức công chính của Ngài,\ncon loan truyền giữa lòng đại hội;\nlạy Chúa, Ngài từng biết:\ncon đâu có ngậm miệng làm thinh.\nĐ. Lạy Chúa, này con xin đến để thực thi ý Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nNgôi Lời đã trở nên người phàm, và cư ngụ giữa chúng ta;\nnhững ai đón nhận Người, thì Người cho họ quyền trở nên con Thiên Chúa.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 1,29-34",
-          "text": "Đ&acirc;y l&agrave; Chi&ecirc;n Thi&ecirc;n Ch&uacute;a, Đấng xo&aacute; bỏ tội trần gian.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 1,29-34\n29 Khi ấy, &ocirc;ng Gio-an thấy Đức Gi&ecirc;-su tiến về ph&iacute;a m&igrave;nh, liền n&oacute;i: “Đ&acirc;y l&agrave; Chi&ecirc;n Thi&ecirc;n Ch&uacute;a, đ&acirc;y Đấng xo&aacute; bỏ tội trần gian. 30 Ch&iacute;nh Người l&agrave; Đấng t&ocirc;i đ&atilde; n&oacute;i tới khi bảo rằng: C&oacute; người đến sau t&ocirc;i, nhưng trổi hơn t&ocirc;i, v&igrave; c&oacute; trước t&ocirc;i.\n31 T&ocirc;i đ&atilde; kh&ocirc;ng biết Người, nhưng t&ocirc;i đến l&agrave;m ph&eacute;p rửa trong nước để Người được tỏ ra cho d&acirc;n &Iacute;t-ra-en.” 32 &Ocirc;ng Gio-an c&ograve;n l&agrave;m chứng: “T&ocirc;i đ&atilde; thấy Thần Kh&iacute; tựa chim bồ c&acirc;u từ trời xuống v&agrave; ngự tr&ecirc;n Người. 33 T&ocirc;i đ&atilde; kh&ocirc;ng biết Người. Nhưng ch&iacute;nh Đấng sai t&ocirc;i đi l&agrave;m ph&eacute;p rửa trong nước đ&atilde; bảo t&ocirc;i: “Ngươi thấy Thần Kh&iacute; xuống v&agrave; ngự tr&ecirc;n ai, th&igrave; người đ&oacute; ch&iacute;nh l&agrave; Đấng l&agrave;m ph&eacute;p rửa trong Th&aacute;nh Thần.” 34 T&ocirc;i đ&atilde; thấy, n&ecirc;n xin chứng thực rằng Người l&agrave; Đấng Thi&ecirc;n Ch&uacute;a tuyển chọn.”"
+          "text": "Đây là Chiên Thiên Chúa, Đấng xoá bỏ tội trần gian.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 1,29-34\n29 Khi ấy, ông Gio-an thấy Đức Giê-su tiến về phía mình, liền nói: “Đây là Chiên Thiên Chúa, đây Đấng xoá bỏ tội trần gian. 30 Chính Người là Đấng tôi đã nói tới khi bảo rằng: Có người đến sau tôi, nhưng trổi hơn tôi, vì có trước tôi.\n31 Tôi đã không biết Người, nhưng tôi đến làm phép rửa trong nước để Người được tỏ ra cho dân Ít-ra-en.” 32 Ông Gio-an còn làm chứng: “Tôi đã thấy Thần Khí tựa chim bồ câu từ trời xuống và ngự trên Người. 33 Tôi đã không biết Người. Nhưng chính Đấng sai tôi đi làm phép rửa trong nước đã bảo tôi: “Ngươi thấy Thần Khí xuống và ngự trên ai, thì người đó chính là Đấng làm phép rửa trong Thánh Thần.” 34 Tôi đã thấy, nên xin chứng thực rằng Người là Đấng Thiên Chúa tuyển chọn.”"
         }
       },
       "reflection": {
@@ -848,9 +870,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/18.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/18.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/18.html"
       },
-      "updated": "2026-06-01T05:01:26.490Z"
+      "updated": "2026-06-01T09:47:05.788Z"
     },
     {
       "date": "2026-01-19",
@@ -871,20 +894,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 15,16-23",
-          "text": ""
+          "text": "Vâng phục thì tốt hơn là dâng hy lễ.\nBài trích sách Sa-mu-en quyển thứ nhất.\n16 Trong những ngày ấy, ông Sa-mu-en nói với vua Sa-un: “Thôi! Tôi sẽ báo cho ngài biết điều Đức Chúa đã phán với tôi đêm qua.” Vua Sa-un bảo: “Xin ông cứ nói.” 17 Ông Sa-mu-en nói: “Dù ngài tự coi mình là nhỏ bé, ngài chẳng phải là đầu của các chi tộc Ít-ra-en sao? Đức Chúa đã xức dầu phong ngài làm vua cai trị Ít-ra-en. 18 Đức Chúa đã sai ngài lên đường và phán: ‘Hãy đi, ngươi phải tru hiến quân tội lỗi là bọn A-ma-lếch ấy, và phải giao chiến với chúng cho đến khi tận diệt chúng.’ 19 Tại sao ngài đã không nghe theo tiếng Đức Chúa? Tại sao ngài đã xông vào lấy chiến lợi phẩm và làm điều dữ trái mắt Đức Chúa?” 20 Vua Sa-un nói với ông Sa-mu-en: “Tôi đã nghe theo tiếng Đức Chúa. Tôi đã đi theo con đường Đức Chúa sai tôi đi. Tôi đã đưa A-gác, vua A-ma-lếch về, và đã tru hiến A-ma-lếch. 21 Trong số chiến lợi phẩm là chiên dê và bò, trong số những vật bị tru hiến, dân đã lấy những con tốt nhất để làm hy lễ dâng Đức Chúa, Thiên Chúa của ông, tại Ghin-gan.”\n22 Ông Sa-mu-en nói:\n“Đức Chúa có ưa thích các lễ toàn thiêu và hy lễ\nnhư ưa thích người ta vâng lời Đức Chúa không?\nNày, vâng phục thì tốt hơn là dâng hy lễ,\nlắng nghe thì tốt hơn là dâng mỡ cừu.\n23 Phản nghịch cũng có tội như bói toán,\nngoan cố là tội ác giống như thờ ngẫu tượng.\nBởi vì ngài đã gạt bỏ lời của Đức Chúa,\nnên Người đã gạt bỏ ngài, không cho làm vua nữa.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 49,8-9.16bc-17.21",
+          "response": "Đ. Ai sống đời hoàn hảo,\nTa cho hưởng ơn cứu độ Chúa Trời.\n8 Ta chẳng trách cứ ngươi về hy lễ;\nlễ toàn thiêu của ngươi\nhằng nghi ngút trước mặt Ta đêm ngày.\n9 Bò của ngươi, Ta nào có thiết;\nchiên của ngươi, chẳng lẽ Ta ham!\nĐ. Ai sống đời hoàn hảo,\nTa cho hưởng ơn cứu độ Chúa Trời.\n16bc Thánh chỉ của Ta, sao ngươi thường nhắc nhở,\nmở miệng ra là chữ thánh ước trên môi?\n17 Nhưng chính ngươi lại ghét điều sửa dạy,\nlời Ta truyền, đem vất bỏ sau lưng.\nĐ. Ai sống đời hoàn hảo,\nTa cho hưởng ơn cứu độ Chúa Trời.\n21 Ngươi làm thế, chẳng lẽ Ta thinh lặng,\nngươi tưởng rằng Ta cũng giống ngươi sao?\nNày đây Ta khiển trách,\nnhững tội kia, Ta vạch rõ ngươi xem.\n23 Kẻ dâng lời tạ ơn làm hy lễ, sẽ làm hiển danh Ta.\nAi sống đời hoàn hảo,\nTa cho hưởng ơn cứu độ Chúa Trời.\nĐ. Ai sống đời hoàn hảo,\nTa cho hưởng ơn cứu độ Chúa Trời."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLời Thiên Chúa là lời sống động và hữu hiệu,\nlời đó phê phán tâm tình cũng như tư tưởng của lòng người.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 2,18-22",
-          "text": "Ch&agrave;ng rể c&ograve;n ở với họ.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 2,18-22\n18 Khi ấy, c&aacute;c m&ocirc;n đệ &ocirc;ng Gio-an v&agrave; c&aacute;c người Pha-ri-s&ecirc;u đang ăn chay; c&oacute; người đến hỏi Đức Gi&ecirc;-su: “Tại sao c&aacute;c m&ocirc;n đệ &ocirc;ng Gio-an v&agrave; c&aacute;c m&ocirc;n đệ người Pha-ri-s&ecirc;u ăn chay, m&agrave; m&ocirc;n đệ &ocirc;ng lại kh&ocirc;ng ăn chay ?” 19 Đức Gi&ecirc;-su trả lời: “Chẳng lẽ kh&aacute;ch dự tiệc cưới lại c&oacute; thể ăn chay, khi ch&agrave;ng rể c&ograve;n ở với họ ? Bao l&acirc;u ch&agrave;ng rể c&ograve;n ở với họ, họ kh&ocirc;ng thể ăn chay được. 20 Nhưng khi tới ng&agrave;y ch&agrave;ng rể bị đem đi khỏi họ, bấy giờ họ mới ăn chay trong ng&agrave;y đ&oacute;. 21 Chẳng ai lấy vải mới v&aacute; &aacute;o cũ, v&igrave; như vậy, miếng v&aacute; mới sẽ k&eacute;o vải cũ, khiến chỗ r&aacute;ch lại c&agrave;ng r&aacute;ch th&ecirc;m. 22 Cũng kh&ocirc;ng ai đổ rượu mới v&agrave;o bầu da cũ, v&igrave; như vậy, rượu sẽ l&agrave;m nứt bầu, thế l&agrave; rượu cũng mất m&agrave; bầu cũng hư. Nhưng rượu mới, bầu cũng phải mới !”"
+          "text": "Chàng rể còn ở với họ.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 2,18-22\n18 Khi ấy, các môn đệ ông Gio-an và các người Pha-ri-sêu đang ăn chay; có người đến hỏi Đức Giê-su: “Tại sao các môn đệ ông Gio-an và các môn đệ người Pha-ri-sêu ăn chay, mà môn đệ ông lại không ăn chay?” 19 Đức Giê-su trả lời: “Chẳng lẽ khách dự tiệc cưới lại có thể ăn chay, khi chàng rể còn ở với họ? Bao lâu chàng rể còn ở với họ, họ không thể ăn chay được. 20 Nhưng khi tới ngày chàng rể bị đem đi khỏi họ, bấy giờ họ mới ăn chay trong ngày đó. 21 Chẳng ai lấy vải mới vá áo cũ, vì như vậy, miếng vá mới sẽ kéo vải cũ, khiến chỗ rách lại càng rách thêm. 22 Cũng không ai đổ rượu mới vào bầu da cũ, vì như vậy, rượu sẽ làm nứt bầu, thế là rượu cũng mất mà bầu cũng hư. Nhưng rượu mới, bầu cũng phải mới!”"
         }
       },
       "reflection": {
@@ -894,9 +917,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/19.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/19.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/19.html"
       },
-      "updated": "2026-06-01T05:01:26.843Z"
+      "updated": "2026-06-01T09:47:05.813Z"
     },
     {
       "date": "2026-01-20",
@@ -917,20 +941,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 16,1-13",
-          "text": ""
+          "text": "Ông Sa-mu-en xức dầu cho Đa-vít, ở giữa các anh em cậu, và Thần Khí Đức Chúa nhập vào cậu.\nBài trích sách Sa-mu-en quyển thứ nhất.\n1 Hồi đó, Đức Chúa phán với ông Sa-mu-en: “Ngươi còn khóc thương Sa-un cho đến bao giờ, khi ta đã gạt bỏ nó, không cho làm vua cai trị Ít-ra-en nữa? Ngươi hãy lấy dầu đổ đầy sừng và lên đường. Ta sai ngươi đến gặp Gie-sê người Bê-lem, vì Ta đã thấy trong các con trai nó một người Ta muốn đặt làm vua.” 2 Ông Sa-mu-en thưa: “Con đi thế nào được? Vua Sa-un mà nghe biết thì vua sẽ giết con!” Đức Chúa phán: “Ngươi hãy đem theo một con bò cái tơ và hãy nói: ‘Tôi tới đây là để dâng hy lễ lên Đức Chúa.’ 3 Ngươi sẽ mời Gie-sê đến dự hy lễ; phần Ta, Ta sẽ cho ngươi biết điều ngươi phải làm, và ngươi sẽ xức dầu tấn phong cho Ta kẻ Ta sẽ nói cho ngươi hay.”\n4 Ông Sa-mu-en làm điều Đức Chúa đã phán; ông đến Bê-lem và các kỳ mục trong thành run sợ ra đón ông. Họ nói: “Ông đến có phải là để đem bình an không?” 5 Ông trả lời: “Bình an! Tôi tới đây là để dâng hy lễ lên Đức Chúa. Các ông hãy thanh tẩy mình và đến dự hy lễ với tôi.” Ông thanh tẩy ông Gie-sê và các con trai ông ấy và mời họ đến dự hy lễ.\n6 Khi họ đến, ông thấy Ê-li-áp, ông nghĩ: “Đúng rồi! Người Đức Chúa xức dầu tấn phong đang ở trước mặt Đức Chúa đây!” 7 Nhưng Đức Chúa phán với ông Sa-mu-en: “Đừng xét theo hình dáng và vóc người cao lớn của nó, vì Ta đã gạt bỏ nó. Thiên Chúa không nhìn theo kiểu người phàm: người phàm chỉ thấy điều mắt thấy, còn Đức Chúa thì thấy tận đáy lòng.” 8 Ông Gie-sê gọi A-vi-na-đáp và cho cậu đi qua trước mặt Sa-mu-en, nhưng ông Sa-mu-en nói: “Cả người này, Đức Chúa cũng không chọn.” 9 Ông Gie-sê cho Sa-ma đi qua, nhưng ông Sa-mu-en nói: “Cả người này, Đức Chúa cũng không chọn.” 10 Ông Gie-sê cho bảy người con trai đi qua trước mặt ông Sa-mu-en, nhưng ông Sa-mu-en nói với ông Gie-sê: “Đức Chúa không chọn những người này.” 11 Rồi ông lại hỏi ông Gie-sê: “Các con ông có mặt đầy đủ chưa?” Ông Gie-sê trả lời: “Còn cháu út nữa, nó đang chăn chiên.” Ông Sa-mu-en liền nói với ông Gie-sê: “Xin ông cho người đi tìm nó về, chúng ta sẽ không nhập tiệc trước khi nó tới đây.” 12 Ông Gie-sê cho người đi đón cậu về. Cậu có mái tóc hung, đôi mắt đẹp và khuôn mặt xinh xắn. Đức Chúa phán với ông Sa-mu-en: “Đứng dậy, xức dầu tấn phong nó đi! Chính nó đó!” 13 Ông Sa-mu-en cầm lấy sừng dầu và xức cho cậu, ở giữa các anh của cậu. Thần khí Đức Chúa nhập vào Đa-vít từ ngày đó trở đi. Ông Sa-mu-en đứng dậy và đi Ra-ma."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 88,20.21-22.27-28",
+          "response": "Đ. Ta đã tìm ra nghĩa bộc Đa-vít.\n20 Xưa Chúa dùng thị kiến\nphán bảo những người hiếu trung rằng:\nTa phù trợ một trang dũng sĩ,\ncất nhắc lên một người trẻ trong dân.\nĐ. Ta đã tìm ra nghĩa bộc Đa-vít.\n21 Ta đã tìm ra nghĩa bộc Đa-vít,\nđã xức dầu thánh tấn phong người;\n22 Ta sẽ không ngừng đưa tay nâng đỡ,\ntay quyền năng củng cố vững vàng.\nĐ. Ta đã tìm ra nghĩa bộc Đa-vít.\n27 Người sẽ thưa với Ta: “Ngài chính là Thân Phụ,\nlà Thiên Chúa con thờ, là núi đá cho con được cứu độ!”\n28 Phần Ta, Ta sẽ đặt Người làm trưởng tử,\ncao cả hơn vua chúa trần gian.\nĐ. Ta đã tìm ra nghĩa bộc Đa-vít."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nXin Thân Phụ Đức Giê-su Ki-tô, Chúa chúng ta,\nsoi trí mở lòng cho chúng ta thấy rõ, đâu là niềm hy vọng,\nmà ơn Người kêu gọi đem lại cho chúng ta.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 2,23-28",
-          "text": "Ng&agrave;y sa-b&aacute;t được tạo n&ecirc;n cho con người, chứ kh&ocirc;ng phải con người cho ng&agrave;y sa-b&aacute;t.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 2,23-28\n23 V&agrave;o một ng&agrave;y sa-b&aacute;t, Đức Gi&ecirc;-su đi băng qua c&aacute;nh đồng l&uacute;a. Dọc đường, c&aacute;c m&ocirc;n đệ bắt đầu bứt l&uacute;a. 24 Người Pha-ri-s&ecirc;u liền n&oacute;i với Đức Gi&ecirc;-su: “&Ocirc;ng coi, ng&agrave;y sa-b&aacute;t m&agrave; họ l&agrave;m g&igrave; kia ? Điều ấy đ&acirc;u được ph&eacute;p !” 25 Người đ&aacute;p: “C&aacute;c &ocirc;ng chưa bao giờ đọc trong S&aacute;ch sao ? &Ocirc;ng Đa-v&iacute;t đ&atilde; l&agrave;m g&igrave;, khi &ocirc;ng v&agrave; thuộc hạ bị thiếu thốn v&agrave; đ&oacute;i bụng ? 26 Dưới thời thượng tế A-bi-a-tha, &ocirc;ng v&agrave;o nh&agrave; Thi&ecirc;n Ch&uacute;a, ăn b&aacute;nh tiến, rồi c&ograve;n cho cả thuộc hạ ăn nữa. Thứ b&aacute;nh n&agrave;y kh&ocirc;ng ai được ph&eacute;p ăn ngoại trừ tư tế.”\n27 Người n&oacute;i tiếp: “Ng&agrave;y sa-b&aacute;t được tạo ra cho lo&agrave;i người, chứ kh&ocirc;ng phải lo&agrave;i người cho ng&agrave;y sa-b&aacute;t. 28 Bởi đ&oacute;, Con Người l&agrave;m chủ lu&ocirc;n cả ng&agrave;y sa-b&aacute;t.”"
+          "text": "Ngày sa-bát được tạo nên cho con người, chứ không phải con người cho ngày sa-bát.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 2,23-28\n23 Vào một ngày sa-bát, Đức Giê-su đi băng qua cánh đồng lúa. Dọc đường, các môn đệ bắt đầu bứt lúa. 24 Người Pha-ri-sêu liền nói với Đức Giê-su: “Ông coi, ngày sa-bát mà họ làm gì kia? Điều ấy đâu được phép!” 25 Người đáp: “Các ông chưa bao giờ đọc trong Sách sao? Ông Đa-vít đã làm gì, khi ông và thuộc hạ bị thiếu thốn và đói bụng? 26 Dưới thời thượng tế A-bi-a-tha, ông vào nhà Thiên Chúa, ăn bánh tiến, rồi còn cho cả thuộc hạ ăn nữa. Thứ bánh này không ai được phép ăn ngoại trừ tư tế.”\n27 Người nói tiếp: “Ngày sa-bát được tạo ra cho loài người, chứ không phải loài người cho ngày sa-bát. 28 Bởi đó, Con Người làm chủ luôn cả ngày sa-bát.”"
         }
       },
       "reflection": {
@@ -940,9 +964,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/20.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/20.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/20.html"
       },
-      "updated": "2026-06-01T05:01:27.214Z"
+      "updated": "2026-06-01T09:47:05.849Z"
     },
     {
       "date": "2026-01-21",
@@ -963,20 +988,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 17,32-33.37.40-51",
-          "text": ""
+          "text": "Đa-vít thắng tên Phi-li-tinh nhờ dây phóng và hòn đá.\nBài trích sách Sa-mu-en quyển thứ nhất.\n32 Ngày ấy, Đa-vít được dẫn đến gặp vua Sa-un và nói với vua Sa-un rằng: “Đừng ai ngã lòng vì tên Phi-li-tinh Go-li-át. Tôi tớ ngài đây sẽ đi chiến đấu với nó.” 33 Vua Sa-un nói với Đa-vít: “Con không thể đến với tên Phi-li-tinh ấy để chiến đấu với nó, vì con chỉ là một đứa trẻ, còn nó, từ khi còn trẻ, đã là một chiến binh.”\n37 Đa-vít nói: “Đức Chúa là Đấng đã cứu con khỏi vuốt sư tử và vuốt gấu, chính Người sẽ cứu con khỏi tay tên Phi-li-tinh này.” Vua Sa-un nói với Đa-vít: “Thế thì con hãy đi, xin Đức Chúa ở với con!”\n40 Cậu cầm gậy trong tay, chọn lấy năm hòn đá cuội dưới suối, bỏ vào túi chăn chiên, vào bị của cậu, rồi tay cầm dây phóng đá, cậu tiến về phía tên Phi-li-tinh. 41 Tên Phi-li-tinh từ từ tiến lại gần Đa-vít, đi trước mặt nó là người mang thuẫn. 42 Tên Phi-li-tinh nhìn, và khi thấy Đa-vít, nó khinh dể cậu, vì cậu còn trẻ, có mái tóc hung và đẹp trai. 43 Tên Phi-li-tinh nói với Đa-vít: “Tao là chó hay sao mà mầy cầm gậy đến với tao?” Và tên Phi-li-tinh lấy tên các thần của mình mà nguyền rủa Đa-vít. 44 Tên Phi-li-tinh nói với Đa-vít: “Đến đây với tao, tao sẽ đem thịt mày làm mồi cho chim trời và dã thú.” 45 Đa-vít bảo tên Phi-li-tinh: “Mày mang gươm, mang giáo, cầm lao mà đến với tao. Còn tao, tao đến với mày nhân danh Đức Chúa các đạo binh là Thiên Chúa các hàng ngũ Ít-ra-en mà mày thách thức. 46 Ngay hôm nay Đức Chúa sẽ nộp mày vào tay tao, tao sẽ hạ mày và làm cho đầu mày lìa khỏi thân. Ngay hôm nay tao sẽ đem xác chết của quân đội Phi-li-tinh làm mồi cho chim trời và dã thú. Toàn cõi đất sẽ biết rằng có một Thiên Chúa che chở Ít-ra-en, 47 và toàn thể đại hội này sẽ biết rằng không phải nhờ gươm, nhờ giáo mà Đức Chúa ban chiến thắng, vì chiến đấu là việc của Đức Chúa, và Người sẽ trao chúng mày vào tay chúng tao!”\n48 Khi tên Phi-li-tinh bắt đầu xông lên và đến gần để đương đầu với Đa-vít, thì từ trận tuyến Đa-vít vội vàng chạy ra đương đầu với tên Phi-li-tinh. 49 Đa-vít thọc tay vào bị, rút từ đó ra một hòn đá, rồi dùng dây phóng mà ném trúng vào trán tên Phi-li-tinh. Hòn đá cắm sâu vào trán, khiến nó ngã sấp mặt xuống đất. 50 Thế là Đa-vít thắng tên Phi-li-tinh nhờ dây phóng và hòn đá. Cậu hạ tên Phi-li-tinh và giết nó. Nhưng trong tay Đa-vít không có gươm. 51 Đa-vít chạy lại, đứng trên xác tên Phi-li-tinh, lấy gươm của nó, rút khỏi bao, kết liễu đời nó và dùng gươm chặt đầu nó.\nNgười Phi-li-tinh thấy người hùng của mình đã chết thì chạy trốn."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 143,1.2.9-10",
+          "response": "Đ. Chúc tụng Chúa là núi đá cho tôi nương ẩn.\n1 Chúc tụng Chúa là núi đá cho tôi nương ẩn,\nlà Đấng dạy tôi nên người thiện chiến,\nluyện thành tay võ nghệ cao cường.\nĐ. Chúc tụng Chúa là núi đá cho tôi nương ẩn.\n2 Chúa là đồng minh, là đồn luỹ che chở,\nlà thành trì bảo vệ, là Đấng giải thoát tôi.\nChúa là khiên mộc cho tôi ẩn núp,\nNgười bắt chư dân quy phục quyền tôi.\nĐ. Chúc tụng Chúa là núi đá cho tôi nương ẩn.\n9 Lạy Chúa Trời, xin dâng Chúa một bài ca mới,\nthập huyền cầm, con gảy đôi cung.\n10 Chính Ngài cho các vua thắng trận,\ncứu mạng Đa-vít, kẻ trung thần,\nkhỏi lưỡi gươm ác nghiệt.\nĐ. Chúc tụng Chúa là núi đá cho tôi nương ẩn."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐức Giê-su rao giảng Tin Mừng Nước Trời,\nvà chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 3,1-6",
-          "text": "Ng&agrave;y sa-b&aacute;t, được cứu mạng người hay giết đi ?\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 3,1-6\n1 Khi ấy, Đức Gi&ecirc;-su lại v&agrave;o hội đường. Ở đ&oacute; c&oacute; một người bị bại tay. 2 Họ r&igrave;nh xem Đức Gi&ecirc;-su c&oacute; chữa người ấy trong ng&agrave;y sa-b&aacute;t kh&ocirc;ng, để tố c&aacute;o Người. 3 Đức Gi&ecirc;-su bảo người bại tay: “Anh đứng dậy, ra giữa đ&acirc;y !” 4 Rồi Người n&oacute;i với họ: “Ng&agrave;y sa-b&aacute;t, được ph&eacute;p l&agrave;m điều l&agrave;nh hay điều dữ, cứu mạng người hay giết người ?” Nhưng họ l&agrave;m thinh. 5 Đức Gi&ecirc;-su giận dữ rảo mắt nh&igrave;n họ, buồn bực v&igrave; l&ograve;ng họ chai đ&aacute;. Người bảo anh bại tay: “Anh giơ tay ra !” Người ấy giơ ra, v&agrave; tay liền trở lại b&igrave;nh thường. 6 Ra khỏi đ&oacute;, nh&oacute;m Pha-ri-s&ecirc;u lập tức b&agrave;n t&iacute;nh với phe H&ecirc;-r&ocirc;-đ&ecirc;, để t&igrave;m c&aacute;ch giết Đức Gi&ecirc;-su."
+          "text": "Ngày sa-bát, được cứu mạng người hay giết đi?\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 3,1-6\n1 Khi ấy, Đức Giê-su lại vào hội đường. Ở đó có một người bị bại tay. 2 Họ rình xem Đức Giê-su có chữa người ấy trong ngày sa-bát không, để tố cáo Người. 3 Đức Giê-su bảo người bại tay: “Anh đứng dậy, ra giữa đây!” 4 Rồi Người nói với họ: “Ngày sa-bát, được phép làm điều lành hay điều dữ, cứu mạng người hay giết người?” Nhưng họ làm thinh. 5 Đức Giê-su giận dữ rảo mắt nhìn họ, buồn bực vì lòng họ chai đá. Người bảo anh bại tay: “Anh giơ tay ra!” Người ấy giơ ra, và tay liền trở lại bình thường. 6 Ra khỏi đó, nhóm Pha-ri-sêu lập tức bàn tính với phe Hê-rô-đê, để tìm cách giết Đức Giê-su."
         }
       },
       "reflection": {
@@ -986,9 +1011,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/21.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/21.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/21.html"
       },
-      "updated": "2026-06-01T05:01:27.579Z"
+      "updated": "2026-06-01T09:47:05.927Z"
     },
     {
       "date": "2026-01-22",
@@ -1009,20 +1035,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 18,6-9; 19,1-7",
-          "text": ""
+          "text": "Vua Sa-un, cha tôi, đang tìm cách giết anh.\nBài trích sách Sa-mu-en quyển thứ nhất.\n18 6 Ngày ấy, khi ông Đa-vít hạ được tên Phi-li-tinh trở về, thì phụ nữ từ hết mọi thành của Ít-ra-en kéo ra, ca hát múa nhảy, đón vua Sa-un, với trống con, với tiếng reo mừng và tiếng não bạt. 7 Phụ nữ vui đùa ca hát rằng:\n“Vua Sa-un hạ được hàng ngàn,\nông Đa-vít hàng vạn.”\n8 Vua Sa-un giận lắm, và bực mình vì lời ấy. Vua nói: “Người ta cho Đa-vít hàng vạn, còn ta thì họ cho hàng ngàn. Nó chỉ còn thiếu ngôi vua nữa thôi!” 9 Từ ngày đó về sau, vua Sa-un nhìn Đa-vít với con mắt ghen tị.\n19 1 Vua Sa-un nói với ông Giô-na-than, con vua, và với toàn thể triều thần về ý định giết ông Đa-vít. Nhưng ông Giô-na-than, con vua Sa-un, lại rất có cảm tình với ông Đa-vít. 2 Ông Giô-na-than báo cho ông Đa-vít rằng: “Vua Sa-un, cha tôi, đang tìm cách giết anh. Vậy sáng mai anh hãy coi chừng, hãy ở nơi kín đáo và ẩn mình đi. 3 Phần tôi, tôi sẽ đi ra, sẽ đứng cạnh cha tôi trong cánh đồng, nơi anh đang trốn, tôi sẽ nói với cha tôi về anh. Thấy thế nào, tôi sẽ báo cho anh.”\n4 Ông Giô-na-than gặp vua Sa-un, cha mình, và nói tốt cho ông Đa-vít. Ông nói với vua: “Xin đức vua đừng phạm tội hại tôi tớ ngài là Đa-vít, vì anh ấy đã không phạm tội hại ngài, và các hành động của anh là điều rất lợi cho ngài. 5 Anh đã liều mạng hạ tên Phi-li-tinh, và Đức Chúa đã thắng lớn để bảo vệ toàn thể Ít-ra-en. Ngài đã thấy và đã vui mừng. Vậy sao ngài lại phạm tội đổ máu vô tội, mà vô cớ giết Đa-vít?” 6 Vua Sa-un nghe theo lời ông Giô-na-than, vua thề rằng: “Có Đức Chúa hằng sống, ta thề: nó sẽ không bị giết.” 7 Ông Giô-na-than gọi ông Đa-vít đến và thuật lại tất cả những điều ấy; rồi dẫn ông Đa-vít đến với vua Sa-un, và ông Đa-vít lại phục vụ vua như trước."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 55,2-3a.9-10ab.10c-11.12-13",
+          "response": "Đ. Tôi tin tưởng vào Thiên Chúa và không còn sợ hãi.\n2 Xin thương xót con cùng, lạy Thiên Chúa,\nvì người ta giày xéo thân con, và suốt ngày tấn công chèn ép.\n3a Địch thù con giày xéo suốt ngày,\nbè lũ tấn công nhiều vô kể.\nĐ. Tôi tin tưởng vào Thiên Chúa và không còn sợ hãi.\n9 Bước đường con lận đận, chính Ngài đã đếm rồi.\nXin lấy vò mà đựng nước mắt con.\nNào Ngài đã chẳng ghi tất cả vào sổ sách?\n10ab Địch thù phải tháo lui vào ngày tôi cầu cứu.\nĐ. Tôi tin tưởng vào Thiên Chúa và không còn sợ hãi.\n10c Tôi biết rằng: Thiên Chúa ở bên tôi.\n11 Tôi tin tưởng vào Thiên Chúa và ca tụng lời Người;\ntôi ca tụng lời Chúa.\nĐ. Tôi tin tưởng vào Thiên Chúa và không còn sợ hãi.\n12 Tôi tin tưởng vào Thiên Chúa và không còn sợ hãi;\nphàm nhân làm gì nổi được tôi?\n13 Lạy Thiên Chúa, lời khấn hứa cùng Ngài, con xin giữ,\nlễ tạ ơn, nguyện sẽ dâng Ngài.\nĐ. Tôi tin tưởng vào Thiên Chúa và không còn sợ hãi."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐấng cứu độ chúng ta là Đức Giê-su Ki-tô đã tiêu diệt thần chết,\nvà đã dùng Tin Mừng mà làm sáng tỏ phúc trường sinh.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 3,7-12",
-          "text": "C&aacute;c thần &ocirc; uế k&ecirc;u l&ecirc;n: &Ocirc;ng l&agrave; Con Thi&ecirc;n Ch&uacute;a. Nhưng Người cấm ngặt ch&uacute;ng kh&ocirc;ng được tiết lộ Người.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 3,7-12\n7 Khi ấy, Đức Gi&ecirc;-su c&ugrave;ng với c&aacute;c m&ocirc;n đệ lui về ph&iacute;a Biển Hồ. Từ miền Ga-li-l&ecirc;, người ta lũ lượt đi theo Người. V&agrave; từ miền Giu-đ&ecirc;, 8 từ Gi&ecirc;-ru-sa-lem, từ xứ I-đu-m&ecirc;, từ v&ugrave;ng b&ecirc;n kia s&ocirc;ng Gio-đan v&agrave; v&ugrave;ng phụ cận hai th&agrave;nh Tia v&agrave; Xi-đ&ocirc;n, người ta lũ lượt đến với Người, v&igrave; nghe biết những g&igrave; Người đ&atilde; l&agrave;m. 9 Người đ&atilde; bảo c&aacute;c m&ocirc;n đệ d&agrave;nh sẵn cho Người một chiếc thuyền nhỏ, để khỏi bị đ&aacute;m đ&ocirc;ng chen lấn. 10 Quả thế, Người đ&atilde; chữa l&agrave;nh nhiều bệnh nh&acirc;n, khiến tất cả những ai c&oacute; bệnh cũng đổ x&ocirc; đến để sờ v&agrave;o Người. 11 C&ograve;n c&aacute;c thần &ocirc; uế, hễ thấy Đức Gi&ecirc;-su, th&igrave; phủ phục trước mặt Người v&agrave; k&ecirc;u l&ecirc;n: “&Ocirc;ng l&agrave; Con Thi&ecirc;n Ch&uacute;a !” 12 Nhưng Người cấm ngặt ch&uacute;ng kh&ocirc;ng được tiết lộ Người l&agrave; ai."
+          "text": "Các thần ô uế kêu lên: Ông là Con Thiên Chúa. Nhưng Người cấm ngặt chúng không được tiết lộ Người.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 3,7-12\n7 Khi ấy, Đức Giê-su cùng với các môn đệ lui về phía Biển Hồ. Từ miền Ga-li-lê, người ta lũ lượt đi theo Người. Và từ miền Giu-đê, 8 từ Giê-ru-sa-lem, từ xứ I-đu-mê, từ vùng bên kia sông Gio-đan và vùng phụ cận hai thành Tia và Xi-đôn, người ta lũ lượt đến với Người, vì nghe biết những gì Người đã làm. 9 Người đã bảo các môn đệ dành sẵn cho Người một chiếc thuyền nhỏ, để khỏi bị đám đông chen lấn. 10 Quả thế, Người đã chữa lành nhiều bệnh nhân, khiến tất cả những ai có bệnh cũng đổ xô đến để sờ vào Người. 11 Còn các thần ô uế, hễ thấy Đức Giê-su, thì phủ phục trước mặt Người và kêu lên: “Ông là Con Thiên Chúa!” 12 Nhưng Người cấm ngặt chúng không được tiết lộ Người là ai."
         }
       },
       "reflection": {
@@ -1032,9 +1058,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/22.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/22.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/22.html"
       },
-      "updated": "2026-06-01T05:01:27.923Z"
+      "updated": "2026-06-01T09:47:05.990Z"
     },
     {
       "date": "2026-01-23",
@@ -1055,20 +1082,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Sm 24,3-21",
-          "text": ""
+          "text": "Tôi sẽ không tra tay hại vua, vì người là đấng Đức Chúa đã xức dầu tấn phong.\nBài trích sách Sa-mu-en quyển thứ nhất.\n3 Hôm đó, vua Sa-un lấy trong toàn thể Ít-ra-en ba ngàn quân tinh nhuệ, và lên đường để tìm bắt ông Đa-vít và người của ông, ở phía đông các Mỏm Đá Sơn Dương. 4 Vua đến các bãi quây chiên dê bên đường. Ở đó có một cái hang và vua Sa-un vào đó để đi việc cần. Ông Đa-vít và người của ông đang ngồi ở cuối hang. 5 Người của ông Đa-vít nói với ông: “Đây là ngày Đức Chúa phán với ông: ‘Này ta trao kẻ thù của ngươi vào tay ngươi, ngươi sẽ đối xử với nó thế nào tuỳ ý.’” Ông Đa-vít đứng dậy và cắt vạt áo khoác của vua Sa-un. 6 Sau đó, ông Đa-vít áy náy trong lòng vì đã cắt vạt áo của vua Sa-un. 7 Ông bảo người của ông: “Xin Đức Chúa đừng để tôi làm điều này cho chúa thượng của tôi, đấng Đức Chúa đã xức dầu tấn phong, đó là xin Đức Chúa đừng để tôi tra tay hại vua, vì người là đấng Đức Chúa đã xức dầu tấn phong.” 8 Nhờ những lời ấy, ông Đa-vít đã ngăn chặn người của ông, không để cho họ xông vào vua Sa-un.\nVua Sa-un đứng lên, ra khỏi hang và lên đường. 9 Sau đó, ông Đa-vít cũng đứng lên, ra khỏi hang và kêu đằng sau vua Sa-un rằng: “Thưa đức vua là chúa thượng con!” Vua Sa-un ngoái lại đằng sau. Ông Đa-vít sấp mặt sát đất mà lạy. 10 Ông Đa-vít nói với vua Sa-un: “Tại sao cha lại nghe lời người ta nói rằng Đa-vít đang tìm cách hại cha? 11 Hôm nay đây, chính mắt cha thấy Đức Chúa đã trao cha vào tay con, hôm nay, trong hang; người ta nói đến chuyện giết cha, nhưng con đã thương hại cha và nói: ‘Tôi sẽ không tra tay hại chúa thượng tôi, vì người là đấng Đức Chúa đã xức dầu tấn phong.’ 12 Thưa cha, xin nhìn xem, vâng, xin nhìn xem vạt áo choàng của cha trong tay con. Vì con đã cắt áo choàng của cha và không giết cha, thì xin cha biết và thấy cho rằng tay con không làm điều ác, điều lỗi, và con đã không phạm tội hại cha, trong khi cha mưu toan lấy mạng sống con. 13 Xin Đức Chúa phân xử giữa con và cha, và xin Đức Chúa phạt cha để trả thù cho con, nhưng tay con sẽ không đụng đến cha. 14 Như tục ngữ người xưa có nói: ‘Điều ác từ kẻ ác mà ra’, nên tay con sẽ không đụng đến cha. 15 Đức vua Ít-ra-en đã ra trận để đánh ai? Cha đuổi theo ai? Một con chó chết! Một con bọ chét! 16 Đức Chúa sẽ là trọng tài, Người sẽ phân xử giữa con và cha. Xin Người nhìn xem và biện hộ cho con, xin Người phân xử để con thoát khỏi tay cha!”\n17 Khi ông Đa-vít nói với vua Sa-un những lời đó xong, thì vua Sa-un hỏi: “Đa-vít con cha, có phải tiếng của con đấy không?” Rồi vua Sa-un oà lên khóc. 18 Vua nói với ông Đa-vít: “Con công chính hơn cha, vì con xử tốt với cha, còn cha thì xử ác với con. 19 Hôm nay con đã tỏ ra là con làm điều tốt cho cha, vì Đức Chúa đã nộp cha vào tay con, mà con đã không giết cha. 20 Có ai gặp kẻ thù của mình mà cứ để nó đi yên lành không? Xin Đức Chúa thưởng con vì điều tốt con làm cho cha hôm nay. 21 Giờ đây cha biết rằng: chắc chắn con sẽ làm vua, và vương quyền Ít-ra-en sẽ vững mãi trong tay con.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 56,2.3-4.6",
+          "response": "Đ. Xin thương xót con cùng, lạy Thiên Chúa.\n2 Xin thương xót con cùng, lạy Thiên Chúa,\nxin Ngài thương xót con,\nnày con đến ẩn náu bên Ngài;\ndưới bóng Ngài, này con ẩn náu,\ntới khi nào hết tai hoạ khổ đau.\nĐ. Xin thương xót con cùng, lạy Thiên Chúa.\n3 Tôi kêu cầu Chúa Tối Cao,\nChúa ban ơn phúc dồi dào cho tôi.\n4 Tự trời xanh, mong Người đưa tay giải thoát,\nhạ nhục kẻ thù tấn công tôi.\nXin Chúa Trời gửi xuống\ntình thương và lòng thành tín của Người.\nĐ. Xin thương xót con cùng, lạy Thiên Chúa.\n6 Lạy Thiên Chúa, xin biểu thị uy phong khắp cõi trời\nvà chiếu toả vinh quang đầy mặt đất.\n11 Vì tình thương của Ngài cao ngất trời xanh,\nvà lòng thành tín vượt ngàn mây thẳm.\nĐ. Xin thương xót con cùng, lạy Thiên Chúa."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nTrong Đức Ki-tô, Thiên Chúa đã cho thế gian được hoà giải với Người,\nvà giao cho chúng tôi công bố lời hoà giải.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 3,13-19",
-          "text": "Đức Gi&ecirc;-su gọi những kẻ Người muốn, để c&aacute;c &ocirc;ng ở với Người.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 3,13-19\n13 Khi ấy, Đức Gi&ecirc;-su l&ecirc;n n&uacute;i v&agrave; gọi những kẻ Người muốn. C&aacute;c &ocirc;ng đến với Người. 14 Người lập Nh&oacute;m Mười Hai, để c&aacute;c &ocirc;ng ở với Người, v&agrave; để Người sai c&aacute;c &ocirc;ng đi rao giảng, 15 với quyền trừ quỷ. 16 Người lập Nh&oacute;m Mười Hai gồm c&oacute;: &ocirc;ng Si-m&ocirc;n -Người đặt t&ecirc;n l&agrave; Ph&ecirc;-r&ocirc;-, 17 &ocirc;ng Gia-c&ocirc;-b&ecirc; con &ocirc;ng D&ecirc;-b&ecirc;-đ&ecirc;, v&agrave; &ocirc;ng Gio-an em &ocirc;ng Gia-c&ocirc;-b&ecirc; -Người đặt t&ecirc;n cho hai &ocirc;ng l&agrave; B&ocirc;-a-n&ecirc;-gh&ecirc;, nghĩa l&agrave; con của thi&ecirc;n l&ocirc;i-, 18 rồi đến c&aacute;c &ocirc;ng An-r&ecirc;, Phi-l&iacute;p-ph&ecirc;, Ba-t&ocirc;-l&ocirc;-m&ecirc;-&ocirc;, M&aacute;t-th&ecirc;u, T&ocirc;-ma, Gia-c&ocirc;-b&ecirc; con &ocirc;ng An-ph&ecirc;, Ta-đ&ecirc;-&ocirc;, Si-m&ocirc;n thuộc nh&oacute;m Nhiệt Th&agrave;nh, 19 v&agrave; Giu-đa &Iacute;t-ca-ri-ốt l&agrave; ch&iacute;nh kẻ nộp Người."
+          "text": "Đức Giê-su gọi những kẻ Người muốn, để các ông ở với Người.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 3,13-19\n13 Khi ấy, Đức Giê-su lên núi và gọi những kẻ Người muốn. Các ông đến với Người. 14 Người lập Nhóm Mười Hai, để các ông ở với Người, và để Người sai các ông đi rao giảng, 15 với quyền trừ quỷ. 16 Người lập Nhóm Mười Hai gồm có: ông Si-môn -Người đặt tên là Phê-rô-, 17 ông Gia-cô-bê con ông Dê-bê-đê, và ông Gio-an em ông Gia-cô-bê -Người đặt tên cho hai ông là Bô-a-nê-ghê, nghĩa là con của thiên lôi-, 18 rồi đến các ông An-rê, Phi-líp-phê, Ba-tô-lô-mê-ô, Mát-thêu, Tô-ma, Gia-cô-bê con ông An-phê, Ta-đê-ô, Si-môn thuộc nhóm Nhiệt Thành, 19 và Giu-đa Ít-ca-ri-ốt là chính kẻ nộp Người."
         }
       },
       "reflection": {
@@ -1078,9 +1105,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/23.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/23.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/23.html"
       },
-      "updated": "2026-06-01T05:01:28.288Z"
+      "updated": "2026-06-01T09:47:05.936Z"
     },
     {
       "date": "2026-01-24",
@@ -1101,20 +1129,20 @@
       "readings": {
         "reading1": {
           "reference": "2 Sm 1,1-4.11-12.19.23-27",
-          "text": ""
+          "text": "Các anh hùng đã ngã gục giữa lúc giao tranh!\nKhởi đầu sách Sa-mu-en quyển thứ hai.\n1 Hôm đó, ông Đa-vít đánh thắng người A-ma-lếch trở về, và ở lại Xích-lắc hai ngày. 2 Qua ngày thứ ba, có một người từ trại, từ bên vua Sa-un đến, áo quần xé rách, đầu thì rắc đất. Khi đến gần ông Đa-vít, anh ta sấp mình xuống đất và sụp lạy. 3 Ông Đa-vít hỏi anh: “Anh từ đâu đến?” Anh trả lời: “Tôi đã chạy thoát từ trại Ít-ra-en.” 4 Ông Đa-vít nói với anh: “Chuyện gì đã xảy ra? Kể lại cho tôi đi!” Anh nói: “Dân đã bỏ chiến trường mà chạy trốn; nhiều người trong dân tử trận, cả vua Sa-un và con vua là ông Giô-na-than cũng đã chết.”\n11 Ông Đa-vít nắm lấy áo mình mà xé ra, tất cả những người ở với ông cũng vậy. 12 Họ cử hành tang lễ, khóc lóc và ăn chay cho đến chiều để tỏ lòng thương tiếc vua Sa-un và ông Giô-na-than, con vua, thương tiếc dân Đức Chúa và nhà Ít-ra-en, vì những người này đã ngã gục dưới lưỡi gươm. Bấy giờ ông Đa-vít nói:\n19 “Hỡi Ít-ra-en, trên các đồi của ngươi,\nnhững người con ưu tú đã bỏ mình.\nThan ôi! Anh hùng nay ngã gục!\n23 Sa-un và Giô-na-than,\nôi những con người dễ thương, dễ mến,\nsống chẳng xa nhau, chết cũng chẳng rời,\nnhanh hơn chim bằng, mạnh hơn sư tử!\n24 Thiếu nữ Ít-ra-en hỡi, hãy khóc Sa-un,\nngười đã mặc cho các cô vải điều lộng lẫy,\nđính trên áo các cô đồ trang sức bằng vàng.\n25 Than ôi! Các anh hùng đã ngã gục giữa lúc giao tranh!\nTrên các đồi của ngươi, Giô-na-than đã bỏ mình!\n26 Giô-na-than, anh hỡi, lòng tôi se lại vì anh!\nTôi thương anh biết mấy!\nTình anh đối với tôi thật diệu kỳ hơn cả tình nhi nữ.\n27 Than ôi! Anh hùng nay ngã gục, võ khí đã tan tành!”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 79,2-3.5-7",
+          "response": "Đ. Lạy Chúa, xin toả ánh tôn nhan rạng ngời,\nđể chúng con được ơn cứu độ.\n2 Lạy Mục Tử nhà Ít-ra-en,\nNgài là Đấng chăn giữ nhà Giu-se\nnhư chăn giữ chiên cừu, xin hãy lắng tai nghe!\nNgài là Đấng ngự trên các thần hộ giá,\n3 xin giãi sáng hiển linh cho dòng dõi Ép-ra-im,\nBen-gia-min và Mơ-na-se được thấy.\nXin khơi dậy uy dũng của Ngài,\nđến cùng chúng con và thương cứu độ.\nĐ. Lạy Chúa, xin toả ánh tôn nhan rạng ngời,\nđể chúng con được ơn cứu độ.\n5 Lạy Chúa là Chúa Tể càn khôn,\nđến khi nao Chúa còn nóng giận,\nchẳng màng chi lời dân Chúa nguyện cầu?\n6 Cơm Ngài cho ăn chỉ là châu luỵ,\nnước Ngài cho uống là suối lệ chứa chan.\n7 Ngài đã khiến chúng con thành cớ\ncho lân bang cãi cọ tranh giành,\ncho thù địch nhạo cười chế giễu.\nĐ. Lạy Chúa, xin toả ánh tôn nhan rạng ngời,\nđể chúng con được ơn cứu độ."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLạy Chúa, xin mở lòng chúng con,\nđể chúng con lắng nghe lời của Con Chúa.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 3,20-21",
-          "text": "Th&acirc;n nh&acirc;n của Người n&oacute;i rằng Người đ&atilde; mất tr&iacute;.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 3,20-21\n20 Khi ấy, Đức Gi&ecirc;-su c&ugrave;ng với c&aacute;c m&ocirc;n đệ trở về nh&agrave;, v&agrave; đ&aacute;m đ&ocirc;ng lại k&eacute;o đến, n&ecirc;n Người v&agrave; c&aacute;c m&ocirc;n đệ kh&ocirc;ng sao ăn uống được. 21 Th&acirc;n nh&acirc;n của Người hay tin ấy, liền đi bắt Người, v&igrave; họ n&oacute;i rằng Người đ&atilde; mất tr&iacute;."
+          "text": "Thân nhân của Người nói rằng Người đã mất trí.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 3,20-21\n20 Khi ấy, Đức Giê-su cùng với các môn đệ trở về nhà, và đám đông lại kéo đến, nên Người và các môn đệ không sao ăn uống được. 21 Thân nhân của Người hay tin ấy, liền đi bắt Người, vì họ nói rằng Người đã mất trí."
         }
       },
       "reflection": {
@@ -1124,9 +1152,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/24.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/24.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/24.html"
       },
-      "updated": "2026-06-01T05:01:28.651Z"
+      "updated": "2026-06-01T09:47:05.969Z"
     },
     {
       "date": "2026-01-25",
@@ -1146,21 +1175,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Nkm 8,2-4a.5-6.8-10 1 Cr 12,12-30 (hoặc 1 Cr 12,12-14.27)",
-          "text": ""
+          "reference": "Is 8,23b - 9,3",
+          "text": "Tại Ga-li-lê vùng đất của dân ngoại, dân đã thấy một ánh sáng huy hoàng.\nBài trích sách ngôn sứ I-sai-a.\n8 23b Thời đầu, Chúa đã hạ nhục đất Dơ-vu-lun và đất Náp-ta-li, nhưng thời sau, Người sẽ làm vẻ vang cho con đường ra biển, miền bên kia sông Gio-đan, vùng đất của dân ngoại.\n9 1 Dân đang lần bước giữa tối tăm\nđã thấy một ánh sáng huy hoàng;\nđám người sống trong vùng bóng tối,\nnay được ánh sáng bừng lên chiếu rọi.\n2 Chúa đã ban chứa chan niềm hoan hỷ,\nđã tăng thêm nỗi vui mừng.\nHọ mừng vui trước nhan Ngài\nnhư thiên hạ mừng vui trong mùa gặt,\nnhư người ta hỷ hoan khi chia nhau chiến lợi phẩm.\n3 Vì cái ách đè lên cổ dân, cây gậy đập xuống vai họ,\nvà ngọn roi của kẻ hà hiếp, Ngài đều bẻ gãy\nnhư trong ngày chiến thắng quân Ma-đi-an."
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "1 Cr 1,10-13.17",
+          "text": "Tất cả anh em hãy nhất trí với nhau trong lời ăn tiếng nói.\nBài trích thư thứ nhất của thánh Phao-lô tông đồ gửi tín hữu Cô-rin-tô.\n10 Thưa anh em, nhân danh Đức Giê-su Ki-tô, Chúa chúng ta, tôi khuyên tất cả anh em hãy nhất trí với nhau trong lời ăn tiếng nói, và đừng để có sự chia rẽ giữa anh em, nhưng hãy sống hoà thuận, một lòng một ý với nhau. 11 Thật vậy, thưa anh em, người nhà của bà Khơ-lô-e cho tôi hay tin có chuyện bè phái giữa anh em. 12 Tôi muốn nói là trong anh em có những luận điệu như: “Tôi thuộc về ông Phao-lô, tôi thuộc về ông A-pô-lô, tôi thuộc về ông Kê-pha, tôi thuộc về Đức Ki-tô.” 13 Thế ra Đức Ki-tô đã bị chia năm xẻ bảy rồi ư? Có phải Phao-lô đã chịu đóng đinh vào khổ giá vì anh em chăng? Hay anh em đã chịu phép rửa nhân danh Phao-lô sao?\n17 Quả vậy, Đức Ki-tô đã chẳng sai tôi đi làm phép rửa, nhưng sai tôi đi rao giảng Tin Mừng, và rao giảng không phải bằng lời lẽ khôn khéo, để thập giá Đức Ki-tô khỏi trở nên vô hiệu."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 26,1.4.13-14",
+          "response": "Đ. Chúa là nguồn ánh sáng và ơn cứu độ của tôi.\n1 Chúa là nguồn ánh sáng và ơn cứu độ của tôi,\ntôi còn sợ người nào?\nChúa là thành luỹ bảo vệ đời tôi,\ntôi khiếp gì ai nữa?\nĐ. Chúa là nguồn ánh sáng và ơn cứu độ của tôi.\n4 Một điều tôi kiếm tôi xin,\nlà luôn được ở trong đền Chúa tôi\nmọi ngày trong suốt cuộc đời,\nđể chiêm ngưỡng Chúa tuyệt vời cao sang,\nngắm xem thánh điện huy hoàng.\nĐ. Chúa là nguồn ánh sáng và ơn cứu độ của tôi.\n13 Tôi vững vàng tin tưởng\nsẽ được thấy ân lộc Chúa ban trong cõi đất dành cho kẻ sống.\n14 Hãy cậy trông vào Chúa, mạnh bạo lên, can đảm lên nào!\nHãy cậy trông vào Chúa.\nĐ. Chúa là nguồn ánh sáng và ơn cứu độ của tôi."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐức Giê-su rao giảng Tin Mừng Nước Trời,\nvà chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mt 4,12-23",
-          "text": "Đức Gi&ecirc;-su đến ở Ca-ph&aacute;c-na-um, để ứng nghiệm lời ng&ocirc;n sứ I-sai-a.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 4,12-23\n12 Khi Đức Gi&ecirc;-su nghe tin &ocirc;ng Gio-an đ&atilde; bị nộp, Người l&aacute;nh qua miền Ga-li-l&ecirc;. 13 Rồi Người bỏ Na-da-r&eacute;t, đến ở Ca-ph&aacute;c-na-um, một th&agrave;nh ven biển hồ Ga-li-l&ecirc;, thuộc địa hạt Dơ-vu-lun v&agrave; N&aacute;p-ta-li, 14 để ứng nghiệm lời ng&ocirc;n sứ I-sai-a đ&atilde; n&oacute;i: 15 N&agrave;y đất Dơ-vu-lun, v&agrave; đất N&aacute;p-ta-li, hỡi con đường ven biển, v&agrave; v&ugrave;ng tả ngạn s&ocirc;ng Gio-đan, hỡi Ga-li-l&ecirc;, miền đất của d&acirc;n ngoại ! 16 Đo&agrave;n d&acirc;n đang ngồi trong cảnh tối tăm đ&atilde; thấy một &aacute;nh s&aacute;ng huy ho&agrave;ng, những kẻ đang ngồi trong v&ugrave;ng b&oacute;ng tối của tử thần, nay được &aacute;nh s&aacute;ng bừng l&ecirc;n chiếu rọi.\n17 Từ l&uacute;c đ&oacute;, Đức Gi&ecirc;-su bắt đầu rao giảng v&agrave; n&oacute;i rằng: “Anh em h&atilde;y s&aacute;m hối, v&igrave; Nước Trời đ&atilde; đến gần.”\n18 Người đang đi dọc theo biển hồ Ga-li-l&ecirc;, th&igrave; thấy hai anh em kia, l&agrave; &ocirc;ng Si-m&ocirc;n, cũng gọi l&agrave; Ph&ecirc;-r&ocirc;, v&agrave; người anh l&agrave; &ocirc;ng An-r&ecirc;, đang quăng ch&agrave;i xuống biển, v&igrave; c&aacute;c &ocirc;ng l&agrave;m nghề đ&aacute;nh c&aacute;. 19 Người bảo c&aacute;c &ocirc;ng: “C&aacute;c anh h&atilde;y đi theo t&ocirc;i, t&ocirc;i sẽ l&agrave;m cho c&aacute;c anh th&agrave;nh những kẻ lưới người như lưới c&aacute;.” 20 Lập tức hai &ocirc;ng bỏ ch&agrave;i lưới m&agrave; theo Người.\n21 Đi một qu&atilde;ng nữa, Người thấy hai anh em kh&aacute;c con &ocirc;ng D&ecirc;-b&ecirc;-đ&ecirc;, l&agrave; &ocirc;ng Gia-c&ocirc;-b&ecirc; v&agrave; người em l&agrave; &ocirc;ng Gio-an. Hai &ocirc;ng n&agrave;y đang c&ugrave;ng với cha l&agrave; &ocirc;ng D&ecirc;-b&ecirc;-đ&ecirc; v&aacute; lưới ở trong thuyền. Người gọi c&aacute;c &ocirc;ng. 22 Lập tức, c&aacute;c &ocirc;ng bỏ thuyền, bỏ cha lại m&agrave; theo Người. 23 Thế rồi Đức Gi&ecirc;-su đi khắp miền Ga-li-l&ecirc;, giảng dạy trong c&aacute;c hội đường, rao giảng Tin Mừng Nước Trời, v&agrave; chữa hết mọi kẻ bệnh hoạn tật nguyền trong d&acirc;n."
+          "text": "Đức Giê-su đến ở Ca-phác-na-um, để ứng nghiệm lời ngôn sứ I-sai-a.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mát-thêu. Mt 4,12-23\n12 Khi Đức Giê-su nghe tin ông Gio-an đã bị nộp, Người lánh qua miền Ga-li-lê. 13 Rồi Người bỏ Na-da-rét, đến ở Ca-phác-na-um, một thành ven biển hồ Ga-li-lê, thuộc địa hạt Dơ-vu-lun và Náp-ta-li, 14 để ứng nghiệm lời ngôn sứ I-sai-a đã nói: 15 Này đất Dơ-vu-lun, và đất Náp-ta-li, hỡi con đường ven biển, và vùng tả ngạn sông Gio-đan, hỡi Ga-li-lê, miền đất của dân ngoại! 16 Đoàn dân đang ngồi trong cảnh tối tăm đã thấy một ánh sáng huy hoàng, những kẻ đang ngồi trong vùng bóng tối của tử thần, nay được ánh sáng bừng lên chiếu rọi.\n17 Từ lúc đó, Đức Giê-su bắt đầu rao giảng và nói rằng: “Anh em hãy sám hối, vì Nước Trời đã đến gần.”\n18 Người đang đi dọc theo biển hồ Ga-li-lê, thì thấy hai anh em kia, là ông Si-môn, cũng gọi là Phê-rô, và người anh là ông An-rê, đang quăng chài xuống biển, vì các ông làm nghề đánh cá. 19 Người bảo các ông: “Các anh hãy đi theo tôi, tôi sẽ làm cho các anh thành những kẻ lưới người như lưới cá.” 20 Lập tức hai ông bỏ chài lưới mà theo Người.\n21 Đi một quãng nữa, Người thấy hai anh em khác con ông Dê-bê-đê, là ông Gia-cô-bê và người em là ông Gio-an. Hai ông này đang cùng với cha là ông Dê-bê-đê vá lưới ở trong thuyền. Người gọi các ông. 22 Lập tức, các ông bỏ thuyền, bỏ cha lại mà theo Người. 23 Thế rồi Đức Giê-su đi khắp miền Ga-li-lê, giảng dạy trong các hội đường, rao giảng Tin Mừng Nước Trời, và chữa hết mọi kẻ bệnh hoạn tật nguyền trong dân."
         }
       },
       "reflection": {
@@ -1176,9 +1205,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/25.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/25.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/25.html"
       },
-      "updated": "2026-06-01T05:01:29.070Z"
+      "updated": "2026-06-01T09:47:06.061Z"
     },
     {
       "date": "2026-01-26",
@@ -1198,21 +1228,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "2 Tm 1,1-8 (hoặc Tt 1,1-5)",
-          "text": ""
+          "reference": "2 Tm 1,1-8",
+          "text": "Tôi hồi tưởng lại lòng tin không giả hình của anh.\nKhởi đầu thư thứ hai của thánh Phao-lô tông đồ gửi ông Ti-mô-thê.\n1 Tôi là Phao-lô, Tông Đồ của Đức Ki-tô Giê-su, do ý muốn của Thiên Chúa, chiếu theo lời Thiên Chúa hứa ban sự sống vốn có trong Đức Ki-tô Giê-su, 2 gửi anh Ti-mô-thê, người con yêu dấu. Xin Thiên Chúa là Cha và xin Đức Giê-su Ki-tô, Chúa chúng ta, ban cho anh được ân sủng, lòng thương xót và sự bình an.\n3 Tôi tạ ơn Thiên Chúa, Đấng tôi phụng thờ với lương tâm trong sạch, theo gót tổ tiên; tôi tạ ơn Người khi tôi không ngừng nhắc nhớ đến anh, trong các lời cầu nguyện của tôi, đêm cũng như ngày. 4 Nhớ đến những giọt nước mắt của anh, tôi ước ao gặp lại anh để được chan chứa niềm vui. 5 Tôi hồi tưởng lại lòng tin không giả hình của anh, lòng tin đã có nơi cụ Lô-ít, bà ngoại anh, nơi bà Êu-ni-kê, mẹ anh, cũng như chính nơi anh, tôi xác tín như vậy.\n6 Vì lý do đó, tôi nhắc anh phải khơi dậy đặc sủng của Thiên Chúa, đặc sủng anh đã nhận được khi tôi đặt tay trên anh. 7 Vì Thiên Chúa đã chẳng ban cho chúng ta một thần khí làm cho chúng ta trở nên nhút nhát, nhưng là một Thần Khí khiến chúng ta được đầy sức mạnh, tình thương, và biết tự chủ. 8 Vậy anh đừng hổ thẹn vì phải làm chứng cho Chúa chúng ta, cũng đừng thẹn vì tôi, người tù của Chúa; nhưng dựa vào sức mạnh của Thiên Chúa, anh hãy đồng lao cộng khổ với tôi để loan báo Tin Mừng."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 95,1-2a.7-8a.10",
+          "response": "Đ. Hãy kể cho muôn dân được biết\nnhững kỳ công Chúa làm.\n1 Hát lên mừng Chúa một bài ca mới,\nhát lên mừng Chúa, hỡi toàn thể địa cầu!\n2a Hát lên mừng Chúa, chúc tụng Thánh Danh!\nĐ. Hãy kể cho muôn dân được biết\nnhững kỳ công Chúa làm.\n7 Hãy dâng Chúa, hỡi các dân các nước,\ndâng Chúa quyền lực và vinh quang,\n8a hãy dâng Chúa vinh quang xứng danh Người.\nĐ. Hãy kể cho muôn dân được biết\nnhững kỳ công Chúa làm.\n10 Hãy nói với chư dân: Chúa là Vua hiển trị,\nChúa thiết lập địa cầu, địa cầu chẳng chuyển lay,\nNgười xét xử muôn nước theo đường ngay thẳng.\nĐ. Hãy kể cho muôn dân được biết\nnhững kỳ công Chúa làm."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa đã sai tôi đi loan báo Tin Mừng cho kẻ nghèo hèn,\ncông bố cho kẻ bị giam cầm biết họ được tha.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Lc 10,1-9",
-          "text": "L&uacute;a ch&iacute;n đầy đồng m&agrave; thợ gặt lại &iacute;t.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 10,1-9\n1 Khi ấy, Ch&uacute;a Gi&ecirc;-su chỉ định bảy mươi hai m&ocirc;n đệ kh&aacute;c, v&agrave; sai c&aacute;c &ocirc;ng cứ từng hai người một đi trước, v&agrave;o tất cả c&aacute;c th&agrave;nh, c&aacute;c nơi m&agrave; ch&iacute;nh Người sẽ đến. 2 Người bảo c&aacute;c &ocirc;ng:\n“L&uacute;a ch&iacute;n đầy đồng m&agrave; thợ gặt lại &iacute;t. Vậy anh em h&atilde;y xin chủ m&ugrave;a gặt sai thợ ra gặt l&uacute;a về. 3 Anh em h&atilde;y ra đi. N&agrave;y Thầy sai anh em đi như chi&ecirc;n con đi v&agrave;o giữa bầy s&oacute;i. 4 Đừng mang theo t&uacute;i tiền, bao bị, gi&agrave;y d&eacute;p. Cũng đừng ch&agrave;o hỏi ai dọc đường. 5 V&agrave;o bất cứ nh&agrave; n&agrave;o, trước ti&ecirc;n h&atilde;y n&oacute;i: “B&igrave;nh an cho nh&agrave; n&agrave;y !” 6 Nếu ở đ&oacute;, c&oacute; ai đ&aacute;ng hưởng b&igrave;nh an, th&igrave; b&igrave;nh an của anh em sẽ ở lại với người ấy; bằng kh&ocirc;ng th&igrave; b&igrave;nh an đ&oacute; sẽ trở lại với anh em. 7 H&atilde;y ở lại nh&agrave; ấy, v&agrave; người ta cho ăn uống thức g&igrave;, th&igrave; anh em d&ugrave;ng thức đ&oacute;, v&igrave; l&agrave;m thợ th&igrave; đ&aacute;ng được trả c&ocirc;ng. Đừng đi hết nh&agrave; nọ đến nh&agrave; kia. 8 V&agrave;o bất cứ th&agrave;nh n&agrave;o m&agrave; được người ta tiếp đ&oacute;n, th&igrave; cứ ăn những g&igrave; người ta dọn cho anh em. 9 H&atilde;y chữa những người đau yếu trong th&agrave;nh, v&agrave; n&oacute;i với họ: “Triều Đại Thi&ecirc;n Ch&uacute;a đ&atilde; đến gần c&aacute;c &ocirc;ng.”"
+          "text": "Lúa chín đầy đồng mà thợ gặt lại ít.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Lu-ca. Lc 10,1-9\n1 Khi ấy, Chúa Giê-su chỉ định bảy mươi hai môn đệ khác, và sai các ông cứ từng hai người một đi trước, vào tất cả các thành, các nơi mà chính Người sẽ đến. 2 Người bảo các ông:\n“Lúa chín đầy đồng mà thợ gặt lại ít. Vậy anh em hãy xin chủ mùa gặt sai thợ ra gặt lúa về. 3 Anh em hãy ra đi. Này Thầy sai anh em đi như chiên con đi vào giữa bầy sói. 4 Đừng mang theo túi tiền, bao bị, giày dép. Cũng đừng chào hỏi ai dọc đường. 5 Vào bất cứ nhà nào, trước tiên hãy nói: “Bình an cho nhà này!” 6 Nếu ở đó, có ai đáng hưởng bình an, thì bình an của anh em sẽ ở lại với người ấy; bằng không thì bình an đó sẽ trở lại với anh em. 7 Hãy ở lại nhà ấy, và người ta cho ăn uống thức gì, thì anh em dùng thức đó, vì làm thợ thì đáng được trả công. Đừng đi hết nhà nọ đến nhà kia. 8 Vào bất cứ thành nào mà được người ta tiếp đón, thì cứ ăn những gì người ta dọn cho anh em. 9 Hãy chữa những người đau yếu trong thành, và nói với họ: “Triều Đại Thiên Chúa đã đến gần các ông.”"
         }
       },
       "reflection": {
@@ -1222,9 +1252,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/26.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/26.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/26.html"
       },
-      "updated": "2026-06-01T05:01:29.454Z"
+      "updated": "2026-06-01T09:47:06.074Z"
     },
     {
       "date": "2026-01-27",
@@ -1245,20 +1276,20 @@
       "readings": {
         "reading1": {
           "reference": "2 Sm 6,12b-15.17-19",
-          "text": ""
+          "text": "Vua Đa-vít và toàn thể nhà Ít-ra-en rước Hòm Bia Đức Chúa lên giữa tiếng hò reo.\nBài trích sách Sa-mu-en quyển thứ hai.\n12b Hôm đó, vua Đa-vít ra đi và rước Hòm Bia Thiên Chúa từ nhà ông Ô-vết Ê-đôm lên Thành vua Đa-vít, trong niềm hân hoan. 13 Khi những người khiêng Hòm Bia của Đức Chúa đi được sáu bước, thì vua sát tế một con bò và một con bê béo. 14 Vua Đa-vít quấn ê-phốt vải gai, nhảy múa hết sức mình trước nhan Đức Chúa. 15 Vua Đa-vít và toàn thể nhà Ít-ra-en rước Hòm Bia Đức Chúa lên giữa tiếng hò reo với tiếng tù và. 17 Người ta đưa Hòm Bia Đức Chúa đặt vào chỗ đã dọn giữa lều vua Đa-vít đã dựng sẵn. Vua Đa-vít dâng lên trước nhan Đức Chúa những lễ toàn thiêu và những lễ kỳ an. 18 Khi đã hoàn tất việc dâng các lễ toàn thiêu và lễ kỳ an, vua Đa-vít nhân danh Đức Chúa các đạo binh chúc phúc cho dân. 19 Rồi vua phân phát cho toàn dân, cho tất cả đám đông Ít-ra-en, đàn ông cũng như đàn bà, mỗi người một cái bánh ngọt, một phần thịt và một cái bánh nho. Rồi toàn dân ai nấy về nhà mình."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 23,7.8.9.10",
+          "response": "Đ. Đức Vua vinh hiển đó là ai?\nLà Đức Chúa mạnh mẽ oai hùng.\n7 Hỡi cửa đền, hãy cất cao lên,\ncao lên nữa, hỡi cửa đền cổ kính,\nđể Đức Vua vinh hiển ngự vào.\nĐ. Đức Vua vinh hiển đó là ai?\nLà Đức Chúa mạnh mẽ oai hùng.\n8 Đức Vua vinh hiển đó là ai?\nLà Đức Chúa mạnh mẽ oai hùng\nĐức Chúa oai hùng khi xuất trận.\nĐ. Đức Vua vinh hiển đó là ai?\nLà Đức Chúa mạnh mẽ oai hùng.\n9 Hỡi cửa đền, hãy cất cao lên,\ncao lên nữa, hỡi cửa đền cổ kính,\nđể Đức Vua vinh hiển ngự vào.\nĐ. Đức Vua vinh hiển đó là ai?\nLà Đức Chúa mạnh mẽ oai hùng.\n10 Đức Vua vinh hiển đó là ai?\nLà Chúa Tể càn khôn:\nchính Người là Đức Vua vinh hiển.\nĐ. Đức Vua vinh hiển đó là ai?\nLà Đức Chúa mạnh mẽ oai hùng."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLạy Cha là Chúa Tể trời đất, con xin ngợi khen Cha,\nvì Cha đã mặc khải mầu nhiệm Nước Trời cho những người bé mọn.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 3,31-35",
-          "text": "Ai thi h&agrave;nh &yacute; muốn của Thi&ecirc;n Ch&uacute;a, người ấy l&agrave; anh em chị em t&ocirc;i, l&agrave; mẹ t&ocirc;i.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc; Mc 3,31-35\n31 Khi ấy, mẹ v&agrave; anh em Đức Gi&ecirc;-su đến, đứng ở ngo&agrave;i, cho mời Người ra. 32 L&uacute;c ấy, đ&aacute;m đ&ocirc;ng đang ngồi chung quanh Người. C&oacute; kẻ n&oacute;i với Người rằng: “Thưa Thầy, c&oacute; mẹ v&agrave; anh em chị em Thầy ở ngo&agrave;i kia đang t&igrave;m Thầy !” 33 Nhưng Người đ&aacute;p lại: “Ai l&agrave; mẹ t&ocirc;i ? Ai l&agrave; anh em t&ocirc;i ?” 34 Rồi Người rảo mắt nh&igrave;n những kẻ ngồi chung quanh v&agrave; n&oacute;i: “Đ&acirc;y l&agrave; mẹ t&ocirc;i, đ&acirc;y l&agrave; anh em t&ocirc;i. 35 Ai thi h&agrave;nh &yacute; muốn của Thi&ecirc;n Ch&uacute;a, người ấy l&agrave; anh em chị em t&ocirc;i, l&agrave; mẹ t&ocirc;i.”"
+          "text": "Ai thi hành ý muốn của Thiên Chúa, người ấy là anh em chị em tôi, là mẹ tôi.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô Mc 3,31-35\n31 Khi ấy, mẹ và anh em Đức Giê-su đến, đứng ở ngoài, cho mời Người ra. 32 Lúc ấy, đám đông đang ngồi chung quanh Người. Có kẻ nói với Người rằng: “Thưa Thầy, có mẹ và anh em chị em Thầy ở ngoài kia đang tìm Thầy!” 33 Nhưng Người đáp lại: “Ai là mẹ tôi? Ai là anh em tôi?” 34 Rồi Người rảo mắt nhìn những kẻ ngồi chung quanh và nói: “Đây là mẹ tôi, đây là anh em tôi. 35 Ai thi hành ý muốn của Thiên Chúa, người ấy là anh em chị em tôi, là mẹ tôi.”"
         }
       },
       "reflection": {
@@ -1268,9 +1299,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/27.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/27.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/27.html"
       },
-      "updated": "2026-06-01T05:01:29.804Z"
+      "updated": "2026-06-01T09:47:06.094Z"
     },
     {
       "date": "2026-01-28",
@@ -1291,20 +1323,20 @@
       "readings": {
         "reading1": {
           "reference": "2 Sm 7,4-17",
-          "text": ""
+          "text": "Ta sẽ cho dòng dõi ngươi đứng lên kế vị ngươi, và Ta sẽ làm cho vương quyền nó được vững bền.\nBài trích sách Sa-mu-en quyển thứ hai.\n4 Đêm ấy, có lời Đức Chúa phán với ông Na-than rằng:\n5 “Hãy đi nói với tôi tớ của Ta là Đa-vít: Đức Chúa phán thế này: Ngươi mà xây nhà cho Ta ở sao? 6 Thật vậy, từ ngày Ta đưa con cái Ít-ra-en lên từ Ai-cập cho tới ngày hôm nay, Ta không hề ở trong một ngôi nhà, nhưng Ta đã nay đây mai đó trong một cái lều và trong một nhà tạm. 7 Trong suốt thời gian rày đây mai đó với toàn thể con cái Ít-ra-en, có bao giờ Ta đã lên tiếng hỏi một trong các thủ lãnh Ít-ra-en mà Ta đã đặt lên chăn dắt dân Ta là Ít-ra-en: ‘Sao các ngươi không xây cho Ta một ngôi nhà bằng gỗ bá hương?’ 8 Bây giờ ngươi hãy nói với tôi tớ Ta là Đa-vít như sau: Đức Chúa các đạo binh phán thế này: Chính Ta đã cất nhắc ngươi, từ một kẻ lùa chiên ngoài đồng cỏ, lên làm người lãnh đạo dân Ta là Ít-ra-en. 9 Ngươi đi đâu, Ta cũng đã ở với ngươi; mọi thù địch ngươi, Ta đã diệt trừ cho khuất mắt ngươi. Ta sẽ làm cho tên tuổi ngươi lẫy lừng, như tên tuổi những bậc vĩ nhân trên mặt đất. 10 Ta sẽ cho dân Ta là Ít-ra-en một chỗ ở, Ta sẽ định cư chúng, và chúng sẽ ở luôn tại đó, chúng sẽ không còn run sợ, và quân gian ác cũng không còn tiếp tục áp bức chúng như thuở ban đầu, 11 kể từ thời Ta đặt các thủ lãnh cai quản dân Ta là Ít-ra-en. Ta sẽ cho ngươi được thảnh thơi, không còn thù địch nào nữa, Đức Chúa báo cho ngươi biết là Đức Chúa lập cho ngươi một nhà. 12 Khi ngày đời của ngươi đã mãn và ngươi đã nằm xuống với cha ông, Ta sẽ cho dòng dõi ngươi đứng lên kế vị ngươi -một người do chính ngươi sinh ra-, và Ta sẽ làm cho vương quyền của nó được vững bền. 13 Chính nó sẽ xây một nhà để tôn kính danh Ta, và Ta sẽ làm cho ngai vàng của nó vững bền mãi mãi. 14 Đối với nó, Ta sẽ là cha, đối với Ta, nó sẽ là con. Khi nó phạm lỗi, Ta sẽ sửa phạt nó bằng roi của người phàm, bằng đòn của con người. 15 Tình thương của Ta sẽ không rời khỏi nó, như Ta đã cho rời khỏi Sa-un, kẻ Ta đã bắt rời khỏi mặt ngươi. 16 Trước mặt Ta, nhà của ngươi và vương quyền của ngươi sẽ muôn đời bền vững, và ngai vàng của ngươi sẽ được củng cố đến muôn đời.”\n17 Ông Na-than đã nói lại với vua Đa-vít, đúng y như tất cả những lời ấy và tất cả thị kiến ấy."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 88,4-5.27-28.29-30",
+          "response": "Đ. Ta sẽ yêu thương Người đến muôn thuở.\n4 Xưa Chúa phán: “Ta đã giao ước với người Ta tuyển chọn,\nđã thề cùng Đa-vít, nghĩa bộc Ta,\n5 rằng: dòng dõi ngươi, Ta thiết lập cho đến ngàn đời,\nngai vàng ngươi, Ta xây dựng qua muôn thế hệ.”\nĐ. Ta sẽ yêu thương Người đến muôn thuở.\n27 Người sẽ thưa với Ta: “Ngài chính là Thân Phụ,\nlà Thiên Chúa con thờ, là núi đá cho con được cứu độ!”\n28 Phần Ta, Ta sẽ đặt Người làm trưởng tử,\ncao cả hơn vua chúa trần gian.\nĐ. Ta sẽ yêu thương Người đến muôn thuở.\n29 Ta sẽ yêu thương Người đến muôn thuở\nvà thành tín giữ giao ước với Người.\n30 Ta cho dòng dõi Người muôn năm tồn tại,\ncho ngai vàng trường cửu tựa trời xanh.\nĐ. Ta sẽ yêu thương Người đến muôn thuở."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nHạt giống là lời Thiên Chúa,\nngười gieo giống là Đức Ki-tô.\nAi tuân giữ lời Người\nsẽ muôn đời tồn tại.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 4,1-20",
-          "text": "Người gieo giống đi ra gieo giống.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 4,1-20\n1 Khi ấy, Đức Gi&ecirc;-su lại bắt đầu giảng dạy ở ven Biển Hồ. D&acirc;n ch&uacute;ng tụ họp b&ecirc;n Người rất đ&ocirc;ng, n&ecirc;n Người phải xuống ngồi tr&ecirc;n thuyền đang đậu dưới biển, c&ograve;n tất cả d&acirc;n ch&uacute;ng th&igrave; ở tr&ecirc;n bờ. 2 Người d&ugrave;ng dụ ng&ocirc;n m&agrave; dạy họ nhiều điều. Trong l&uacute;c giảng dạy, Người n&oacute;i với họ:\n3 “C&aacute;c người nghe đ&acirc;y ! Người gieo giống đi ra gieo giống. 4 Trong khi gieo, c&oacute; hạt rơi xuống vệ đường, chim ch&oacute;c đến ăn mất. 5 C&oacute; hạt rơi tr&ecirc;n sỏi đ&aacute;, chỗ kh&ocirc;ng c&oacute; nhiều đất; n&oacute; mọc ngay, v&igrave; đất kh&ocirc;ng s&acirc;u; 6 nhưng khi nắng l&ecirc;n, n&oacute; liền bị ch&aacute;y, v&agrave; v&igrave; thiếu rễ n&ecirc;n bị chết kh&ocirc;. 7 C&oacute; hạt rơi v&agrave;o bụi gai, gai mọc l&ecirc;n l&agrave;m n&oacute; chết nghẹt v&agrave; kh&ocirc;ng sinh hoa kết quả. 8 C&oacute; những hạt lại rơi nhằm đất tốt, n&oacute; mọc v&agrave; lớn l&ecirc;n, sinh hoa kết quả: hạt được ba chục, hạt được s&aacute;u chục, hạt được một trăm.” 9 Rồi Người n&oacute;i: “Ai c&oacute; tai để nghe th&igrave; h&atilde;y nghe !”\n10 Khi c&ograve;n một m&igrave;nh Đức Gi&ecirc;-su, những kẻ ở chung quanh Người c&ugrave;ng với Nh&oacute;m Mười Hai mới hỏi Người về c&aacute;c dụ ng&ocirc;n. 11 Người n&oacute;i với c&aacute;c &ocirc;ng: “Phần anh em, mầu nhiệm Nước Thi&ecirc;n Ch&uacute;a đ&atilde; được ban cho anh em; c&ograve;n với những người kia l&agrave; những kẻ ở ngo&agrave;i, th&igrave; c&aacute;i g&igrave; cũng phải d&ugrave;ng dụ ng&ocirc;n, 12 để họ c&oacute; trố mắt nh&igrave;n cũng chẳng thấy, c&oacute; lắng tai nghe cũng kh&ocirc;ng hiểu, kẻo họ trở lại v&agrave; được ơn tha thứ.”\n13 Người c&ograve;n n&oacute;i với c&aacute;c &ocirc;ng: “Anh em kh&ocirc;ng hiểu dụ ng&ocirc;n n&agrave;y, th&igrave; l&agrave;m sao hiểu được tất cả c&aacute;c dụ ng&ocirc;n ? 14 Người gieo giống đ&acirc;y l&agrave; người gieo Lời. 15 Những kẻ ở b&ecirc;n vệ đường, nơi Lời đ&atilde; gieo xuống, l&agrave; những kẻ vừa nghe th&igrave; Xa-tan liền đến lấy đi Lời đ&atilde; gieo nơi họ. 16 C&ograve;n những kẻ được gieo tr&ecirc;n nơi sỏi đ&aacute; l&agrave; những kẻ khi nghe Lời th&igrave; liền vui vẻ đ&oacute;n nhận, 17 nhưng họ kh&ocirc;ng đ&acirc;m rễ m&agrave; l&agrave; những kẻ n&ocirc;ng nổi nhất thời; sau đ&oacute;, khi gặp gian nan hay bị ngược đ&atilde;i v&igrave; Lời, họ vấp ng&atilde; ngay. 18 Những kẻ kh&aacute;c l&agrave; những kẻ được gieo v&agrave;o bụi gai: đ&oacute; l&agrave; những kẻ đ&atilde; nghe Lời, 19 nhưng những nỗi lo lắng sự đời, bả vinh hoa ph&uacute; qu&yacute; c&ugrave;ng những đam m&ecirc; kh&aacute;c x&acirc;m chiếm l&ograve;ng họ, b&oacute;p nghẹt lời khiến Lời kh&ocirc;ng sinh hoa kết quả g&igrave;. 20 C&ograve;n c&oacute; những người được gieo tr&ecirc;n đất tốt: đ&oacute; l&agrave; những kẻ nghe Lời v&agrave; đ&oacute;n nhận, rồi sinh hoa kết quả, kẻ được ba chục, kẻ được s&aacute;u chục, kẻ được một trăm.”"
+          "text": "Người gieo giống đi ra gieo giống.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 4,1-20\n1 Khi ấy, Đức Giê-su lại bắt đầu giảng dạy ở ven Biển Hồ. Dân chúng tụ họp bên Người rất đông, nên Người phải xuống ngồi trên thuyền đang đậu dưới biển, còn tất cả dân chúng thì ở trên bờ. 2 Người dùng dụ ngôn mà dạy họ nhiều điều. Trong lúc giảng dạy, Người nói với họ:\n3 “Các người nghe đây! Người gieo giống đi ra gieo giống. 4 Trong khi gieo, có hạt rơi xuống vệ đường, chim chóc đến ăn mất. 5 Có hạt rơi trên sỏi đá, chỗ không có nhiều đất; nó mọc ngay, vì đất không sâu; 6 nhưng khi nắng lên, nó liền bị cháy, và vì thiếu rễ nên bị chết khô. 7 Có hạt rơi vào bụi gai, gai mọc lên làm nó chết nghẹt và không sinh hoa kết quả. 8 Có những hạt lại rơi nhằm đất tốt, nó mọc và lớn lên, sinh hoa kết quả: hạt được ba chục, hạt được sáu chục, hạt được một trăm.” 9 Rồi Người nói: “Ai có tai để nghe thì hãy nghe!”\n10 Khi còn một mình Đức Giê-su, những kẻ ở chung quanh Người cùng với Nhóm Mười Hai mới hỏi Người về các dụ ngôn. 11 Người nói với các ông: “Phần anh em, mầu nhiệm Nước Thiên Chúa đã được ban cho anh em; còn với những người kia là những kẻ ở ngoài, thì cái gì cũng phải dùng dụ ngôn, 12 để họ có trố mắt nhìn cũng chẳng thấy, có lắng tai nghe cũng không hiểu, kẻo họ trở lại và được ơn tha thứ.”\n13 Người còn nói với các ông: “Anh em không hiểu dụ ngôn này, thì làm sao hiểu được tất cả các dụ ngôn? 14 Người gieo giống đây là người gieo Lời. 15 Những kẻ ở bên vệ đường, nơi Lời đã gieo xuống, là những kẻ vừa nghe thì Xa-tan liền đến lấy đi Lời đã gieo nơi họ. 16 Còn những kẻ được gieo trên nơi sỏi đá là những kẻ khi nghe Lời thì liền vui vẻ đón nhận, 17 nhưng họ không đâm rễ mà là những kẻ nông nổi nhất thời; sau đó, khi gặp gian nan hay bị ngược đãi vì Lời, họ vấp ngã ngay. 18 Những kẻ khác là những kẻ được gieo vào bụi gai: đó là những kẻ đã nghe Lời, 19 nhưng những nỗi lo lắng sự đời, bả vinh hoa phú quý cùng những đam mê khác xâm chiếm lòng họ, bóp nghẹt lời khiến Lời không sinh hoa kết quả gì. 20 Còn có những người được gieo trên đất tốt: đó là những kẻ nghe Lời và đón nhận, rồi sinh hoa kết quả, kẻ được ba chục, kẻ được sáu chục, kẻ được một trăm.”"
         }
       },
       "reflection": {
@@ -1314,9 +1346,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/28.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/28.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/28.html"
       },
-      "updated": "2026-06-01T05:01:30.171Z"
+      "updated": "2026-06-01T09:47:06.195Z"
     },
     {
       "date": "2026-01-29",
@@ -1337,20 +1370,20 @@
       "readings": {
         "reading1": {
           "reference": "2 Sm 7,18-19.24-29",
-          "text": ""
+          "text": "Lạy Đức Chúa là Chúa Thượng, con là ai và nhà của con là gì?\nBài trích sách Sa-mu-en quyển thứ hai.\n18 Sau khi ông Na-than nói với vua Đa-vít, vua vào ngồi chầu trước nhan Đức Chúa và thưa: “Lạy Đức Chúa là Chúa Thượng, con là ai và nhà của con là gì, mà Ngài đã đưa con tới địa vị này? 19 Nhưng lạy Đức Chúa là Chúa Thượng, Ngài còn coi đó là quá ít; Ngài lại hứa cho nhà của tôi tớ Ngài một tương lai lâu dài. Phải chăng đó là luật chung cho con người, lạy Đức Chúa là Chúa Thượng? 24 Ngài đã lập Ít-ra-en, dân Ngài, để nó thành dân Ngài mãi mãi; còn Ngài, lạy Đức Chúa, Ngài đã trở thành Thiên Chúa của chúng. 25 Giờ đây, lạy Đức Chúa là Thiên Chúa, lời Ngài đã phán về tôi tớ Ngài và nhà của nó, xin Ngài giữ mãi mãi, và xin hành động như Ngài đã phán. 26 Danh Ngài sẽ vĩ đại mãi mãi và người ta sẽ nói: ‘Đức Chúa các đạo binh là Thiên Chúa thống trị Ít-ra-en.’ Nhà của tôi tớ Ngài là Đa-vít sẽ vững bền trước nhan Ngài. 27 Thật vậy, lạy Đức Chúa các đạo binh, Thiên Chúa của Ít-ra-en, chính Ngài đã mặc khải cho tôi tớ Ngài rằng: Ta sẽ xây cho ngươi một nhà. Vì thế tôi tớ Ngài đủ can đảm dâng lên Ngài lời cầu nguyện ấy. 28 Giờ đây, lạy Đức Chúa là Chúa Thượng, chính Ngài là Thiên Chúa, những lời Ngài phán là chân lý, và Ngài đã hứa ban cho tôi tớ Ngài điều tốt đẹp ấy. 29 Vậy giờ đây, cúi xin Ngài giáng phúc cho nhà của tôi tớ Ngài, để nhà ấy được tồn tại mãi trước nhan Ngài. Bởi vì, lạy Đức Chúa là Chúa Thượng, chính Ngài đã phán, và nhờ Ngài giáng phúc mà nhà của tôi tớ Ngài sẽ được chúc lành mãi mãi.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 131,1-2.3-5.11.12.13-14",
+          "response": "Đ. Thiên Chúa sẽ ban cho Người\nngai vàng vua Đa-vít, tổ tiên Người.\n1 Lạy Chúa, xin Ngài nhớ đến vua Đa-vít\nvà mọi công lao vất vả của người:\n2 chính người đã đoan thệ cùng Đức Chúa,\nđã khấn hứa cùng Đấng Toàn Năng của Gia-cóp rằng:\nĐ. Thiên Chúa sẽ ban cho Người\nngai vàng vua Đa-vít, tổ tiên Người.\n3 “Tôi quyết chẳng về nhà,\nchẳng lên giường nằm nghỉ,\n4 chẳng bao giờ chợp mắt khép mi, 5 khi chưa tìm được một nơi cho Chúa ngự,\nmột ngôi đền cho Đấng Toàn Năng của Gia-cóp.”\nĐ. Thiên Chúa sẽ ban cho Người\nngai vàng vua Đa-vít, tổ tiên Người.\n11 Đức Chúa đã thề cùng vua Đa-vít\nvà sẽ không thất tín bao giờ,\nthề rằng: “Chính con ruột của ngươi,\nTa sẽ đặt lên thừa kế ngai vàng.\nĐ. Thiên Chúa sẽ ban cho Người\nngai vàng vua Đa-vít, tổ tiên Người.\n12 Con cái ngươi mà giữ giao ước của Ta\nvà mệnh lệnh Ta truyền cho chúng,\nthì con cái chúng đến muôn đời\ncũng sẽ được lên kế vị ngươi!”\nĐ. Thiên Chúa sẽ ban cho Người\nngai vàng vua Đa-vít, tổ tiên Người.\n13 Vì Đức Chúa đã chọn Xi-on,\nđã thích lấy chốn này làm nơi Người ngự.\n14 Người phán: “Đây là chốn Ta nghỉ ngơi đến muôn đời,\nTa sẽ ngự nơi này, vì Ta ưa thích.\nĐ. Thiên Chúa sẽ ban cho Người\nngai vàng vua Đa-vít, tổ tiên Người."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLời Chúa là ngọn đèn soi cho con bước,\nlá ánh sáng chỉ đường con đi.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 4,21-25",
-          "text": "Mang đ&egrave;n tới để đặt tr&ecirc;n đế. Anh em đong đấu n&agrave;o, th&igrave; Thi&ecirc;n Ch&uacute;a sẽ đong đấu ấy cho anh em.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 4,21-25\n21 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Chẳng lẽ mang đ&egrave;n tới để đặt dưới c&aacute;i th&ugrave;ng hay dưới gầm giường ? N&agrave;o chẳng phải l&agrave; để đặt tr&ecirc;n đế sao ? 22 V&igrave; chẳng c&oacute; g&igrave; che giấu m&agrave; kh&ocirc;ng được tỏ lộ, chẳng c&oacute; g&igrave; b&iacute; ẩn m&agrave; kh&ocirc;ng được đưa ra &aacute;nh s&aacute;ng. 23 Ai c&oacute; tai để nghe th&igrave; h&atilde;y nghe !”\n24 Người n&oacute;i với c&aacute;c &ocirc;ng: “H&atilde;y để &yacute; tới điều anh em nghe. Anh em đong đấu n&agrave;o, th&igrave; Thi&ecirc;n Ch&uacute;a cũng sẽ đong đấu ấy cho anh em, v&agrave; c&ograve;n cho anh em hơn nữa. 25 V&igrave; ai đ&atilde; c&oacute;, th&igrave; được cho th&ecirc;m; c&ograve;n ai kh&ocirc;ng c&oacute;, th&igrave; ngay c&aacute;i đang c&oacute; cũng sẽ bị lấy đi.”"
+          "text": "Mang đèn tới để đặt trên đế. Anh em đong đấu nào, thì Thiên Chúa sẽ đong đấu ấy cho anh em.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 4,21-25\n21 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Chẳng lẽ mang đèn tới để đặt dưới cái thùng hay dưới gầm giường? Nào chẳng phải là để đặt trên đế sao? 22 Vì chẳng có gì che giấu mà không được tỏ lộ, chẳng có gì bí ẩn mà không được đưa ra ánh sáng. 23 Ai có tai để nghe thì hãy nghe!”\n24 Người nói với các ông: “Hãy để ý tới điều anh em nghe. Anh em đong đấu nào, thì Thiên Chúa cũng sẽ đong đấu ấy cho anh em, và còn cho anh em hơn nữa. 25 Vì ai đã có, thì được cho thêm; còn ai không có, thì ngay cái đang có cũng sẽ bị lấy đi.”"
         }
       },
       "reflection": {
@@ -1360,9 +1393,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/29.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/29.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/29.html"
       },
-      "updated": "2026-06-01T05:01:30.571Z"
+      "updated": "2026-06-01T09:47:06.183Z"
     },
     {
       "date": "2026-01-30",
@@ -1383,20 +1417,20 @@
       "readings": {
         "reading1": {
           "reference": "2 Sm 11,1-4a.5-10a.13-17",
-          "text": ""
+          "text": "Ngươi đã khinh dể Ta và cướp vợ của U-ri-gia làm vợ ngươi.\nBài trích sách Sa-mu-en quyển thứ hai.\n1 Lúc xuân về, thời mà các vua ra quân, vua Đa-vít sai ông Giô-áp đi, cùng với các bề tôi của vua và toàn thể Ít-ra-en. Họ giết hại con cái Am-mon và vây hãm Ráp-ba. Còn vua Đa-vít thì ở lại Giê-ru-sa-lem.\n2 Vào một buổi chiều, vua Đa-vít từ trên giường trỗi dậy và đi bách bộ trên sân thượng đền vua. Từ sân thượng, vua thấy một người đàn bà đang tắm. Nàng nhan sắc tuyệt vời. 3 Vua Đa-vít sai người đi điều tra về người đàn bà, và người ta nói: “Đó chính là bà Bát Se-va, con gái ông Ê-li-am, vợ ông U-ri-gia người Khết.” 4a Vua Đa-vít sai lính biệt phái đến đón nàng. 5 Người đàn bà thụ thai. Nàng sai người đến báo tin cho vua Đa-vít rằng: “Tôi có thai.”\n6 Vua Đa-vít sai người đến nói với ông Giô-áp: “Hãy sai U-ri-gia, người Khết, về gặp ta.” Ông Giô-áp sai ông U-ri-gia về gặp vua Đa-vít. 7 Khi ông U-ri-gia đến với vua, vua Đa-vít hỏi thăm về ông Giô-áp, về quân binh, về chiến sự. 8 Rồi vua Đa-vít bảo ông U-ri-gia: “Hãy xuống nhà của ngươi và rửa chân.” Ông U-ri-gia ra khỏi đền vua, có người bưng ra một phần thức ăn của nhà vua theo sau. 9 Nhưng ông U-ri-gia nằm ở cửa đền vua với tất cả các bề tôi của chúa thượng ông, và ông không xuống nhà mình.\n10a Người ta báo tin cho vua Đa-vít rằng: “Ông U-ri-gia đã không xuống nhà ông.” 13 Vua Đa-vít mời ông; ông ăn uống trước mặt vua, và vua cho ông uống say. Đến chiều, ông ra nằm giường của ông cùng với các bề tôi của chúa thượng ông, nhưng không xuống nhà mình.\n14 Sáng hôm sau, vua Đa-vít viết thư cho ông Giô-áp và gửi ông U-ri-gia mang đi. 15 Trong thư, vua viết rằng: “Hãy đặt U-ri-gia ở hàng đầu, chỗ mặt trận nặng nhất, rồi rút lui bỏ nó lại, để nó bị trúng thương mà chết.” 16 Ông Giô-áp đang thám sát thành liền để ông U-ri-gia ở chỗ ông biết là có quân hùng mạnh nhất. 17 Người trong thành xông ra, giao chiến với ông Giô-áp. Một số người trong quân binh, trong các bề tôi vua Đa-vít đã ngã gục, và ông U-ri-gia, người Khết, cũng chết."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 50,3-4.5-6a.6bc-7.10-11",
+          "response": "Đ. Lạy Chúa, xin dủ lòng xót thương,\nvì chúng con đắc tội với Ngài.\n3 Lạy Thiên Chúa, xin lấy lòng nhân hậu xót thương con,\nmở lượng hải hà xoá tội con đã phạm.\n4 Xin rửa con sạch hết lỗi lầm\ntội lỗi con, xin Ngài thanh tẩy.\nĐ. Lạy Chúa, xin dủ lòng xót thương,\nvì chúng con đắc tội với Ngài.\n5 Vâng, con biết tội mình đã phạm, lỗi lầm cứ ám ảnh ngày đêm.\n6a Con đắc tội với Chúa, với một mình Chúa,\ndám làm điều dữ trái mắt Ngài.\nĐ. Lạy Chúa, xin dủ lòng xót thương,\nvì chúng con đắc tội với Ngài.\n6bc Như vậy, Ngài thật công bình khi tuyên án,\nliêm chính khi xét xử.\n7 Ngài thấy cho: lúc chào đời con đã vương lầm lỗi,\nđã mang tội khi mẹ mới hoài thai.\nĐ. Lạy Chúa, xin dủ lòng xót thương,\nvì chúng con đắc tội với Ngài.\n10 Xin cho con được nghe\ntiếng reo mừng hoan hỷ,\nđể xương cốt bị Ngài nghiền nát được nhảy múa tưng bừng.\n11 Xin ngoảnh mặt đừng nhìn bao tội lỗi\nvà xoá bỏ hết mọi lỗi lầm.\nĐ. Lạy Chúa, xin dủ lòng xót thương,\nvì chúng con đắc tội với Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLạy Cha là Chúa Tể trời đất, con xin ngợi khen Cha,\nvì Cha đã mặc khải mầu nhiệm Nước Trời cho những người bé mọn.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 4,26-34",
-          "text": "Một người v&atilde;i hạt giống rồi ngủ, v&agrave; hạt giống mọc l&ecirc;n trong khi người ấy kh&ocirc;ng biết.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 4,26-34\n26 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với d&acirc;n ch&uacute;ng dụ ng&ocirc;n n&agrave;y: “Chuyện Nước Thi&ecirc;n Ch&uacute;a th&igrave; cũng tựa như chuyện một người v&atilde;i hạt giống xuống đất. 27 Đ&ecirc;m hay ng&agrave;y, người ấy ngủ hay thức, hạt giống vẫn nẩy mầm v&agrave; mọc l&ecirc;n, bằng c&aacute;ch n&agrave;o, th&igrave; người ấy kh&ocirc;ng biết. 28 Đất tự động sinh hoa kết quả: trước hết c&acirc;y l&uacute;a mọc l&ecirc;n, rồi trổ đ&ograve;ng đ&ograve;ng, v&agrave; sau c&ugrave;ng th&agrave;nh b&ocirc;ng l&uacute;a nặng trĩu hạt. 29 L&uacute;a vừa ch&iacute;n, người ấy đem liềm ra gặt, v&igrave; đ&atilde; đến m&ugrave;a.”\n30 Rồi Người lại n&oacute;i: “Ch&uacute;ng ta v&iacute; Nước Thi&ecirc;n Ch&uacute;a với c&aacute;i g&igrave; đ&acirc;y ? Lấy dụ ng&ocirc;n n&agrave;o m&agrave; h&igrave;nh dung được ? 31 Nước Thi&ecirc;n Ch&uacute;a giống như hạt cải, l&uacute;c gieo xuống đất, n&oacute; l&agrave; loại nhỏ nhất trong c&aacute;c hạt giống tr&ecirc;n mặt đất. 32 Nhưng khi gieo rồi, th&igrave; n&oacute; mọc l&ecirc;n lớn hơn mọi thứ rau cỏ, c&agrave;nh l&aacute; xum xu&ecirc;, đến nỗi chim trời c&oacute; thể l&agrave;m tổ dưới b&oacute;ng.”\n33 Người d&ugrave;ng nhiều dụ ng&ocirc;n tương tự m&agrave; giảng lời cho họ, tuỳ theo mức họ c&oacute; thể nghe. 34 Người kh&ocirc;ng bao giờ n&oacute;i với họ m&agrave; kh&ocirc;ng d&ugrave;ng dụ ng&ocirc;n. Nhưng khi chỉ c&oacute; thầy tr&ograve; với nhau, th&igrave; Người giải nghĩa hết."
+          "text": "Một người vãi hạt giống rồi ngủ, và hạt giống mọc lên trong khi người ấy không biết.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 4,26-34\n26 Khi ấy, Đức Giê-su nói với dân chúng dụ ngôn này: “Chuyện Nước Thiên Chúa thì cũng tựa như chuyện một người vãi hạt giống xuống đất. 27 Đêm hay ngày, người ấy ngủ hay thức, hạt giống vẫn nẩy mầm và mọc lên, bằng cách nào, thì người ấy không biết. 28 Đất tự động sinh hoa kết quả: trước hết cây lúa mọc lên, rồi trổ đòng đòng, và sau cùng thành bông lúa nặng trĩu hạt. 29 Lúa vừa chín, người ấy đem liềm ra gặt, vì đã đến mùa.”\n30 Rồi Người lại nói: “Chúng ta ví Nước Thiên Chúa với cái gì đây? Lấy dụ ngôn nào mà hình dung được? 31 Nước Thiên Chúa giống như hạt cải, lúc gieo xuống đất, nó là loại nhỏ nhất trong các hạt giống trên mặt đất. 32 Nhưng khi gieo rồi, thì nó mọc lên lớn hơn mọi thứ rau cỏ, cành lá xum xuê, đến nỗi chim trời có thể làm tổ dưới bóng.”\n33 Người dùng nhiều dụ ngôn tương tự mà giảng lời cho họ, tuỳ theo mức họ có thể nghe. 34 Người không bao giờ nói với họ mà không dùng dụ ngôn. Nhưng khi chỉ có thầy trò với nhau, thì Người giải nghĩa hết."
         }
       },
       "reflection": {
@@ -1406,9 +1440,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/30.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/30.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/30.html"
       },
-      "updated": "2026-06-01T05:01:30.998Z"
+      "updated": "2026-06-01T09:47:06.199Z"
     },
     {
       "date": "2026-01-31",
@@ -1429,20 +1464,20 @@
       "readings": {
         "reading1": {
           "reference": "2 Sm 12,1-7a.10-17",
-          "text": ""
+          "text": "Tôi đắc tội với Đức Chúa.\nBài trích sách Sa-mu-en quyển thứ hai.\n1 Một hôm, Đức Chúa sai ông Na-than đến với vua Đa-vít. Ông vào gặp vua và nói với vua:\n“Có hai người ở trong cùng một thành,\nmột người giàu, một người nghèo.\n2 Người giàu thì có chiên dê và bò, nhiều lắm.\n3 Còn người nghèo chẳng có gì cả,\nngoài con chiên cái nhỏ độc nhất ông đã mua.\nÔng nuôi nó, nó lớn lên ở bên ông, cùng với con cái ông,\nnó ăn chung bánh với ông, uống chung chén với ông,\nngủ trong lòng ông: ông coi nó như một đứa con gái.\n4 Có khách đến thăm người giàu,\nông này tiếc của, không bắt chiên dê hay bò của mình\nmà làm thịt đãi người lữ khách đến thăm ông.\nÔng bắt con chiên cái của người nghèo\nmà làm thịt đãi người đến thăm ông.”\n5 Vua Đa-vít bừng bừng nổi giận với người ấy và nói với ông Na-than: “Có Đức Chúa hằng sống! Kẻ nào làm điều ấy, thật đáng chết! 6 Nó phải đền gấp bốn con chiên cái, bởi vì nó đã làm chuyện ấy và đã không có lòng thương xót.” 7a Ông Na-than nói với vua Đa-vít: “Kẻ đó chính là ngài! 10 Đức Chúa phán thế này: Từ nay, gươm sẽ không bao giờ ngừng chém người nhà của ngươi, bởi vì ngươi đã khinh dể Ta và cướp vợ của U-ri-gia, người Khết, làm vợ ngươi.\n11 “Đức Chúa phán thế này: Ta sắp dùng chính nhà của ngươi mà gây hoạ cho ngươi. Ta sẽ bắt những người vợ của ngươi trước mắt ngươi mà cho một người khác, và nó sẽ nằm với những người vợ của ngươi giữa thanh thiên bạch nhật. 12 Thật vậy, ngươi đã hành động lén lút, nhưng Ta, Ta sẽ làm điều ấy trước mặt toàn thể Ít-ra-en và giữa thanh thiên bạch nhật.”\n13 Bấy giờ vua Đa-vít nói với ông Na-than: “Tôi đắc tội với Đức Chúa.” Ông Na-than nói với vua Đa-vít: “Về phía Đức Chúa, Người đã bỏ qua tội của ngài; ngài sẽ không phải chết. 14 Thế nhưng vì trong việc này ngài đã cả gan khinh thị Đức Chúa, nên đứa trẻ ngài sinh được, chắc chắn sẽ phải chết.” 15 Rồi ông Na-than trở về nhà.\nĐức Chúa đánh phạt đứa bé mà vợ ông U-ri-gia đã sinh ra cho vua Đa-vít, và nó bị bệnh nặng. 16 Vua Đa-vít cầu khẩn Thiên Chúa cho đứa trẻ, vua ăn chay nhiệm nhặt, và khi về nhà ngủ đêm thì nằm dưới đất. 17 Các kỳ mục trong nhà của vua nài nỉ xin vua trỗi dậy, nhưng vua không chịu và cũng chẳng ăn chút gì với họ."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 50,12-13.14-15.16-17",
+          "response": "Đ. Lạy Chúa Trời, xin tạo cho con một tấm lòng trong trắng.\n12 Lạy Chúa Trời, xin tạo cho con một tấm lòng trong trắng,\nđổi mới tinh thần cho con nên chung thuỷ.\n13 Xin đừng nỡ đuổi con không cho gần Nhan Thánh,\nđừng cất khỏi lòng con thần khí thánh của Ngài.\nĐ. Lạy Chúa Trời, xin tạo cho con một tấm lòng trong trắng.\n14 Xin ban lại cho con niềm vui vì được Ngài cứu độ,\nvà lấy tinh thần quảng đại đỡ nâng con;\n15 đường lối Ngài, con sẽ dạy cho người tội lỗi,\nai lạc bước sẽ trở lại cùng Ngài.\nĐ. Lạy Chúa Trời, xin tạo cho con một tấm lòng trong trắng.\n16 Lạy Thiên Chúa con thờ là Thiên Chúa cứu độ,\nxin tha chết cho con, con sẽ tung hô Ngài công chính.\n17 Lạy Chúa Trời, xin mở miệng con,\ncho con cất tiếng ngợi khen Ngài.\nĐ. Lạy Chúa Trời, xin tạo cho con một tấm lòng trong trắng."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nThiên Chúa yêu thế gian đến nỗi đã ban Con Một,\nđể ai tin vào Con của Người thì được sống muôn đời.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 4,35-41",
-          "text": "Người n&agrave;y l&agrave; ai, m&agrave; cả đến gi&oacute; v&agrave; biển cũng tu&acirc;n lệnh ?\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 4,35-41\n35 H&ocirc;m ấy, khi chiều đến, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ: “Ch&uacute;ng ta sang bờ b&ecirc;n kia đi !” 36 Bỏ đ&aacute;m đ&ocirc;ng ở lại, c&aacute;c &ocirc;ng chở Người đi, v&igrave; Người đang ở sẵn tr&ecirc;n thuyền; c&oacute; những thuyền kh&aacute;c c&ugrave;ng theo Người. 37 Một trận cuồng phong nổi l&ecirc;n, s&oacute;ng ập v&agrave;o thuyền, đến nỗi thuyền đầy nước. 38 Trong khi đ&oacute;, Đức Gi&ecirc;-su đang ở đ&agrave;ng l&aacute;i, dựa đầu v&agrave;o chiếc gối m&agrave; ngủ. C&aacute;c m&ocirc;n đệ đ&aacute;nh thức Người dậy v&agrave; n&oacute;i: “Thầy ơi, ch&uacute;ng ta chết mất, Thầy chẳng lo g&igrave; sao ?” 39 Người thức dậy, ngăm đe gi&oacute;, v&agrave; truyền cho biển: “Im đi ! C&acirc;m đi !” Gi&oacute; liền tắt, v&agrave; biển lặng như tờ. 40 Rồi Người bảo c&aacute;c &ocirc;ng: “Sao nh&aacute;t thế ? Anh em vẫn chưa c&oacute; l&ograve;ng tin sao ?” 41 C&aacute;c &ocirc;ng sợ h&atilde;i kinh ho&agrave;ng v&agrave; n&oacute;i với nhau: “Vậy người n&agrave;y l&agrave; ai, m&agrave; cả đến gi&oacute; v&agrave; biển cũng tu&acirc;n lệnh ?”"
+          "text": "Người này là ai, mà cả đến gió và biển cũng tuân lệnh?\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 4,35-41\n35 Hôm ấy, khi chiều đến, Đức Giê-su nói với các môn đệ: “Chúng ta sang bờ bên kia đi!” 36 Bỏ đám đông ở lại, các ông chở Người đi, vì Người đang ở sẵn trên thuyền; có những thuyền khác cùng theo Người. 37 Một trận cuồng phong nổi lên, sóng ập vào thuyền, đến nỗi thuyền đầy nước. 38 Trong khi đó, Đức Giê-su đang ở đàng lái, dựa đầu vào chiếc gối mà ngủ. Các môn đệ đánh thức Người dậy và nói: “Thầy ơi, chúng ta chết mất, Thầy chẳng lo gì sao?” 39 Người thức dậy, ngăm đe gió, và truyền cho biển: “Im đi! Câm đi!” Gió liền tắt, và biển lặng như tờ. 40 Rồi Người bảo các ông: “Sao nhát thế? Anh em vẫn chưa có lòng tin sao?” 41 Các ông sợ hãi kinh hoàng và nói với nhau: “Vậy người này là ai, mà cả đến gió và biển cũng tuân lệnh?”"
         }
       },
       "reflection": {
@@ -1456,9 +1491,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=01",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/31.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/31.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/01/31.html"
       },
-      "updated": "2026-06-01T05:01:31.378Z"
+      "updated": "2026-06-01T09:47:07.017Z"
     }
   ]
 }

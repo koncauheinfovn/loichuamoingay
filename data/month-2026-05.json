@@ -4,12 +4,17 @@
   "month": 5,
   "month_key": "2026-05",
   "count": 31,
+  "expected_count": 31,
+  "complete_days": true,
+  "full_readings": true,
+  "missing_calendar": [],
+  "missing_gospel": [],
   "source": {
-    "calendar": "https://augustino.net/lich-phung-vu",
-    "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
-    "note": "year file contains full readings"
+    "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
+    "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/31.html",
+    "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/31.html"
   },
-  "updated": "2026-06-01T07:03:41.672Z",
+  "updated": "2026-06-01T09:47:16.175Z",
   "days": [
     {
       "date": "2026-05-01",
@@ -29,21 +34,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "St 1,26–2,3 (hoặc Cl 3,14-15.17.23-24)",
-          "text": ""
+          "reference": "St 1,26 – 2,3",
+          "text": "Hãy sinh sôi nảy nở thật nhiều, và thống trị mặt đất.\nBài trích sách Sáng thế.\n1 26 Thiên Chúa phán: “Chúng ta hãy làm ra con người theo hình ảnh chúng ta, giống như chúng ta, để con người làm bá chủ cá biển, chim trời, gia súc, dã thú, tất cả mặt đất và mọi giống vật bò dưới đất.”\n27 Thiên Chúa sáng tạo con người theo hình ảnh mình,\nThiên Chúa sáng tạo con người theo hình ảnh Thiên Chúa,\nThiên Chúa sáng tạo con người có nam có nữ.\n28 Thiên Chúa ban phúc lành cho họ, và Thiên Chúa phán với họ: “Hãy sinh sôi nảy nở thật nhiều, cho đầy mặt đất, và thống trị mặt đất. Hãy làm bá chủ cá biển, chim trời, và mọi giống vật bò trên mặt đất.” 29 Thiên Chúa phán: “Đây Ta ban cho các ngươi mọi thứ cỏ mang hạt giống trên khắp mặt đất, và mọi thứ cây có trái mang hạt giống, để làm lương thực cho các ngươi. 30 Còn đối với mọi dã thú, chim trời và mọi vật bò dưới đất mà có sinh khí, thì Ta ban cho chúng mọi thứ cỏ xanh tươi để làm lương thực.” Liền có như vậy. 31 Thiên Chúa thấy mọi sự Người đã làm ra quả là rất tốt đẹp! Qua một buổi chiều và một buổi sáng: đó là ngày thứ sáu.\n2 1 Thế là trời đất cùng với mọi thành phần đã hoàn tất. 2 Ngày thứ bảy, Thiên Chúa đã hoàn thành công việc Người làm. Khi làm xong mọi công việc của Người, ngày thứ bảy, Thiên Chúa nghỉ ngơi.\n3 Thiên Chúa ban phúc lành cho ngày thứ bảy và thánh hoá ngày đó, vì ngày đó Người đã nghỉ, ngưng làm mọi công việc sáng tạo của Người."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 89,2.3-4.12-13.14",
+          "response": "Đ. Lạy Chúa, việc tay chúng con làm, xin Ngài củng cố.\n2 Ngay cả khi đồi núi chưa được dựng nên,\nđịa cầu và vũ trụ chưa được tạo thành,\nNgài vẫn là Thiên Chúa, từ muôn thuở cho đến muôn đời.\nĐ. Lạy Chúa, việc tay chúng con làm, xin Ngài củng cố.\n3 Chúa bắt phàm nhân trở về cát bụi,\nNgài phán bảo: “Hỡi người trần thế, trở về cát bụi đi!”\n4 Ngàn năm Chúa kể là gì,\ntựa hôm qua đã qua đi mất rồi,\nkhác nào một trống canh thôi!\nĐ. Lạy Chúa, việc tay chúng con làm, xin Ngài củng cố.\n12 Xin dạy chúng con đếm tháng ngày mình sống,\nngõ hầu tâm trí được khôn ngoan.\n13 Lạy Chúa, xin trở lại! Ngài đợi đến bao giờ?\nXin chạnh lòng thương xót những tôi tớ Ngài đây.\nĐ. Lạy Chúa, việc tay chúng con làm, xin Ngài củng cố.\n14 Từ buổi mai, xin cho đoàn con được no say tình Chúa,\nđể ngày ngày được hớn hở vui ca.\n16 Ước gì chúng con là tôi tớ Chúa\nđược thấy công trình Ngài thực hiện,\nvà con cháu chúng con được thấy vinh hiển Ngài.\nĐ. Lạy Chúa, việc tay chúng con làm, xin Ngài củng cố."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nNgày lại ngày, xin chúc tụng Chúa,\nThiên Chúa cứu độ ta, Người đỡ nâng ta.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mt 13,54-58",
-          "text": "&Ocirc;ng n&agrave;y kh&ocirc;ng phải l&agrave; con b&aacute;c thợ sao ?\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 13,54-58\n54 Khi ấy, Đức Gi&ecirc;-su về qu&ecirc;, giảng dạy d&acirc;n ch&uacute;ng trong hội đường của họ, khiến họ sửng sốt v&agrave; n&oacute;i: “Bởi đ&acirc;u &ocirc;ng ta được kh&ocirc;n ngoan v&agrave; l&agrave;m được những ph&eacute;p lạ như thế ? 55 &Ocirc;ng kh&ocirc;ng phải l&agrave; con b&aacute;c thợ sao ? Mẹ của &ocirc;ng kh&ocirc;ng phải l&agrave; b&agrave; Ma-ri-a; anh em của &ocirc;ng kh&ocirc;ng phải l&agrave; c&aacute;c &ocirc;ng Gia-c&ocirc;-b&ecirc;, Gi&ocirc;-xếp, Si-m&ocirc;n v&agrave; Giu-đa sao ? 56 V&agrave; chị em của &ocirc;ng kh&ocirc;ng phải đều l&agrave; b&agrave; con lối x&oacute;m với ch&uacute;ng ta sao ? Vậy bởi đ&acirc;u &ocirc;ng ta được như thế ?” 57 V&agrave; họ vấp ng&atilde; v&igrave; Người. Nhưng Đức Gi&ecirc;-su bảo họ: “Ng&ocirc;n sứ c&oacute; bị rẻ r&uacute;ng, th&igrave; cũng chỉ l&agrave; ở ch&iacute;nh qu&ecirc; hương m&igrave;nh v&agrave; trong gia đ&igrave;nh m&igrave;nh m&agrave; th&ocirc;i.” 58 Người kh&ocirc;ng l&agrave;m nhiều ph&eacute;p lạ tại đ&oacute;, v&igrave; họ kh&ocirc;ng tin."
+          "text": "Ông này không phải là con bác thợ sao?\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mát-thêu. Mt 13,54-58\n54 Khi ấy, Đức Giê-su về quê, giảng dạy dân chúng trong hội đường của họ, khiến họ sửng sốt và nói: “Bởi đâu ông ta được khôn ngoan và làm được những phép lạ như thế? 55 Ông không phải là con bác thợ sao? Mẹ của ông không phải là bà Ma-ri-a; anh em của ông không phải là các ông Gia-cô-bê, Giô-xếp, Si-môn và Giu-đa sao? 56 Và chị em của ông không phải đều là bà con lối xóm với chúng ta sao? Vậy bởi đâu ông ta được như thế?” 57 Và họ vấp ngã vì Người. Nhưng Đức Giê-su bảo họ: “Ngôn sứ có bị rẻ rúng, thì cũng chỉ là ở chính quê hương mình và trong gia đình mình mà thôi.” 58 Người không làm nhiều phép lạ tại đó, vì họ không tin."
         }
       },
       "reflection": {
@@ -53,9 +58,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/01.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/01.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/01.html"
       },
-      "updated": "2026-06-01T05:02:04.726Z"
+      "updated": "2026-06-01T09:47:13.300Z"
     },
     {
       "date": "2026-05-02",
@@ -76,20 +82,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 13,44-52",
-          "text": ""
+          "text": "Này đây, chúng tôi quay về phía dân ngoại.\nBài trích sách Công vụ Tông Đồ.\n44 Vào một ngày sa-bát, gần như cả thành An-ti-ô-khi-a tụ họp nghe lời Thiên Chúa. 45 Thấy những đám đông như vậy, người Do-thái sinh lòng ghen tức, họ phản đối những lời ông Phao-lô nói và nhục mạ ông. 46 Bấy giờ ông Phao-lô và ông Ba-na-ba mạnh dạn lên tiếng: “Anh em phải là những người đầu tiên được nghe công bố lời Thiên Chúa, nhưng vì anh em khước từ lời ấy, và tự coi mình không xứng đáng hưởng sự sống đời đời, thì đây chúng tôi quay về phía dân ngoại. 47 Vì Chúa truyền cho chúng tôi thế này: Ta sẽ đặt ngươi làm ánh sáng muôn dân, để ngươi đem ơn cứu độ đến tận cùng cõi đất.”\n48 Nghe thế, dân ngoại vui mừng tôn vinh lời Chúa, và tất cả những người đã được Thiên Chúa định cho hưởng sự sống đời đời, đều tin theo. 49 Lời Chúa lan tràn khắp miền ấy.\n50 Nhưng người Do-thái sách động nhóm phụ nữ thượng lưu đã theo đạo Do-thái, và những thân hào trong thành, xúi giục họ ngược đãi ông Phao-lô và ông Ba-na-ba, và trục xuất hai ông ra khỏi lãnh thổ của họ. 51 Hai ông liền giũ bụi chân phản đối họ và đi tới I-cô-ni-ô. 52 Còn các môn đệ được tràn đầy hoan lạc và Thánh Thần."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 97,1.2-3ab.3cd-4",
+          "response": "Đ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n1 Hát lên mừng Chúa một bài ca mới,\nvì Người đã thực hiện bao kỳ công.\nNgười chiến thắng nhờ bàn tay hùng mạnh,\nnhờ cánh tay chí thánh của Người.\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n2 Chúa đã biểu dương ơn Người cứu độ,\nmặc khải đức công chính của Người trước mặt chư dân;\n3ab Người đã nhớ lại ân tình và tín nghĩa\ndành cho nhà Ít-ra-en.\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n3cd Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n4 Tung hô Chúa, hỡi toàn thể địa cầu,\nmừng vui lên, reo hò đàn hát.\nĐ. Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Nếu anh em ở lại trong lời Thầy,\nthì anh em thật là môn đệ Thầy, và anh em sẽ biết sự thật.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 14,7-14",
-          "text": "Ai thấy Thầy l&agrave; thấy Ch&uacute;a Cha.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,7-14\n7 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Nếu anh em biết Thầy, anh em cũng biết Cha Thầy. Ngay từ b&acirc;y giờ, anh em biết Người v&agrave; đ&atilde; thấy Người.”\n8 &Ocirc;ng Phi-l&iacute;p-ph&ecirc; n&oacute;i: “Thưa Thầy, xin tỏ cho ch&uacute;ng con thấy Ch&uacute;a Cha, như thế l&agrave; ch&uacute;ng con m&atilde;n nguyện.” 9 Đức Gi&ecirc;-su trả lời: “Thầy ở với anh em bấy l&acirc;u, thế m&agrave; anh Phi-l&iacute;p-ph&ecirc;, anh chưa biết Thầy ư ? Ai thấy Thầy l&agrave; thấy Ch&uacute;a Cha. Sao anh lại n&oacute;i: ‘Xin tỏ cho ch&uacute;ng con thấy Ch&uacute;a Cha’ ? 10 Anh kh&ocirc;ng tin rằng Thầy ở trong Ch&uacute;a Cha v&agrave; Ch&uacute;a Cha ở trong Thầy sao ? C&aacute;c lời Thầy n&oacute;i với anh em, Thầy kh&ocirc;ng tự m&igrave;nh n&oacute;i ra. Nhưng Ch&uacute;a Cha, Đấng lu&ocirc;n ở trong Thầy, ch&iacute;nh Người l&agrave;m những việc của m&igrave;nh. 11 Anh em h&atilde;y tin Thầy: Thầy ở trong Ch&uacute;a Cha v&agrave; Ch&uacute;a Cha ở trong Thầy; bằng kh&ocirc;ng th&igrave; h&atilde;y tin v&igrave; c&ocirc;ng việc Thầy l&agrave;m. 12 Thật, Thầy bảo thật anh em, ai tin v&agrave;o Thầy, th&igrave; người đ&oacute; cũng sẽ l&agrave;m được những việc Thầy l&agrave;m. Người đ&oacute; c&ograve;n l&agrave;m những việc lớn hơn nữa, bởi v&igrave; Thầy đến c&ugrave;ng Ch&uacute;a Cha. 13 V&agrave; bất cứ điều g&igrave; anh em nh&acirc;n danh Thầy m&agrave; xin, th&igrave; Thầy sẽ l&agrave;m, để Ch&uacute;a Cha được t&ocirc;n vinh nơi người Con. 14 Nếu anh em nh&acirc;n danh Thầy m&agrave; xin Thầy điều g&igrave;, th&igrave; ch&iacute;nh Thầy sẽ l&agrave;m điều đ&oacute;.”"
+          "text": "Ai thấy Thầy là thấy Chúa Cha.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 14,7-14\n7 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Nếu anh em biết Thầy, anh em cũng biết Cha Thầy. Ngay từ bây giờ, anh em biết Người và đã thấy Người.”\n8 Ông Phi-líp-phê nói: “Thưa Thầy, xin tỏ cho chúng con thấy Chúa Cha, như thế là chúng con mãn nguyện.” 9 Đức Giê-su trả lời: “Thầy ở với anh em bấy lâu, thế mà anh Phi-líp-phê, anh chưa biết Thầy ư? Ai thấy Thầy là thấy Chúa Cha. Sao anh lại nói: ‘Xin tỏ cho chúng con thấy Chúa Cha’? 10 Anh không tin rằng Thầy ở trong Chúa Cha và Chúa Cha ở trong Thầy sao? Các lời Thầy nói với anh em, Thầy không tự mình nói ra. Nhưng Chúa Cha, Đấng luôn ở trong Thầy, chính Người làm những việc của mình. 11 Anh em hãy tin Thầy: Thầy ở trong Chúa Cha và Chúa Cha ở trong Thầy; bằng không thì hãy tin vì công việc Thầy làm. 12 Thật, Thầy bảo thật anh em, ai tin vào Thầy, thì người đó cũng sẽ làm được những việc Thầy làm. Người đó còn làm những việc lớn hơn nữa, bởi vì Thầy đến cùng Chúa Cha. 13 Và bất cứ điều gì anh em nhân danh Thầy mà xin, thì Thầy sẽ làm, để Chúa Cha được tôn vinh nơi người Con. 14 Nếu anh em nhân danh Thầy mà xin Thầy điều gì, thì chính Thầy sẽ làm điều đó.”"
         }
       },
       "reflection": {
@@ -99,9 +105,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/02.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/02.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/02.html"
       },
-      "updated": "2026-06-01T05:02:05.081Z"
+      "updated": "2026-06-01T09:47:13.292Z"
     },
     {
       "date": "2026-05-03",
@@ -121,21 +128,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Cv 6,1-7 1 Pr 2,4-9",
-          "text": ""
+          "reference": "Cv 6,1-7",
+          "text": "Họ chọn bảy người đầy Thánh Thần.\nBài trích sách Công vụ Tông Đồ.\n1 Thời đó, khi số môn đệ thêm đông, thì các tín hữu Do-thái theo văn hoá Hy-lạp kêu trách những tín hữu Do-thái bản xứ, vì trong việc phân phát lương thực hằng ngày, các bà goá trong nhóm họ bị bỏ quên. 2 Bởi thế, Nhóm Mười Hai triệu tập toàn thể các môn đệ và nói: “Chúng tôi mà bỏ việc rao giảng Lời Thiên Chúa để lo việc ăn uống, là điều không phải. 3 Vậy, thưa anh em, anh em hãy tìm trong cộng đoàn bảy người được tiếng tốt, đầy Thần Khí và khôn ngoan, rồi chúng tôi sẽ cắt đặt họ làm công việc đó. 4 Còn chúng tôi, chúng tôi sẽ chuyên lo cầu nguyện và phục vụ Lời Thiên Chúa.” 5 Đề nghị trên được mọi người tán thành. Họ chọn ông Tê-pha-nô, một người đầy lòng tin và đầy Thánh Thần, cùng với các ông Phi-líp-phê, Pơ-rô-khô-rô, Ni-ca-no, Ti-môn, Pác-mê-na và ông Ni-cô-la, một người ngoại quê An-ti-ô-khi-a đã theo đạo Do-thái. 6 Họ đưa các ông ra trước mặt các Tông Đồ. Sau khi cầu nguyện, các Tông Đồ đặt tay trên các ông.\n7 Lời Thiên Chúa vẫn lan tràn, và tại Giê-ru-sa-lem, số các môn đệ tăng thêm rất nhiều, lại cũng có một đám rất đông các tư tế đón nhận đức tin."
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "1 Pr 2,4-9",
+          "text": "Anh em là giống nòi được tuyển chọn, là hàng tư tế vương giả.\nBài trích thư thứ nhất của thánh Phê-rô tông đồ.\n4 Anh em thân mến, anh em hãy tiến lại gần Đức Ki-tô, viên đá sống động bị người ta loại bỏ, nhưng đã được Thiên Chúa chọn lựa và coi là quý giá. 5 Hãy để Thiên Chúa dùng anh em như những viên đá sống động mà xây nên ngôi Đền Thờ thiêng liêng, và hãy để Thiên Chúa đặt anh em làm hàng tư tế thánh, dâng những lễ tế thiêng liêng đẹp lòng Người nhờ Đức Giê-su Ki-tô. 6 Quả thật, có lời Kinh Thánh chép: Này đây Ta đặt tại Xi-on một viên đá quý được lựa chọn, làm đá tảng góc tường: kẻ tin vào đó sẽ không phải thất vọng.\n7 Vậy vinh dự cho anh em là những người tin, còn đối với những kẻ không tin, thì viên đá thợ xây loại bỏ đã trở nên đá tảng góc tường, 8 và cũng là viên đá làm cho vấp, tảng đá làm cho ngã. Họ đã vấp ngã vì không tin vào Lời Chúa. Số phận của họ là như vậy.\n9 Còn anh em, anh em là giống nòi được tuyển chọn, là hàng tư tế vương giả, là dân thánh, dân riêng của Thiên Chúa, để loan truyền những kỳ công của Người, Đấng đã gọi anh em ra khỏi miền u tối, vào nơi đầy ánh sáng diệu huyền."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 32,1-2.4-5.18-19",
+          "response": "Đ. Xin đổ tình thương xuống chúng con, lạy Chúa,\nnhư chúng con hằng trông cậy nơi Ngài.\n1 Người công chính, hãy reo hò mừng Chúa,\nkẻ ngay lành, nào cất tiếng ngợi khen.\n2 Tạ ơn Chúa, gieo vạn tiếng đàn cầm,\nkính mừng Người, gảy muôn cung đàn sắt.\nĐ. Xin đổ tình thương xuống chúng con, lạy Chúa,\nnhư chúng con hằng trông cậy nơi Ngài.\n4 Vì lời Chúa phán quả là ngay thẳng,\nmọi việc Chúa làm đều đáng cậy tin.\n5 Chúa yêu thích điều công minh chính trực,\ntình thương Chúa chan hoà mặt đất.\nĐ. Xin đổ tình thương xuống chúng con, lạy Chúa,\nnhư chúng con hằng trông cậy nơi Ngài.\n18 Chúa để mắt trông nom người kính sợ Chúa,\nkẻ trông cậy vào lòng Chúa yêu thương,\n19 hầu cứu họ khỏi tay thần chết\nvà nuôi sống trong buổi cơ hàn.\nĐ. Xin đổ tình thương xuống chúng con, lạy Chúa,\nnhư chúng con hằng trông cậy nơi Ngài."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Chính Thầy là con đường, là sự thật và là sự sống.\nKhông ai có thể đến với Chúa Cha mà không qua Thầy.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 14,1-12",
-          "text": "Ch&iacute;nh Thầy l&agrave; con đường, l&agrave; sự thật v&agrave; l&agrave; sự sống.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,1-12\n1 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Anh em đừng xao xuyến ! H&atilde;y tin v&agrave;o Thi&ecirc;n Ch&uacute;a v&agrave; tin v&agrave;o Thầy. 2 Trong nh&agrave; Cha Thầy, c&oacute; nhiều chỗ ở; nếu kh&ocirc;ng, Thầy đ&atilde; n&oacute;i với anh em rồi, v&igrave; Thầy đi dọn chỗ cho anh em. 3 Nếu Thầy đi dọn chỗ cho anh em, th&igrave; Thầy lại đến v&agrave; đem anh em về với Thầy, để Thầy ở đ&acirc;u, anh em cũng ở đ&oacute;. 4 V&agrave; Thầy đi đ&acirc;u, th&igrave; anh em biết đường rồi.”\n5 &Ocirc;ng T&ocirc;-ma n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, ch&uacute;ng con kh&ocirc;ng biết Thầy đi đ&acirc;u, l&agrave;m sao ch&uacute;ng con biết được đường ?” 6 Đức Gi&ecirc;-su đ&aacute;p: “Ch&iacute;nh Thầy l&agrave; con đường, l&agrave; sự thật v&agrave; l&agrave; sự sống. Kh&ocirc;ng ai c&oacute; thể đến với Ch&uacute;a Cha m&agrave; kh&ocirc;ng qua Thầy. 7 Nếu anh em biết Thầy, anh em cũng biết Cha Thầy. Ngay từ b&acirc;y giờ, anh em biết Người v&agrave; đ&atilde; thấy Người.”\n8 &Ocirc;ng Phi-l&iacute;p-ph&ecirc; n&oacute;i: “Thưa Thầy, xin tỏ cho ch&uacute;ng con thấy Ch&uacute;a Cha, như thế l&agrave; ch&uacute;ng con m&atilde;n nguyện.” 9 Đức Gi&ecirc;-su trả lời: “Thầy ở với anh em bấy l&acirc;u, thế m&agrave; anh Phi-l&iacute;p-ph&ecirc;, anh chưa biết Thầy ư ? Ai thấy Thầy l&agrave; thấy Ch&uacute;a Cha. Sao anh lại n&oacute;i: ‘Xin tỏ cho ch&uacute;ng con thấy Ch&uacute;a Cha’ ? 10 Anh kh&ocirc;ng tin rằng Thầy ở trong Ch&uacute;a Cha v&agrave; Ch&uacute;a Cha ở trong Thầy sao ? C&aacute;c lời Thầy n&oacute;i với anh em, Thầy kh&ocirc;ng tự m&igrave;nh n&oacute;i ra. Nhưng Ch&uacute;a Cha, Đấng lu&ocirc;n ở trong Thầy, ch&iacute;nh Người l&agrave;m những việc của m&igrave;nh. 11 Anh em h&atilde;y tin Thầy: Thầy ở trong Ch&uacute;a Cha v&agrave; Ch&uacute;a Cha ở trong Thầy; bằng kh&ocirc;ng th&igrave; h&atilde;y tin v&igrave; c&ocirc;ng việc Thầy l&agrave;m. 12 Thật, Thầy bảo thật anh em, ai tin v&agrave;o Thầy, th&igrave; người đ&oacute; cũng sẽ l&agrave;m được những việc Thầy l&agrave;m. Người đ&oacute; c&ograve;n l&agrave;m những việc lớn hơn nữa, bởi v&igrave; Thầy đến c&ugrave;ng Ch&uacute;a Cha.”"
+          "text": "Chính Thầy là con đường, là sự thật và là sự sống.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 14,1-12\n1 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Anh em đừng xao xuyến! Hãy tin vào Thiên Chúa và tin vào Thầy. 2 Trong nhà Cha Thầy, có nhiều chỗ ở; nếu không, Thầy đã nói với anh em rồi, vì Thầy đi dọn chỗ cho anh em. 3 Nếu Thầy đi dọn chỗ cho anh em, thì Thầy lại đến và đem anh em về với Thầy, để Thầy ở đâu, anh em cũng ở đó. 4 Và Thầy đi đâu, thì anh em biết đường rồi.”\n5 Ông Tô-ma nói với Đức Giê-su: “Thưa Thầy, chúng con không biết Thầy đi đâu, làm sao chúng con biết được đường?” 6 Đức Giê-su đáp: “Chính Thầy là con đường, là sự thật và là sự sống. Không ai có thể đến với Chúa Cha mà không qua Thầy. 7 Nếu anh em biết Thầy, anh em cũng biết Cha Thầy. Ngay từ bây giờ, anh em biết Người và đã thấy Người.”\n8 Ông Phi-líp-phê nói: “Thưa Thầy, xin tỏ cho chúng con thấy Chúa Cha, như thế là chúng con mãn nguyện.” 9 Đức Giê-su trả lời: “Thầy ở với anh em bấy lâu, thế mà anh Phi-líp-phê, anh chưa biết Thầy ư? Ai thấy Thầy là thấy Chúa Cha. Sao anh lại nói: ‘Xin tỏ cho chúng con thấy Chúa Cha’? 10 Anh không tin rằng Thầy ở trong Chúa Cha và Chúa Cha ở trong Thầy sao? Các lời Thầy nói với anh em, Thầy không tự mình nói ra. Nhưng Chúa Cha, Đấng luôn ở trong Thầy, chính Người làm những việc của mình. 11 Anh em hãy tin Thầy: Thầy ở trong Chúa Cha và Chúa Cha ở trong Thầy; bằng không thì hãy tin vì công việc Thầy làm. 12 Thật, Thầy bảo thật anh em, ai tin vào Thầy, thì người đó cũng sẽ làm được những việc Thầy làm. Người đó còn làm những việc lớn hơn nữa, bởi vì Thầy đến cùng Chúa Cha.”"
         }
       },
       "reflection": {
@@ -145,9 +152,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/03.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/03.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/03.html"
       },
-      "updated": "2026-06-01T05:02:05.465Z"
+      "updated": "2026-06-01T09:47:13.308Z"
     },
     {
       "date": "2026-05-04",
@@ -168,20 +176,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 14,5-18",
-          "text": ""
+          "text": "Chúng tôi loan Tin Mừng cho các bạn, là hãy bỏ những cái hão huyền, mà trở lại cùng Thiên Chúa hằng sống.\nBài trích sách Công vụ Tông Đồ.\n5 Hồi ấy, tại I-cô-ni-ô, những người ngoại và những người Do-thái, cùng với các thủ lãnh của họ, mưu toan làm nhục và ném đá ông Phao-lô và ông Ba-na-ba. 6 Biết thế, hai ông lánh sang các thành miền Ly-cao-ni-a là Lýt-ra, Đéc-bê và các vùng phụ cận; 7 và tại đó các ông tiếp tục loan báo Tin Mừng.\n8 Tại Lýt-ra, có một người bại hai chân ngồi đó; anh ta bị què từ khi lọt lòng mẹ, chưa hề đi được bước nào. 9 Anh nghe ông Phao-lô giảng. Ông nhìn thẳng vào anh và thấy anh có lòng tin để được cứu chữa, 10 thì lớn tiếng nói: “Anh trỗi dậy đi, hai chân đứng thẳng!” Anh đứng phắt dậy và đi lại được.\n11 Thấy việc ông Phao-lô làm, đám đông hô lên bằng tiếng Ly-cao-ni-a: “Thần linh mặc lốt người phàm đã xuống với chúng ta!” 12 Họ gọi ông Ba-na-ba là thần Dớt, ông Phao-lô là thần Héc-mê, vì ông là người phát ngôn. 13 Thầy tư tế đền thờ thần Dớt ở ngoại thành đem bò và vòng hoa đến trước cổng thành, và cùng với đám đông, muốn dâng lễ tế. 14 Nghe biết được, hai tông đồ Ba-na-ba và Phao-lô xé áo mình ra, xông vào đám đông mà kêu lên: 15 “Hỡi các bạn, các bạn làm gì thế này? Chúng tôi đây cũng chỉ là người phàm, cùng thân phận với các bạn. Chúng tôi loan Tin Mừng cho các bạn, là hãy bỏ những cái hão huyền này đi, mà trở lại cùng Thiên Chúa hằng sống, Đấng đã tạo thành trời đất với biển khơi cùng muôn loài trong đó. 16 Trong những thế hệ đã qua, Người để cho muôn dân đi theo đường lối của họ. 17 Tuy vậy Người không ngừng làm chứng cho mình, khi thi ân giáng phúc, ban mưa từ trời và mùa màng sung túc cho các bạn, và cho các bạn được no lòng, được an vui.” 18 Nói vậy mà hai ông vẫn còn phải vất vả mới can được đám đông không dâng lễ tế cho hai ông."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 113B,1-2.3-4.15-16",
+          "response": "Đ. Lạy Chúa, xin đừng làm rạng rỡ chúng con,\nnhưng xin cho danh Ngài rạng rỡ.\n1 Xin đừng làm rạng rỡ chúng con, vâng lạy Chúa, xin đừng,\nnhưng xin cho danh Ngài rạng rỡ,\nbởi vì Ngài thành tín yêu thương.\n2 Sao chư dân lại nói: “Thiên Chúa chúng ở đâu?”\nĐ. Lạy Chúa, xin đừng làm rạng rỡ chúng con,\nnhưng xin cho danh Ngài rạng rỡ.\n3 Thiên Chúa chúng ta ở trên trời,\nmuốn làm gì là Chúa làm nên.\n4 Tượng thần chúng chỉ là vàng bạc,\nchỉ do tay người thế tạo thành.\nĐ. Lạy Chúa, xin đừng làm rạng rỡ chúng con,\nnhưng xin cho danh Ngài rạng rỡ.\n15 Nguyện xin Chúa, Đấng dựng nên đất trời,\nxuống muôn phúc lành cho anh em.\n16 Trời là trời của Chúa,\ncòn đất thì Chúa cho con cái loài người.\nĐ. Lạy Chúa, xin đừng làm rạng rỡ chúng con,\nnhưng xin cho danh Ngài rạng rỡ."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nThánh Thần sẽ dạy anh em mọi điều,\nvà sẽ làm cho anh em nhớ lại mọi điều Thầy đã nói với anh em.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 14,21-26",
-          "text": "Đấng Bảo Trợ l&agrave; Th&aacute;nh Thần Ch&uacute;a Cha sẽ sai đến, Đấng đ&oacute; sẽ dạy anh em mọi điều.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,21-26\n21 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Ai c&oacute; v&agrave; giữ c&aacute;c điều răn của Thầy, người ấy mới l&agrave; kẻ y&ecirc;u mến Thầy. M&agrave; ai y&ecirc;u mến Thầy, th&igrave; sẽ được Cha của Thầy y&ecirc;u mến. Thầy sẽ y&ecirc;u mến người ấy, v&agrave; sẽ tỏ m&igrave;nh ra cho người ấy.”\n22 &Ocirc;ng Giu-đa, kh&ocirc;ng phải Giu-đa &Iacute;t-ca-ri-ốt, n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, tại sao Thầy phải tỏ m&igrave;nh ra cho ch&uacute;ng con, m&agrave; kh&ocirc;ng tỏ m&igrave;nh ra cho thế gian ?” 23 Đức Gi&ecirc;-su đ&aacute;p: “Ai y&ecirc;u mến Thầy, th&igrave; sẽ giữ lời Thầy. Cha Thầy sẽ y&ecirc;u mến người ấy. Cha Thầy v&agrave; Thầy sẽ đến v&agrave; ở lại với người ấy. 24 Ai kh&ocirc;ng y&ecirc;u mến Thầy, th&igrave; kh&ocirc;ng giữ lời Thầy. V&agrave; lời anh em nghe đ&acirc;y kh&ocirc;ng phải l&agrave; của Thầy, nhưng l&agrave; của Ch&uacute;a Cha, Đấng đ&atilde; sai Thầy. 25 C&aacute;c điều đ&oacute;, Thầy đ&atilde; n&oacute;i với anh em, đang khi c&ograve;n ở với anh em. 26 Nhưng Đấng Bảo Trợ l&agrave; Th&aacute;nh Thần Ch&uacute;a Cha sẽ sai đến nh&acirc;n danh Thầy, Đấng đ&oacute; sẽ dạy anh em mọi điều v&agrave; sẽ l&agrave;m cho anh em nhớ lại mọi điều Thầy đ&atilde; n&oacute;i với anh em.”"
+          "text": "Đấng Bảo Trợ là Thánh Thần Chúa Cha sẽ sai đến, Đấng đó sẽ dạy anh em mọi điều.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 14,21-26\n21 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Ai có và giữ các điều răn của Thầy, người ấy mới là kẻ yêu mến Thầy. Mà ai yêu mến Thầy, thì sẽ được Cha của Thầy yêu mến. Thầy sẽ yêu mến người ấy, và sẽ tỏ mình ra cho người ấy.”\n22 Ông Giu-đa, không phải Giu-đa Ít-ca-ri-ốt, nói với Đức Giê-su: “Thưa Thầy, tại sao Thầy phải tỏ mình ra cho chúng con, mà không tỏ mình ra cho thế gian?” 23 Đức Giê-su đáp: “Ai yêu mến Thầy, thì sẽ giữ lời Thầy. Cha Thầy sẽ yêu mến người ấy. Cha Thầy và Thầy sẽ đến và ở lại với người ấy. 24 Ai không yêu mến Thầy, thì không giữ lời Thầy. Và lời anh em nghe đây không phải là của Thầy, nhưng là của Chúa Cha, Đấng đã sai Thầy. 25 Các điều đó, Thầy đã nói với anh em, đang khi còn ở với anh em. 26 Nhưng Đấng Bảo Trợ là Thánh Thần Chúa Cha sẽ sai đến nhân danh Thầy, Đấng đó sẽ dạy anh em mọi điều và sẽ làm cho anh em nhớ lại mọi điều Thầy đã nói với anh em.”"
         }
       },
       "reflection": {
@@ -191,9 +199,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/04.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/04.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/04.html"
       },
-      "updated": "2026-06-01T05:02:05.829Z"
+      "updated": "2026-06-01T09:47:13.320Z"
     },
     {
       "date": "2026-05-05",
@@ -214,20 +223,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 14,19-28",
-          "text": ""
+          "text": "Hai Tông Đồ tập họp Hội Thánh và kể lại tất cả những gì Thiên Chúa đã cùng làm với hai ông.\nBài trích sách Công vụ Tông Đồ.\n19 Bấy giờ có những người Do-thái từ An-ti-ô-khi-a và I-cô-ni-ô đến, thuyết phục được đám đông. Họ ném đá ông Phao-lô rồi lôi ông ra ngoài thành, vì tưởng ông đã chết. 20 Nhưng khi các môn đệ xúm lại quanh ông, ông đứng dậy và vào thành. Hôm sau, ông trẩy đi Đéc-bê cùng với ông Ba-na-ba.\n21 Sau khi đã loan Tin Mừng cho thành ấy và nhận khá nhiều người làm môn đệ, hai ông trở lại Lýt-ra, I-cô-ni-ô và An-ti-ô-khi-a. 22 Hai ông củng cố tinh thần các môn đệ, và khuyên nhủ họ giữ vững đức tin. Hai ông nói: “Chúng ta phải chịu nhiều gian khổ mới được vào Nước Thiên Chúa.” 23 Trong mỗi Hội Thánh, hai ông chỉ định cho họ những kỳ mục, và sau khi ăn chay cầu nguyện, hai ông phó thác những người đó cho Chúa, Đấng họ đã tin.\n24 Hai ông đi qua miền Pi-xi-đi-a mà đến miền Pam-phy-li-a, 25 rao giảng lời Chúa tại Péc-ghê, rồi xuống Át-ta-li-a. 26 Từ đó hai ông vượt biển về An-ti-ô-khi-a, là nơi trước đây các ông đã được giao phó cho ân sủng của Thiên Chúa để làm công việc vừa mới hoàn thành.\n27 Khi tới nơi, hai ông tập họp Hội Thánh và kể lại tất cả những gì Thiên Chúa đã cùng làm với hai ông, và việc Người đã mở cửa cho các dân ngoại đón nhận đức tin. 28 Rồi hai ông ở lại một thời gian khá lâu với các môn đệ."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 144,10-11.12-13ab.21",
+          "response": "Đ. Lạy Chúa, kẻ hiếu trung phải nói lên rằng:\nTriều đại Ngài vinh hiển.\n10 Lạy Chúa, muôn loài Chúa dựng nên phải dâng lời tán tạ,\nkẻ hiếu trung phải chúc tụng Ngài,\n11 nói lên rằng: triều đại Ngài vinh hiển,\nxưng tụng Ngài là Đấng quyền năng.\nĐ. Lạy Chúa, kẻ hiếu trung phải nói lên rằng:\nTriều đại Ngài vinh hiển.\n12 Để nhân loại được tường những chiến công của Chúa,\nvà được biết triều đại Ngài rực rỡ vinh quang.\n13ab Triều đại Ngài: thiên niên vĩnh cửu,\nvương quyền Ngài vạn đại trường tồn.\nĐ. Lạy Chúa, kẻ hiếu trung phải nói lên rằng:\nTriều đại Ngài vinh hiển.\n21 Môi miệng tôi, hãy dâng lời ca ngợi Chúa,\nchúng sinh hết thảy, nào chúc tụng Thánh Danh\nđến muôn thuở muôn đời!\nĐ. Lạy Chúa, kẻ hiếu trung phải nói lên rằng:\nTriều đại Ngài vinh hiển."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐức Ki-tô phải chịu khổ hình, và từ cõi chết sống lại,\nrồi mới được hưởng vinh quang dành cho Người.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 14,27-31a",
-          "text": "Thầy ban cho anh em b&igrave;nh an của Thầy\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,27-31a\n27 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thầy để lại b&igrave;nh an cho anh em, Thầy ban cho anh em b&igrave;nh an của Thầy. Thầy ban cho anh em kh&ocirc;ng theo kiểu thế gian. Anh em đừng xao xuyến cũng đừng sợ h&atilde;i. 28 Anh em đ&atilde; nghe Thầy bảo: ‘Thầy ra đi v&agrave; đến c&ugrave;ng anh em’. Nếu anh em y&ecirc;u mến Thầy, th&igrave; hẳn anh em đ&atilde; vui mừng v&igrave; Thầy đi về c&ugrave;ng Ch&uacute;a Cha, bởi v&igrave; Ch&uacute;a Cha cao trọng hơn Thầy. 29 B&acirc;y giờ, Thầy n&oacute;i với anh em trước khi sự việc xảy ra, để khi xảy ra, anh em tin.\n30 “Thầy sẽ kh&ocirc;ng c&ograve;n n&oacute;i nhiều với anh em nữa, bởi v&igrave; Thủ l&atilde;nh thế gian đang đến. Đ&atilde; hẳn, n&oacute; kh&ocirc;ng l&agrave;m g&igrave; được Thầy. 31a Nhưng chuyện đ&oacute; xảy ra l&agrave; để cho thế gian biết rằng Thầy y&ecirc;u mến Ch&uacute;a Cha v&agrave; l&agrave;m đ&uacute;ng như Ch&uacute;a Cha đ&atilde; truyền cho Thầy.”"
+          "text": "Thầy ban cho anh em bình an của Thầy\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 14,27-31a\n27 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Thầy để lại bình an cho anh em, Thầy ban cho anh em bình an của Thầy. Thầy ban cho anh em không theo kiểu thế gian. Anh em đừng xao xuyến cũng đừng sợ hãi. 28 Anh em đã nghe Thầy bảo: ‘Thầy ra đi và đến cùng anh em’. Nếu anh em yêu mến Thầy, thì hẳn anh em đã vui mừng vì Thầy đi về cùng Chúa Cha, bởi vì Chúa Cha cao trọng hơn Thầy. 29 Bây giờ, Thầy nói với anh em trước khi sự việc xảy ra, để khi xảy ra, anh em tin.\n30 “Thầy sẽ không còn nói nhiều với anh em nữa, bởi vì Thủ lãnh thế gian đang đến. Đã hẳn, nó không làm gì được Thầy. 31a Nhưng chuyện đó xảy ra là để cho thế gian biết rằng Thầy yêu mến Chúa Cha và làm đúng như Chúa Cha đã truyền cho Thầy.”"
         }
       },
       "reflection": {
@@ -237,9 +246,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/05.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/05.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/05.html"
       },
-      "updated": "2026-06-01T05:02:06.200Z"
+      "updated": "2026-06-01T09:47:13.419Z"
     },
     {
       "date": "2026-05-06",
@@ -260,20 +270,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 15,1-6",
-          "text": ""
+          "text": "Người ta quyết định cử ông Phao-lô, ông Ba-na-ba lên Giê-ru-sa-lem gặp các Tông Đồ và các kỳ mục, để bàn về vấn đề đang tranh luận\nBài trích sách Công vụ Tông Đồ.\n1 Hồi ấy, có những người từ miền Giu-đê đến An-ti-ô-khi-a dạy các anh em rằng: “Nếu anh em không chịu phép cắt bì theo tục lệ Mô-sê, thì anh em không thể được cứu độ.” 2 Ông Phao-lô và ông Ba-na-ba chống đối và tranh luận khá gay go với họ. Người ta bèn quyết định cử ông Phao-lô, ông Ba-na-ba và một vài người khác lên Giê-ru-sa-lem gặp các Tông Đồ và các kỳ mục, để bàn về vấn đề đang tranh luận này.\n3 Các ông được Hội Thánh tiễn đưa. Khi đi qua miền Phê-ni-xi và miền Sa-ma-ri, các ông tường thuật việc các dân ngoại đã trở lại với Thiên Chúa, khiến tất cả các anh em rất đỗi vui mừng. 4 Tới Giê-ru-sa-lem, các ông được Hội Thánh, các Tông Đồ và kỳ mục tiếp đón, và các ông kể lại tất cả những gì Thiên Chúa đã cùng làm với các ông.\n5 Có những người thuộc phái Pha-ri-sêu đã trở thành tín hữu, bấy giờ đứng ra nói rằng: “Phải làm phép cắt bì cho người ngoại và truyền cho họ giữ luật Mô-sê.” 6 Các Tông Đồ và các kỳ mục bèn họp nhau để xem xét vụ này."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 121,1-2.3-4a.4b-5",
+          "response": "Đ. Ta vui mừng trẩy lên đền thánh Chúa.\n1 Vui dường nào khi thiên hạ bảo tôi:\n“Ta cùng trẩy lên đền thánh Chúa!”\nVà giờ đây, Giê-ru-sa-lem hỡi,\n2 cửa nội thành, ta đã dừng chân.\nĐ. Ta vui mừng trẩy lên đền thánh Chúa.\n3 Giê-ru-sa-lem khác nào đô thị\nđược xây nên một khối vẹn toàn.\n4a Từng chi tộc, chi tộc của Chúa,\ntrẩy hội lên đền ở nơi đây.\nĐ. Ta vui mừng trẩy lên đền thánh Chúa.\n4b Để danh Chúa, họ cùng xưng tụng,\nnhư lệnh đã truyền cho Ít-ra-en.\n5 Cũng nơi đó, đặt ngai xét xử,\nngai vàng của vương triều Đa-vít.\nĐ. Ta vui mừng trẩy lên đền thánh Chúa."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Hãy ở lại trong Thầy như Thầy ở lại trong anh em.\nAi ở lại trong Thầy, thì sinh nhiều hoa trái.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 15,1-8",
-          "text": "Ai ở lại trong Thầy, v&agrave; Thầy ở lại trong người ấy, th&igrave; người ấy sinh nhiều hoa tr&aacute;i.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,1-8\n1 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thầy l&agrave; c&acirc;y nho thật, v&agrave; Cha Thầy l&agrave; người trồng nho. 2 C&agrave;nh n&agrave;o gắn liền với Thầy m&agrave; kh&ocirc;ng sinh hoa tr&aacute;i, th&igrave; Người chặt đi; c&ograve;n c&agrave;nh n&agrave;o sinh hoa tr&aacute;i, th&igrave; Người cắt tỉa cho n&oacute; sinh nhiều hoa tr&aacute;i hơn. 3 Anh em được thanh sạch rồi nhờ lời Thầy đ&atilde; n&oacute;i với anh em. 4 H&atilde;y ở lại trong Thầy như Thầy ở lại trong anh em. Cũng như c&agrave;nh nho kh&ocirc;ng thể tự m&igrave;nh sinh hoa tr&aacute;i, nếu kh&ocirc;ng gắn liền với c&acirc;y nho, anh em cũng thế, nếu kh&ocirc;ng ở lại trong Thầy.\n5 “Thầy l&agrave; c&acirc;y nho, anh em l&agrave; c&agrave;nh. Ai ở lại trong Thầy v&agrave; Thầy ở lại trong người ấy, th&igrave; người ấy sinh nhiều hoa tr&aacute;i, v&igrave; kh&ocirc;ng c&oacute; Thầy, anh em chẳng l&agrave;m g&igrave; được. 6 Ai kh&ocirc;ng ở lại trong Thầy, th&igrave; bị quăng ra ngo&agrave;i như c&agrave;nh nho v&agrave; sẽ kh&ocirc; h&eacute;o. Người ta nhặt lấy, quăng v&agrave;o lửa cho n&oacute; ch&aacute;y đi. 7 Nếu anh em ở lại trong Thầy v&agrave; lời Thầy ở lại trong anh em, th&igrave; muốn g&igrave;, anh em cứ xin, anh em sẽ được như &yacute;. 8 Điều l&agrave;m Ch&uacute;a Cha được t&ocirc;n vinh l&agrave;: Anh em sinh nhiều hoa tr&aacute;i v&agrave; trở th&agrave;nh m&ocirc;n đệ của Thầy.”"
+          "text": "Ai ở lại trong Thầy, và Thầy ở lại trong người ấy, thì người ấy sinh nhiều hoa trái.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 15,1-8\n1 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Thầy là cây nho thật, và Cha Thầy là người trồng nho. 2 Cành nào gắn liền với Thầy mà không sinh hoa trái, thì Người chặt đi; còn cành nào sinh hoa trái, thì Người cắt tỉa cho nó sinh nhiều hoa trái hơn. 3 Anh em được thanh sạch rồi nhờ lời Thầy đã nói với anh em. 4 Hãy ở lại trong Thầy như Thầy ở lại trong anh em. Cũng như cành nho không thể tự mình sinh hoa trái, nếu không gắn liền với cây nho, anh em cũng thế, nếu không ở lại trong Thầy.\n5 “Thầy là cây nho, anh em là cành. Ai ở lại trong Thầy và Thầy ở lại trong người ấy, thì người ấy sinh nhiều hoa trái, vì không có Thầy, anh em chẳng làm gì được. 6 Ai không ở lại trong Thầy, thì bị quăng ra ngoài như cành nho và sẽ khô héo. Người ta nhặt lấy, quăng vào lửa cho nó cháy đi. 7 Nếu anh em ở lại trong Thầy và lời Thầy ở lại trong anh em, thì muốn gì, anh em cứ xin, anh em sẽ được như ý. 8 Điều làm Chúa Cha được tôn vinh là: Anh em sinh nhiều hoa trái và trở thành môn đệ của Thầy.”"
         }
       },
       "reflection": {
@@ -283,9 +293,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/06.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/06.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/06.html"
       },
-      "updated": "2026-06-01T05:02:06.562Z"
+      "updated": "2026-06-01T09:47:13.412Z"
     },
     {
       "date": "2026-05-07",
@@ -306,20 +317,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 15,7-21",
-          "text": ""
+          "text": "Tôi xét là không được gây phiền hà cho những người gốc dân ngoại trở lại với Thiên Chúa.\nBài trích sách Công vụ Tông Đồ.\n7 Sau khi đã tranh luận nhiều, ông Phê-rô đứng lên nói với các Tông Đồ và các kỳ mục rằng: “Thưa anh em, anh em biết: ngay từ những ngày đầu, Thiên Chúa đã chọn tôi giữa anh em, để các dân ngoại được nghe lời Tin Mừng từ miệng tôi và tin theo. 8 Thiên Chúa là Đấng thấu suốt mọi tâm can đã chứng tỏ Người chấp nhận họ, khi ban Thánh Thần cho họ cũng như đã ban cho chúng ta. 9 Người không phân biệt chút nào giữa chúng ta với họ, vì đã dùng đức tin để thanh tẩy lòng họ. 10 Vậy bây giờ, sao anh em lại thử thách Thiên Chúa, mà quàng vào cổ các môn đệ một cái ách mà cả cha ông chúng ta lẫn chúng ta đã không có sức mang nổi? 11 Vả lại, chính nhờ ân sủng Chúa Giê-su mà chúng ta tin mình được cứu độ, cùng một cách như họ.”\n12 Bấy giờ toàn thể hội nghị im lặng. Họ nghe ông Ba-na-ba và ông Phao-lô thuật lại các dấu lạ điềm thiêng Thiên Chúa đã dùng hai ông mà làm giữa các dân ngoại.\n19 “Vì vậy, phần tôi, tôi xét là không được gây phiền hà cho những người gốc dân ngoại trở lại với Thiên Chúa, 20 nhưng chỉ viết thư bảo họ kiêng những thức ăn ô uế vì đã cúng cho ngẫu tượng, tránh gian dâm, kiêng ăn thịt loài vật không cắt tiết và kiêng ăn tiết. 21 Thật vậy, từ những thế hệ xa xưa, trong mỗi thành ông Mô-sê đều có những người rao giảng: họ đọc lời của ông trong các hội đường mỗi ngày sa-bát.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 95,1-2a.2b-3.10",
+          "response": "Đ. Hãy kể cho muôn dân được biết\nnhững kỳ công Chúa làm.\n1 Hát lên mừng Chúa một bài ca mới,\nhát lên mừng Chúa, hỡi toàn thể địa cầu!\n2a Hát lên mừng Chúa, chúc tụng Thánh Danh!\nĐ. Hãy kể cho muôn dân được biết\nnhững kỳ công Chúa làm.\n2b Ngày qua ngày, hãy loan báo ơn Người cứu độ,\n3 kể cho muôn dân biết Người thật là vinh hiển,\ncho mọi nước hay những kỳ công của Người.\nĐ. Hãy kể cho muôn dân được biết\nnhững kỳ công Chúa làm.\n10 Hãy nói với chư dân: Chúa là Vua hiển trị,\nChúa thiết lập địa cầu, địa cầu chẳng chuyển lay,\nNgười xét xử muôn nước theo đường ngay thẳng.\nĐ. Hãy kể cho muôn dân được biết\nnhững kỳ công Chúa làm."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Chiên của tôi thì nghe tiếng tôi;\ntôi biết chúng, và chúng theo tôi.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 15,9-11",
-          "text": "H&atilde;y ở lại trong t&igrave;nh thương của Thầy, để niềm vui của anh em được n&ecirc;n trọn vẹn.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,9-11\n9 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Ch&uacute;a Cha đ&atilde; y&ecirc;u mến Thầy thế n&agrave;o, Thầy cũng y&ecirc;u mến anh em như vậy. Anh em h&atilde;y ở lại trong t&igrave;nh thương của Thầy. 10 Nếu anh em giữ c&aacute;c điều răn của Thầy, anh em sẽ ở lại trong t&igrave;nh thương của Thầy, như Thầy đ&atilde; giữ c&aacute;c điều răn của Cha Thầy v&agrave; ở lại trong t&igrave;nh thương của Người. 11 C&aacute;c điều ấy, Thầy đ&atilde; n&oacute;i với anh em để anh em được hưởng niềm vui của Thầy, v&agrave; niềm vui của anh em được n&ecirc;n trọn vẹn.”"
+          "text": "Hãy ở lại trong tình thương của Thầy, để niềm vui của anh em được nên trọn vẹn.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 15,9-11\n9 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. 10 Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. 11 Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy, và niềm vui của anh em được nên trọn vẹn.”"
         }
       },
       "reflection": {
@@ -329,9 +340,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/07.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/07.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/07.html"
       },
-      "updated": "2026-06-01T05:02:06.995Z"
+      "updated": "2026-06-01T09:47:13.453Z"
     },
     {
       "date": "2026-05-08",
@@ -352,20 +364,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 15,22-31",
-          "text": ""
+          "text": "Thánh Thần và chúng tôi quyết định không đặt lên vai n hem một gánh nặng nào khác ngoài những điều cần thiết.\nBài trích sách Công vụ Tông Đồ.\n22 Bấy giờ, các Tông Đồ và các kỳ mục, cùng với toàn thể Hội Thánh, quyết định chọn mấy người trong các ông, để phái đi An-ti-ô-khi-a với ông Phao-lô và ông Ba-na-ba. Đó là ông Giu-đa, biệt danh là Ba-sa-ba, và ông Xi-la, những người có uy tín trong Hội Thánh. 23 Các ông trao cho phái đoàn bức thư sau:\n“Anh em Tông Đồ và kỳ mục chúng tôi gửi lời chào anh em gốc dân ngoại tại An-ti-ô-khi-a, tại miền Xy-ri và Ki-li-ki-a. 24 Chúng tôi nghe biết có một số người trong chúng tôi, không được chúng tôi uỷ nhiệm, mà lại đi nói những điều gây xáo trộn nơi anh em, làm anh em hoang mang. 25 Vì thế, chúng tôi đã đồng tâm nhất trí quyết định chọn một số đại biểu, và phái họ đến với anh em, cùng với những người anh em thân mến của chúng tôi là ông Ba-na-ba và ông Phao-lô, 26 những người đã cống hiến cuộc đời vì danh Đức Giê-su Ki-tô, Chúa chúng ta. 27 Vậy chúng tôi cử ông Giu-đa và ông Xi-la đến trình bày trực tiếp những điều viết sau đây: 28 Thánh Thần và chúng tôi đã quyết định không đặt lên vai anh em một gánh nặng nào khác ngoài những điều cần thiết này: 29 là kiêng ăn đồ đã cúng cho ngẫu tượng, kiêng ăn tiết, ăn thịt loài vật không cắt tiết, và tránh gian dâm. Anh em cẩn thận tránh những điều đó là tốt rồi. Chúc anh em an mạnh.”\n30 Sau khi được mọi người tiễn chân, các đại biểu xuống An-ti-ô-khi-a, triệu tập cộng đoàn lại và trao bức thư. 31 Đọc thư xong, họ vui mừng vì lời khích lệ đó."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 56,8-9.10-12",
+          "response": "Đ. Lạy Thiên Chúa, trước mặt chư dân, con dâng lời cảm tạ.\n8 Con an lòng, lạy Thiên Chúa, con vững dạ an lòng,\n9 này con xin đàn hát xướng ca.\nThức dậy đi, hồn tôi hỡi,\nthức dậy đi, hỡi đàn sắt đàn cầm,\ntôi còn đánh thức cả bình minh.\nĐ. Lạy Thiên Chúa, trước mặt chư dân, con dâng lời cảm tạ.\n10 Lạy Thiên Chúa, trước mặt chư dân, con dâng lời cảm tạ,\ngiữa lòng muôn nước, con đàn hát xướng ca.\n11 Vì tình thương của Ngài cao ngất trời xanh,\nvà lòng thành tín vượt ngàn mây thẳm.\n12 Lạy Thiên Chúa, xin biểu thị uy phong khắp cõi trời\nvà chiếu toả vinh quang đầy mặt đất.\nĐ. Lạy Thiên Chúa, trước mặt chư dân, con dâng lời cảm tạ."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Thầy gọi anh em là bạn hữu,\nvì tất cả những gì Thầy nghe được nơi Cha Thầy,\nThầy đã cho anh em biết.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 15,12-17",
-          "text": "Điều Thầy truyền dạy anh em l&agrave; h&atilde;y y&ecirc;u thương nhau.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,12-17\n12 Khi ấy, đến giờ l&igrave;a bỏ thế gian m&agrave; về với Ch&uacute;a Cha, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Đ&acirc;y l&agrave; điều răn của Thầy: anh em h&atilde;y y&ecirc;u thương nhau như Thầy đ&atilde; y&ecirc;u thương anh em. 13 Kh&ocirc;ng c&oacute; t&igrave;nh thương n&agrave;o cao cả hơn t&igrave;nh thương của người đ&atilde; hy sinh t&iacute;nh mạng v&igrave; bạn hữu của m&igrave;nh. 14 Anh em l&agrave; bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. 15 Thầy kh&ocirc;ng c&ograve;n gọi anh em l&agrave; t&ocirc;i tớ nữa, v&igrave; t&ocirc;i tớ kh&ocirc;ng biết việc chủ l&agrave;m. Nhưng Thầy gọi anh em l&agrave; bạn hữu, v&igrave; tất cả những g&igrave; Thầy nghe được nơi Cha Thầy, Thầy đ&atilde; cho anh em biết.\n16 “Kh&ocirc;ng phải anh em đ&atilde; chọn Thầy, nhưng ch&iacute;nh Thầy đ&atilde; chọn anh em, v&agrave; cắt cử anh em để anh em ra đi, sinh được hoa tr&aacute;i, v&agrave; hoa tr&aacute;i của anh em tồn tại, hầu tất cả những g&igrave; anh em xin c&ugrave;ng Ch&uacute;a Cha nh&acirc;n danh Thầy, th&igrave; Người ban cho anh em. 17 Điều Thầy truyền dạy anh em l&agrave; h&atilde;y y&ecirc;u thương nhau.”"
+          "text": "Điều Thầy truyền dạy anh em là hãy yêu thương nhau.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 15,12-17\n12 Khi ấy, đến giờ lìa bỏ thế gian mà về với Chúa Cha, Đức Giê-su nói với các môn đệ rằng: “Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. 13 Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. 14 Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. 15 Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.\n16 “Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. 17 Điều Thầy truyền dạy anh em là hãy yêu thương nhau.”"
         }
       },
       "reflection": {
@@ -375,9 +387,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/08.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/08.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/08.html"
       },
-      "updated": "2026-06-01T05:02:07.371Z"
+      "updated": "2026-06-01T09:47:13.567Z"
     },
     {
       "date": "2026-05-09",
@@ -398,20 +411,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 16,1-10",
-          "text": ""
+          "text": "Xin hãy sang Ma-kê-đô-ni-a giúp chúng tôi\nBài trích sách Công vụ Tông Đồ.\n1 Hồi ấy, ông Phao-lô đến Đéc-bê, rồi đến Lýt-ra. Ở đó có một môn đệ tên là Ti-mô-thê, mẹ là người Do-thái đã tin Chúa, còn cha là người Hy-lạp. 2 Ông được các anh em ở Lýt-ra và I-cô-ni-ô chứng nhận là tốt. 3 Ông Phao-lô muốn ông ấy cùng lên đường với mình, nên đã đem ông đi làm phép cắt bì, vì nể các người Do-thái ở những nơi ấy; thật vậy, ai cũng biết cha ông là người Hy-lạp.\n4 Khi đi qua các thành, các ông truyền lại cho các anh em những chỉ thị đã được các Tông Đồ và kỳ mục ở Giê-ru-sa-lem ban bố, để họ tuân giữ.\n5 Vậy các Hội Thánh được vững mạnh trong đức tin và mỗi ngày thêm đông số.\n6 Các ông đi qua miền Phy-ghi-a và Ga-lát, vì Thánh Thần ngăn cản không cho các ông rao giảng lời Chúa ở A-xi-a. 7 Khi tới sát ranh giới My-xi-a, các ông thử vào miền Bi-thy-ni-a, nhưng Thần Khí Đức Giê-su không cho phép. 8 Các ông bèn đi qua miền My-xi-a mà xuống Trô-a.\n9 Ban đêm, ông Phao-lô thấy một thị kiến: một người miền Ma-kê-đô-ni-a đứng đó, mời ông rằng: “Xin ông sang Ma-kê-đô-ni-a giúp chúng tôi!” 10 Sau khi ông thấy thị kiến đó, lập tức chúng tôi tìm cách đi Ma-kê-đô-ni-a, vì hiểu ra rằng Thiên Chúa kêu gọi chúng tôi loan báo Tin Mừng cho họ."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 99,1-2.3.5",
+          "response": "Đ. Hãy tung hô Chúa, hỡi toàn thể địa cầu.\n1 Hãy tung hô Chúa, hỡi toàn thể địa cầu,\n2 phụng thờ Chúa với niềm hoan hỷ,\nvào trước thánh nhan Người giữa tiếng hò reo.\nĐ. Hãy tung hô Chúa, hỡi toàn thể địa cầu.\n3 Hãy nhìn nhận Chúa là Thượng Đế,\nchính Người dựng nên ta, ta thuộc về Người,\nta là dân Người, là đoàn chiên Người dẫn dắt.\nĐ. Hãy tung hô Chúa, hỡi toàn thể địa cầu.\n5 Bởi vì Chúa nhân hậu,\nmuôn ngàn đời Chúa vẫn trọn tình thương,\nqua bao thế hệ, vẫn một niềm thành tín.\nĐ. Hãy tung hô Chúa, hỡi toàn thể địa cầu."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nAnh em đã được trỗi dậy cùng với Đức Ki-tô,\nnơi Đức Ki-tô đang ngự bên hữu Thiên Chúa.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 15,18-21",
-          "text": "Anh em kh&ocirc;ng thuộc về thế gian, v&agrave; Thầy đ&atilde; chọn anh em khỏi thế gian.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,18-21\n18 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Nếu thế gian gh&eacute;t anh em, anh em h&atilde;y biết rằng n&oacute; đ&atilde; gh&eacute;t Thầy trước. 19 Giả như anh em thuộc về thế gian, th&igrave; thế gian đ&atilde; y&ecirc;u th&iacute;ch c&aacute;i g&igrave; l&agrave; của n&oacute;. Nhưng v&igrave; anh em kh&ocirc;ng thuộc về thế gian v&agrave; Thầy đ&atilde; chọn, đ&atilde; t&aacute;ch anh em khỏi thế gian, n&ecirc;n thế gian gh&eacute;t anh em. 20 H&atilde;y nhớ lời Thầy đ&atilde; n&oacute;i với anh em: t&ocirc;i tớ kh&ocirc;ng lớn hơn chủ nh&agrave;. Nếu họ đ&atilde; bắt bớ Thầy, họ cũng sẽ bắt bớ anh em. Nếu họ đ&atilde; tu&acirc;n giữ lời Thầy, họ cũng sẽ tu&acirc;n giữ lời anh em. 21 Nhưng họ sẽ l&agrave;m tất cả những điều ấy chống lại anh em, v&igrave; anh em mang danh Thầy, bởi họ kh&ocirc;ng biết Đấng đ&atilde; sai Thầy.”"
+          "text": "Anh em không thuộc về thế gian, và Thầy đã chọn anh em khỏi thế gian.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 15,18-21\n18 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Nếu thế gian ghét anh em, anh em hãy biết rằng nó đã ghét Thầy trước. 19 Giả như anh em thuộc về thế gian, thì thế gian đã yêu thích cái gì là của nó. Nhưng vì anh em không thuộc về thế gian và Thầy đã chọn, đã tách anh em khỏi thế gian, nên thế gian ghét anh em. 20 Hãy nhớ lời Thầy đã nói với anh em: tôi tớ không lớn hơn chủ nhà. Nếu họ đã bắt bớ Thầy, họ cũng sẽ bắt bớ anh em. Nếu họ đã tuân giữ lời Thầy, họ cũng sẽ tuân giữ lời anh em. 21 Nhưng họ sẽ làm tất cả những điều ấy chống lại anh em, vì anh em mang danh Thầy, bởi họ không biết Đấng đã sai Thầy.”"
         }
       },
       "reflection": {
@@ -421,9 +434,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/09.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/09.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/09.html"
       },
-      "updated": "2026-06-01T05:02:08.030Z"
+      "updated": "2026-06-01T09:47:13.551Z"
     },
     {
       "date": "2026-05-10",
@@ -443,21 +457,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Cv 8,5-8.14-17 1 Pr 3,15-18",
-          "text": ""
+          "reference": "Cv 8,5-8.14-17",
+          "text": "Các Tông Đồ đặt tay trên họ, và họ nhận được Thánh Thần.\nBài trích sách Công vụ Tông Đồ.\n5 Hồi ấy, ông Phi-líp-phê xuống một thành miền Sa-ma-ri và rao giảng Đức Ki-tô cho dân cư ở đó. 6 Đám đông một lòng chú ý đến những điều ông Phi-líp-phê giảng, bởi được nghe đồn và được chứng kiến những dấu lạ ông làm. 7 Thật vậy, các thần ô uế vừa kêu lớn tiếng vừa xuất khỏi nhiều người trong số những kẻ bị chúng ám. Nhiều người tê bại và tàn tật được chữa lành. 8 Trong thành, người ta rất vui mừng.\n14 Các Tông Đồ ở Giê-ru-sa-lem nghe biết dân miền Sa-ma-ri đã đón nhận lời Thiên Chúa, thì cử ông Phê-rô và ông Gio-an đến với họ. 15 Khi đến nơi, hai ông cầu nguyện cho họ, để họ nhận được Thánh Thần. 16 Vì Thánh Thần chưa ngự xuống một ai trong nhóm họ: họ mới chỉ chịu phép rửa nhân danh Chúa Giê-su. 17 Bấy giờ hai ông đặt tay trên họ, và họ nhận được Thánh Thần."
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "1 Pr 3,15-18",
+          "text": "Thân xác Đức Ki-tô đã bị giết chết, nhưng nhờ Thần Khí, Người đã được phục sinh.\nBài trích thư thứ nhất của thánh Phê-rô tông đồ.\n15 Anh em thân mến, Đức Ki-tô là Đấng Thánh, hãy tôn Người làm Chúa ngự trị trong lòng anh em. Hãy luôn luôn sẵn sàng trả lời cho bất cứ ai chất vấn về niềm hy vọng của anh em. 16 Nhưng phải trả lời cách hiền hoà và với sự kính trọng. Hãy giữ lương tâm ngay thẳng, khiến những kẻ phỉ báng anh em vì anh em ăn ở ngay thẳng trong Đức Ki-tô, thì chính họ phải xấu hổ vì những điều họ vu khống, 17 bởi lẽ thà chịu khổ vì làm việc lành, nếu đó là ý của Thiên Chúa, còn hơn là vì làm điều ác.\n18 Chính Đức Ki-tô đã chịu chết một lần vì tội lỗi -Đấng Công Chính đã chết cho kẻ bất lương- hầu dẫn đưa chúng ta đến cùng Thiên Chúa. Thân xác Người đã bị giết chết, nhưng nhờ Thần Khí, Người đã được phục sinh."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 65,1-3a.4-5.6-7a.16",
+          "response": "Đ. Cả trái đất, hãy tung hô Thiên Chúa.\n1 Cả trái đất, hãy tung hô Thiên Chúa,\n2 đàn hát lên mừng Danh Thánh rạng ngời,\nnào dâng lời ca tụng tôn vinh!\n3a Hãy thưa cùng Thiên Chúa:\n“Khủng khiếp thay, sự nghiệp của Ngài!\nĐ. Cả trái đất, hãy tung hô Thiên Chúa.\n4 Toàn trái đất phải quỳ lạy tôn thờ,\nvà đàn ca mừng Chúa, đàn ca mừng Thánh Danh.”\n5 Đến mà xem công trình của Thiên Chúa:\nhành động của Người đối với phàm nhân\nthật đáng kinh đáng sợ!\nĐ. Cả trái đất, hãy tung hô Thiên Chúa.\n6 Chúa làm cho biển khơi hoá đất liền,\nvà dân Người đi bộ qua sông;\nviệc Người làm đó khiến ta hoan hỷ.\n7a Chúa uy dũng hiển trị muôn đời.\nĐ. Cả trái đất, hãy tung hô Thiên Chúa.\n16 Tất cả những ai kính sợ Chúa Trời,\nđến mà nghe tôi kể việc Chúa đã làm để giúp tôi.\n20 Xin chúc tụng Thiên Chúa\nđã chẳng bác lời thỉnh nguyện tôi dâng,\nlại cũng không dứt nghĩa đoạn tình.\nĐ. Cả trái đất, hãy tung hô Thiên Chúa."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Ai yêu mến Thầy, thì sẽ giữ lời Thầy.\nCha Thầy sẽ yêu mến người ấy.\nCha Thầy và Thầy sẽ đến với người ấy.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 14,15-21",
-          "text": "Thầy sẽ xin Ch&uacute;a Cha v&agrave; Người sẽ ban cho anh em một Đấng Bảo Trợ kh&aacute;c.\n✠ Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,15-21\n15 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Nếu anh em y&ecirc;u mến Thầy, anh em sẽ giữ c&aacute;c điều răn của Thầy. 16 Thầy sẽ xin Ch&uacute;a Cha v&agrave; Người sẽ ban cho anh em một Đấng Bảo Trợ kh&aacute;c đến ở với anh em lu&ocirc;n m&atilde;i. 17 Đ&oacute; l&agrave; Thần Kh&iacute; sự thật, Đấng m&agrave; thế gian kh&ocirc;ng thể đ&oacute;n nhận, v&igrave; thế gian kh&ocirc;ng thấy v&agrave; cũng chẳng biết Người. C&ograve;n anh em biết Người, v&igrave; Người lu&ocirc;n ở giữa anh em v&agrave; ở trong anh em. 18 Thầy sẽ kh&ocirc;ng để anh em mồ c&ocirc;i. Thầy đến c&ugrave;ng anh em. 19 Chẳng bao l&acirc;u nữa, thế gian sẽ kh&ocirc;ng c&ograve;n thấy Thầy. Phần anh em, anh em sẽ được thấy Thầy, v&igrave; Thầy sống v&agrave; anh em cũng sẽ được sống. 20 Ng&agrave;y đ&oacute;, anh em sẽ biết rằng Thầy ở trong Cha Thầy, anh em ở trong Thầy, v&agrave; Thầy ở trong anh em. 21 Ai c&oacute; v&agrave; giữ c&aacute;c điều răn của Thầy, người ấy mới l&agrave; kẻ y&ecirc;u mến Thầy. M&agrave; ai y&ecirc;u mến Thầy, th&igrave; sẽ được Cha Thầy y&ecirc;u mến. Thầy sẽ y&ecirc;u mến người ấy, v&agrave; sẽ tỏ m&igrave;nh ra cho người ấy.”"
+          "text": "Thầy sẽ xin Chúa Cha và Người sẽ ban cho anh em một Đấng Bảo Trợ khác.\n✠ Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 14,15-21\n15 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Nếu anh em yêu mến Thầy, anh em sẽ giữ các điều răn của Thầy. 16 Thầy sẽ xin Chúa Cha và Người sẽ ban cho anh em một Đấng Bảo Trợ khác đến ở với anh em luôn mãi. 17 Đó là Thần Khí sự thật, Đấng mà thế gian không thể đón nhận, vì thế gian không thấy và cũng chẳng biết Người. Còn anh em biết Người, vì Người luôn ở giữa anh em và ở trong anh em. 18 Thầy sẽ không để anh em mồ côi. Thầy đến cùng anh em. 19 Chẳng bao lâu nữa, thế gian sẽ không còn thấy Thầy. Phần anh em, anh em sẽ được thấy Thầy, vì Thầy sống và anh em cũng sẽ được sống. 20 Ngày đó, anh em sẽ biết rằng Thầy ở trong Cha Thầy, anh em ở trong Thầy, và Thầy ở trong anh em. 21 Ai có và giữ các điều răn của Thầy, người ấy mới là kẻ yêu mến Thầy. Mà ai yêu mến Thầy, thì sẽ được Cha Thầy yêu mến. Thầy sẽ yêu mến người ấy, và sẽ tỏ mình ra cho người ấy.”"
         }
       },
       "reflection": {
@@ -467,9 +481,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/10.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/10.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/10.html"
       },
-      "updated": "2026-06-01T05:02:08.409Z"
+      "updated": "2026-06-01T09:47:13.557Z"
     },
     {
       "date": "2026-05-11",
@@ -490,20 +505,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 16,11-15",
-          "text": ""
+          "text": "Chúa mở lòng cho bà Ly-đi-a để bà chú ý đến những lời ông Phao-lô nói.\nBài trích sách Công vụ Tông Đồ.\n11 Hồi ấy, chúng tôi xuống tàu ở Trô-a, đi thẳng đến đảo Xa-mốt-ra-kê, rồi hôm sau đến Nê-a-pô-li. 12 Từ đó chúng tôi đi Phi-líp-phê là thị trấn quan trọng nhất trong hạt ấy của tỉnh Ma-kê-đô-ni-a, và là thuộc địa Rô-ma. Chúng tôi ở lại thành đó mấy ngày. 13 Ngày sa-bát, chúng tôi ra khỏi cổng thành, men theo bờ sông, đến một chỗ chúng tôi đoán chừng có nơi cầu nguyện. Chúng tôi ngồi xuống nói chuyện với những phụ nữ đang họp nhau tại đó. 14 Có một bà tên là Ly-đi-a, quê ở Thy-a-ti-ra, chuyên buôn bán vải điều. Bà là người tôn thờ Thiên Chúa; bà nghe, và Chúa mở lòng cho bà để bà chú ý đến những lời ông Phao-lô nói. 15 Sau khi bà và cả nhà đã chịu phép rửa, bà mời chúng tôi: “Các ông đã coi tôi là một tín hữu Chúa, thì xin các ông đến ở nhà tôi.” Và bà ép chúng tôi phải nhận lời."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 149,1-2.3-4.5-6a",
+          "response": "Đ. Chúa mến chuộng dân Người.\n1 Hát lên mừng Chúa một bài ca mới,\nngợi khen Người trong cộng đoàn những kẻ hiếu trung!\n2 Hỡi Ít-ra-en, nào hoan hỷ,\nvì có Chúa là Đấng tạo thành ngươi.\nCon cái Xi-on, hãy nhảy mừng,\nvì được Chúa làm Vua hiển trị.\nĐ. Chúa mến chuộng dân Người.\n3 Mừng Thánh Danh, nào dâng điệu vũ,\nnhịp trống hoạ đàn theo khúc hoan ca.\n4 Bởi vì Chúa mến chuộng dân Người,\nban cho kẻ nghèo hèn được vẻ vang chiến thắng.\nĐ. Chúa mến chuộng dân Người.\n5 Kẻ hiếu trung hãy vui mừng rạng rỡ,\nnào phủ phục mà cất tiếng reo hò,\n6a miệng vang lời tán dương Thiên Chúa.\n9b Đó là niềm vinh dự cho mọi kẻ trung hiếu với Người.\nĐ. Chúa mến chuộng dân Người."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Thần Khí sự thật sẽ làm chứng về Thầy.\nCả anh em nữa, anh em cũng làm chứng về Thầy.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 15,26 - 16,4a",
-          "text": "Thần Kh&iacute; sự thật sẽ l&agrave;m chứng về Thầy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,26 - 16,4a\n15 26 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Khi Đấng Bảo Trợ đến, Đấng m&agrave; Thầy sẽ sai đến với anh em từ nơi Ch&uacute;a Cha, Người l&agrave; Thần Kh&iacute; sự thật ph&aacute;t xuất từ Ch&uacute;a Cha, Người sẽ l&agrave;m chứng về Thầy. 27 Cả anh em nữa, anh em cũng l&agrave;m chứng, v&igrave; anh em ở với Thầy ngay từ đầu.\n16 1 “Thầy đ&atilde; n&oacute;i với anh em c&aacute;c điều ấy, để anh em khỏi bị vấp ng&atilde;. 2 Họ sẽ khai trừ anh em khỏi hội đường. Hơn nữa, sẽ đến giờ kẻ n&agrave;o giết anh em cũng tưởng m&igrave;nh phụng thờ Thi&ecirc;n Ch&uacute;a. 3 Họ sẽ l&agrave;m như thế, bởi v&igrave; họ kh&ocirc;ng biết Ch&uacute;a Cha cũng chẳng biết Thầy. 4a Nhưng Thầy đ&atilde; n&oacute;i với anh em những điều ấy, để khi đến giờ họ h&agrave;nh động, anh em nhớ lại l&agrave; Thầy đ&atilde; n&oacute;i với anh em rồi.”"
+          "text": "Thần Khí sự thật sẽ làm chứng về Thầy.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 15,26 - 16,4a\n15 26 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Khi Đấng Bảo Trợ đến, Đấng mà Thầy sẽ sai đến với anh em từ nơi Chúa Cha, Người là Thần Khí sự thật phát xuất từ Chúa Cha, Người sẽ làm chứng về Thầy. 27 Cả anh em nữa, anh em cũng làm chứng, vì anh em ở với Thầy ngay từ đầu.\n16 1 “Thầy đã nói với anh em các điều ấy, để anh em khỏi bị vấp ngã. 2 Họ sẽ khai trừ anh em khỏi hội đường. Hơn nữa, sẽ đến giờ kẻ nào giết anh em cũng tưởng mình phụng thờ Thiên Chúa. 3 Họ sẽ làm như thế, bởi vì họ không biết Chúa Cha cũng chẳng biết Thầy. 4a Nhưng Thầy đã nói với anh em những điều ấy, để khi đến giờ họ hành động, anh em nhớ lại là Thầy đã nói với anh em rồi.”"
         }
       },
       "reflection": {
@@ -513,9 +528,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/11.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/11.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/11.html"
       },
-      "updated": "2026-06-01T05:02:08.770Z"
+      "updated": "2026-06-01T09:47:13.597Z"
     },
     {
       "date": "2026-05-12",
@@ -536,20 +552,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 16,22-34",
-          "text": ""
+          "text": "Hãy tin vào Chúa Giê-su, thì ông và cả nhà sẽ được cứu độ.\nBài trích sách Công vụ Tông Đồ.\n22 Hồi ấy, đám đông ở Phi-líp-phê nổi lên chống ông Phao-lô và ông Xi-la. Các quan toà, sau khi đã cho lột áo hai ông, thì ra lệnh đánh đòn. 23 Khi đã đánh nhừ tử, họ tống hai ông vào ngục, và truyền cho viên cai ngục phải canh giữ cẩn thận. 24 Được lệnh đó, người này tống hai ông vào phòng giam sâu nhất và cùm chân lại.\n25 Vào quãng nửa đêm, ông Phao-lô và ông Xi-la hát thánh ca cầu nguyện với Thiên Chúa; các người tù nghe hai ông hát. 26 Bỗng nhiên có động đất mạnh, khiến nền móng nhà tù phải rung chuyển. Ngay lúc đó, tất cả các cửa mở toang và xiềng xích của mọi người buột tung ra. 27 Viên cai ngục choàng dậy và thấy các cửa ngục mở toang, liền rút gươm định tự tử, vì tưởng rằng các người tù đã trốn đi. 28 Nhưng ông Phao-lô lớn tiếng bảo: “Ông chớ hại mình làm chi: chúng tôi còn cả đây mà!”\n29 Viên cai ngục bảo lấy đèn, nhảy bổ vào, run rẩy sấp mình dưới chân ông Phao-lô và ông Xi-la, 30 rồi đưa hai ông ra ngoài và nói: “Thưa các ngài, tôi phải làm gì để được cứu độ?” 31 Hai ông đáp: “Hãy tin vào Chúa Giê-su, thì ông và cả nhà sẽ được cứu độ.” 32 Hai ông liền giảng lời Chúa cho viên cai ngục cùng mọi người trong nhà ông ấy. 33 Ngay lúc đó, giữa ban đêm, viên cai ngục đem hai ông đi, rửa các vết thương, và lập tức ông ấy được chịu phép rửa cùng với tất cả người nhà. 34 Rồi ông ấy đưa hai ông lên nhà, dọn bàn ăn. Ông và cả nhà vui mừng vì đã tin Thiên Chúa."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 137,1-2a.2bc-3.7c-8",
+          "response": "Đ. Lạy Chúa, Ngài ra tay uy quyền giải thoát con.\n1 Lạy Chúa, con hết lòng cảm tạ,\nNgài đã nghe lời miệng con xin.\nGiữa chư vị thiên thần, xin đàn ca kính Chúa,\n2a hướng về đền thánh, con phủ phục tôn thờ.\nĐ. Lạy Chúa, Ngài ra tay uy quyền giải thoát con.\n2bc Xin cảm tạ danh Chúa,\nvì Ngài vẫn thành tín yêu thương,\nđã đề cao danh thánh và lời hứa của Ngài\ntrên tất cả mọi sự.\n3 Ngày con kêu cứu, Chúa đã thương đáp lại,\nđã gia tăng nghị lực cho tâm hồn.\nĐ. Lạy Chúa, Ngài ra tay uy quyền giải thoát con.\n7c Ngài lấy tay uy quyền giải thoát con.\n8 Việc Chúa làm cho con, Ngài sẽ hoàn tất;\nlạy Chúa, muôn ngàn đời Chúa vẫn trọn tình thương.\nCông trình do tay Ngài thực hiện, xin đừng bỏ dở dang.\nĐ. Lạy Chúa, Ngài ra tay uy quyền giải thoát con."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Thầy sẽ sai Thần Khí sự thật đến với anh em;\nNgười sẽ dẫn anh em tới sự thật toàn vẹn.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 16,5-11",
-          "text": "Nếu Thầy kh&ocirc;ng ra đi, Đấng Bảo Trợ sẽ kh&ocirc;ng đến với anh em.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,5-11\n5 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “B&acirc;y giờ Thầy đến c&ugrave;ng Đấng đ&atilde; sai Thầy, v&agrave; kh&ocirc;ng ai trong anh em hỏi: ‘Thầy đi đ&acirc;u ?’ 6 Nhưng v&igrave; Thầy n&oacute;i ra c&aacute;c điều ấy, n&ecirc;n l&ograve;ng anh em tr&agrave;n ngập ưu phiền. 7 Song, Thầy n&oacute;i thật với anh em: Thầy ra đi th&igrave; c&oacute; lợi cho anh em. Thật vậy, nếu Thầy kh&ocirc;ng ra đi, Đấng Bảo Trợ sẽ kh&ocirc;ng đến với anh em; nhưng nếu Thầy đi, Thầy sẽ sai Đấng ấy đến với anh em. 8 Khi Người đến, Người sẽ chứng minh rằng thế gian sai lầm về tội lỗi, về sự c&ocirc;ng ch&iacute;nh v&agrave; việc x&eacute;t xử: 9 về tội lỗi: v&igrave; ch&uacute;ng kh&ocirc;ng tin v&agrave;o Thầy; 10 về sự c&ocirc;ng ch&iacute;nh: v&igrave; Thầy đến c&ugrave;ng Ch&uacute;a Cha, v&agrave; anh em kh&ocirc;ng c&ograve;n thấy Thầy nữa; 11 về việc x&eacute;t xử: v&igrave; Thủ l&atilde;nh thế gian n&agrave;y đ&atilde; bị x&eacute;t xử rồi.”"
+          "text": "Nếu Thầy không ra đi, Đấng Bảo Trợ sẽ không đến với anh em.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 16,5-11\n5 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Bây giờ Thầy đến cùng Đấng đã sai Thầy, và không ai trong anh em hỏi: ‘Thầy đi đâu?’ 6 Nhưng vì Thầy nói ra các điều ấy, nên lòng anh em tràn ngập ưu phiền. 7 Song, Thầy nói thật với anh em: Thầy ra đi thì có lợi cho anh em. Thật vậy, nếu Thầy không ra đi, Đấng Bảo Trợ sẽ không đến với anh em; nhưng nếu Thầy đi, Thầy sẽ sai Đấng ấy đến với anh em. 8 Khi Người đến, Người sẽ chứng minh rằng thế gian sai lầm về tội lỗi, về sự công chính và việc xét xử: 9 về tội lỗi: vì chúng không tin vào Thầy; 10 về sự công chính: vì Thầy đến cùng Chúa Cha, và anh em không còn thấy Thầy nữa; 11 về việc xét xử: vì Thủ lãnh thế gian này đã bị xét xử rồi.”"
         }
       },
       "reflection": {
@@ -559,9 +575,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/12.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/12.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/12.html"
       },
-      "updated": "2026-06-01T05:02:09.440Z"
+      "updated": "2026-06-01T09:47:13.691Z"
     },
     {
       "date": "2026-05-13",
@@ -581,21 +598,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Cv 17,15.22–18,1",
-          "text": ""
+          "reference": "Cv 17,15.22 – 18,1",
+          "text": "Đấng quý vị không biết mà vẫn tôn thờ, thì tôi xin rao giảng cho quý vị\nBài trích sách Công vụ Tông Đồ.\n17 15 Hồi ấy, các người tháp tùng đưa ông Phao-lô đến A-thê-na rồi từ đó trở về, mang theo lệnh bảo ông Xi-la và ông Ti-mô-thê phải đến với ông Phao-lô càng sớm càng tốt.\n22 Một hôm, đứng giữa Hội đồng A-rê-ô-pa-gô, ông Phao-lô nói: “Thưa quý vị người A-thê-na, tôi thấy rằng, về mọi mặt, quý vị là người sùng đạo hơn ai hết. 23 Thật vậy, khi rảo qua thành phố và nhìn lên những nơi thờ phượng của quý vị, tôi đã thấy có cả một bàn thờ, trên đó khắc chữ: ‘Kính thần vô danh’. Vậy Đấng quý vị không biết mà vẫn tôn thờ, thì tôi xin rao giảng cho quý vị.\n29 “Vậy, vì là dòng giống Thiên Chúa, chúng ta không được nghĩ rằng thần linh giống như hình tượng do nghệ thuật và tài trí con người chạm trổ trên vàng, bạc hay đá.\n30 “Vậy mà Thiên Chúa nhắm mắt bỏ qua những thời người ta không nhận biết Người. Bây giờ Người truyền cho người ta rằng mọi người ở mọi nơi phải sám hối, 31 vì Người đã ấn định một ngày để xét xử thiên hạ theo công lý, nhờ một người mà Người đã chỉ định. Để bảo đảm điều ấy với mọi người, Thiên Chúa đã làm cho vị này sống lại từ cõi chết.”\n32 Vừa nghe nói đến người chết sống lại, kẻ thì nhạo cười, kẻ thì nói: “Vấn đề ấy, để khi khác chúng tôi sẽ nghe ông.” 33 Thế là ông Phao-lô bỏ họ mà đi. 34 Nhưng có mấy người đã theo ông và tin Chúa, trong số đó có ông Đi-ô-ny-xi-ô, thành viên Hội đồng A-rê-ô-pa-gô và một phụ nữ tên là Đa-ma-ri cùng những người khác nữa.\n18 1 Sau đó, ông Phao-lô rời A-thê-na đi Cô-rin-tô."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 148,1-2.11-12.13-14a.14bc",
+          "response": "Đ. Trời đất rạng ngời vinh quang Chúa.\n1 Ca tụng Chúa đi, tự cõi trời thăm thẳm,\nca tụng Người, trên chốn cao xanh.\n2 Ca tụng Chúa đi, mọi sứ thần của Chúa,\nca tụng Người, hỡi toàn thể thiên binh!\nĐ. Trời đất rạng ngời vinh quang Chúa.\n11 Bậc vua chúa cũng như hàng lê thứ,\nkhanh tướng công hầu, thủ lãnh trần gian,\n12 ai là nam thanh, ai là nữ tú,\nkhắp mặt bô lão, khắp mặt nhi đồng!\nĐ. Trời đất rạng ngời vinh quang Chúa.\n13 Nào ca tụng thánh danh Đức Chúa,\nvì thánh danh Người cao cả vô song,\nvà oai phong vượt quá đất trời.\n14a Thế lực dân Người, Người đã nâng cao.\nĐ. Trời đất rạng ngời vinh quang Chúa.\n14bc Đó là bài ca tụng của những ai hiếu trung với Chúa,\ncủa con cháu nhà Ít-ra-en, dân gần gũi với Người.\nĐ. Trời đất rạng ngời vinh quang Chúa."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nThầy sẽ xin Chúa Cha, và Người sẽ ban cho anh em một Đấng Bảo Trợ khác,\nđến ở với anh em luôn mãi.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 16,12-15",
-          "text": "Thần Kh&iacute; sự thật sẽ dẫn anh em tới sự thật to&agrave;n vẹn.\n✠ Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,12-15\n12 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thầy c&ograve;n nhiều điều phải n&oacute;i với anh em. Nhưng b&acirc;y giờ, anh em kh&ocirc;ng c&oacute; sức chịu nổi. 13 Khi n&agrave;o Thần Kh&iacute; sự thật đến, Người sẽ dẫn anh em tới sự thật to&agrave;n vẹn. Người sẽ kh&ocirc;ng tự m&igrave;nh n&oacute;i điều g&igrave;, nhưng tất cả những g&igrave; Người nghe, Người sẽ n&oacute;i lại, v&agrave; loan b&aacute;o cho anh em biết những điều sẽ xảy đến. 14 Người sẽ t&ocirc;n vinh Thầy, v&igrave; Người sẽ lấy những g&igrave; l&agrave; của Thầy m&agrave; loan b&aacute;o cho anh em. 15 Mọi sự Ch&uacute;a Cha c&oacute; đều l&agrave; của Thầy. V&igrave; thế, Thầy đ&atilde; n&oacute;i: Người lấy những g&igrave; l&agrave; của Thầy m&agrave; loan b&aacute;o cho anh em.”"
+          "text": "Thần Khí sự thật sẽ dẫn anh em tới sự thật toàn vẹn.\n✠ Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 16,12-15\n12 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Thầy còn nhiều điều phải nói với anh em. Nhưng bây giờ, anh em không có sức chịu nổi. 13 Khi nào Thần Khí sự thật đến, Người sẽ dẫn anh em tới sự thật toàn vẹn. Người sẽ không tự mình nói điều gì, nhưng tất cả những gì Người nghe, Người sẽ nói lại, và loan báo cho anh em biết những điều sẽ xảy đến. 14 Người sẽ tôn vinh Thầy, vì Người sẽ lấy những gì là của Thầy mà loan báo cho anh em. 15 Mọi sự Chúa Cha có đều là của Thầy. Vì thế, Thầy đã nói: Người lấy những gì là của Thầy mà loan báo cho anh em.”"
         }
       },
       "reflection": {
@@ -605,9 +622,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/13.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/13.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/13.html"
       },
-      "updated": "2026-06-01T05:02:09.796Z"
+      "updated": "2026-06-01T09:47:13.702Z"
     },
     {
       "date": "2026-05-14",
@@ -627,21 +645,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Cv 1,1-11 Ep 1,17-23",
-          "text": ""
+          "reference": "Cv 1,15-17.20-26",
+          "text": "Ông Mát-thi-a trúng thăm: ông được kể thêm vào số mười một Tông Đồ.\nBài trích sách Công vụ Tông Đồ.\n15 Trong những ngày ấy, ông Phê-rô đứng lên giữa các anh em -có khoảng một trăm hai mươi người đang họp mặt- Ông nói: 16 “Thưa anh em, lời Kinh Thánh phải ứng nghiệm, lời mà Thánh Thần đã dùng miệng vua Đa-vít để nói trước về Giu-đa, kẻ đã trở thành tên dẫn đường cho những người bắt Đức Giê-su. 17 Y đã là một người trong số chúng tôi và được tham dự vào công việc phục vụ của chúng tôi. 20 Thật thế, trong sách Thánh vịnh có chép rằng: Ước gì lều trại nó phải tan hoang, không còn ai trú ngụ, và ước gì người khác nhận lấy chức vụ của nó.\n21 “Vậy phải làm thế này: có những anh em đã cùng chúng tôi đi theo Chúa Giê-su suốt thời gian Người sống giữa chúng ta, 22 kể từ khi Người được ông Gio-an làm phép rửa cho đến ngày Người lìa bỏ chúng ta và được rước lên trời. Một trong những anh em đó phải cùng với chúng tôi làm chứng rằng Người đã phục sinh.”\n23 Họ đề cử hai người: ông Giô-xếp, biệt danh là Ba-sa-ba, cũng gọi là Giút-tô, và ông Mát-thi-a. 24 Họ cầu nguyện rằng: “Lạy Chúa, chính Chúa thấu suốt lòng mọi người; giữa hai người này, xin chỉ cho thấy Chúa chọn ai 25 để nhận chỗ trong sứ vụ Tông Đồ, chỗ Giu-đa đã bỏ để đi về nơi dành cho y.” 26 Họ rút thăm, thăm trúng ông Mát-thi-a: ông được kể thêm vào số mười một Tông Đồ."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 112,1-2.3-4.5-6.7-8",
+          "response": "Đ. Chúa cho ông ngồi chung với hàng quyền quý,\nhàng quyền quý dân Người.\n1 Hỡi tôi tớ Chúa, hãy dâng lời ca ngợi,\nnào ca ngợi danh thánh Chúa đi!\n2 Chúc tụng danh thánh Chúa,\ntự giờ đây cho đến mãi muôn đời!\nĐ. Chúa cho ông ngồi chung với hàng quyền quý,\nhàng quyền quý dân Người.\n3 Ca ngợi danh thánh Chúa,\ntừ rạng đông tới lúc chiều tà!\n4 Chúa siêu việt trên hết mọi dân,\nvinh quang Người vượt xa trời cao thẳm.\nĐ. Chúa cho ông ngồi chung với hàng quyền quý,\nhàng quyền quý dân Người.\n5 Ai sánh tày Thượng Đế Chúa ta, Đấng ngự chốn cao vời,\n6 cúi xuống để nhìn xem bầu trời trái đất?\nĐ. Chúa cho ông ngồi chung với hàng quyền quý,\nhàng quyền quý dân Người.\n7 Kẻ mọn hèn, Chúa kéo ra khỏi nơi cát bụi,\nai nghèo túng, Người cất nhắc từ đống phân tro,\n8 đặt ngồi chung với hàng quyền quý,\nhàng quyền quý dân Người.\nĐ. Chúa cho ông ngồi chung với hàng quyền quý,\nhàng quyền quý dân Người."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Chính Thầy đã chọn anh em từ giữa thế gian,\nđể anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 15,9-17",
-          "text": "Kh&ocirc;ng phải anh em đ&atilde; chọn Thầy, nhưng ch&iacute;nh Thầy đ&atilde; chọn anh em.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,9-17\n9 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Ch&uacute;a Cha đ&atilde; y&ecirc;u mến Thầy thế n&agrave;o, Thầy cũng y&ecirc;u mến anh em như vậy. Anh em h&atilde;y ở lại trong t&igrave;nh thương của Thầy. 10 Nếu anh em giữ c&aacute;c điều răn của Thầy, anh em sẽ ở lại trong t&igrave;nh thương của Thầy, như Thầy đ&atilde; giữ c&aacute;c điều răn của Cha Thầy v&agrave; ở lại trong t&igrave;nh thương của Người. 11 C&aacute;c điều ấy, Thầy đ&atilde; n&oacute;i với anh em để anh em được hưởng niềm vui của Thầy, v&agrave; niềm vui của anh em được n&ecirc;n trọn vẹn.\n12 “Đ&acirc;y l&agrave; điều răn của Thầy: anh em h&atilde;y y&ecirc;u thương nhau như Thầy đ&atilde; y&ecirc;u thương anh em. 13 Kh&ocirc;ng c&oacute; t&igrave;nh thương n&agrave;o cao cả hơn t&igrave;nh thương của người đ&atilde; hy sinh t&iacute;nh mạng v&igrave; bạn hữu của m&igrave;nh. 14 Anh em l&agrave; bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. 15 Thầy kh&ocirc;ng c&ograve;n gọi anh em l&agrave; t&ocirc;i tớ nữa, v&igrave; t&ocirc;i tớ kh&ocirc;ng biết việc chủ l&agrave;m. Nhưng Thầy gọi anh em l&agrave; bạn hữu, v&igrave; tất cả những g&igrave; Thầy nghe được nơi Cha Thầy, Thầy đ&atilde; cho anh em biết.\n16 “Kh&ocirc;ng phải anh em đ&atilde; chọn Thầy, nhưng ch&iacute;nh Thầy đ&atilde; chọn anh em, v&agrave; cắt cử anh em, để anh em ra đi, sinh được hoa tr&aacute;i, v&agrave; hoa tr&aacute;i của anh em tồn tại, hầu tất cả những g&igrave; anh em xin c&ugrave;ng Ch&uacute;a Cha nh&acirc;n danh Thầy, th&igrave; Người ban cho anh em. 17 Điều Thầy truyền dạy anh em l&agrave; h&atilde;y y&ecirc;u thương nhau.”"
+          "text": "Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 15,9-17\n9 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. 10 Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. 11 Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy, và niềm vui của anh em được nên trọn vẹn.\n12 “Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. 13 Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. 14 Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. 15 Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.\n16 “Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. 17 Điều Thầy truyền dạy anh em là hãy yêu thương nhau.”"
         }
       },
       "reflection": {
@@ -656,9 +674,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/14.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/14.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/14.html"
       },
-      "updated": "2026-06-01T05:02:10.170Z"
+      "updated": "2026-06-01T09:47:13.775Z"
     },
     {
       "date": "2026-05-15",
@@ -679,20 +698,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 18,9-18",
-          "text": ""
+          "text": "Thầy có một dân đông đảo trong thành này.\nBài trích sách Công vụ Tông Đồ.\n9 Khi ông Phao-lô đang ở Cô-rin-tô, thì vào một đêm, Chúa bảo ông trong một thị kiến rằng: “Đừng sợ! Cứ nói đi, đừng làm thinh, 10 vì Thầy ở với anh; không ai tra tay hại anh được, vì Thầy có một dân đông đảo trong thành này.” 11 Ông Phao-lô ở lại đó một năm rưỡi, dạy cho họ lời Thiên Chúa.\n12 Thời ông Ga-li-on làm thống đốc tỉnh A-khai-a, người Do-thái nhất tề nổi dậy chống ông Phao-lô; họ đưa ông ra toà 13 và nói: “Tên này xúi giục người ta tôn thờ Thiên Chúa trái với Lề Luật.” 14 Ông Phao-lô toan mở miệng, thì ông Ga-li-on đã nói với người Do-thái: “Hỡi người Do-thái, giả như có gì là trái Luật hay phạm pháp, thì lẽ đương nhiên là tôi sẽ chịu khó nghe các ông. 15 Nhưng đây lại là những chuyện tranh luận về giáo thuyết, danh từ, luật lệ riêng của các ông, thì các ông hãy tự xét lấy. Phần tôi, tôi không muốn xét xử những điều ấy.” 16 Rồi ông đuổi họ ra khỏi toà án. 17 Mọi người liền túm lấy ông Xốt-thê-nê, trưởng hội đường, mà đánh túi bụi ngay trước toà án. Nhưng ông Ga-li-on chẳng bận tâm gì về việc này.\n18 Ông Phao-lô còn ở lại Cô-rin-tô khá lâu, rồi từ giã các anh em và vượt biển sang miền Xy-ri, cùng với bà Pơ-rít-ki-la và ông A-qui-la. Trước đó, tại Ken-khơ-rê, ông xuống tóc, vì có lời khấn."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 46,2-3.4-5.6-7",
+          "response": "Đ. Thiên Chúa là Vua toàn cõi địa cầu.\n2 Vỗ tay đi nào, muôn dân hỡi!\nMừng Thiên Chúa, hãy cất tiếng hò reo!\n3 Vì Đức Chúa là Đấng Tối Cao, Đấng khả uý,\nlà Vua Cả thống trị khắp địa cầu.\nĐ. Thiên Chúa là Vua toàn cõi địa cầu.\n4 Chính Người bắt muôn dân muôn nước\nphải phục quyền và quỵ luỵ chúng tôi.\n5 Người chọn lựa cho chúng tôi phần cơ nghiệp,\ncơ nghiệp làm cho kẻ Người thương là Gia-cóp\nđược nở mặt nở mày.\nĐ. Thiên Chúa là Vua toàn cõi địa cầu.\n6 Thiên Chúa ngự lên, rộn rã tiếng hò reo,\nChúa ngự lên, vang dội tiếng tù và.\n7 Hãy đàn ca, đàn ca lên mừng Thiên Chúa,\nđàn ca lên nào, đàn ca nữa kính Vua ta!\nĐ. Thiên Chúa là Vua toàn cõi địa cầu."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nĐức Ki-tô phải chịu khổ hình, và từ cõi chết sống lại,\nrồi mới được hưởng vinh quang dành cho Người.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 16,20-23a",
-          "text": "Niềm vui của anh em, kh&ocirc;ng ai lấy mất được.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,20-23a\n20 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thật, Thầy bảo thật anh em: anh em sẽ kh&oacute;c l&oacute;c v&agrave; than van, c&ograve;n thế gian sẽ vui mừng. Anh em sẽ lo buồn, nhưng nỗi buồn của anh em sẽ trở th&agrave;nh niềm vui. 21 Khi sinh con, người đ&agrave;n b&agrave; lo buồn v&igrave; đến giờ của m&igrave;nh; nhưng sinh con rồi, th&igrave; kh&ocirc;ng c&ograve;n nhớ đến cơn gian nan nữa, bởi được chan chứa niềm vui v&igrave; một con người đ&atilde; sinh ra trong thế gian. 22 Anh em cũng vậy, b&acirc;y giờ anh em lo buồn, nhưng Thầy sẽ gặp lại anh em, l&ograve;ng anh em sẽ vui mừng; v&agrave; niềm vui của anh em, kh&ocirc;ng ai lấy mất được. 23a Ng&agrave;y ấy, anh em kh&ocirc;ng c&ograve;n phải hỏi Thầy g&igrave; nữa.”"
+          "text": "Niềm vui của anh em, không ai lấy mất được.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 16,20-23a\n20 Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Thật, Thầy bảo thật anh em: anh em sẽ khóc lóc và than van, còn thế gian sẽ vui mừng. Anh em sẽ lo buồn, nhưng nỗi buồn của anh em sẽ trở thành niềm vui. 21 Khi sinh con, người đàn bà lo buồn vì đến giờ của mình; nhưng sinh con rồi, thì không còn nhớ đến cơn gian nan nữa, bởi được chan chứa niềm vui vì một con người đã sinh ra trong thế gian. 22 Anh em cũng vậy, bây giờ anh em lo buồn, nhưng Thầy sẽ gặp lại anh em, lòng anh em sẽ vui mừng; và niềm vui của anh em, không ai lấy mất được. 23a Ngày ấy, anh em không còn phải hỏi Thầy gì nữa.”"
         }
       },
       "reflection": {
@@ -702,9 +721,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/15.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/15.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/15.html"
       },
-      "updated": "2026-06-01T05:02:10.581Z"
+      "updated": "2026-06-01T09:47:13.759Z"
     },
     {
       "date": "2026-05-16",
@@ -725,20 +745,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 18,23-28",
-          "text": ""
+          "text": "Ông A-pô-lô dẫn lời Kinh Thánh mà minh chứng rằng Đức Giê-su là Đấng Ki-tô.\nBài trích sách Công vụ Tông Đồ.\n23 Sau khi lưu lại An-ti-ô-khi-a một thời gian, ông Phao-lô ra đi, lần lượt qua miền Ga-lát và Phy-ghi-a và làm cho tất cả các môn đệ được vững mạnh.\n24 Có một người Do-thái tên là A-pô-lô, quê ở A-lê-xan-ri-a, đã đến Ê-phê-xô; ông là người có tài hùng biện và thông thạo Kinh Thánh. 25 Ông đã được học Đạo Chúa; với tâm hồn nồng nhiệt, ông thường lên tiếng giảng dạy chính xác những điều liên quan đến Đức Giê-su, tuy rằng ông chỉ biết có phép rửa của ông Gio-an. 26 Ông bắt đầu mạnh dạn rao giảng trong hội đường. Sau khi nghe ông nói, bà Pơ-rít-ki-la và ông A-qui-la mời ông về nhà trình bày Đạo của Thiên Chúa cho ông chính xác hơn.\n27 Ông A-pô-lô muốn sang miền A-khai-a thì các anh em khuyến khích ông và viết thư xin các môn đệ tiếp đón ông. Khi đến nơi, nhờ ơn Chúa, ông đã giúp ích nhiều cho các tín hữu, 28 vì ông mạnh mẽ và công khai bẻ lại người Do-thái, dẫn Kinh Thánh mà minh chứng rằng Đức Giê-su là Đấng Ki-tô."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 46,2-3.8-9.10",
+          "response": "Đ. Thiên Chúa là Vua toàn cõi địa cầu.\n2 Vỗ tay đi nào, muôn dân hỡi!\nMừng Thiên Chúa, hãy cất tiếng hò reo!\n3 Vì Đức Chúa là Đấng Tối Cao, Đấng khả uý,\nlà Vua Cả thống trị khắp địa cầu.\nĐ. Thiên Chúa là Vua toàn cõi địa cầu.\n8 Thiên Chúa là Vua toàn cõi địa cầu,\nhãy dâng Người khúc đàn ca tuyệt mỹ.\n9 Thiên Chúa là Vua thống trị chư dân,\nThiên Chúa ngự trên toà uy linh cao cả.\nĐ. Thiên Chúa là Vua toàn cõi địa cầu.\n10 Kìa vương hầu các dân tề tựu\ncùng dân Thiên Chúa, Chúa của Áp-ra-ham.\nMọi thủ lãnh trần gian thuộc quyền Thiên Chúa,\nĐấng siêu việt ngàn trùng.\nĐ. Thiên Chúa là Vua toàn cõi địa cầu."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nThầy từ Chúa Cha mà đến, và Thầy đã đến thế gian.\nNay Thầy lại bỏ thế gian mà đến cùng Chúa Cha.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 16,23b-28",
-          "text": "Ch&uacute;a Cha y&ecirc;u mến anh em, v&igrave; anh em đ&atilde; y&ecirc;u mến Thầy v&agrave; tin v&agrave;o Thầy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,23b-28\n23b Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thật, Thầy bảo thật anh em: anh em m&agrave; xin Ch&uacute;a Cha điều g&igrave;, th&igrave; Người sẽ ban cho anh em nh&acirc;n danh Thầy. 24 Cho đến nay, anh em đ&atilde; chẳng xin g&igrave; nh&acirc;n danh Thầy. Cứ xin đi, anh em sẽ được, để niềm vui của anh em n&ecirc;n trọn vẹn.\n25 “Thầy đ&atilde; d&ugrave;ng dụ ng&ocirc;n m&agrave; n&oacute;i những điều ấy với anh em. Sẽ đến giờ Thầy kh&ocirc;ng c&ograve;n d&ugrave;ng dụ ng&ocirc;n m&agrave; n&oacute;i với anh em nữa, nhưng Thầy sẽ n&oacute;i r&otilde; cho anh em về Ch&uacute;a Cha, kh&ocirc;ng c&ograve;n &uacute;p mở. 26 Ng&agrave;y ấy, anh em sẽ nh&acirc;n danh Thầy m&agrave; xin, v&agrave; Thầy kh&ocirc;ng n&oacute;i với anh em l&agrave; Thầy sẽ cầu xin Ch&uacute;a Cha cho anh em. 27 Thật vậy, ch&iacute;nh Ch&uacute;a Cha y&ecirc;u mến anh em, v&igrave; anh em đ&atilde; y&ecirc;u mến Thầy, v&agrave; tin rằng Thầy từ Thi&ecirc;n Ch&uacute;a m&agrave; đến. 28 Thầy từ Ch&uacute;a Cha m&agrave; đến v&agrave; Thầy đ&atilde; đến thế gian. Nay Thầy lại bỏ thế gian m&agrave; đến c&ugrave;ng Ch&uacute;a Cha.”"
+          "text": "Chúa Cha yêu mến anh em, vì anh em đã yêu mến Thầy và tin vào Thầy.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 16,23b-28\n23b Khi ấy, Đức Giê-su nói với các môn đệ rằng: “Thật, Thầy bảo thật anh em: anh em mà xin Chúa Cha điều gì, thì Người sẽ ban cho anh em nhân danh Thầy. 24 Cho đến nay, anh em đã chẳng xin gì nhân danh Thầy. Cứ xin đi, anh em sẽ được, để niềm vui của anh em nên trọn vẹn.\n25 “Thầy đã dùng dụ ngôn mà nói những điều ấy với anh em. Sẽ đến giờ Thầy không còn dùng dụ ngôn mà nói với anh em nữa, nhưng Thầy sẽ nói rõ cho anh em về Chúa Cha, không còn úp mở. 26 Ngày ấy, anh em sẽ nhân danh Thầy mà xin, và Thầy không nói với anh em là Thầy sẽ cầu xin Chúa Cha cho anh em. 27 Thật vậy, chính Chúa Cha yêu mến anh em, vì anh em đã yêu mến Thầy, và tin rằng Thầy từ Thiên Chúa mà đến. 28 Thầy từ Chúa Cha mà đến và Thầy đã đến thế gian. Nay Thầy lại bỏ thế gian mà đến cùng Chúa Cha.”"
         }
       },
       "reflection": {
@@ -748,9 +768,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/16.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/16.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/16.html"
       },
-      "updated": "2026-06-01T05:02:10.974Z"
+      "updated": "2026-06-01T09:47:13.825Z"
     },
     {
       "date": "2026-05-17",
@@ -770,21 +791,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Cv 1,12-14 1 Pr 4,13-16",
-          "text": ""
+          "reference": "Cv 1,1-11",
+          "text": "Đức Giê-su được cất lên ngay trước mắt các ông.\nKhởi đầu sách Công vụ Tông Đồ.\n1 Thưa ngài Thê-ô-phi-lô, trong quyển thứ nhất, tôi đã tường thuật tất cả những việc Đức Giê-su làm và những điều Người dạy, kể từ đầu 2 cho tới ngày Người được rước lên trời. Trước ngày ấy, Người đã dạy bảo các Tông Đồ mà Người đã tuyển chọn nhờ Thánh Thần. 3 Người lại còn dùng nhiều cách để chứng tỏ cho các ông thấy là Người vẫn sống sau khi đã chịu khổ hình: trong bốn mươi ngày, Người đã hiện ra nói chuyện với các ông về Nước Thiên Chúa. 4 Một hôm, đang khi dùng bữa với các Tông Đồ, Đức Giê-su truyền cho các ông không được rời khỏi Giê-ru-sa-lem, nhưng phải ở lại mà chờ đợi điều Chúa Cha đã hứa, “điều mà anh em đã nghe Thầy nói tới, 5 đó là: ông Gio-an thì làm phép rửa bằng nước, còn anh em thì trong ít ngày nữa sẽ chịu phép rửa trong Thánh Thần.”\n6 Bấy giờ những người đang tụ họp ở đó hỏi Người rằng: “Thưa Thầy, có phải bây giờ là lúc Thầy khôi phục vương quốc Ít-ra-en không?” 7 Người đáp: “Anh em không cần biết thời giờ và kỳ hạn Chúa Cha đã toàn quyền sắp đặt, 8 nhưng anh em sẽ nhận được sức mạnh của Thánh Thần khi Người ngự xuống trên anh em. Bấy giờ anh em sẽ là chứng nhân của Thầy tại Giê-ru-sa-lem, trong khắp các miền Giu-đê, Sa-ma-ri và cho đến tận cùng trái đất.”\n9 Nói xong, Người được cất lên ngay trước mắt các ông, và có đám mây quyện lấy Người, khiến các ông không còn thấy Người nữa. 10 Và đang lúc các ông còn đăm đăm nhìn lên trời phía Người đi, thì bỗng có hai người đàn ông mặc áo trắng đứng bên cạnh 11 và nói: “Hỡi những người Ga-li-lê, sao còn đứng nhìn trời? Đức Giê-su, Đấng vừa lìa bỏ các ông và được rước lên trời, cũng sẽ ngự đến y như các ông đã thấy Người lên trời.”"
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "Ep 1,17-23",
+          "text": "Thiên Chúa đã đặt Đức Ki-tô ngự bên hữu Người trên trời.\nBài trích thư của thánh Phao-lô tông đồ gửi tín hữu Ê-phê-xô.\n17 Thưa anh em, tôi cầu xin Chúa Cha vinh hiển là Thiên Chúa của Đức Giê-su Ki-tô, Chúa chúng ta, ban cho anh em thần khí khôn ngoan để mặc khải cho anh em nhận biết Người. 18 Xin Người soi lòng mở trí cho anh em thấy rõ, đâu là niềm hy vọng anh em đã nhận được, nhờ ơn Người kêu gọi, đâu là gia nghiệp vinh quang phong phú anh em được chia sẻ cùng dân thánh, 19 đâu là quyền lực vô cùng lớn lao Người đã thi thố cho chúng ta là những tín hữu. Đó chính là sức mạnh toàn năng đầy hiệu lực, 20 mà Người đã biểu dương nơi Đức Ki-tô, khi làm cho Đức Ki-tô trỗi dậy từ cõi chết, và đặt ngự bên hữu Người trên trời. 21 Như vậy, Người đã tôn Đức Ki-tô lên trên mọi quyền lực thần thiêng, trên mọi tước vị có thể có được, không những trong thế giới hiện tại, mà cả trong thế giới tương lai. 22 Thiên Chúa đã đặt tất cả dưới chân Đức Ki-tô và đặt Người làm đầu toàn thể Hội Thánh; 23 mà Hội Thánh là thân thể Đức Ki-tô, là sự viên mãn của Người, Đấng làm cho tất cả được viên mãn."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 46,2-3.6-7.8-9",
+          "response": "Đ. Thiên Chúa ngự lên, rộn rã tiếng hò reo,\nChúa ngự lên, vang dội tiếng tù và.\n2 Vỗ tay đi nào, muôn dân hỡi!\nMừng Thiên Chúa, hãy cất tiếng hò reo!\n3 Vì Đức Chúa là Đấng Tối Cao, Đấng khả uý,\nlà Vua Cả thống trị khắp địa cầu.\nĐ. Thiên Chúa ngự lên, rộn rã tiếng hò reo,\nChúa ngự lên, vang dội tiếng tù và.\n6 Thiên Chúa ngự lên, rộn rã tiếng hò reo,\nChúa ngự lên, vang dội tiếng tù và.\n7 Hãy đàn ca, đàn ca lên mừng Thiên Chúa,\nđàn ca lên nào, đàn ca nữa kính Vua ta!\nĐ. Thiên Chúa ngự lên, rộn rã tiếng hò reo,\nChúa ngự lên, vang dội tiếng tù và.\n8 Thiên Chúa là Vua toàn cõi địa cầu,\nhãy dâng Người khúc đàn ca tuyệt mỹ.\n9 Thiên Chúa là Vua thống trị chư dân,\nThiên Chúa ngự trên toà uy linh cao cả.\nĐ. Thiên Chúa ngự lên, rộn rã tiếng hò reo,\nChúa ngự lên, vang dội tiếng tù và."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Anh em hãy đi giảng dạy cho muôn dân.\nNày đây, Thầy ở cùng anh em mọi ngày cho đến tận thế.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mt 28,16-20\n16",
-          "text": "Thầy đ&atilde; được trao to&agrave;n quyền tr&ecirc;n trời dưới đất.\n✠Kết th&uacute;c Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 28,16-20\n16 Khi ấy, mười một m&ocirc;n đệ đi tới miền Ga-li-l&ecirc;, đến ngọn n&uacute;i Đức Gi&ecirc;-su đ&atilde; truyền cho c&aacute;c &ocirc;ng đến. 17 Khi thấy Người, c&aacute;c &ocirc;ng b&aacute;i lạy, nhưng c&oacute; mấy &ocirc;ng lại ho&agrave;i nghi. 18 Đức Gi&ecirc;-su đến gần, n&oacute;i với c&aacute;c &ocirc;ng: “Thầy đ&atilde; được trao to&agrave;n quyền tr&ecirc;n trời dưới đất. 19 Vậy anh em h&atilde;y đi v&agrave; l&agrave;m cho mu&ocirc;n d&acirc;n trở th&agrave;nh m&ocirc;n đệ, l&agrave;m ph&eacute;p rửa cho họ nh&acirc;n danh Ch&uacute;a Cha, Ch&uacute;a Con v&agrave; Ch&uacute;a Th&aacute;nh Thần, 20 dạy bảo họ tu&acirc;n giữ mọi điều Thầy đ&atilde; truyền cho anh em. V&agrave; đ&acirc;y, Thầy ở c&ugrave;ng anh em mọi ng&agrave;y cho đến tận thế.”"
+          "text": "Thầy đã được trao toàn quyền trên trời dưới đất.\n✠Kết thúc Tin Mừng Chúa Giê-su Ki-tô theo thánh Mát-thêu. Mt 28,16-20\n16 Khi ấy, mười một môn đệ đi tới miền Ga-li-lê, đến ngọn núi Đức Giê-su đã truyền cho các ông đến. 17 Khi thấy Người, các ông bái lạy, nhưng có mấy ông lại hoài nghi. 18 Đức Giê-su đến gần, nói với các ông: “Thầy đã được trao toàn quyền trên trời dưới đất. 19 Vậy anh em hãy đi và làm cho muôn dân trở thành môn đệ, làm phép rửa cho họ nhân danh Chúa Cha, Chúa Con và Chúa Thánh Thần, 20 dạy bảo họ tuân giữ mọi điều Thầy đã truyền cho anh em. Và đây, Thầy ở cùng anh em mọi ngày cho đến tận thế.”"
         }
       },
       "reflection": {
@@ -796,9 +817,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/17.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/17.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/17.html"
       },
-      "updated": "2026-06-01T05:02:11.331Z"
+      "updated": "2026-06-01T09:47:13.947Z"
     },
     {
       "date": "2026-05-18",
@@ -819,20 +841,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 19,1-8",
-          "text": ""
+          "text": "Khi tin theo, anh em đã nhận được Thánh Thần chưa?\nBài trích sách Công vụ Tông Đồ.\n1 Hồi ấy, trong khi ông A-pô-lô ở Cô-rin-tô thì ông Phao-lô đi qua miền thượng du đến Ê-phê-xô. Ông Phao-lô gặp một số môn đệ 2 và hỏi họ: “Khi tin theo, anh em đã nhận được Thánh Thần chưa?” Họ trả lời: “Ngay cả việc có Thánh Thần, chúng tôi cũng chưa hề được nghe nói.” 3 Ông hỏi: “Vậy anh em đã được chịu phép rửa nào?” Họ đáp: “Phép rửa của ông Gio-an.” 4 Ông Phao-lô nói: “Ông Gio-an đã làm một phép rửa tỏ lòng sám hối, và ông bảo dân tin vào Đấng đến sau ông, tức là Đức Giê-su.” 5 Nghe nói thế, họ chịu phép rửa nhân danh Chúa Giê-su. 6 Và khi ông Phao-lô đặt tay trên họ, thì Thánh Thần ngự xuống trên họ, họ nói tiếng lạ và nói tiên tri. 7 Cả nhóm có chừng mười hai người.\n8 Ông Phao-lô vào hội đường, và trong vòng ba tháng, ông mạnh dạn rao giảng, thảo luận về Nước Thiên Chúa và cố gắng thuyết phục họ."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 67,2-3.4-5ab.6-7ab",
+          "response": "Đ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế.\n2 Thiên Chúa đứng lên, địch thù Người tán loạn,\nkẻ ghét Người phải chạy trốn Thánh Nhan.\n3 Như làn khói cuộn, chúng bị Chúa cuốn đi;\nnhư sáp chảy tan khi vừa gặp lửa,\nkẻ ác cũng tiêu vong khi giáp mặt Chúa Trời.\nĐ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế.\n4 Những người công chính\nmúa nhảy mừng vui trước mặt Chúa Trời,\nniềm hoan lạc trào dâng.\n5ab Hãy hát mừng Thiên Chúa, đàn ca kính danh Người,\nhãy dọn đường cho Đấng ngự giá đằng vân.\nĐ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế.\n6 Cha nuôi dưỡng cô nhi, Đấng đỡ bênh quả phụ,\nchính là Thiên Chúa ngự trong thánh điện Người.\n7ab Kẻ cô thân, Thiên Chúa cho nhà cửa,\nhạng tù đày, Người trả lại tự do hạnh phúc.\nĐ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nAnh em đã được trỗi dậy cùng với Đức Ki-tô,\nnơi Đức Ki-tô đang ngự bên hữu Thiên Chúa.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 16,29-33",
-          "text": "Can đảm l&ecirc;n ! Thầy đ&atilde; thắng thế gian.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,29-33\n29 Khi ấy, c&aacute;c m&ocirc;n đệ thưa với Đức Gi&ecirc;-su rằng: “B&acirc;y giờ Thầy n&oacute;i r&otilde;, chứ kh&ocirc;ng c&ograve;n d&ugrave;ng dụ ng&ocirc;n n&agrave;o nữa. 30 Giờ đ&acirc;y, ch&uacute;ng con nhận ra l&agrave; Thầy biết hết mọi sự, v&agrave; Thầy kh&ocirc;ng cần phải c&oacute; ai hỏi Thầy. V&igrave; thế, ch&uacute;ng con tin Thầy từ Thi&ecirc;n Ch&uacute;a m&agrave; đến.” 31 Đức Gi&ecirc;-su đ&aacute;p: “B&acirc;y giờ anh em tin &agrave; ? 32 N&agrave;y đến giờ -v&agrave; giờ ấy đ&atilde; đến rồi- anh em sẽ bị ph&acirc;n t&aacute;n mỗi người một ngả v&agrave; để Thầy c&ocirc; độc một m&igrave;nh. Nhưng Thầy kh&ocirc;ng c&ocirc; độc đ&acirc;u, v&igrave; Ch&uacute;a Cha ở với Thầy. 33 Thầy n&oacute;i với anh em những điều ấy, để trong Thầy anh em được b&igrave;nh an. Trong thế gian, anh em sẽ phải gian nan khốn kh&oacute;. Nhưng can đảm l&ecirc;n ! Thầy đ&atilde; thắng thế gian.”"
+          "text": "Can đảm lên! Thầy đã thắng thế gian.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 16,29-33\n29 Khi ấy, các môn đệ thưa với Đức Giê-su rằng: “Bây giờ Thầy nói rõ, chứ không còn dùng dụ ngôn nào nữa. 30 Giờ đây, chúng con nhận ra là Thầy biết hết mọi sự, và Thầy không cần phải có ai hỏi Thầy. Vì thế, chúng con tin Thầy từ Thiên Chúa mà đến.” 31 Đức Giê-su đáp: “Bây giờ anh em tin à? 32 Này đến giờ -và giờ ấy đã đến rồi- anh em sẽ bị phân tán mỗi người một ngả và để Thầy cô độc một mình. Nhưng Thầy không cô độc đâu, vì Chúa Cha ở với Thầy. 33 Thầy nói với anh em những điều ấy, để trong Thầy anh em được bình an. Trong thế gian, anh em sẽ phải gian nan khốn khó. Nhưng can đảm lên! Thầy đã thắng thế gian.”"
         }
       },
       "reflection": {
@@ -842,9 +864,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/18.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/18.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/18.html"
       },
-      "updated": "2026-06-01T05:02:11.683Z"
+      "updated": "2026-06-01T09:47:13.900Z"
     },
     {
       "date": "2026-05-19",
@@ -865,20 +888,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 20,17-27",
-          "text": ""
+          "text": "Tôi đã chạy hết chặng đường, chu toàn chức vụ tôi đã nhận từ Chúa Giê-su\nBài trích sách Công vụ Tông Đồ.\n17 Hồi ấy, từ Mi-lê-tô, ông Phao-lô sai người đi mời các kỳ mục trong Hội Thánh Ê-phê-xô. 18 Khi họ đến gặp ông, ông nói với họ:\n“Anh em biết, từ ngày đầu tiên đặt chân đến A-xi-a, tôi đã luôn luôn cư xử với anh em thế nào. 19 Khi phục vụ Chúa, tôi đã hết lòng khiêm tốn, đã nhiều lần phải rơi lệ, đã gặp bao thử thách do những âm mưu của người Do-thái. 20 Anh em biết tôi đã không bỏ qua một điều gì có ích cho anh em; trái lại tôi đã giảng cho anh em và dạy anh em ở nơi công cộng cũng như tại chốn tư gia. 21 Tôi đã khuyến cáo cả người Do-thái lẫn người Hy-lạp phải trở về với Thiên Chúa, và tin vào Đức Giê-su, Chúa chúng ta.\n22 “Giờ đây, bị Thần Khí trói buộc, tôi về Giê-ru-sa-lem, mà không biết những gì sẽ xảy ra cho tôi ở đó, 23 trừ ra điều này, là tôi đến thành nào, thì Thánh Thần cũng khuyến cáo tôi rằng xiềng xích và gian truân đang chờ đợi tôi. 24 Nhưng mạng sống tôi, tôi coi thật chẳng đáng giá gì, miễn sao tôi chạy hết chặng đường, chu toàn chức vụ tôi đã nhận từ Chúa Giê-su, là long trọng làm chứng cho Tin Mừng về ân sủng của Thiên Chúa.\n25 “Giờ đây tôi biết rằng: tất cả anh em, những người tôi đã đến thăm để rao giảng Nước Thiên Chúa, anh em sẽ không còn thấy mặt tôi nữa. 26 Vì vậy, hôm nay tôi xin tuyên bố với anh em rằng: nếu có ai trong anh em phải hư mất, thì tôi vô can. 27 Thật tôi đã không bỏ qua điều gì, trái lại đã rao giảng cho anh em tất cả ý định của Thiên Chúa.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 67,10-11.20-21",
+          "response": "Đ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế.\n10 Lạy Thiên Chúa, Ngài đổ mưa ân hậu,\ngia nghiệp Ngài tiêu hao mòn mỏi, Ngài đã bổ sức cho.\n11 Lạy Thiên Chúa, đàn chiên của Ngài đến ở nơi đâu,\nNgài cũng luôn nâng đỡ,\nbởi vì Ngài nhân hậu đối với kẻ khó nghèo.\nĐ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế.\n20 Ngày lại ngày, xin chúc tụng Chúa,\nThiên Chúa cứu độ ta, Người đỡ nâng ta.\n21 Thiên Chúa chúng ta là Thiên Chúa cứu độ,\nlối thoát khỏi tử thần thuộc quyền của Đức Chúa.\nĐ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nThầy sẽ xin Chúa Cha, và Người sẽ ban cho anh em một Đấng Bảo Trợ khác,\nđến ở với anh em luôn mãi.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 17,1-11a",
-          "text": "Lạy Cha, xin Cha t&ocirc;n vinh Con Cha.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 17,1-11a\n4 “Phần con, con đ&atilde; t&ocirc;n vinh Cha ở dưới đất, khi ho&agrave;n tất c&ocirc;ng tr&igrave;nh Cha đ&atilde; giao cho con l&agrave;m. 5 Vậy, lạy Cha, giờ đ&acirc;y, xin Cha t&ocirc;n vinh con b&ecirc;n Cha: xin ban cho con vinh quang m&agrave; con vẫn được hưởng b&ecirc;n Cha trước khi c&oacute; thế gian. 6 Những kẻ Cha đ&atilde; chọn từ giữa thế gian m&agrave; ban cho con, con đ&atilde; cho họ biết danh Cha. Họ thuộc về Cha, Cha đ&atilde; ban họ cho con, v&agrave; họ đ&atilde; tu&acirc;n giữ lời Cha. 7 Giờ đ&acirc;y, họ biết rằng tất cả những g&igrave; Cha ban cho con đều do bởi Cha, 8 v&igrave; con đ&atilde; ban cho họ lời m&agrave; Cha đ&atilde; ban cho con; họ đ&atilde; nhận những lời ấy, họ biết thật rằng con đ&atilde; từ Cha m&agrave; đến, v&agrave; họ đ&atilde; tin l&agrave; Cha đ&atilde; sai con."
+          "text": "Lạy Cha, xin Cha tôn vinh Con Cha.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 17,1-11a\n1 Khi ấy, Đức Giê-su ngước mắt lên trời và cầu nguyện rằng: “Lạy Cha, giờ đã đến! Xin Cha tôn vinh Con Cha để Con Cha tôn vinh Cha. 2 Thật vậy, Cha đã ban cho Người quyền trên mọi phàm nhân là để Người ban sự sống đời đời cho tất cả những ai Cha đã ban cho Người. 3 Mà sự sống đời đời đó là họ nhận biết Cha, Thiên Chúa duy nhất và chân thật, và nhận biết Đấng Cha đã sai đến, là Giê-su Ki-tô.\n4 “Phần con, con đã tôn vinh Cha ở dưới đất, khi hoàn tất công trình Cha đã giao cho con làm. 5 Vậy, lạy Cha, giờ đây, xin Cha tôn vinh con bên Cha: xin ban cho con vinh quang mà con vẫn được hưởng bên Cha trước khi có thế gian. 6 Những kẻ Cha đã chọn từ giữa thế gian mà ban cho con, con đã cho họ biết danh Cha. Họ thuộc về Cha, Cha đã ban họ cho con, và họ đã tuân giữ lời Cha. 7 Giờ đây, họ biết rằng tất cả những gì Cha ban cho con đều do bởi Cha, 8 vì con đã ban cho họ lời mà Cha đã ban cho con; họ đã nhận những lời ấy, họ biết thật rằng con đã từ Cha mà đến, và họ đã tin là Cha đã sai con.\n9 “Con cầu nguyện cho họ. Con không cầu nguyện cho thế gian, nhưng cho những kẻ Cha đã ban cho con, bởi vì họ thuộc về Cha. 10 Tất cả những gì con có đều là của Cha, tất cả những gì Cha có đều là của con; và con được tôn vinh nơi họ. 11a Con không còn ở trong thế gian nữa, nhưng họ, họ ở trong thế gian; phần con, con đến cùng Cha.”"
         }
       },
       "reflection": {
@@ -888,9 +911,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/19.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/19.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/19.html"
       },
-      "updated": "2026-06-01T05:02:12.054Z"
+      "updated": "2026-06-01T09:47:13.987Z"
     },
     {
       "date": "2026-05-20",
@@ -911,20 +935,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 20,28-38",
-          "text": ""
+          "text": "Tôi xin phó thác anh em cho Thiên Chúa, Đấng có sức xây dựng và ban cho anh em được hưởng phần gia tài.\nBài trích sách Công vụ Tông Đồ.\n28 Hồi ấy, ông Phao-lô nói với các kỳ mục trong Hội Thánh Ê-phê-xô rằng: “Anh em hãy ân cần lo cho chính mình và toàn thể đoàn chiên mà Thánh Thần đã đặt anh em làm người coi sóc, hãy chăn dắt Hội Thánh của Thiên Chúa, Hội Thánh Người đã mua bằng máu của chính mình.\n29 “Phần tôi, tôi biết rằng khi tôi đi rồi, thì sẽ có những sói dữ đột nhập vào anh em, chúng không tha đàn chiên. 30 Ngay từ giữa hàng ngũ anh em sẽ xuất hiện những người giảng dạy những điều sai lạc, hòng lôi cuốn các môn đệ theo chúng. 31 Vì vậy anh em phải canh thức, và nhớ rằng, suốt ba năm, ngày đêm tôi đã không ngừng khuyên bảo mỗi người trong anh em, lắm khi phải rơi lệ.\n32 “Giờ đây, tôi xin phó thác anh em cho Thiên Chúa và cho lời ân sủng của Người, là lời có sức xây dựng và ban cho anh em được hưởng phần gia tài cùng với tất cả những người đã được thánh hiến.\n33 “Vàng bạc hay quần áo của bất cứ ai, tôi đã chẳng ham. 34 Chính anh em biết rõ: những gì cần thiết cho tôi và cho những người sống với tôi, đôi tay này đã tự cung cấp. 35 Tôi luôn tỏ cho anh em thấy rằng phải giúp đỡ những người đau yếu bằng cách làm lụng vất vả như thế, và phải nhớ lại lời Chúa Giê-su đã dạy: cho thì có phúc hơn là nhận.”\n36 Nói thế rồi, ông Phao-lô cùng với tất cả các anh em quỳ gối xuống cầu nguyện. 37 Ai nấy oà lên khóc và ôm cổ ông mà hôn. 38 Họ đau đớn nhất vì lời ông vừa nói là họ sẽ không còn thấy mặt ông nữa. Rồi họ tiễn ông xuống tàu."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 67,29-30.33-35a.35b-36c",
+          "response": "Đ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế.\n29 Lạy Thiên Chúa, xin biểu dương quyền lực của Ngài,\nviệc đã làm cho chúng con, xin Ngài củng cố,\n30 từ thánh điện Ngài ở Giê-ru-sa-lem,\nlà nơi vua chúa về triều cống.\nĐ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế.\n33 Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế, hãy đàn ca mừng Chúa,\n34 Đấng ngự chốn cửu trùng, chốn cửu trùng thái cổ.\nNày Người lên tiếng, tiếng thật uy hùng.\n35a Hãy nhìn nhận sức uy hùng của Thiên Chúa.\nĐ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế.\n35b Ánh quang huy của Người chiếu toả trên Ít-ra-en,\nsức uy hùng xuất hiện trên mây thẳm.\n36c Từ thánh điện, Thiên Chúa tỏ ra\nNgười là Đấng khả tôn khả uý.\nChính Người là Thiên Chúa Ít-ra-en,\nĐấng ban tặng cho dân dũng lực uy quyền.\nĐ. Hỡi vương quốc trần gian,\nnào hát khen Thượng Đế."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLạy Chúa, Lời Chúa là sự thật;\nxin Chúa lấy sự thật mà thánh hiến chúng con.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 17,11b-19",
-          "text": "Lạy Cha, xin cho họ n&ecirc;n một như ch&uacute;ng ta.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 17,11b-19"
+          "text": "Lạy Cha, xin cho họ nên một như chúng ta.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 17,11b-19\n11b Khi ấy, Đức Giê-su ngước mắt lên trời và cầu nguyện rằng: “Lạy Cha chí thánh, xin gìn giữ các môn đệ trong danh Cha mà Cha đã ban cho con, để họ nên một như chúng ta. 12 Khi còn ở với họ, con đã gìn giữ họ trong danh Cha mà Cha đã ban cho con. Con đã canh giữ, và không một ai trong họ phải hư mất, trừ đứa con hư hỏng, để ứng nghiệm lời Kinh Thánh. 13 Bây giờ, con đến cùng Cha, và con nói những điều này lúc còn ở thế gian, để họ được hưởng trọn vẹn niềm vui của con. 14 Con đã truyền lại cho họ lời của Cha, và thế gian đã ghét họ, vì họ không thuộc về thế gian, cũng như con đây không thuộc về thế gian. 15 Con không xin Cha cất họ khỏi thế gian, nhưng xin Cha gìn giữ họ khỏi ác thần. 16 Họ không thuộc về thế gian cũng như con đây không thuộc về thế gian. 17 Xin Cha lấy sự thật mà thánh hiến họ. Lời Cha là sự thật. 18 Như Cha đã sai con đến thế gian, thì con cũng sai họ đến thế gian. 19 Vì họ, con xin thánh hiến chính mình con, để nhờ sự thật, họ cũng được thánh hiến.”"
         }
       },
       "reflection": {
@@ -934,9 +958,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/20.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/20.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/20.html"
       },
-      "updated": "2026-06-01T05:02:12.418Z"
+      "updated": "2026-06-01T09:47:13.970Z"
     },
     {
       "date": "2026-05-21",
@@ -957,20 +982,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 22,30; 23,6-11",
-          "text": ""
+          "text": "Con cũng phải làm chứng tại Rô-ma nữa.\nBài trích sách Công vụ Tông Đồ.\n22 30 Hôm ấy, vì muốn biết chắc chắn người Do-thái tố cáo ông Phao-lô về điều gì, vị chỉ huy cơ đội tháo xiềng cho ông và ra lệnh cho các thượng tế và toàn thể Thượng Hội Đồng họp lại, rồi ông đưa ông Phao-lô từ đồn xuống, để ra trước mặt họ.\n23 6 Ông Phao-lô biết rằng một phần Thượng Hội Đồng thuộc phái Xa-đốc, còn phần kia thuộc phái Pha-ri-sêu, nên ông nói lớn tiếng giữa hội nghị: “Thưa anh em, tôi là người Pha-ri-sêu, thuộc dòng dõi Pha-ri-sêu; chính vì hy vọng rằng kẻ chết sẽ sống lại mà tôi bị đưa ra xét xử.” 7 Ông vừa nói thế, thì người Pha-ri-sêu và người Xa-đốc chống đối nhau, khiến hội nghị chia rẽ. 8 Thật vậy, người Xa-đốc chủ trương rằng chẳng có sự sống lại, chẳng có thiên sứ hay quỷ thần; còn người Pha-ri-sêu thì lại tin là có. 9 Người ta la lối om sòm. Có mấy kinh sư thuộc phái Pha-ri-sêu đứng lên phản đối mạnh mẽ: “Chúng tôi không thấy người này có gì là xấu. Biết đâu một vị thần hay một thiên sứ đã nói với ông ấy?” 10 Hai bên chống đối gay gắt đến nỗi vị chỉ huy sợ người ta xé xác ông Phao-lô, nên mới ra lệnh cho lính xuống lôi ông ra khỏi đám người đó mà đưa về đồn.\n11 Đêm ấy Chúa đến bên ông Phao-lô và nói: “Hãy vững lòng! Con đã long trọng làm chứng cho Thầy ở Giê-ru-sa-lem thế nào, thì con cũng phải làm chứng như vậy tại Rô-ma nữa.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 15,1-2a",
+          "response": "Đ. Lạy Chúa Trời, xin giữ gìn con,\nvì bên Ngài, con đang ẩn náu.\n1 Lạy Chúa Trời, xin giữ gìn con,\nvì bên Ngài, con đang ẩn náu.\n2 Con thưa cùng Chúa: “Ngài là Chúa con thờ,\n5a Chúa là phần sản nghiệp con được hưởng,\nlà chén phúc lộc dành cho con;\nsố mạng con, chính Ngài nắm giữ.”\nĐ. Lạy Chúa Trời, xin giữ gìn con,\nvì bên Ngài, con đang ẩn náu.\n7 Con chúc tụng Chúa hằng thương chỉ dạy,\nngay cả đêm trường, lòng dạ nhắn nhủ con.\n8 Con luôn nhớ có Ngài trước mặt,\nđược Ngài ở bên, chẳng nao núng bao giờ.\nĐ. Lạy Chúa Trời, xin giữ gìn con,\nvì bên Ngài, con đang ẩn náu.\n9 Vì thế, tâm hồn con mừng rỡ, và lòng dạ hân hoan,\nthân xác con cũng nghỉ ngơi an toàn.\n10 Vì Chúa chẳng đành bỏ mặc con trong cõi âm ty,\nkhông để kẻ hiếu trung này hư nát trong phần mộ.\nĐ. Lạy Chúa Trời, xin giữ gìn con,\nvì bên Ngài, con đang ẩn náu.\n11 Chúa sẽ dạy con biết đường về cõi sống:\ntrước Thánh Nhan, ôi vui sướng tràn trề,\nở bên Ngài, hoan lạc chẳng hề vơi!\nĐ. Lạy Chúa Trời, xin giữ gìn con,\nvì bên Ngài, con đang ẩn náu."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Lạy Cha, xin cho tất cả nên một,\nnhư Cha ở trong Con và Con ở trong Cha,\nđể thế gian tin rằng Cha đã sai Con.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 17,20-26",
-          "text": "Xin cho họ được ho&agrave;n to&agrave;n n&ecirc;n một.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 17,20-26\n24 “Lạy Cha, con muốn rằng con ở đ&acirc;u, th&igrave; những người Cha đ&atilde; ban cho con cũng ở đ&oacute; với con, để họ chi&ecirc;m ngưỡng vinh quang của con, vinh quang m&agrave; Cha đ&atilde; ban cho con, v&igrave; Cha đ&atilde; y&ecirc;u thương con trước khi thế gian được tạo th&agrave;nh. 25 Lạy Cha l&agrave; Đấng c&ocirc;ng ch&iacute;nh, thế gian đ&atilde; kh&ocirc;ng biết Cha, nhưng con, con đ&atilde; biết Cha, v&agrave; những người n&agrave;y đ&atilde; biết l&agrave; ch&iacute;nh Cha đ&atilde; sai con. 26 Con đ&atilde; cho họ biết danh Cha, v&agrave; sẽ c&ograve;n cho họ biết nữa, để t&igrave;nh Cha đ&atilde; y&ecirc;u thương con, ở trong họ, v&agrave; con cũng ở trong họ nữa.”"
+          "text": "Xin cho họ được hoàn toàn nên một.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 17,20-26\n20 Khi ấy, Đức Giê-su ngước mắt lên trời và cầu nguyện rằng: “Lạy Cha, Con không chỉ cầu nguyện cho những người này, nhưng còn cho những ai nhờ lời họ mà tin vào con, 21 để tất cả nên một, như Cha ở trong con và con ở trong Cha để họ cũng ở trong chúng ta. Như vậy, thế gian sẽ tin rằng Cha đã sai con. 22 Phần con, con đã ban cho họ vinh quang mà Cha đã ban cho con, để họ được nên một như chúng ta là một: 23 Con ở trong họ và Cha ở trong con, để họ được hoàn toàn nên một; như vậy, thế gian sẽ nhận biết là chính Cha đã sai con và đã yêu thương họ như đã yêu thương con.\n24 “Lạy Cha, con muốn rằng con ở đâu, thì những người Cha đã ban cho con cũng ở đó với con, để họ chiêm ngưỡng vinh quang của con, vinh quang mà Cha đã ban cho con, vì Cha đã yêu thương con trước khi thế gian được tạo thành. 25 Lạy Cha là Đấng công chính, thế gian đã không biết Cha, nhưng con, con đã biết Cha, và những người này đã biết là chính Cha đã sai con. 26 Con đã cho họ biết danh Cha, và sẽ còn cho họ biết nữa, để tình Cha đã yêu thương con, ở trong họ, và con cũng ở trong họ nữa.”"
         }
       },
       "reflection": {
@@ -980,9 +1005,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/21.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/21.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/21.html"
       },
-      "updated": "2026-06-01T05:02:12.778Z"
+      "updated": "2026-06-01T09:47:14.042Z"
     },
     {
       "date": "2026-05-22",
@@ -1003,20 +1029,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 25,13b-21",
-          "text": ""
+          "text": "Đức Giê-su đã chết mà ông Phao-lô quả quyết là vẫn sống.\nBài trích sách Công vụ Tông Đồ.\n13b Hồi ấy, vua Ác-ríp-pa và bà Béc-ni-kê đến Xê-da-rê chào mừng ông Phét-tô. 14 Vì hai người ở lại đó nhiều ngày, ông Phét-tô mới đem vụ ông Phao-lô ra trình bày với nhà vua. Ông nói: “Ở đây có một người tù ông Phê-lích để lại. 15 Khi tôi tới Giê-ru-sa-lem, các thượng tế và các kỳ mục Do-thái đến kiện và xin tôi kết án người ấy. 16 Tôi đã trả lời họ rằng người Rô-ma không có lệ nộp bị cáo nào, trước khi đương sự ra đối chất với nguyên cáo, và được cơ hội biện hộ về lời tố cáo. 17 Vậy họ cùng đến đây với tôi, và không chút trì hoãn, ngày hôm sau tôi ra ngồi toà và truyền điệu đương sự đến. 18 Đứng quanh đương sự, các nguyên cáo đã không đưa ra một tội trạng nào như tôi tưởng. 19 Họ chỉ tranh luận với ông ta về một số vấn đề liên quan đến tôn giáo riêng của họ, và liên quan đến một ông Giê-su nào đó đã chết, mà Phao-lô quả quyết là vẫn sống. 20 Phần tôi, phân vân trước cuộc tranh luận về những chuyện ấy, tôi hỏi xem ông ta có muốn đi Giê-ru-sa-lem để được xử tại đó về vụ này không. 21 Nhưng Phao-lô đã kháng cáo, xin dành vụ này cho Thánh Thượng xét xử, nên tôi đã ra lệnh giữ ông ta lại cho đến khi giải lên hoàng đế.”"
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 102,1-2.11-12.19-20ab",
+          "response": "Đ. Chúa đặt ngai báu trên trời cao thẳm.\n1 Chúc tụng Chúa đi, hồn tôi hỡi,\ntoàn thân tôi, hãy chúc tụng Thánh Danh!\n2 Chúc tụng Chúa đi, hồn tôi hỡi,\nchớ khá quên mọi ân huệ của Người.\nĐ. Chúa đặt ngai báu trên trời cao thẳm.\n11 Như trời xanh trổi cao hơn mặt đất,\ntình Chúa thương kẻ thờ Người cũng trổi cao.\n12 Như đông đoài cách xa nhau ngàn dặm,\ntội ta đã phạm, Chúa cũng ném thật xa ta.\nĐ. Chúa đặt ngai báu trên trời cao thẳm.\n19 Chúa đặt ngai báu trên trời cao thẳm,\nquyền đế vương bá chủ muôn loài.\n20ab Chúc tụng Chúa đi, hỡi muôn vì thiên sứ,\nbậc anh hùng dũng mãnh thực hiện lời Người.\nĐ. Chúa đặt ngai báu trên trời cao thẳm."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nThánh Thần sẽ dạy anh em mọi điều,\nvà sẽ làm cho anh em nhớ lại mọi điều Thầy đã nói với anh em.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 21,15-19",
-          "text": "H&atilde;y chăn dắt chi&ecirc;n của Thầy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 21,15-19\n15 Sau khi d&ugrave;ng bữa với c&aacute;c m&ocirc;n đệ tại Biển Hồ Ti-b&ecirc;-ri-a, Đức Gi&ecirc;-su Phục Sinh hỏi &ocirc;ng Si-m&ocirc;n Ph&ecirc;-r&ocirc;: “N&agrave;y anh Si-m&ocirc;n, con &ocirc;ng Gio-an, anh c&oacute; y&ecirc;u mến Thầy hơn c&aacute;c anh em n&agrave;y kh&ocirc;ng ?” &Ocirc;ng đ&aacute;p: “Thưa Thầy c&oacute;, Thầy biết con thương mến Thầy.” Đức Gi&ecirc;-su n&oacute;i với &ocirc;ng: “H&atilde;y chăm s&oacute;c chi&ecirc;n con của Thầy.” 16 Người lại hỏi: “N&agrave;y anh Si-m&ocirc;n, con &ocirc;ng Gio-an, anh c&oacute; y&ecirc;u mến Thầy kh&ocirc;ng ?” &Ocirc;ng đ&aacute;p: “Thưa Thầy c&oacute;, Thầy biết con thương mến Thầy.” Người n&oacute;i: “H&atilde;y chăn dắt chi&ecirc;n của Thầy.” 17 Người hỏi lần thứ ba: “N&agrave;y anh Si-m&ocirc;n, con &ocirc;ng Gio-an, anh c&oacute; thương mến Thầy kh&ocirc;ng ?” &Ocirc;ng Ph&ecirc;-r&ocirc; buồn v&igrave; Người hỏi tới lần thứ ba: “Anh c&oacute; thương mến Thầy kh&ocirc;ng ?” &Ocirc;ng đ&aacute;p: “Thưa Thầy, Thầy biết r&otilde; mọi sự; Thầy biết con thương mến Thầy.” Đức Gi&ecirc;-su bảo: “H&atilde;y chăm s&oacute;c chi&ecirc;n của Thầy. 18 Thật, Thầy bảo thật cho anh biết: l&uacute;c c&ograve;n trẻ, anh tự m&igrave;nh thắt lưng lấy, v&agrave; đi đ&acirc;u tuỳ &yacute;. Nhưng khi đ&atilde; về gi&agrave;, anh sẽ phải dang tay ra cho người kh&aacute;c thắt lưng v&agrave; dẫn anh đến nơi anh chẳng muốn.” 19 Người n&oacute;i vậy, c&oacute; &yacute; &aacute;m chỉ &ocirc;ng sẽ phải chết c&aacute;ch n&agrave;o để t&ocirc;n vinh Thi&ecirc;n Ch&uacute;a. Thế rồi, Người bảo &ocirc;ng: “H&atilde;y theo Thầy.”"
+          "text": "Hãy chăn dắt chiên của Thầy.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 21,15-19\n15 Sau khi dùng bữa với các môn đệ tại Biển Hồ Ti-bê-ri-a, Đức Giê-su Phục Sinh hỏi ông Si-môn Phê-rô: “Này anh Si-môn, con ông Gio-an, anh có yêu mến Thầy hơn các anh em này không?” Ông đáp: “Thưa Thầy có, Thầy biết con thương mến Thầy.” Đức Giê-su nói với ông: “Hãy chăm sóc chiên con của Thầy.” 16 Người lại hỏi: “Này anh Si-môn, con ông Gio-an, anh có yêu mến Thầy không?” Ông đáp: “Thưa Thầy có, Thầy biết con thương mến Thầy.” Người nói: “Hãy chăn dắt chiên của Thầy.” 17 Người hỏi lần thứ ba: “Này anh Si-môn, con ông Gio-an, anh có thương mến Thầy không?” Ông Phê-rô buồn vì Người hỏi tới lần thứ ba: “Anh có thương mến Thầy không?” Ông đáp: “Thưa Thầy, Thầy biết rõ mọi sự; Thầy biết con thương mến Thầy.” Đức Giê-su bảo: “Hãy chăm sóc chiên của Thầy. 18 Thật, Thầy bảo thật cho anh biết: lúc còn trẻ, anh tự mình thắt lưng lấy, và đi đâu tuỳ ý. Nhưng khi đã về già, anh sẽ phải dang tay ra cho người khác thắt lưng và dẫn anh đến nơi anh chẳng muốn.” 19 Người nói vậy, có ý ám chỉ ông sẽ phải chết cách nào để tôn vinh Thiên Chúa. Thế rồi, Người bảo ông: “Hãy theo Thầy.”"
         }
       },
       "reflection": {
@@ -1026,9 +1052,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/22.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/22.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/22.html"
       },
-      "updated": "2026-06-01T05:02:13.123Z"
+      "updated": "2026-06-01T09:47:14.082Z"
     },
     {
       "date": "2026-05-23",
@@ -1049,20 +1076,20 @@
       "readings": {
         "reading1": {
           "reference": "Cv 28,16-20.30-31",
-          "text": ""
+          "text": "Ông Phao-lô ở lại Rô-ma và rao giảng Nước Thiên Chúa.\nBài trích sách Công vụ Tông Đồ.\n16 Khi chúng tôi vào Rô-ma, ông Phao-lô được phép ở nhà riêng cùng với người lính canh giữ ông.\n17 Ba ngày sau, ông mời các thân hào Do-thái đến. Khi họ đã tới đông đủ, ông nói với họ: “Thưa anh em, tôi đây, mặc dầu đã không làm gì chống lại dân ta hay các tục lệ của tổ tiên, tôi đã bị bắt tại Giê-ru-sa-lem và bị nộp vào tay người Rô-ma. 18 Sau khi điều tra, họ muốn thả tôi, vì tôi không có tội gì đáng chết. 19 Nhưng vì người Do-thái chống đối, nên bó buộc tôi phải kháng cáo lên hoàng đế Xê-da; tuy vậy không phải là tôi muốn tố cáo dân tộc tôi. 20 Đó là lý do khiến tôi xin được gặp và nói chuyện với anh em, bởi chính vì niềm hy vọng của Ít-ra-en mà tôi phải mang xiềng xích này.”\n30 Suốt hai năm tròn, ông Phao-lô ở tại nhà ông đã thuê, và tiếp đón tất cả những ai đến với ông. 31 Ông rao giảng Nước Thiên Chúa và dạy về Chúa Giê-su Ki-tô, một cách rất mạnh dạn, không gặp ngăn trở nào."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 10,4.5",
+          "response": "Đ. Những kẻ sống ngay lành\nđược chiêm ngưỡng thánh nhan.\n4 Đức Chúa ngự trong thánh điện,\nngai Đức Chúa đặt trên cõi trời;\nChúa đưa mắt nhìn, dò xét phàm nhân.\nĐ. Những kẻ sống ngay lành\nđược chiêm ngưỡng thánh nhan.\n5 Chúa dò xét người lành kẻ dữ,\nghét những ai ưa thích bạo tàn.\n7 Quả thật Chúa là Đấng công chính,\nưa thích điều chính trực; những kẻ sống ngay lành\nđược chiêm ngưỡng Thánh Nhan.\nĐ. Những kẻ sống ngay lành\nđược chiêm ngưỡng thánh nhan."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: “Thầy sẽ sai Thần Khí sự thật đến với anh em;\nNgười sẽ dẫn anh em tới sự thật toàn vẹn.”\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 21,20-25",
-          "text": "Ch&iacute;nh m&ocirc;n đệ n&agrave;y đ&atilde; viết ra những điều đ&oacute; v&agrave; lời chứng của người ấy l&agrave; x&aacute;c thực.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 21,20-25\n20 Khi ấy, &ocirc;ng Ph&ecirc;-r&ocirc; quay lại, th&igrave; thấy người m&ocirc;n đệ Đức Gi&ecirc;-su thương mến đi theo sau; &ocirc;ng n&agrave;y l&agrave; người đ&atilde; nghi&ecirc;ng m&igrave;nh v&agrave;o ngực Đức Gi&ecirc;-su trong bữa ăn tối v&agrave; hỏi: “Thưa Thầy, ai l&agrave; kẻ nộp Thầy ?” 21 Vậy khi thấy người đ&oacute;, &ocirc;ng Ph&ecirc;-r&ocirc; n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, c&ograve;n anh n&agrave;y th&igrave; sao ?” 22 Đức Gi&ecirc;-su đ&aacute;p: “Giả như Thầy muốn anh ấy c&ograve;n ở lại cho tới khi Thầy đến, th&igrave; việc g&igrave; đến anh ? Phần anh, h&atilde;y theo Thầy.” 23 Do đ&oacute;, mới c&oacute; tiếng đồn giữa anh em l&agrave; m&ocirc;n đệ ấy sẽ kh&ocirc;ng chết. Nhưng Đức Gi&ecirc;-su đ&atilde; kh&ocirc;ng n&oacute;i với &ocirc;ng Ph&ecirc;-r&ocirc; l&agrave;: “Anh ấy sẽ kh&ocirc;ng chết”, m&agrave; chỉ n&oacute;i: “Giả như Thầy muốn anh ấy c&ograve;n ở lại cho tới khi Thầy đến, th&igrave; việc g&igrave; đến anh ?”\n24 Ch&iacute;nh m&ocirc;n đệ n&agrave;y l&agrave;m chứng về những điều đ&oacute; v&agrave; đ&atilde; viết ra. Ch&uacute;ng t&ocirc;i biết rằng lời chứng của người ấy l&agrave; x&aacute;c thực.\n25 C&ograve;n c&oacute; nhiều điều kh&aacute;c Đức Gi&ecirc;-su đ&atilde; l&agrave;m. Nếu viết lại từng điều một, th&igrave; t&ocirc;i thiết nghĩ: cả thế giới cũng kh&ocirc;ng đủ chỗ chứa c&aacute;c s&aacute;ch viết ra."
+          "text": "Chính môn đệ này đã viết ra những điều đó và lời chứng của người ấy là xác thực.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 21,20-25\n20 Khi ấy, ông Phê-rô quay lại, thì thấy người môn đệ Đức Giê-su thương mến đi theo sau; ông này là người đã nghiêng mình vào ngực Đức Giê-su trong bữa ăn tối và hỏi: “Thưa Thầy, ai là kẻ nộp Thầy?” 21 Vậy khi thấy người đó, ông Phê-rô nói với Đức Giê-su: “Thưa Thầy, còn anh này thì sao?” 22 Đức Giê-su đáp: “Giả như Thầy muốn anh ấy còn ở lại cho tới khi Thầy đến, thì việc gì đến anh? Phần anh, hãy theo Thầy.” 23 Do đó, mới có tiếng đồn giữa anh em là môn đệ ấy sẽ không chết. Nhưng Đức Giê-su đã không nói với ông Phê-rô là: “Anh ấy sẽ không chết”, mà chỉ nói: “Giả như Thầy muốn anh ấy còn ở lại cho tới khi Thầy đến, thì việc gì đến anh?”\n24 Chính môn đệ này làm chứng về những điều đó và đã viết ra. Chúng tôi biết rằng lời chứng của người ấy là xác thực.\n25 Còn có nhiều điều khác Đức Giê-su đã làm. Nếu viết lại từng điều một, thì tôi thiết nghĩ: cả thế giới cũng không đủ chỗ chứa các sách viết ra."
         }
       },
       "reflection": {
@@ -1076,9 +1103,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/23.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/23.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/23.html"
       },
-      "updated": "2026-06-01T05:02:13.525Z"
+      "updated": "2026-06-01T09:47:14.092Z"
     },
     {
       "date": "2026-05-24",
@@ -1098,21 +1126,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Cv 2,1-11 1 Cr 12,3b-7.12-13",
-          "text": ""
+          "reference": "Cv 2,1-11",
+          "text": "Ai nấy đều được đầy tràn ơn Thánh Thần, họ bắt đầu nói các thứ tiếng.\nBài trích sách Công vụ Tông Đồ.\n1 Khi đến ngày lễ Ngũ Tuần, mọi người đang tề tựu ở một nơi, 2 bỗng từ trời phát ra một tiếng động, như tiếng gió mạnh ùa vào đầy cả căn nhà, nơi họ đang tụ họp. 3 Rồi họ thấy xuất hiện những hình lưỡi giống như lưỡi lửa tản ra đậu xuống từng người một. 4 Và ai nấy đều được tràn đầy ơn Thánh Thần, họ bắt đầu nói các thứ tiếng khác, tuỳ theo khả năng Thánh Thần ban cho.\n5 Lúc đó, tại Giê-ru-sa-lem, có những người Do-thái sùng đạo, từ các dân thiên hạ trở về. 6 Nghe tiếng ấy, có nhiều người kéo đến. Họ kinh ngạc vì ai nấy đều nghe các ông nói tiếng bản xứ của mình. 7 Họ sửng sốt, thán phục và nói: “Những người đang nói đó không phải là người Ga-li-lê cả ư? 8 Thế sao mỗi người chúng ta lại nghe họ nói tiếng mẹ đẻ của chúng ta? 9 Chúng ta đây, có người là dân Pác-thi-a, Mê-đi, Ê-lam, Mê-xô-pô-ta-mi-a, Giu-đê, Cáp-pa-đô-ki-a, Pon-tô, và A-xi-a, 10 có người là dân Phy-ghi-a, Pam-phy-li-a, Ai-cập, và những vùng Li-by-a giáp giới Ky-rê-nê; nào là những người từ Rô-ma đến đây; 11 nào là người Do-thái cũng như người đạo theo; nào là người đảo Cơ-rê-ta hay người Ả-rập, vậy mà chúng ta đều nghe họ dùng tiếng nói của chúng ta mà loan báo những kỳ công của Thiên Chúa!”"
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "1 Cr 12,3b-7.12-13",
+          "text": "Chúng ta đều đã chịu phép rửa trong cùng một Thần Khí để trở nên một thân thể.\nBài trích thư thứ nhất của thánh Phao-lô tông đồ gửi tín hữu Cô-rin-tô.\n3b Thưa anh em, không ai có thể nói rằng: “Đức Giê-su là Chúa”, nếu người ấy không ở trong Thần Khí.\n4 Có nhiều đặc sủng khác nhau, nhưng chỉ có một Thần Khí. 5 Có nhiều việc phục vụ khác nhau, nhưng chỉ có một Chúa. 6 Có nhiều hoạt động khác nhau, nhưng vẫn chỉ có một Thiên Chúa làm mọi sự trong mọi người. 7 Thần Khí tỏ mình ra nơi mỗi người một cách, là vì ích chung.\n12 Thật vậy, ví như thân thể người ta chỉ là một, nhưng lại có nhiều bộ phận, mà các bộ phận của thân thể tuy nhiều, nhưng vẫn là một thân thể, thì Đức Ki-tô cũng vậy. 13 Thật thế, tất cả chúng ta, dầu là Do-thái hay Hy-lạp, nô lệ hay tự do, chúng ta đều đã chịu phép rửa trong cùng một Thần Khí để trở nên một thân thể. Tất cả chúng ta đã được đầy tràn một Thần Khí duy nhất.\nCa tiếp liên\nMuôn lạy Chúa Thánh Thần,\nxin ngự đến trần gian,\ntự trời cao gửi xuống\nnguồn ánh sáng toả lan.\nLạy Cha kẻ bần hàn,\nĐấng tặng ban ân điển\nvà soi dẫn nhân tâm,\ncúi xin Ngài ngự đến!\nĐấng ủi an tuyệt diệu\nthượng khách của tâm hồn,\nôi ngọt ngào êm dịu\ndòng suối mát chảy tuôn!\nKhi vất vả lao công,\nNgài là nơi an nghỉ,\ngió mát đuổi cơn nồng,\ntay hiền lau giọt lệ.\nHỡi hào quang linh diệu,\nxin chiếu giãi ánh hồng\nvào tâm hồn tín hữu\ncho rực rỡ trinh trong.\nKhông thần lực phù trì\nkẻ phàm nhân cát bụi,\nthật chẳng có điều chi\nmà không là tội lỗi.\nHết những gì nhơ bẩn,\nxin rửa cho sạch trong,\ntưới gội nơi khô cạn,\nchữa lành mọi vết thương.\nCứng cỏi uốn cho mềm,\nlạnh lùng xin sưởi ấm,\nnhững đường nẻo sai lầm\nsửa sang cho ngay thẳng.\nNhững ai hằng tin tưởng\ntrông cậy Chúa vững vàng,\ndám xin Ngài rộng lượng\nbảy ơn thánh tặng ban.\nNguyện xin Chúa thưởng công\ncuộc đời dày đức độ,\nban niềm vui muôn thuở\nsau giờ phút lâm chung.\nA-men. Ha-lê-lui-a."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 103,1ab",
+          "response": "Đ. Lạy Chúa, xin gửi thần khí tới,\nvà Ngài sẽ đổi mới mặt đất này.\n1ab Chúc tụng Chúa đi, hồn tôi hỡi!\nLạy Chúa là Thiên Chúa con thờ, Chúa muôn trùng cao cả!\n24ac Công trình Ngài, lạy Chúa, quả thiên hình vạn trạng!\nNhững loài Chúa dựng nên lan tràn mặt đất.\nĐ. Lạy Chúa, xin gửi thần khí tới,\nvà Ngài sẽ đổi mới mặt đất này.\n29bc Ngài lấy sinh khí lại, là chúng tắt thở ngay,\nmà trở về cát bụi.\n30 Sinh khí của Ngài, Ngài gửi tới, là chúng được dựng nên,\nvà Ngài đổi mới mặt đất này.\nĐ. Lạy Chúa, xin gửi thần khí tới,\nvà Ngài sẽ đổi mới mặt đất này.\n31 Vinh hiển Chúa, nguyện muôn năm tồn tại,\ncông trình Chúa làm Chúa được hân hoan.\n34 Nguyện tiếng lòng tôi làm cho Người vui thoả,\nđối với tôi, niềm vui là chính Chúa.\nĐ. Lạy Chúa, xin gửi thần khí tới,\nvà Ngài sẽ đổi mới mặt đất này."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLạy Chúa Thánh Thần, xin ngự đến,\ncho tâm hồn tín hữu được nhuần thấm muôn ơn,\nvà cháy lửa yêu mến Ngài.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 20,19-23",
-          "text": "Như Ch&uacute;a Cha đ&atilde; sai Thầy, th&igrave; Thầy cũng sai anh em. Anh em h&atilde;y nhận lấy Th&aacute;nh Thần.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 20,19-23\n19 V&agrave;o chiều ng&agrave;y thứ nhất trong tuần, nơi c&aacute;c m&ocirc;n đệ ở, c&aacute;c cửa đều đ&oacute;ng k&iacute;n, v&igrave; c&aacute;c &ocirc;ng sợ người Do-th&aacute;i. Đức Gi&ecirc;-su đến, đứng giữa c&aacute;c &ocirc;ng v&agrave; n&oacute;i: “B&igrave;nh an cho anh em !” 20 N&oacute;i xong, Người cho c&aacute;c &ocirc;ng xem tay v&agrave; cạnh sườn. C&aacute;c m&ocirc;n đệ vui mừng v&igrave; được thấy Ch&uacute;a. 21 Người lại n&oacute;i với c&aacute;c &ocirc;ng: “B&igrave;nh an cho anh em ! Như Ch&uacute;a Cha đ&atilde; sai Thầy, th&igrave; Thầy cũng sai anh em.” 22 N&oacute;i xong, Người thổi hơi v&agrave;o c&aacute;c &ocirc;ng v&agrave; bảo: “Anh em h&atilde;y nhận lấy Th&aacute;nh Thần. 23 Anh em tha tội cho ai, th&igrave; người ấy được tha; anh em cầm giữ ai, th&igrave; người ấy bị cầm giữ.”"
+          "text": "Như Chúa Cha đã sai Thầy, thì Thầy cũng sai anh em. Anh em hãy nhận lấy Thánh Thần.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 20,19-23\n19 Vào chiều ngày thứ nhất trong tuần, nơi các môn đệ ở, các cửa đều đóng kín, vì các ông sợ người Do-thái. Đức Giê-su đến, đứng giữa các ông và nói: “Bình an cho anh em!” 20 Nói xong, Người cho các ông xem tay và cạnh sườn. Các môn đệ vui mừng vì được thấy Chúa. 21 Người lại nói với các ông: “Bình an cho anh em! Như Chúa Cha đã sai Thầy, thì Thầy cũng sai anh em.” 22 Nói xong, Người thổi hơi vào các ông và bảo: “Anh em hãy nhận lấy Thánh Thần. 23 Anh em tha tội cho ai, thì người ấy được tha; anh em cầm giữ ai, thì người ấy bị cầm giữ.”"
         }
       },
       "reflection": {
@@ -1128,9 +1156,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/24.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/24.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/24.html"
       },
-      "updated": "2026-06-01T05:02:13.891Z"
+      "updated": "2026-06-01T09:47:14.394Z"
     },
     {
       "date": "2026-05-25",
@@ -1150,21 +1179,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "St 3,9-15.20 (hoặc Cv 1,12-14)",
-          "text": ""
+          "reference": "St 3,9-15.20",
+          "text": "Ta sẽ gây mối thù giữa dòng giống mi và dòng giống người đàn bà.\nBài trích sách Sáng thế.\n9 Sau khi con người ăn trái cây, Đức Chúa là Thiên Chúa gọi con người và hỏi: “Ngươi ở đâu?” 10 Con người thưa: “Con nghe thấy tiếng Ngài trong vườn, con sợ hãi vì con trần truồng, nên con lẩn trốn.” 11 Đức Chúa là Thiên Chúa hỏi: “Ai đã cho ngươi biết là ngươi trần truồng? Có phải ngươi đã ăn trái cây mà Ta đã cấm ngươi ăn không?” 12 Con người thưa: “Người đàn bà Ngài cho ở với con, đã cho con trái cây ấy, nên con ăn.” 13 Đức Chúa là Thiên Chúa hỏi người đàn bà: “Ngươi đã làm gì thế?” Người đàn bà thưa: “Con rắn đã lừa dối con, nên con ăn.” 14 Đức Chúa là Thiên Chúa phán với con rắn:\n“Mi đã làm điều đó, nên mi đáng bị nguyền rủa nhất\ntrong mọi loài súc vật và mọi loài dã thú.\nMi phải bò bằng bụng, phải ăn bụi đất mọi ngày trong đời mi.\n15 Ta sẽ gây mối thù giữa mi và người đàn bà,\ngiữa dòng giống mi và dòng giống người ấy;\ndòng giống đó sẽ đánh vào đầu mi, và mi sẽ cắn vào gót nó.”\n20 Con người đặt tên cho vợ là E-và, vì bà là mẹ của chúng sinh."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 86,1-2.3",
+          "response": "Đ. Thành của Thiên Chúa hỡi,\nthiên hạ nói bao điều hiển hách về thành!\n1 Thành Xi-on được lập trên núi thánh.\n2 Chúa yêu chuộng cửa thành\nhơn mọi nhà của dòng họ Gia-cóp.\nĐ. Thành của Thiên Chúa hỡi,\nthiên hạ nói bao điều hiển hách về thành!\n3 Thành của Thiên Chúa hỡi,\nthiên hạ nói bao điều hiển hách về thành!\n5 Nhưng nói về Xi-on, thiên hạ bảo:\n“Người người sinh tại đó.”\nChính Đấng Tối Cao đã củng cố thành.\nĐ. Thành của Thiên Chúa hỡi,\nthiên hạ nói bao điều hiển hách về thành!\n6 Chúa ghi vào sổ bộ các dân:\n“Kẻ này người nọ đều sinh ra tại đó.”\n7 Và ai nấy múa nhảy hát ca:\n“Xi-on hỡi, mọi nguồn gốc của tôi ở nơi thành.”\nĐ. Thành của Thiên Chúa hỡi,\nthiên hạ nói bao điều hiển hách về thành!"
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLạy Đức Nữ Trinh diễm phúc,\nĐấng đã sinh hạ Chúa Trời.\nLạy Thân Mẫu hồng phúc của Giáo Hội,\nĐấng giữ nơi chúng con\nlửa Thần Khí của Đức Giê-su Ki-tô, Con lòng Mẹ.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 19,25-27",
-          "text": "Đ&acirc;y l&agrave; con của B&agrave;. Đ&acirc;y l&agrave; mẹ của anh.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 19,25-27\n25 Khi ấy, đứng gần thập gi&aacute; Đức Gi&ecirc;-su, c&oacute; th&acirc;n mẫu Người, chị của th&acirc;n mẫu, b&agrave; Ma-ri-a vợ &ocirc;ng Cơ-l&ocirc;-p&aacute;t, c&ugrave;ng với b&agrave; Ma-ri-a M&aacute;c-đa-la. 26 Khi thấy th&acirc;n mẫu v&agrave; m&ocirc;n đệ m&igrave;nh thương mến đứng b&ecirc;n cạnh, Đức Gi&ecirc;-su n&oacute;i với th&acirc;n mẫu rằng: “Thưa B&agrave;, đ&acirc;y l&agrave; con của B&agrave;.” 27 Rồi Người n&oacute;i với m&ocirc;n đệ: “Đ&acirc;y l&agrave; mẹ của anh.” Kể từ giờ đ&oacute;, người m&ocirc;n đệ rước b&agrave; về nh&agrave; m&igrave;nh."
+          "text": "Đây là con của Bà. Đây là mẹ của anh.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 19,25-27\n25 Khi ấy, đứng gần thập giá Đức Giê-su, có thân mẫu Người, chị của thân mẫu, bà Ma-ri-a vợ ông Cơ-lô-pát, cùng với bà Ma-ri-a Mác-đa-la. 26 Khi thấy thân mẫu và môn đệ mình thương mến đứng bên cạnh, Đức Giê-su nói với thân mẫu rằng: “Thưa Bà, đây là con của Bà.” 27 Rồi Người nói với môn đệ: “Đây là mẹ của anh.” Kể từ giờ đó, người môn đệ rước bà về nhà mình."
         }
       },
       "reflection": {
@@ -1174,9 +1203,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/25.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/25.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/25.html"
       },
-      "updated": "2026-06-01T05:02:14.237Z"
+      "updated": "2026-06-01T09:47:14.188Z"
     },
     {
       "date": "2026-05-26",
@@ -1197,20 +1227,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Pr 1,10-16",
-          "text": ""
+          "text": "Các ngôn sứ loan báo về những điều sẽ xảy ra cho anh em, vì thế, anh em hãy tỉnh thức, và bền lòng trông cậy.\nBài trích thư thứ nhất của thánh Phê-rô tông đồ.\n10 Anh em thân mến, các ngôn sứ đã nghiên cứu tìm hiểu ơn cứu độ này, và đã tuyên sấm về ân sủng dành cho anh em. 11 Thần Khí Đức Ki-tô ở nơi các ngài, đã báo trước những đau khổ dành cho Đức Ki-tô, và vinh quang đến sau những đau khổ đó, nên các ngài đã tìm hiểu xem Thần Khí muốn cho thấy việc đó xảy ra vào thời nào, trong hoàn cảnh nào. 12 Thiên Chúa đã mặc khải cho các ngài biết là các ngài có phận sự truyền đạt thông điệp ấy, không phải cho chính mình, mà là cho anh em. Đó là thông điệp mà nay các người giảng Tin Mừng đã loan báo cho anh em, nhờ tác động của Thánh Thần là Đấng đã được cử đến từ trời. Chính các thiên thần cũng ước mong được tìm hiểu kỹ lưỡng thông điệp ấy.\n13 Vì thế, anh em hãy chuẩn bị lòng trí, hãy tỉnh thức, hãy hoàn toàn đặt niềm trông cậy vào ân sủng sẽ được mang đến cho anh em trong ngày Đức Giê-su Ki-tô tỏ hiện. 14 Như những người con biết vâng phục, anh em đừng chiều theo những đam mê trước kia, lúc anh em còn mê muội. 15 Anh em hãy sống thánh thiện trong cách ăn nết ở, để nên giống Đấng Thánh đã kêu gọi anh em, 16 vì có lời Kinh Thánh chép: Hãy sống thánh thiện, vì Ta là Đấng Thánh."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 97,1.2-3ab.3cd-4",
+          "response": "Đ. Chúa đã biểu dương ơn Người cứu độ.\n1 Hát lên mừng Chúa một bài ca mới,\nvì Người đã thực hiện bao kỳ công.\nNgười chiến thắng nhờ bàn tay hùng mạnh,\nnhờ cánh tay chí thánh của Người.\nĐ. Chúa đã biểu dương ơn Người cứu độ.\n2 Chúa đã biểu dương ơn Người cứu độ,\nmặc khải đức công chính của Người trước mặt chư dân;\n3ab Người đã nhớ lại ân tình và tín nghĩa\ndành cho nhà Ít-ra-en.\nĐ. Chúa đã biểu dương ơn Người cứu độ.\n3cd Toàn cõi đất này đã xem thấy\nơn cứu độ của Thiên Chúa chúng ta.\n4 Tung hô Chúa, hỡi toàn thể địa cầu,\nmừng vui lên, reo hò đàn hát.\nĐ. Chúa đã biểu dương ơn Người cứu độ."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nLạy Cha là Chúa Tể trời đất, con xin ngợi khen Cha,\nvì Cha đã mặc khải mầu nhiệm Nước Trời cho những người bé mọn.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 10,28-31",
-          "text": "Anh em nhận được gấp trăm ở đời n&agrave;y c&ugrave;ng với sự ngược đ&atilde;i, v&agrave; sự sống vĩnh cửu ở đời sau.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 10,28-31\n28 Khi ấy, &ocirc;ng Ph&ecirc;-r&ocirc; l&ecirc;n tiếng thưa với Đức Gi&ecirc;-su rằng: “Thầy coi, phần ch&uacute;ng con, ch&uacute;ng con đ&atilde; bỏ mọi sự m&agrave; theo Thầy !” 29 Đức Gi&ecirc;-su đ&aacute;p: “Thầy bảo thật anh em: Chẳng hề c&oacute; ai bỏ nh&agrave; cửa, anh em, chị em, mẹ cha, con c&aacute;i hay ruộng đất, v&igrave; Thầy v&agrave; v&igrave; Tin Mừng, 30 m&agrave; ngay b&acirc;y giờ, ở đời n&agrave;y, lại kh&ocirc;ng nhận được nh&agrave; cửa, anh em, chị em, mẹ, con, hay ruộng đất, gấp trăm, c&ugrave;ng với sự ngược đ&atilde;i, v&agrave; sự sống vĩnh cửu ở đời sau. 31 Quả thật, nhiều kẻ đứng đầu sẽ phải xuống h&agrave;ng ch&oacute;t, c&ograve;n những kẻ đứng ch&oacute;t sẽ được l&ecirc;n h&agrave;ng đầu.”"
+          "text": "Anh em nhận được gấp trăm ở đời này cùng với sự ngược đãi, và sự sống vĩnh cửu ở đời sau.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 10,28-31\n28 Khi ấy, ông Phê-rô lên tiếng thưa với Đức Giê-su rằng: “Thầy coi, phần chúng con, chúng con đã bỏ mọi sự mà theo Thầy!” 29 Đức Giê-su đáp: “Thầy bảo thật anh em: Chẳng hề có ai bỏ nhà cửa, anh em, chị em, mẹ cha, con cái hay ruộng đất, vì Thầy và vì Tin Mừng, 30 mà ngay bây giờ, ở đời này, lại không nhận được nhà cửa, anh em, chị em, mẹ, con, hay ruộng đất, gấp trăm, cùng với sự ngược đãi, và sự sống vĩnh cửu ở đời sau. 31 Quả thật, nhiều kẻ đứng đầu sẽ phải xuống hàng chót, còn những kẻ đứng chót sẽ được lên hàng đầu.”"
         }
       },
       "reflection": {
@@ -1220,9 +1250,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/26.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/26.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/26.html"
       },
-      "updated": "2026-06-01T05:02:14.603Z"
+      "updated": "2026-06-01T09:47:14.212Z"
     },
     {
       "date": "2026-05-27",
@@ -1243,20 +1274,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Pr 1,18-25",
-          "text": ""
+          "text": "Anh em đã được cứu chuộc nhờ bửu huyết của Con Chiên vẹn toàn là Đức Ki-tô.\nBài trích thư thứ nhất của thánh Phê-rô tông đồ.\n18 Anh em thân mến, anh em hãy biết rằng không phải nhờ những của chóng hư nát như vàng hay bạc mà anh em đã được cứu thoát khỏi lối sống phù phiếm do cha ông anh em truyền lại. 19 Nhưng anh em đã được cứu chuộc nhờ bửu huyết của Con Chiên vẹn toàn, vô tỳ tích, là Đức Ki-tô. 20 Người là Đấng Thiên Chúa đã biết từ trước, khi vũ trụ chưa được dựng nên, và Người đã xuất hiện vì anh em trong thời cuối cùng này. 21 Nhờ Người, anh em tin vào Thiên Chúa, Đấng đã cho Người trỗi dậy từ cõi chết, và ban cho Người được vinh hiển, để anh em đặt niềm tin và hy vọng vào Thiên Chúa.\n22 Nhờ vâng phục sự thật, anh em đã thanh luyện tâm hồn để thực thi tình huynh đệ chân thành. Anh em hãy tha thiết yêu mến nhau với tất cả tâm hồn. 23 Vì anh em đã được tái sinh, không phải do hạt giống mục nát, mà do hạt giống bất diệt, nhờ Lời Thiên Chúa hằng sống và tồn tại mãi mãi, 24 vì mọi phàm nhân đều như cỏ, và tất cả vinh quang của họ cũng đều như hoa cỏ; cỏ thì khô, hoa thì rụng; 25 Lời Chúa vẫn tồn tại đến muôn thuở muôn đời. Đó chính là Lời đã được loan báo cho anh em như một Tin Mừng."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 147,12-13.14-15.19-20",
+          "response": "Đ. Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!\n12 Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!\nNày Xi-on, hãy ca ngợi Thiên Chúa của ngươi!\n13 Then cửa nhà ngươi, Chúa làm cho thêm chắc,\ncon cái trong thành, Người giáng phúc thi ân.\nĐ. Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!\n14 Cõi biên cương, Người thiết lập hoà bình,\nvà cho ngươi no đầy lúa mì tinh hảo.\n15 Người tống đạt lệnh truyền xuống đất,\nlời phán ra, hoả tốc chạy đi.\nĐ. Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!\n19 Chúa bày tỏ lời Người cho nhà Gia-cóp,\nchiếu chỉ luật điều cho Ít-ra-en.\n20 Chúa không đối xử với dân nào như vậy,\nkhông cho họ biết những điều luật của Người.\nĐ. Giê-ru-sa-lem hỡi, nào tôn vinh Chúa!"
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nCon Người đến để phục vụ,\nvà hiến mạng sống làm giá chuộc muôn người.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 10,32-45",
-          "text": "N&agrave;y ch&uacute;ng ta l&ecirc;n Gi&ecirc;-ru-sa-lem, v&agrave; Con Người sẽ bị nộp.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 10,32-45\n32 Khi ấy, Đức Gi&ecirc;-su v&agrave; c&aacute;c m&ocirc;n đệ đang tr&ecirc;n đường l&ecirc;n Gi&ecirc;-ru-sa-lem, Người dẫn đầu c&aacute;c &ocirc;ng. C&aacute;c &ocirc;ng kinh ho&agrave;ng, c&ograve;n những kẻ theo sau cũng sợ h&atilde;i. Người lại k&eacute;o ri&ecirc;ng Nh&oacute;m Mười Hai ra, v&agrave; bắt đầu n&oacute;i với c&aacute;c &ocirc;ng về những điều sắp xảy đến cho m&igrave;nh: 33 “N&agrave;y ch&uacute;ng ta l&ecirc;n Gi&ecirc;-ru-sa-lem, v&agrave; Con Người sẽ bị nộp cho c&aacute;c thượng tế v&agrave; kinh sư. Họ sẽ l&ecirc;n &aacute;n xử tử Người, v&agrave; sẽ nộp Người cho d&acirc;n ngoại. 34 Họ sẽ nhạo b&aacute;ng Người, khạc nhổ v&agrave;o Người, họ sẽ đ&aacute;nh đ&ograve;n v&agrave; giết chết Người. Ba ng&agrave;y sau, Người sẽ sống lại.”\n35 Hai người con &ocirc;ng D&ecirc;-b&ecirc;-đ&ecirc; l&agrave; Gia-c&ocirc;-b&ecirc; v&agrave; Gio-an đến gần Đức Gi&ecirc;-su v&agrave; n&oacute;i: “Thưa Thầy, ch&uacute;ng con muốn Thầy thực hiện cho ch&uacute;ng con điều ch&uacute;ng con sắp xin đ&acirc;y.” 36 Người hỏi: “C&aacute;c anh muốn Thầy thực hiện cho c&aacute;c anh điều g&igrave; ?” 37 C&aacute;c &ocirc;ng thưa: “Xin cho hai anh em ch&uacute;ng con, một người được ngồi b&ecirc;n hữu, một người được ngồi b&ecirc;n tả Thầy, khi Thầy được vinh quang.” 38 Đức Gi&ecirc;-su bảo: “C&aacute;c anh kh&ocirc;ng biết c&aacute;c anh xin g&igrave; ! C&aacute;c anh c&oacute; uống nổi ch&eacute;n Thầy sắp uống, hay chịu được ph&eacute;p rửa Thầy sắp chịu kh&ocirc;ng ?” 39 C&aacute;c &ocirc;ng đ&aacute;p: “Thưa được.” Đức Gi&ecirc;-su bảo: “Ch&eacute;n Thầy sắp uống, anh em cũng sẽ uống; ph&eacute;p rửa Thầy sắp chịu, anh em cũng sẽ chịu. 40 C&ograve;n việc ngồi b&ecirc;n hữu hay b&ecirc;n tả Thầy, th&igrave; Thầy kh&ocirc;ng c&oacute; quyền cho, nhưng Thi&ecirc;n Ch&uacute;a đ&atilde; chuẩn bị cho ai th&igrave; kẻ ấy mới được.”\n41 Nghe vậy, mười m&ocirc;n đệ kia đ&acirc;m ra tức tối với &ocirc;ng Gia-c&ocirc;-b&ecirc; v&agrave; &ocirc;ng Gio-an. 42 Đức Gi&ecirc;-su gọi c&aacute;c &ocirc;ng lại v&agrave; n&oacute;i: “Anh em biết: những người được coi l&agrave; thủ l&atilde;nh c&aacute;c d&acirc;n th&igrave; d&ugrave;ng uy m&agrave; thống trị d&acirc;n, những người l&agrave;m lớn th&igrave; lấy quyền m&agrave; cai quản d&acirc;n. 43 Nhưng giữa anh em th&igrave; kh&ocirc;ng được như vậy: ai muốn l&agrave;m lớn giữa anh em, th&igrave; phải l&agrave;m người phục vụ anh em; 44 ai muốn l&agrave;m đầu anh em, th&igrave; phải l&agrave;m đầy tớ mọi người. 45 V&igrave; Con Người đến, kh&ocirc;ng phải để được người ta phục vụ, nhưng l&agrave; để phục vụ, v&agrave; hiến mạng sống l&agrave;m gi&aacute; chuộc mu&ocirc;n người.”"
+          "text": "Này chúng ta lên Giê-ru-sa-lem, và Con Người sẽ bị nộp.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 10,32-45\n32 Khi ấy, Đức Giê-su và các môn đệ đang trên đường lên Giê-ru-sa-lem, Người dẫn đầu các ông. Các ông kinh hoàng, còn những kẻ theo sau cũng sợ hãi. Người lại kéo riêng Nhóm Mười Hai ra, và bắt đầu nói với các ông về những điều sắp xảy đến cho mình: 33 “Này chúng ta lên Giê-ru-sa-lem, và Con Người sẽ bị nộp cho các thượng tế và kinh sư. Họ sẽ lên án xử tử Người, và sẽ nộp Người cho dân ngoại. 34 Họ sẽ nhạo báng Người, khạc nhổ vào Người, họ sẽ đánh đòn và giết chết Người. Ba ngày sau, Người sẽ sống lại.”\n35 Hai người con ông Dê-bê-đê là Gia-cô-bê và Gio-an đến gần Đức Giê-su và nói: “Thưa Thầy, chúng con muốn Thầy thực hiện cho chúng con điều chúng con sắp xin đây.” 36 Người hỏi: “Các anh muốn Thầy thực hiện cho các anh điều gì?” 37 Các ông thưa: “Xin cho hai anh em chúng con, một người được ngồi bên hữu, một người được ngồi bên tả Thầy, khi Thầy được vinh quang.” 38 Đức Giê-su bảo: “Các anh không biết các anh xin gì! Các anh có uống nổi chén Thầy sắp uống, hay chịu được phép rửa Thầy sắp chịu không?” 39 Các ông đáp: “Thưa được.” Đức Giê-su bảo: “Chén Thầy sắp uống, anh em cũng sẽ uống; phép rửa Thầy sắp chịu, anh em cũng sẽ chịu. 40 Còn việc ngồi bên hữu hay bên tả Thầy, thì Thầy không có quyền cho, nhưng Thiên Chúa đã chuẩn bị cho ai thì kẻ ấy mới được.”\n41 Nghe vậy, mười môn đệ kia đâm ra tức tối với ông Gia-cô-bê và ông Gio-an. 42 Đức Giê-su gọi các ông lại và nói: “Anh em biết: những người được coi là thủ lãnh các dân thì dùng uy mà thống trị dân, những người làm lớn thì lấy quyền mà cai quản dân. 43 Nhưng giữa anh em thì không được như vậy: ai muốn làm lớn giữa anh em, thì phải làm người phục vụ anh em; 44 ai muốn làm đầu anh em, thì phải làm đầy tớ mọi người. 45 Vì Con Người đến, không phải để được người ta phục vụ, nhưng là để phục vụ, và hiến mạng sống làm giá chuộc muôn người.”"
         }
       },
       "reflection": {
@@ -1266,9 +1297,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/27.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/27.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/27.html"
       },
-      "updated": "2026-06-01T05:02:14.975Z"
+      "updated": "2026-06-01T09:47:14.205Z"
     },
     {
       "date": "2026-05-28",
@@ -1289,20 +1321,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Pr 2,2-5.9-12",
-          "text": ""
+          "text": "Anh em là hàng tư tế vương giả, là dân thánh, để loan truyền những kỳ công của Người, Đấng đã kêu gọi anh em.\nBài trích thư thứ nhất của thánh Phê-rô tông đồ.\n2 Anh em thân mến, như trẻ sơ sinh, anh em hãy khao khát sữa tinh tuyền là Lời Chúa, nhờ đó anh em sẽ lớn lên để hưởng ơn cứu độ, 3 nếu anh em đã nghiệm thấy Chúa tốt lành.\n4 Anh em hãy tiến lại gần Đức Ki-tô, viên đá sống động bị người ta loại bỏ, nhưng đã được Thiên Chúa chọn lựa và coi là quý giá. 5 Hãy để Thiên Chúa dùng anh em như những viên đá sống động mà xây nên ngôi Đền Thờ thiêng liêng, và hãy để Thiên Chúa đặt anh em làm hàng tư tế thánh, dâng những lễ tế thiêng liêng đẹp lòng Người, nhờ Đức Giê-su Ki-tô.\n9 Còn anh em, anh em là giống nòi được tuyển chọn, là hàng tư tế vương giả, là dân thánh, dân riêng của Thiên Chúa, để loan truyền những kỳ công của Người, Đấng đã gọi anh em ra khỏi miền u tối, vào nơi đầy ánh sáng diệu huyền. 10 Xưa anh em chưa phải là một dân, nay anh em đã là Dân của Thiên Chúa; xưa anh em chưa được hưởng lòng thương xót, nay anh em đã được xót thương. 11 Anh em thân mến, anh em là khách lạ và lữ hành, tôi khuyên anh em hãy tránh xa những đam mê xác thịt, vốn gây chiến với linh hồn. 12 Anh em hãy ăn ở ngay lành giữa dân ngoại, để ngay cả khi họ vu khống, coi anh em là người gian ác, họ cũng thấy các việc lành anh em làm, mà tôn vinh Thiên Chúa trong ngày Người đến viếng thăm."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 99,1-2.3.4.5",
+          "response": "Đ. Hãy vào trước thánh nhan Chúa giữa tiếng hò reo.\n1 Hãy tung hô Chúa, hỡi toàn thể địa cầu,\n2 phụng thờ Chúa với niềm hoan hỷ,\nvào trước thánh nhan Người giữa tiếng hò reo.\nĐ. Hãy vào trước thánh nhan Chúa giữa tiếng hò reo.\n3 Hãy nhìn nhận Chúa là Thượng Đế,\nchính Người dựng nên ta, ta thuộc về Người,\nta là dân Người, là đoàn chiên Người dẫn dắt.\nĐ. Hãy vào trước thánh nhan Chúa giữa tiếng hò reo.\n4 Hãy vào cửa thánh điện cất tiếng tạ ơn,\ntới khuôn viên đền vàng dâng lời ca ngợi,\ntạ ơn Chúa và chúc tụng danh Người.\nĐ. Hãy vào trước thánh nhan Chúa giữa tiếng hò reo.\n5 Bởi vì Chúa nhân hậu,\nmuôn ngàn đời Chúa vẫn trọn tình thương,\nqua bao thế hệ, vẫn một niềm thành tín.\nĐ. Hãy vào trước thánh nhan Chúa giữa tiếng hò reo."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: Tôi là ánh sáng thế gian.\nAi theo tôi, sẽ nhận được ánh sáng đem lại sự sống.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 10,46-52",
-          "text": "Thưa Thầy, xin cho t&ocirc;i nh&igrave;n thấy được.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 10,46-52\n46 Khi ấy, Đức Gi&ecirc;-su v&agrave; c&aacute;c m&ocirc;n đệ đến th&agrave;nh Gi&ecirc;-ri-kh&ocirc;. Khi Đức Gi&ecirc;-su c&ugrave;ng với c&aacute;c m&ocirc;n đệ v&agrave; một đ&aacute;m người kh&aacute; đ&ocirc;ng ra khỏi th&agrave;nh Gi&ecirc;-ri-kh&ocirc;, th&igrave; c&oacute; một người m&ugrave; đang ngồi ăn xin b&ecirc;n vệ đường, anh ta t&ecirc;n l&agrave; Ba-ti-m&ecirc;, con &ocirc;ng Ti-m&ecirc;. 47 Vừa nghe n&oacute;i đ&oacute; l&agrave; Đức Gi&ecirc;-su Na-da-r&eacute;t, anh ta bắt đầu k&ecirc;u l&ecirc;n rằng: “Lạy &ocirc;ng Gi&ecirc;-su, Con vua Đa-v&iacute;t, xin dủ l&ograve;ng thương t&ocirc;i !” 48 Nhiều người qu&aacute;t nạt bảo anh ta im đi, nhưng anh ta c&agrave;ng k&ecirc;u lớn tiếng: “Lạy Con vua Đa-v&iacute;t, xin dủ l&ograve;ng thương t&ocirc;i !” 49 Đức Gi&ecirc;-su đứng lại v&agrave; n&oacute;i: “Gọi anh ta lại đ&acirc;y !” Người ta gọi anh m&ugrave; v&agrave; bảo: “Cứ y&ecirc;n t&acirc;m, đứng dậy, Người gọi anh đấy !” 50 Anh m&ugrave; liền vất &aacute;o cho&agrave;ng lại, đứng phắt dậy m&agrave; đến gần Đức Gi&ecirc;-su. 51 Người hỏi: “Anh muốn t&ocirc;i l&agrave;m g&igrave; cho anh ?” Anh m&ugrave; đ&aacute;p: “Thưa Thầy, xin cho t&ocirc;i nh&igrave;n thấy được.” 52 Người n&oacute;i: “Anh h&atilde;y đi, l&ograve;ng tin của anh đ&atilde; cứu anh !” Tức khắc, anh ta nh&igrave;n thấy được v&agrave; đi theo Người tr&ecirc;n con đường Người đi."
+          "text": "Thưa Thầy, xin cho tôi nhìn thấy được.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 10,46-52\n46 Khi ấy, Đức Giê-su và các môn đệ đến thành Giê-ri-khô. Khi Đức Giê-su cùng với các môn đệ và một đám người khá đông ra khỏi thành Giê-ri-khô, thì có một người mù đang ngồi ăn xin bên vệ đường, anh ta tên là Ba-ti-mê, con ông Ti-mê. 47 Vừa nghe nói đó là Đức Giê-su Na-da-rét, anh ta bắt đầu kêu lên rằng: “Lạy ông Giê-su, Con vua Đa-vít, xin dủ lòng thương tôi!” 48 Nhiều người quát nạt bảo anh ta im đi, nhưng anh ta càng kêu lớn tiếng: “Lạy Con vua Đa-vít, xin dủ lòng thương tôi!” 49 Đức Giê-su đứng lại và nói: “Gọi anh ta lại đây!” Người ta gọi anh mù và bảo: “Cứ yên tâm, đứng dậy, Người gọi anh đấy!” 50 Anh mù liền vất áo choàng lại, đứng phắt dậy mà đến gần Đức Giê-su. 51 Người hỏi: “Anh muốn tôi làm gì cho anh?” Anh mù đáp: “Thưa Thầy, xin cho tôi nhìn thấy được.” 52 Người nói: “Anh hãy đi, lòng tin của anh đã cứu anh!” Tức khắc, anh ta nhìn thấy được và đi theo Người trên con đường Người đi."
         }
       },
       "reflection": {
@@ -1312,9 +1344,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/28.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/28.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/28.html"
       },
-      "updated": "2026-06-01T05:02:15.325Z"
+      "updated": "2026-06-01T09:47:14.326Z"
     },
     {
       "date": "2026-05-29",
@@ -1335,20 +1368,20 @@
       "readings": {
         "reading1": {
           "reference": "1 Pr 4,7-13",
-          "text": ""
+          "text": "Anh em là những người khéo quản lý ân huệ thiên hình vạn trạng của Thiên Chúa.\nBài trích thư thứ nhất của thánh Phê-rô tông đồ.\n7 Anh em thân mến, thời cùng tận của vạn vật gần đến rồi. Anh em hãy sống chừng mực và tiết độ để có thể cầu nguyện được. 8 Trước hết, anh em hãy hết tình yêu thương nhau, vì lòng yêu thương che phủ muôn vàn tội lỗi. 9 Hãy tiếp đón nhau mà không lẩm bẩm kêu ca. 10 Ơn riêng Thiên Chúa đã ban, mỗi người trong anh em phải dùng mà phục vụ kẻ khác. Như vậy, anh em mới là những người khéo quản lý ân huệ thiên hình vạn trạng của Thiên Chúa. 11 Ai có nói, thì nói lời Thiên Chúa; ai phục vụ, thì phục vụ bằng sức mạnh Thiên Chúa ban. Như thế, trong mọi việc, chúng ta tôn vinh Thiên Chúa nhờ Đức Giê-su Ki-tô. Kính dâng Người vinh quang và uy quyền đến muôn thuở muôn đời. A-men.\n12 Anh em thân mến, anh em đang bị lửa thử thách: đừng ngạc nhiên mà coi đó như một cái gì khác thường xảy đến cho anh em. 13 Được chia sẻ những đau khổ của Đức Ki-tô bao nhiêu, anh em hãy vui mừng bấy nhiêu, để khi vinh quang Người tỏ hiện, anh em cùng được vui mừng hoan hỷ."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 95,10.11-12a.12b-13",
+          "response": "Đ. Chúa ngự đến xét xử trần gian.\n10 Hãy nói với chư dân: Chúa là Vua hiển trị,\nChúa thiết lập địa cầu, địa cầu chẳng chuyển lay,\nNgười xét xử muôn nước theo đường ngay thẳng.\nĐ. Chúa ngự đến xét xử trần gian.\n11 Trời vui lên, đất hãy nhảy mừng,\nbiển gầm vang cùng muôn hải vật,\n12a ruộng đồng cùng hoa trái, nào hoan hỷ.\nĐ. Chúa ngự đến xét xử trần gian.\n12b Hỡi cây cối rừng xanh,\n13 hãy reo mừng trước tôn nhan Chúa,\nvì Người ngự đến, Người ngự đến xét xử trần gian.\nNgười xét xử địa cầu theo đường công chính,\nxét xử muôn dân theo chân lý của Người.\nĐ. Chúa ngự đến xét xử trần gian."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nChúa nói: Chính Thầy đã chọn anh em từ giữa thế gian,\nđể anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 11,11-26",
-          "text": "✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 11,11-26\n11 Đang khi đ&aacute;m đ&ocirc;ng reo h&ograve; vang dậy, Đức Gi&ecirc;-su tiến v&agrave;o Gi&ecirc;-ru-sa-lem v&agrave; đi v&agrave;o Đền Thờ. Người rảo mắt nh&igrave;n xem mọi sự, v&agrave; v&igrave; giờ đ&atilde; muộn, Người đi ra B&ecirc;-ta-ni-a c&ugrave;ng với Nh&oacute;m Mười Hai.\n12 H&ocirc;m sau, khi thầy tr&ograve; rời khỏi B&ecirc;-ta-ni-a, th&igrave; Đức Gi&ecirc;-su cảm thấy đ&oacute;i. 13 Tr&ocirc;ng thấy ở đ&agrave;ng xa c&oacute; một c&acirc;y vả tốt l&aacute;, Người đến xem c&oacute; t&igrave;m được tr&aacute;i n&agrave;o kh&ocirc;ng. Nhưng khi lại gần, Người kh&ocirc;ng t&igrave;m được g&igrave; cả, chỉ thấy l&aacute; th&ocirc;i, v&igrave; kh&ocirc;ng phải l&agrave; m&ugrave;a vả. 14 Người l&ecirc;n tiếng bảo c&acirc;y vả: “Mu&ocirc;n đời sẽ chẳng c&ograve;n ai ăn tr&aacute;i của m&agrave;y nữa !” C&aacute;c m&ocirc;n đệ đ&atilde; nghe Người n&oacute;i thế."
+          "text": "Nhà Ta sẽ được gọi là nhà cầu nguyện của mọi dân tộc. Anh em hãy tin vào Thiên Chúa.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 11,11-26\n11 Đang khi đám đông reo hò vang dậy, Đức Giê-su tiến vào Giê-ru-sa-lem và đi vào Đền Thờ. Người rảo mắt nhìn xem mọi sự, và vì giờ đã muộn, Người đi ra Bê-ta-ni-a cùng với Nhóm Mười Hai.\n12 Hôm sau, khi thầy trò rời khỏi Bê-ta-ni-a, thì Đức Giê-su cảm thấy đói. 13 Trông thấy ở đàng xa có một cây vả tốt lá, Người đến xem có tìm được trái nào không. Nhưng khi lại gần, Người không tìm được gì cả, chỉ thấy lá thôi, vì không phải là mùa vả. 14 Người lên tiếng bảo cây vả: “Muôn đời sẽ chẳng còn ai ăn trái của mày nữa!” Các môn đệ đã nghe Người nói thế.\n15 Thầy trò đến Giê-ru-sa-lem. Đức Giê-su vào Đền Thờ, Người bắt đầu đuổi những kẻ đang mua bán trong Đền Thờ, lật bàn của những người đổi bạc, và xô ghế của những kẻ bán bồ câu. 16 Người không cho ai được mang đồ vật gì đi qua Đền Thờ. 17 Người giảng dạy và nói với họ: “Nào đã chẳng có lời chép rằng: Nhà Ta sẽ được gọi là nhà cầu nguyện của mọi dân tộc sao? Thế mà các người đã biến thành sào huyệt của bọn cướp!” 18 Các thượng tế và kinh sư nghe thấy vậy, thì tìm cách giết Đức Giê-su. Quả thế, họ sợ Người, vì cả đám đông đều rất ngạc nhiên về lời giảng dạy của Người. 19 Chiều đến, Đức Giê-su và các môn đệ ra khỏi thành.\n20 Sáng sớm, khi đi ngang cây vả, các ngài thấy nó đã chết khô tận rễ. 21 Ông Phê-rô sực nhớ lại, liền thưa Đức Giê-su: “Kìa Thầy xem: cây vả Thầy rủa đã chết khô rồi!” 22 Đức Giê-su nói với các ông: “Anh em hãy tin vào Thiên Chúa. 23 Thầy bảo thật anh em: nếu có ai nói với núi này: ‘Dời chỗ đi, nhào xuống biển!’, mà trong lòng chẳng nghi nan, nhưng tin rằng điều mình nói sẽ xảy ra, thì sẽ được như ý. 24 Vì thế, Thầy nói với anh em: tất cả những gì anh em cầu xin, anh em cứ tin là mình đã được rồi, thì sẽ được như ý. 25 Khi anh em đứng cầu nguyện, nếu anh em có chuyện bất bình với ai, thì hãy tha thứ cho họ, để Cha của anh em là Đấng ngự trên trời, cũng tha lỗi cho anh em. [ 26 Nhưng nếu anh em không tha thứ, thì Cha của anh em là Đấng ngự trên trời, cũng sẽ không tha lỗi cho anh em].”"
         }
       },
       "reflection": {
@@ -1358,9 +1391,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/29.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/29.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/29.html"
       },
-      "updated": "2026-06-01T05:02:15.692Z"
+      "updated": "2026-06-01T09:47:14.360Z"
     },
     {
       "date": "2026-05-30",
@@ -1381,20 +1415,20 @@
       "readings": {
         "reading1": {
           "reference": "Gđ 17.20b-25",
-          "text": ""
+          "text": "Thiên Chúa có quyền phép gìn giữ anh em khỏi sa ngã.\nBài trích thư của thánh Giu-đa tông đồ.\n17 Anh em thân mến, anh em hãy nhớ lại những lời các Tông Đồ của Đức Giê-su Ki-tô, Chúa chúng ta, đã nói trước kia. 20b Anh em hãy xây dựng đời mình trên nền tảng đức tin rất thánh của anh em, hãy cầu nguyện nhờ Thánh Thần, 21 hãy cố gắng sống mãi trong tình thương của Thiên Chúa, hãy chờ đợi lòng thương xót của Đức Giê-su Ki-tô, Chúa chúng ta, để được sống đời đời. 22 Những người do dự thì anh em phải thương xót; 23 hãy lo cứu họ, kéo họ ra khỏi lửa thiêu. Còn những người khác, thì anh em phải vừa thương xót, vừa sợ hãi, gớm ghét ngay cả chiếc áo đã bị thân xác họ làm cho ra ô uế.\n24 Xin kính dâng Đấng có quyền phép gìn giữ anh em khỏi sa ngã và cho anh em đứng vững, tinh tuyền, trước vinh quang của Người, trong niềm hoan lạc, 25 xin kính dâng Thiên Chúa duy nhất, Đấng Cứu Độ chúng ta, nhờ Đức Giê-su Ki-tô, Chúa chúng ta, kính dâng Người vinh quang, oai phong, sức mạnh và quyền năng, trước mọi thời, bây giờ và cho đến muôn đời! A-men."
         },
         "reading2": {
           "reference": "",
           "text": ""
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Tv 62,2.3-4.5-6",
+          "response": "Đ. Lạy Thiên Chúa, Ngài là Chúa con thờ,\nlinh hồn con đã khao khát Chúa.\n2 Lạy Thiên Chúa, Ngài là Chúa con thờ,\nLinh hồn con đã khát khao Ngài,\ntấm thân này mòn mỏi đợi trông,\nnhư mảnh đất hoang khô cằn, không giọt nước.\nĐ. Lạy Thiên Chúa, Ngài là Chúa con thờ,\nlinh hồn con đã khao khát Chúa.\n3 Nên con đến ngắm nhìn Ngài trong nơi thánh điện,\nđể thấy uy lực và vinh quang của Ngài.\n4 Bởi ân tình Ngài quý hơn mạng sống,\nmiệng lưỡi này xin ca ngợi tán dương.\nĐ. Lạy Thiên Chúa, Ngài là Chúa con thờ,\nlinh hồn con đã khao khát Chúa.\n5 Suốt cả đời con, nguyện dâng lời chúc tụng,\nvà giơ tay cầu khẩn danh Ngài.\n6 Lòng thoả thuê như khách vừa dự tiệc,\nmôi miệng con rộn rã khúc hoan ca.\nĐ. Lạy Thiên Chúa, Ngài là Chúa con thờ,\nlinh hồn con đã khao khát Chúa."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nƯớc chi lời Đức Ki-tô ngự giữa anh em thật dồi dào phong phú,\nanh em hãy cảm tạ Thiên Chúa Cha, nhờ Đức Ki-tô.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Mc 11,27-33",
-          "text": "&Ocirc;ng lấy quyền n&agrave;o m&agrave; l&agrave;m c&aacute;c điều ấy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 11,27-33\n27 Khi ấy, Đức Gi&ecirc;-su v&agrave; c&aacute;c m&ocirc;n đệ lại v&agrave;o Gi&ecirc;-ru-sa-lem. Đang khi Người đi đi lại lại trong Đền Thờ, th&igrave; c&aacute;c thượng tế, kinh sư v&agrave; kỳ mục đến c&ugrave;ng Người v&agrave; hỏi: 28 “&Ocirc;ng lấy quyền n&agrave;o m&agrave; l&agrave;m c&aacute;c điều ấy, hay ai đ&atilde; cho &ocirc;ng quyền l&agrave;m c&aacute;c điều ấy ?” 29 Đức Gi&ecirc;-su đ&aacute;p: “T&ocirc;i chỉ xin hỏi c&aacute;c &ocirc;ng một điều th&ocirc;i. C&aacute;c &ocirc;ng trả lời đi, rồi t&ocirc;i sẽ n&oacute;i cho c&aacute;c &ocirc;ng biết t&ocirc;i lấy quyền n&agrave;o m&agrave; l&agrave;m c&aacute;c điều ấy. 30 Vậy, ph&eacute;p rửa của &ocirc;ng Gio-an l&agrave; do Trời hay do người ta ? C&aacute;c &ocirc;ng trả lời cho t&ocirc;i đi !” 31 Họ b&agrave;n với nhau: “Nếu m&igrave;nh n&oacute;i: ‘Do Trời’, th&igrave; &ocirc;ng ấy sẽ vặn lại: ‘Thế sao c&aacute;c &ocirc;ng lại kh&ocirc;ng tin &ocirc;ng ấy ?’ 32 Nhưng chẳng lẽ m&igrave;nh n&oacute;i: ‘Do người ta’ ?” Họ sợ d&acirc;n ch&uacute;ng, v&igrave; ai nấy đều cho &ocirc;ng Gio-an thật l&agrave; một ng&ocirc;n sứ. 33 Họ mới trả lời Đức Gi&ecirc;-su: “Ch&uacute;ng t&ocirc;i kh&ocirc;ng biết.” Đức Gi&ecirc;-su liền bảo họ: “T&ocirc;i cũng vậy, t&ocirc;i cũng kh&ocirc;ng n&oacute;i cho c&aacute;c &ocirc;ng l&agrave; t&ocirc;i lấy quyền n&agrave;o m&agrave; l&agrave;m c&aacute;c điều ấy.”"
+          "text": "Ông lấy quyền nào mà làm các điều ấy.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Mác-cô. Mc 11,27-33\n27 Khi ấy, Đức Giê-su và các môn đệ lại vào Giê-ru-sa-lem. Đang khi Người đi đi lại lại trong Đền Thờ, thì các thượng tế, kinh sư và kỳ mục đến cùng Người và hỏi: 28 “Ông lấy quyền nào mà làm các điều ấy, hay ai đã cho ông quyền làm các điều ấy?” 29 Đức Giê-su đáp: “Tôi chỉ xin hỏi các ông một điều thôi. Các ông trả lời đi, rồi tôi sẽ nói cho các ông biết tôi lấy quyền nào mà làm các điều ấy. 30 Vậy, phép rửa của ông Gio-an là do Trời hay do người ta? Các ông trả lời cho tôi đi!” 31 Họ bàn với nhau: “Nếu mình nói: ‘Do Trời’, thì ông ấy sẽ vặn lại: ‘Thế sao các ông lại không tin ông ấy?’ 32 Nhưng chẳng lẽ mình nói: ‘Do người ta’?” Họ sợ dân chúng, vì ai nấy đều cho ông Gio-an thật là một ngôn sứ. 33 Họ mới trả lời Đức Giê-su: “Chúng tôi không biết.” Đức Giê-su liền bảo họ: “Tôi cũng vậy, tôi cũng không nói cho các ông là tôi lấy quyền nào mà làm các điều ấy.”"
         }
       },
       "reflection": {
@@ -1404,9 +1438,10 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/30.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/30.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/30.html"
       },
-      "updated": "2026-06-01T05:02:16.420Z"
+      "updated": "2026-06-01T09:47:14.344Z"
     },
     {
       "date": "2026-05-31",
@@ -1426,21 +1461,21 @@
       },
       "readings": {
         "reading1": {
-          "reference": "Xh 34,4b-6.8-9 2 Cr 13,11-13",
-          "text": ""
+          "reference": "Xh 34,4b-6.8-9",
+          "text": "Đức Chúa! Đức Chúa! Thiên Chúa nhân hậu và từ bi.\nBài trích sách Xuất hành.\n4b Khi ấy, ông Mô-sê thức dậy và lên núi Xi-nai theo lệnh của Đức Chúa, tay mang hai bia đá.\n5 Đức Chúa ngự xuống trong đám mây và đứng đó với ông. Người xưng danh Người là Đức Chúa. 6 Đức Chúa đi qua trước mặt ông và xướng: “Đức Chúa! Đức Chúa! Thiên Chúa nhân hậu và từ bi, hay nén giận, giàu nhân nghĩa và thành tín.” 8 Ông Mô-sê vội vàng phục xuống đất thờ lạy 9 và thưa: “Lạy Chúa, nếu quả thật con được nghĩa với Chúa, thì xin Chúa cùng đi với chúng con. Dân này là một dân cứng đầu cứng cổ, nhưng xin Ngài tha thứ những lỗi lầm và tội lỗi của chúng con, và nhận chúng con làm cơ nghiệp của Ngài.”"
         },
         "reading2": {
-          "reference": "",
-          "text": ""
+          "reference": "2 Cr 13,11-13",
+          "text": "Ân sủng của Chúa Giê-su Ki-tô, tình thương của Chúa Cha, và ơn hiệp thông của Chúa Thánh Thần.\nBài trích thư thứ hai của thánh Phao-lô tông đồ gửi tín hữu Cô-rin-tô.\n11 Thưa anh em, anh em hãy vui mừng và gắng nên hoàn thiện. Hãy khuyến khích nhau, hãy đồng tâm nhất trí và ăn ở thuận hoà. Như vậy, Thiên Chúa là nguồn yêu thương và bình an, sẽ ở cùng anh em.\n12 Anh em hãy hôn chào nhau cách thánh thiện. Mọi người thuộc dân thánh ở đây gửi lời chào anh em.\n13 Cầu chúc toàn thể anh em được đầy tràn ân sủng của Chúa Giê-su Ki-tô, đầy tình thương của Thiên Chúa, và ơn hiệp thông của Thánh Thần. A-men."
         },
         "psalm": {
-          "reference": "",
-          "response": ""
+          "reference": "Đn 3,52.53-54.55-56 (Đ. c.52b)",
+          "response": "Đ. Xin dâng lời khen ngợi suy tôn muôn đời.\n52 Lạy Chúa, chúc tụng Ngài\nlà Thiên Chúa tổ tiên chúng con,\nchúc tụng danh thánh Ngài vinh hiển.\nĐ. Xin dâng lời khen ngợi suy tôn muôn đời.\n53 Chúc tụng Chúa trong thánh điện vinh quang,\n54 chúc tụng Chúa trên ngôi báu cửu trùng.\nĐ. Xin dâng lời khen ngợi suy tôn muôn đời.\n55 Chúc tụng Chúa, Đấng ngự trên các thần hộ giá\nmà thấu nhìn vực thẳm,\n56 chúc tụng Chúa trên vòm trời tận chốn cao xanh.\nĐ. Xin dâng lời khen ngợi suy tôn muôn đời."
         },
-        "gospel_acclamation": "",
+        "gospel_acclamation": "Ha-lê-lui-a. Ha-lê-lui-a.\nXin dâng lời tôn vinh chúc tụng\nChúa Cha, Chúa Con và Chúa Thánh Thần\nlà Thiên Chúa đã có, hiện có và đang đến,\nxin tôn vinh chúc tụng muôn đời.\nHa-lê-lui-a.",
         "gospel": {
           "reference": "Ga 3,16-18",
-          "text": "Thi&ecirc;n Ch&uacute;a sai Con của Người đến thế gian, để thế gian, nhờ Con của Người, m&agrave; được cứu độ.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 3,16-18\n16 “Thi&ecirc;n Ch&uacute;a y&ecirc;u thế gian đến nỗi đ&atilde; ban Con Một, để ai tin v&agrave;o Con của Người th&igrave; khỏi phải chết, nhưng được sống mu&ocirc;n đời. 17 Quả vậy, Thi&ecirc;n Ch&uacute;a sai Con của Người đến thế gian, kh&ocirc;ng phải để l&ecirc;n &aacute;n thế gian, nhưng l&agrave; để thế gian, nhờ Con của Người, m&agrave; được cứu độ. 18 Ai tin v&agrave;o Con của Người, th&igrave; kh&ocirc;ng bị l&ecirc;n &aacute;n; nhưng kẻ kh&ocirc;ng tin, th&igrave; bị l&ecirc;n &aacute;n rồi, v&igrave; đ&atilde; kh&ocirc;ng tin v&agrave;o danh của Con Một Thi&ecirc;n Ch&uacute;a.”"
+          "text": "Thiên Chúa sai Con của Người đến thế gian, để thế gian, nhờ Con của Người, mà được cứu độ.\n✠Tin Mừng Chúa Giê-su Ki-tô theo thánh Gio-an. Ga 3,16-18\n16 “Thiên Chúa yêu thế gian đến nỗi đã ban Con Một, để ai tin vào Con của Người thì khỏi phải chết, nhưng được sống muôn đời. 17 Quả vậy, Thiên Chúa sai Con của Người đến thế gian, không phải để lên án thế gian, nhưng là để thế gian, nhờ Con của Người, mà được cứu độ. 18 Ai tin vào Con của Người, thì không bị lên án; nhưng kẻ không tin, thì bị lên án rồi, vì đã không tin vào danh của Con Một Thiên Chúa.”"
         }
       },
       "reflection": {
@@ -1455,9 +1490,10 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/31.html"
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/31.html",
+        "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/31.html"
       },
-      "updated": "2026-06-01T05:02:16.756Z"
+      "updated": "2026-06-01T09:47:16.089Z"
     }
   ]
 }
