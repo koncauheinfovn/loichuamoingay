@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "year": 2026,
+  "month": 3,
+  "month_key": "2026-03",
+  "count": 0,
+  "source": {
+    "calendar": "https://augustino.net/lich-phung-vu",
+    "readings_primary": "https://www.augustino.net/loi-chua-hom-nay",
+    "readings_fallback": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
+    "images": [
+      "Wikipedia API",
+      "Wikimedia Commons API"
+    ]
+  },
+  "updated": "2026-06-01T01:44:13.843Z",
+  "days": []
+}

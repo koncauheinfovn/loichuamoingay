@@ -1,0 +1,42 @@
+{
+  "date": "",
+  "weekday": "",
+  "liturgy": {
+    "season": "",
+    "week": "",
+    "year_cycle": "",
+    "celebration": "",
+    "rank": "",
+    "color": "",
+    "saint": {
+      "name": "",
+      "image": "",
+      "wiki": ""
+    }
+  },
+  "readings": {
+    "reading1": {
+      "reference": "",
+      "text": ""
+    },
+    "psalm": {
+      "reference": "",
+      "response": ""
+    },
+    "gospel_acclamation": "",
+    "gospel": {
+      "reference": "",
+      "text": ""
+    }
+  },
+  "reflection": {
+    "title": "",
+    "content": ""
+  },
+  "notes": [],
+  "source": {
+    "calendar": "",
+    "gospel": ""
+  },
+  "updated": ""
+}

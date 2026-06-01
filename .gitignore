@@ -1,8 +1,0 @@
-node_modules/
-.env
-.DS_Store
-.cache/html/
-.cache/tmp/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*

@@ -1,53 +1,7 @@
 {
+  "success": true,
   "years": [
-    {
-      "year": 2026,
-      "file": "year-2026.json",
-      "days": 365,
-      "calendar_source": "https://gcatholic.org/calendar/2026/VN-H-vi",
-      "readings_filled": 181,
-      "updated": "2026-06-01T00:26:29.246Z"
-    },
-    {
-      "year": 2027,
-      "file": "year-2027.json",
-      "days": 365,
-      "calendar_source": "https://gcatholic.org/calendar/2027/VN-H-vi",
-      "readings_filled": 0,
-      "updated": "2026-06-01T00:28:03.946Z"
-    },
-    {
-      "year": 2028,
-      "file": "year-2028.json",
-      "days": 366,
-      "calendar_source": "https://gcatholic.org/calendar/2028/VN-H-vi",
-      "readings_filled": 0,
-      "updated": "2026-06-01T00:29:35.896Z"
-    },
-    {
-      "year": 2029,
-      "file": "year-2029.json",
-      "days": 365,
-      "calendar_source": "https://gcatholic.org/calendar/2029/VN-H-vi",
-      "readings_filled": 0,
-      "updated": "2026-06-01T00:31:25.276Z"
-    },
-    {
-      "year": 2030,
-      "file": "year-2030.json",
-      "days": 365,
-      "calendar_source": "https://gcatholic.org/calendar/2030/VN-H-vi",
-      "readings_filled": 0,
-      "updated": "2026-06-01T00:32:46.378Z"
-    }
+    2026
   ],
-  "today": "2026-06-01",
-  "time_zone": "Asia/Ho_Chi_Minh",
-  "mode": "2026-2030",
-  "full_backfill": true,
-  "source": {
-    "calendar": "https://gcatholic.org/calendar/{year}/VN-H-vi",
-    "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/{year}/{month}/{day}.html"
-  },
-  "updated": "2026-06-01T00:32:46.405Z"
+  "updated": "2026-06-01T01:44:13.846Z"
 }

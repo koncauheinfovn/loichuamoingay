@@ -1,41 +1,6 @@
 {
+  "success": false,
   "date": "2026-06-01",
-  "weekday": "Thứ Hai",
-  "liturgy": {
-    "season": "",
-    "week": "",
-    "year_cycle": "A / II",
-    "celebration": "",
-    "rank": "Ngày thường",
-    "color": "",
-    "saint": {
-      "name": "",
-      "image": "",
-      "wiki": ""
-    }
-  },
-  "readings": {
-    "reading1": {
-      "reference": "2 Pr 1,2-7",
-      "text": "Thiên Chúa đã ban tặng chúng ta những gì rất quý báu và trọng đại Người đã hứa, để nhờ đó anh em được thông phần bản tính Thiên Chúa.\nBài trích thư thứ hai của thánh Phê-rô tông đồ.\n2 Anh em thân mến, chúc anh em được đầy tràn ân sủng và bình an, nhờ được biết Thiên Chúa và Đức Giê-su, Chúa chúng ta.\n3 Thật vậy, Đức Ki-tô đã lấy thần lực của Người mà ban tặng chúng ta tất cả những gì giúp chúng ta được sống và sống đạo đức, khi Người cho chúng ta biết Đấng đã dùng vinh quang và sức mạnh của mình mà kêu gọi chúng ta. 4 Nhờ vinh quang và sức mạnh ấy, Thiên Chúa đã ban tặng chúng ta những gì rất quý báu và trọng đại Người đã hứa, để nhờ đó, anh em được thông phần bản tính Thiên Chúa, sau khi đã thoát khỏi cảnh hư đốn do dục vọng gây ra trong trần gian.\n5 Chính vì thế, anh em hãy đem tất cả nhiệt tình, làm sao để khi đã có lòng tin thì có thêm đức độ, có đức độ lại thêm hiểu biết, 6 có hiểu biết lại thêm tiết độ, có tiết độ lại thêm kiên nhẫn, có kiên nhẫn lại thêm đạo đức, 7 có đạo đức lại thêm tình huynh đệ, có tình huynh đệ lại thêm bác ái."
-    },
-    "psalm": {
-      "reference": "Tv 90,1-2.14-15ab.15cd-16 (Đ. x. c.2b)",
-      "response": "Đ.Lạy Thiên Chúa, con tin tưởng vào Ngài.\n1Hỡi ai nương tựa Đấng Tối Cao\nvà núp bóng Đấng quyền năng tuyệt đối,\n2hãy thưa với Chúa rằng:"
-    },
-    "gospel_acclamation": "Tung hô Tin Mừng x. Kh 1,5ab\nHa-lê-lui-a. Ha-lê-lui-a.\nLạy Chúa Giê-su Ki-tô là vị Chứng Nhân trung thành,\nlà Trưởng Tử trong số những người từ cõi chết trỗi dậy,\nChúa đã yêu mến chúng con, và đã lấy máu mình rửa sạch tội lỗi chúng con.\nHa-lê-lui-a.",
-    "gospel": {
-      "reference": "Mc 12,1-12",
-      "text": "Họ đã bắt người con yêu dấu, giết chết rồi quăng ra bên ngoài vườn nho.\n\n1 Khi ấy, Đức Giê-su bắt đầu dùng dụ ngôn mà nói với các thượng tế, kinh sư và kỳ mục. Người nói: “Có người kia trồng được một vườn nho; ông rào giậu chung quanh, đào bồn đạp nho và xây một tháp canh. Ông cho tá điền canh tác, rồi trẩy đi xa. 2 Đến mùa, ông sai một đầy tớ đến gặp các tá điền để thu hoa lợi vườn nho mà họ phải nộp. 3 Nhưng họ bắt người đầy tớ, đánh đập và đuổi về tay không. 4 Ông lại sai một đầy tớ khác đến với họ. Họ đánh vào đầu anh ta và hạ nhục. 5 Ông sai một người khác nữa, họ cũng giết luôn. Rồi ông lại sai nhiều người khác: kẻ thì họ đánh, người thì họ giết. 6 Ông chỉ còn một người nữa là người con yêu dấu: người này là người cuối cùng ông sai đến gặp họ; ông nói: ‘Chúng sẽ nể con ta.’ 7 Nhưng bọn tá điền ấy bảo nhau: ‘Đứa thừa tự đây rồi! Nào ta giết quách nó đi, và gia tài sẽ về tay ta.’ 8 Thế là họ bắt cậu, giết chết rồi quăng ra bên ngoài vườn nho. 9 Vậy ông chủ vườn nho sẽ làm gì? Ông sẽ đến tiêu diệt các tá điền, rồi giao vườn nho cho người khác. 10 Các ông chưa đọc câu Kinh Thánh này sao? Tảng đá thợ xây nhà loại bỏ lại trở nên đá tảng góc tường. 11 Đó chính là công trình của Chúa, công trình kỳ diệu trước mắt chúng ta!”\n12 Họ tìm cách bắt Đức Giê-su, nhưng lại sợ dân chúng; quả vậy, họ thừa hiểu Người đã nhắm vào họ mà kể dụ ngôn ấy. Thế là họ để Người lại đó mà đi.\nXin hỗ trợ sứ mạng của chúng tôi: mang tiếng nói của Đức Thánh Cha đến mọi nhà\nBản văn Kinh Thánh được chính thức cho phép sử dụng bởi Nhóm Phiên Dịch Các Giờ Kinh Phụng Vụ (ktcgkpv.org).\nGửi đi\nIn"
-    }
-  },
-  "reflection": {
-    "title": "",
-    "content": ""
-  },
-  "source": {
-    "calendar": "https://gcatholic.org/calendar/2026/VN-H-vi",
-    "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/06/01.html"
-  },
-  "updated": "2026-06-01T00:26:22.042Z"
+  "data": null,
+  "updated": "2026-06-01T01:44:13.921Z"
 }
