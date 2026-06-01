@@ -1,0 +1,35 @@
+name: Build Dynamic Catholic Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: "auto, current, current+5, current-1+5, 2026-2030, or 2026,2027"
+        required: false
+        default: "auto"
+  schedule:
+    - cron: "5 17 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: DATA_YEARS="${{ github.event.inputs.years || 'auto' }}" npm run build:data
+      - name: Commit data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Update dynamic liturgy data"
+          git push
