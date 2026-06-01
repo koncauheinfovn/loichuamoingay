@@ -7,9 +7,9 @@
   "source": {
     "calendar": "https://augustino.net/lich-phung-vu",
     "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
-    "note": "year file contains calendar and reading references; Cloudflare Worker loads full readings live for selected date"
+    "note": "year file contains full readings"
   },
-  "updated": "2026-06-01T04:53:30.763Z",
+  "updated": "2026-06-01T05:14:01.529Z",
   "days": [
     {
       "date": "2026-05-01",
@@ -43,7 +43,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mt 13,54-58",
-          "text": ""
+          "text": "&Ocirc;ng n&agrave;y kh&ocirc;ng phải l&agrave; con b&aacute;c thợ sao ?\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 13,54-58\n54 Khi ấy, Đức Gi&ecirc;-su về qu&ecirc;, giảng dạy d&acirc;n ch&uacute;ng trong hội đường của họ, khiến họ sửng sốt v&agrave; n&oacute;i: “Bởi đ&acirc;u &ocirc;ng ta được kh&ocirc;n ngoan v&agrave; l&agrave;m được những ph&eacute;p lạ như thế ? 55 &Ocirc;ng kh&ocirc;ng phải l&agrave; con b&aacute;c thợ sao ? Mẹ của &ocirc;ng kh&ocirc;ng phải l&agrave; b&agrave; Ma-ri-a; anh em của &ocirc;ng kh&ocirc;ng phải l&agrave; c&aacute;c &ocirc;ng Gia-c&ocirc;-b&ecirc;, Gi&ocirc;-xếp, Si-m&ocirc;n v&agrave; Giu-đa sao ? 56 V&agrave; chị em của &ocirc;ng kh&ocirc;ng phải đều l&agrave; b&agrave; con lối x&oacute;m với ch&uacute;ng ta sao ? Vậy bởi đ&acirc;u &ocirc;ng ta được như thế ?” 57 V&agrave; họ vấp ng&atilde; v&igrave; Người. Nhưng Đức Gi&ecirc;-su bảo họ: “Ng&ocirc;n sứ c&oacute; bị rẻ r&uacute;ng, th&igrave; cũng chỉ l&agrave; ở ch&iacute;nh qu&ecirc; hương m&igrave;nh v&agrave; trong gia đ&igrave;nh m&igrave;nh m&agrave; th&ocirc;i.” 58 Người kh&ocirc;ng l&agrave;m nhiều ph&eacute;p lạ tại đ&oacute;, v&igrave; họ kh&ocirc;ng tin."
         }
       },
       "reflection": {
@@ -53,9 +53,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/01.html"
       },
-      "updated": "2026-06-01T04:53:26.757Z"
+      "updated": "2026-06-01T05:02:04.726Z"
     },
     {
       "date": "2026-05-02",
@@ -89,7 +89,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 14,7-14",
-          "text": ""
+          "text": "Ai thấy Thầy l&agrave; thấy Ch&uacute;a Cha.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,7-14\n7 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Nếu anh em biết Thầy, anh em cũng biết Cha Thầy. Ngay từ b&acirc;y giờ, anh em biết Người v&agrave; đ&atilde; thấy Người.”\n8 &Ocirc;ng Phi-l&iacute;p-ph&ecirc; n&oacute;i: “Thưa Thầy, xin tỏ cho ch&uacute;ng con thấy Ch&uacute;a Cha, như thế l&agrave; ch&uacute;ng con m&atilde;n nguyện.” 9 Đức Gi&ecirc;-su trả lời: “Thầy ở với anh em bấy l&acirc;u, thế m&agrave; anh Phi-l&iacute;p-ph&ecirc;, anh chưa biết Thầy ư ? Ai thấy Thầy l&agrave; thấy Ch&uacute;a Cha. Sao anh lại n&oacute;i: ‘Xin tỏ cho ch&uacute;ng con thấy Ch&uacute;a Cha’ ? 10 Anh kh&ocirc;ng tin rằng Thầy ở trong Ch&uacute;a Cha v&agrave; Ch&uacute;a Cha ở trong Thầy sao ? C&aacute;c lời Thầy n&oacute;i với anh em, Thầy kh&ocirc;ng tự m&igrave;nh n&oacute;i ra. Nhưng Ch&uacute;a Cha, Đấng lu&ocirc;n ở trong Thầy, ch&iacute;nh Người l&agrave;m những việc của m&igrave;nh. 11 Anh em h&atilde;y tin Thầy: Thầy ở trong Ch&uacute;a Cha v&agrave; Ch&uacute;a Cha ở trong Thầy; bằng kh&ocirc;ng th&igrave; h&atilde;y tin v&igrave; c&ocirc;ng việc Thầy l&agrave;m. 12 Thật, Thầy bảo thật anh em, ai tin v&agrave;o Thầy, th&igrave; người đ&oacute; cũng sẽ l&agrave;m được những việc Thầy l&agrave;m. Người đ&oacute; c&ograve;n l&agrave;m những việc lớn hơn nữa, bởi v&igrave; Thầy đến c&ugrave;ng Ch&uacute;a Cha. 13 V&agrave; bất cứ điều g&igrave; anh em nh&acirc;n danh Thầy m&agrave; xin, th&igrave; Thầy sẽ l&agrave;m, để Ch&uacute;a Cha được t&ocirc;n vinh nơi người Con. 14 Nếu anh em nh&acirc;n danh Thầy m&agrave; xin Thầy điều g&igrave;, th&igrave; ch&iacute;nh Thầy sẽ l&agrave;m điều đ&oacute;.”"
         }
       },
       "reflection": {
@@ -99,9 +99,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/02.html"
       },
-      "updated": "2026-06-01T04:53:26.757Z"
+      "updated": "2026-06-01T05:02:05.081Z"
     },
     {
       "date": "2026-05-03",
@@ -135,7 +135,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 14,1-12",
-          "text": ""
+          "text": "Ch&iacute;nh Thầy l&agrave; con đường, l&agrave; sự thật v&agrave; l&agrave; sự sống.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,1-12\n1 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Anh em đừng xao xuyến ! H&atilde;y tin v&agrave;o Thi&ecirc;n Ch&uacute;a v&agrave; tin v&agrave;o Thầy. 2 Trong nh&agrave; Cha Thầy, c&oacute; nhiều chỗ ở; nếu kh&ocirc;ng, Thầy đ&atilde; n&oacute;i với anh em rồi, v&igrave; Thầy đi dọn chỗ cho anh em. 3 Nếu Thầy đi dọn chỗ cho anh em, th&igrave; Thầy lại đến v&agrave; đem anh em về với Thầy, để Thầy ở đ&acirc;u, anh em cũng ở đ&oacute;. 4 V&agrave; Thầy đi đ&acirc;u, th&igrave; anh em biết đường rồi.”\n5 &Ocirc;ng T&ocirc;-ma n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, ch&uacute;ng con kh&ocirc;ng biết Thầy đi đ&acirc;u, l&agrave;m sao ch&uacute;ng con biết được đường ?” 6 Đức Gi&ecirc;-su đ&aacute;p: “Ch&iacute;nh Thầy l&agrave; con đường, l&agrave; sự thật v&agrave; l&agrave; sự sống. Kh&ocirc;ng ai c&oacute; thể đến với Ch&uacute;a Cha m&agrave; kh&ocirc;ng qua Thầy. 7 Nếu anh em biết Thầy, anh em cũng biết Cha Thầy. Ngay từ b&acirc;y giờ, anh em biết Người v&agrave; đ&atilde; thấy Người.”\n8 &Ocirc;ng Phi-l&iacute;p-ph&ecirc; n&oacute;i: “Thưa Thầy, xin tỏ cho ch&uacute;ng con thấy Ch&uacute;a Cha, như thế l&agrave; ch&uacute;ng con m&atilde;n nguyện.” 9 Đức Gi&ecirc;-su trả lời: “Thầy ở với anh em bấy l&acirc;u, thế m&agrave; anh Phi-l&iacute;p-ph&ecirc;, anh chưa biết Thầy ư ? Ai thấy Thầy l&agrave; thấy Ch&uacute;a Cha. Sao anh lại n&oacute;i: ‘Xin tỏ cho ch&uacute;ng con thấy Ch&uacute;a Cha’ ? 10 Anh kh&ocirc;ng tin rằng Thầy ở trong Ch&uacute;a Cha v&agrave; Ch&uacute;a Cha ở trong Thầy sao ? C&aacute;c lời Thầy n&oacute;i với anh em, Thầy kh&ocirc;ng tự m&igrave;nh n&oacute;i ra. Nhưng Ch&uacute;a Cha, Đấng lu&ocirc;n ở trong Thầy, ch&iacute;nh Người l&agrave;m những việc của m&igrave;nh. 11 Anh em h&atilde;y tin Thầy: Thầy ở trong Ch&uacute;a Cha v&agrave; Ch&uacute;a Cha ở trong Thầy; bằng kh&ocirc;ng th&igrave; h&atilde;y tin v&igrave; c&ocirc;ng việc Thầy l&agrave;m. 12 Thật, Thầy bảo thật anh em, ai tin v&agrave;o Thầy, th&igrave; người đ&oacute; cũng sẽ l&agrave;m được những việc Thầy l&agrave;m. Người đ&oacute; c&ograve;n l&agrave;m những việc lớn hơn nữa, bởi v&igrave; Thầy đến c&ugrave;ng Ch&uacute;a Cha.”"
         }
       },
       "reflection": {
@@ -145,9 +145,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/03.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:05.465Z"
     },
     {
       "date": "2026-05-04",
@@ -181,7 +181,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 14,21-26",
-          "text": ""
+          "text": "Đấng Bảo Trợ l&agrave; Th&aacute;nh Thần Ch&uacute;a Cha sẽ sai đến, Đấng đ&oacute; sẽ dạy anh em mọi điều.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,21-26\n21 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Ai c&oacute; v&agrave; giữ c&aacute;c điều răn của Thầy, người ấy mới l&agrave; kẻ y&ecirc;u mến Thầy. M&agrave; ai y&ecirc;u mến Thầy, th&igrave; sẽ được Cha của Thầy y&ecirc;u mến. Thầy sẽ y&ecirc;u mến người ấy, v&agrave; sẽ tỏ m&igrave;nh ra cho người ấy.”\n22 &Ocirc;ng Giu-đa, kh&ocirc;ng phải Giu-đa &Iacute;t-ca-ri-ốt, n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, tại sao Thầy phải tỏ m&igrave;nh ra cho ch&uacute;ng con, m&agrave; kh&ocirc;ng tỏ m&igrave;nh ra cho thế gian ?” 23 Đức Gi&ecirc;-su đ&aacute;p: “Ai y&ecirc;u mến Thầy, th&igrave; sẽ giữ lời Thầy. Cha Thầy sẽ y&ecirc;u mến người ấy. Cha Thầy v&agrave; Thầy sẽ đến v&agrave; ở lại với người ấy. 24 Ai kh&ocirc;ng y&ecirc;u mến Thầy, th&igrave; kh&ocirc;ng giữ lời Thầy. V&agrave; lời anh em nghe đ&acirc;y kh&ocirc;ng phải l&agrave; của Thầy, nhưng l&agrave; của Ch&uacute;a Cha, Đấng đ&atilde; sai Thầy. 25 C&aacute;c điều đ&oacute;, Thầy đ&atilde; n&oacute;i với anh em, đang khi c&ograve;n ở với anh em. 26 Nhưng Đấng Bảo Trợ l&agrave; Th&aacute;nh Thần Ch&uacute;a Cha sẽ sai đến nh&acirc;n danh Thầy, Đấng đ&oacute; sẽ dạy anh em mọi điều v&agrave; sẽ l&agrave;m cho anh em nhớ lại mọi điều Thầy đ&atilde; n&oacute;i với anh em.”"
         }
       },
       "reflection": {
@@ -191,9 +191,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/04.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:05.829Z"
     },
     {
       "date": "2026-05-05",
@@ -227,7 +227,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 14,27-31a",
-          "text": ""
+          "text": "Thầy ban cho anh em b&igrave;nh an của Thầy\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,27-31a\n27 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thầy để lại b&igrave;nh an cho anh em, Thầy ban cho anh em b&igrave;nh an của Thầy. Thầy ban cho anh em kh&ocirc;ng theo kiểu thế gian. Anh em đừng xao xuyến cũng đừng sợ h&atilde;i. 28 Anh em đ&atilde; nghe Thầy bảo: ‘Thầy ra đi v&agrave; đến c&ugrave;ng anh em’. Nếu anh em y&ecirc;u mến Thầy, th&igrave; hẳn anh em đ&atilde; vui mừng v&igrave; Thầy đi về c&ugrave;ng Ch&uacute;a Cha, bởi v&igrave; Ch&uacute;a Cha cao trọng hơn Thầy. 29 B&acirc;y giờ, Thầy n&oacute;i với anh em trước khi sự việc xảy ra, để khi xảy ra, anh em tin.\n30 “Thầy sẽ kh&ocirc;ng c&ograve;n n&oacute;i nhiều với anh em nữa, bởi v&igrave; Thủ l&atilde;nh thế gian đang đến. Đ&atilde; hẳn, n&oacute; kh&ocirc;ng l&agrave;m g&igrave; được Thầy. 31a Nhưng chuyện đ&oacute; xảy ra l&agrave; để cho thế gian biết rằng Thầy y&ecirc;u mến Ch&uacute;a Cha v&agrave; l&agrave;m đ&uacute;ng như Ch&uacute;a Cha đ&atilde; truyền cho Thầy.”"
         }
       },
       "reflection": {
@@ -237,9 +237,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/05.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:06.200Z"
     },
     {
       "date": "2026-05-06",
@@ -273,7 +273,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 15,1-8",
-          "text": ""
+          "text": "Ai ở lại trong Thầy, v&agrave; Thầy ở lại trong người ấy, th&igrave; người ấy sinh nhiều hoa tr&aacute;i.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,1-8\n1 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thầy l&agrave; c&acirc;y nho thật, v&agrave; Cha Thầy l&agrave; người trồng nho. 2 C&agrave;nh n&agrave;o gắn liền với Thầy m&agrave; kh&ocirc;ng sinh hoa tr&aacute;i, th&igrave; Người chặt đi; c&ograve;n c&agrave;nh n&agrave;o sinh hoa tr&aacute;i, th&igrave; Người cắt tỉa cho n&oacute; sinh nhiều hoa tr&aacute;i hơn. 3 Anh em được thanh sạch rồi nhờ lời Thầy đ&atilde; n&oacute;i với anh em. 4 H&atilde;y ở lại trong Thầy như Thầy ở lại trong anh em. Cũng như c&agrave;nh nho kh&ocirc;ng thể tự m&igrave;nh sinh hoa tr&aacute;i, nếu kh&ocirc;ng gắn liền với c&acirc;y nho, anh em cũng thế, nếu kh&ocirc;ng ở lại trong Thầy.\n5 “Thầy l&agrave; c&acirc;y nho, anh em l&agrave; c&agrave;nh. Ai ở lại trong Thầy v&agrave; Thầy ở lại trong người ấy, th&igrave; người ấy sinh nhiều hoa tr&aacute;i, v&igrave; kh&ocirc;ng c&oacute; Thầy, anh em chẳng l&agrave;m g&igrave; được. 6 Ai kh&ocirc;ng ở lại trong Thầy, th&igrave; bị quăng ra ngo&agrave;i như c&agrave;nh nho v&agrave; sẽ kh&ocirc; h&eacute;o. Người ta nhặt lấy, quăng v&agrave;o lửa cho n&oacute; ch&aacute;y đi. 7 Nếu anh em ở lại trong Thầy v&agrave; lời Thầy ở lại trong anh em, th&igrave; muốn g&igrave;, anh em cứ xin, anh em sẽ được như &yacute;. 8 Điều l&agrave;m Ch&uacute;a Cha được t&ocirc;n vinh l&agrave;: Anh em sinh nhiều hoa tr&aacute;i v&agrave; trở th&agrave;nh m&ocirc;n đệ của Thầy.”"
         }
       },
       "reflection": {
@@ -283,9 +283,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/06.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:06.562Z"
     },
     {
       "date": "2026-05-07",
@@ -319,7 +319,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 15,9-11",
-          "text": ""
+          "text": "H&atilde;y ở lại trong t&igrave;nh thương của Thầy, để niềm vui của anh em được n&ecirc;n trọn vẹn.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,9-11\n9 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Ch&uacute;a Cha đ&atilde; y&ecirc;u mến Thầy thế n&agrave;o, Thầy cũng y&ecirc;u mến anh em như vậy. Anh em h&atilde;y ở lại trong t&igrave;nh thương của Thầy. 10 Nếu anh em giữ c&aacute;c điều răn của Thầy, anh em sẽ ở lại trong t&igrave;nh thương của Thầy, như Thầy đ&atilde; giữ c&aacute;c điều răn của Cha Thầy v&agrave; ở lại trong t&igrave;nh thương của Người. 11 C&aacute;c điều ấy, Thầy đ&atilde; n&oacute;i với anh em để anh em được hưởng niềm vui của Thầy, v&agrave; niềm vui của anh em được n&ecirc;n trọn vẹn.”"
         }
       },
       "reflection": {
@@ -329,9 +329,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/07.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:06.995Z"
     },
     {
       "date": "2026-05-08",
@@ -365,7 +365,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 15,12-17",
-          "text": ""
+          "text": "Điều Thầy truyền dạy anh em l&agrave; h&atilde;y y&ecirc;u thương nhau.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,12-17\n12 Khi ấy, đến giờ l&igrave;a bỏ thế gian m&agrave; về với Ch&uacute;a Cha, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Đ&acirc;y l&agrave; điều răn của Thầy: anh em h&atilde;y y&ecirc;u thương nhau như Thầy đ&atilde; y&ecirc;u thương anh em. 13 Kh&ocirc;ng c&oacute; t&igrave;nh thương n&agrave;o cao cả hơn t&igrave;nh thương của người đ&atilde; hy sinh t&iacute;nh mạng v&igrave; bạn hữu của m&igrave;nh. 14 Anh em l&agrave; bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. 15 Thầy kh&ocirc;ng c&ograve;n gọi anh em l&agrave; t&ocirc;i tớ nữa, v&igrave; t&ocirc;i tớ kh&ocirc;ng biết việc chủ l&agrave;m. Nhưng Thầy gọi anh em l&agrave; bạn hữu, v&igrave; tất cả những g&igrave; Thầy nghe được nơi Cha Thầy, Thầy đ&atilde; cho anh em biết.\n16 “Kh&ocirc;ng phải anh em đ&atilde; chọn Thầy, nhưng ch&iacute;nh Thầy đ&atilde; chọn anh em, v&agrave; cắt cử anh em để anh em ra đi, sinh được hoa tr&aacute;i, v&agrave; hoa tr&aacute;i của anh em tồn tại, hầu tất cả những g&igrave; anh em xin c&ugrave;ng Ch&uacute;a Cha nh&acirc;n danh Thầy, th&igrave; Người ban cho anh em. 17 Điều Thầy truyền dạy anh em l&agrave; h&atilde;y y&ecirc;u thương nhau.”"
         }
       },
       "reflection": {
@@ -375,9 +375,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/08.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:07.371Z"
     },
     {
       "date": "2026-05-09",
@@ -411,7 +411,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 15,18-21",
-          "text": ""
+          "text": "Anh em kh&ocirc;ng thuộc về thế gian, v&agrave; Thầy đ&atilde; chọn anh em khỏi thế gian.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,18-21\n18 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Nếu thế gian gh&eacute;t anh em, anh em h&atilde;y biết rằng n&oacute; đ&atilde; gh&eacute;t Thầy trước. 19 Giả như anh em thuộc về thế gian, th&igrave; thế gian đ&atilde; y&ecirc;u th&iacute;ch c&aacute;i g&igrave; l&agrave; của n&oacute;. Nhưng v&igrave; anh em kh&ocirc;ng thuộc về thế gian v&agrave; Thầy đ&atilde; chọn, đ&atilde; t&aacute;ch anh em khỏi thế gian, n&ecirc;n thế gian gh&eacute;t anh em. 20 H&atilde;y nhớ lời Thầy đ&atilde; n&oacute;i với anh em: t&ocirc;i tớ kh&ocirc;ng lớn hơn chủ nh&agrave;. Nếu họ đ&atilde; bắt bớ Thầy, họ cũng sẽ bắt bớ anh em. Nếu họ đ&atilde; tu&acirc;n giữ lời Thầy, họ cũng sẽ tu&acirc;n giữ lời anh em. 21 Nhưng họ sẽ l&agrave;m tất cả những điều ấy chống lại anh em, v&igrave; anh em mang danh Thầy, bởi họ kh&ocirc;ng biết Đấng đ&atilde; sai Thầy.”"
         }
       },
       "reflection": {
@@ -421,9 +421,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/09.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:08.030Z"
     },
     {
       "date": "2026-05-10",
@@ -457,7 +457,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 14,15-21",
-          "text": ""
+          "text": "Thầy sẽ xin Ch&uacute;a Cha v&agrave; Người sẽ ban cho anh em một Đấng Bảo Trợ kh&aacute;c.\n✠ Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 14,15-21\n15 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Nếu anh em y&ecirc;u mến Thầy, anh em sẽ giữ c&aacute;c điều răn của Thầy. 16 Thầy sẽ xin Ch&uacute;a Cha v&agrave; Người sẽ ban cho anh em một Đấng Bảo Trợ kh&aacute;c đến ở với anh em lu&ocirc;n m&atilde;i. 17 Đ&oacute; l&agrave; Thần Kh&iacute; sự thật, Đấng m&agrave; thế gian kh&ocirc;ng thể đ&oacute;n nhận, v&igrave; thế gian kh&ocirc;ng thấy v&agrave; cũng chẳng biết Người. C&ograve;n anh em biết Người, v&igrave; Người lu&ocirc;n ở giữa anh em v&agrave; ở trong anh em. 18 Thầy sẽ kh&ocirc;ng để anh em mồ c&ocirc;i. Thầy đến c&ugrave;ng anh em. 19 Chẳng bao l&acirc;u nữa, thế gian sẽ kh&ocirc;ng c&ograve;n thấy Thầy. Phần anh em, anh em sẽ được thấy Thầy, v&igrave; Thầy sống v&agrave; anh em cũng sẽ được sống. 20 Ng&agrave;y đ&oacute;, anh em sẽ biết rằng Thầy ở trong Cha Thầy, anh em ở trong Thầy, v&agrave; Thầy ở trong anh em. 21 Ai c&oacute; v&agrave; giữ c&aacute;c điều răn của Thầy, người ấy mới l&agrave; kẻ y&ecirc;u mến Thầy. M&agrave; ai y&ecirc;u mến Thầy, th&igrave; sẽ được Cha Thầy y&ecirc;u mến. Thầy sẽ y&ecirc;u mến người ấy, v&agrave; sẽ tỏ m&igrave;nh ra cho người ấy.”"
         }
       },
       "reflection": {
@@ -467,9 +467,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/10.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:08.409Z"
     },
     {
       "date": "2026-05-11",
@@ -502,8 +502,8 @@
         },
         "gospel_acclamation": "",
         "gospel": {
-          "reference": "Ga 15,26–16,4a",
-          "text": ""
+          "reference": "Ga 15,26 - 16,4a",
+          "text": "Thần Kh&iacute; sự thật sẽ l&agrave;m chứng về Thầy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,26 - 16,4a\n15 26 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Khi Đấng Bảo Trợ đến, Đấng m&agrave; Thầy sẽ sai đến với anh em từ nơi Ch&uacute;a Cha, Người l&agrave; Thần Kh&iacute; sự thật ph&aacute;t xuất từ Ch&uacute;a Cha, Người sẽ l&agrave;m chứng về Thầy. 27 Cả anh em nữa, anh em cũng l&agrave;m chứng, v&igrave; anh em ở với Thầy ngay từ đầu.\n16 1 “Thầy đ&atilde; n&oacute;i với anh em c&aacute;c điều ấy, để anh em khỏi bị vấp ng&atilde;. 2 Họ sẽ khai trừ anh em khỏi hội đường. Hơn nữa, sẽ đến giờ kẻ n&agrave;o giết anh em cũng tưởng m&igrave;nh phụng thờ Thi&ecirc;n Ch&uacute;a. 3 Họ sẽ l&agrave;m như thế, bởi v&igrave; họ kh&ocirc;ng biết Ch&uacute;a Cha cũng chẳng biết Thầy. 4a Nhưng Thầy đ&atilde; n&oacute;i với anh em những điều ấy, để khi đến giờ họ h&agrave;nh động, anh em nhớ lại l&agrave; Thầy đ&atilde; n&oacute;i với anh em rồi.”"
         }
       },
       "reflection": {
@@ -513,9 +513,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/11.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:08.770Z"
     },
     {
       "date": "2026-05-12",
@@ -549,7 +549,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 16,5-11",
-          "text": ""
+          "text": "Nếu Thầy kh&ocirc;ng ra đi, Đấng Bảo Trợ sẽ kh&ocirc;ng đến với anh em.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,5-11\n5 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “B&acirc;y giờ Thầy đến c&ugrave;ng Đấng đ&atilde; sai Thầy, v&agrave; kh&ocirc;ng ai trong anh em hỏi: ‘Thầy đi đ&acirc;u ?’ 6 Nhưng v&igrave; Thầy n&oacute;i ra c&aacute;c điều ấy, n&ecirc;n l&ograve;ng anh em tr&agrave;n ngập ưu phiền. 7 Song, Thầy n&oacute;i thật với anh em: Thầy ra đi th&igrave; c&oacute; lợi cho anh em. Thật vậy, nếu Thầy kh&ocirc;ng ra đi, Đấng Bảo Trợ sẽ kh&ocirc;ng đến với anh em; nhưng nếu Thầy đi, Thầy sẽ sai Đấng ấy đến với anh em. 8 Khi Người đến, Người sẽ chứng minh rằng thế gian sai lầm về tội lỗi, về sự c&ocirc;ng ch&iacute;nh v&agrave; việc x&eacute;t xử: 9 về tội lỗi: v&igrave; ch&uacute;ng kh&ocirc;ng tin v&agrave;o Thầy; 10 về sự c&ocirc;ng ch&iacute;nh: v&igrave; Thầy đến c&ugrave;ng Ch&uacute;a Cha, v&agrave; anh em kh&ocirc;ng c&ograve;n thấy Thầy nữa; 11 về việc x&eacute;t xử: v&igrave; Thủ l&atilde;nh thế gian n&agrave;y đ&atilde; bị x&eacute;t xử rồi.”"
         }
       },
       "reflection": {
@@ -559,9 +559,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/12.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:09.440Z"
     },
     {
       "date": "2026-05-13",
@@ -595,7 +595,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 16,12-15",
-          "text": ""
+          "text": "Thần Kh&iacute; sự thật sẽ dẫn anh em tới sự thật to&agrave;n vẹn.\n✠ Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,12-15\n12 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thầy c&ograve;n nhiều điều phải n&oacute;i với anh em. Nhưng b&acirc;y giờ, anh em kh&ocirc;ng c&oacute; sức chịu nổi. 13 Khi n&agrave;o Thần Kh&iacute; sự thật đến, Người sẽ dẫn anh em tới sự thật to&agrave;n vẹn. Người sẽ kh&ocirc;ng tự m&igrave;nh n&oacute;i điều g&igrave;, nhưng tất cả những g&igrave; Người nghe, Người sẽ n&oacute;i lại, v&agrave; loan b&aacute;o cho anh em biết những điều sẽ xảy đến. 14 Người sẽ t&ocirc;n vinh Thầy, v&igrave; Người sẽ lấy những g&igrave; l&agrave; của Thầy m&agrave; loan b&aacute;o cho anh em. 15 Mọi sự Ch&uacute;a Cha c&oacute; đều l&agrave; của Thầy. V&igrave; thế, Thầy đ&atilde; n&oacute;i: Người lấy những g&igrave; l&agrave; của Thầy m&agrave; loan b&aacute;o cho anh em.”"
         }
       },
       "reflection": {
@@ -605,9 +605,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/13.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:09.796Z"
     },
     {
       "date": "2026-05-14",
@@ -640,8 +640,8 @@
         },
         "gospel_acclamation": "",
         "gospel": {
-          "reference": "Mt 28,16-20",
-          "text": ""
+          "reference": "Ga 15,9-17",
+          "text": "Kh&ocirc;ng phải anh em đ&atilde; chọn Thầy, nhưng ch&iacute;nh Thầy đ&atilde; chọn anh em.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 15,9-17\n9 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Ch&uacute;a Cha đ&atilde; y&ecirc;u mến Thầy thế n&agrave;o, Thầy cũng y&ecirc;u mến anh em như vậy. Anh em h&atilde;y ở lại trong t&igrave;nh thương của Thầy. 10 Nếu anh em giữ c&aacute;c điều răn của Thầy, anh em sẽ ở lại trong t&igrave;nh thương của Thầy, như Thầy đ&atilde; giữ c&aacute;c điều răn của Cha Thầy v&agrave; ở lại trong t&igrave;nh thương của Người. 11 C&aacute;c điều ấy, Thầy đ&atilde; n&oacute;i với anh em để anh em được hưởng niềm vui của Thầy, v&agrave; niềm vui của anh em được n&ecirc;n trọn vẹn.\n12 “Đ&acirc;y l&agrave; điều răn của Thầy: anh em h&atilde;y y&ecirc;u thương nhau như Thầy đ&atilde; y&ecirc;u thương anh em. 13 Kh&ocirc;ng c&oacute; t&igrave;nh thương n&agrave;o cao cả hơn t&igrave;nh thương của người đ&atilde; hy sinh t&iacute;nh mạng v&igrave; bạn hữu của m&igrave;nh. 14 Anh em l&agrave; bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. 15 Thầy kh&ocirc;ng c&ograve;n gọi anh em l&agrave; t&ocirc;i tớ nữa, v&igrave; t&ocirc;i tớ kh&ocirc;ng biết việc chủ l&agrave;m. Nhưng Thầy gọi anh em l&agrave; bạn hữu, v&igrave; tất cả những g&igrave; Thầy nghe được nơi Cha Thầy, Thầy đ&atilde; cho anh em biết.\n16 “Kh&ocirc;ng phải anh em đ&atilde; chọn Thầy, nhưng ch&iacute;nh Thầy đ&atilde; chọn anh em, v&agrave; cắt cử anh em, để anh em ra đi, sinh được hoa tr&aacute;i, v&agrave; hoa tr&aacute;i của anh em tồn tại, hầu tất cả những g&igrave; anh em xin c&ugrave;ng Ch&uacute;a Cha nh&acirc;n danh Thầy, th&igrave; Người ban cho anh em. 17 Điều Thầy truyền dạy anh em l&agrave; h&atilde;y y&ecirc;u thương nhau.”"
         }
       },
       "reflection": {
@@ -656,9 +656,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/14.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:10.170Z"
     },
     {
       "date": "2026-05-15",
@@ -692,7 +692,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 16,20-23a",
-          "text": ""
+          "text": "Niềm vui của anh em, kh&ocirc;ng ai lấy mất được.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,20-23a\n20 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thật, Thầy bảo thật anh em: anh em sẽ kh&oacute;c l&oacute;c v&agrave; than van, c&ograve;n thế gian sẽ vui mừng. Anh em sẽ lo buồn, nhưng nỗi buồn của anh em sẽ trở th&agrave;nh niềm vui. 21 Khi sinh con, người đ&agrave;n b&agrave; lo buồn v&igrave; đến giờ của m&igrave;nh; nhưng sinh con rồi, th&igrave; kh&ocirc;ng c&ograve;n nhớ đến cơn gian nan nữa, bởi được chan chứa niềm vui v&igrave; một con người đ&atilde; sinh ra trong thế gian. 22 Anh em cũng vậy, b&acirc;y giờ anh em lo buồn, nhưng Thầy sẽ gặp lại anh em, l&ograve;ng anh em sẽ vui mừng; v&agrave; niềm vui của anh em, kh&ocirc;ng ai lấy mất được. 23a Ng&agrave;y ấy, anh em kh&ocirc;ng c&ograve;n phải hỏi Thầy g&igrave; nữa.”"
         }
       },
       "reflection": {
@@ -702,9 +702,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/15.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:10.581Z"
     },
     {
       "date": "2026-05-16",
@@ -738,7 +738,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 16,23b-28",
-          "text": ""
+          "text": "Ch&uacute;a Cha y&ecirc;u mến anh em, v&igrave; anh em đ&atilde; y&ecirc;u mến Thầy v&agrave; tin v&agrave;o Thầy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,23b-28\n23b Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Thật, Thầy bảo thật anh em: anh em m&agrave; xin Ch&uacute;a Cha điều g&igrave;, th&igrave; Người sẽ ban cho anh em nh&acirc;n danh Thầy. 24 Cho đến nay, anh em đ&atilde; chẳng xin g&igrave; nh&acirc;n danh Thầy. Cứ xin đi, anh em sẽ được, để niềm vui của anh em n&ecirc;n trọn vẹn.\n25 “Thầy đ&atilde; d&ugrave;ng dụ ng&ocirc;n m&agrave; n&oacute;i những điều ấy với anh em. Sẽ đến giờ Thầy kh&ocirc;ng c&ograve;n d&ugrave;ng dụ ng&ocirc;n m&agrave; n&oacute;i với anh em nữa, nhưng Thầy sẽ n&oacute;i r&otilde; cho anh em về Ch&uacute;a Cha, kh&ocirc;ng c&ograve;n &uacute;p mở. 26 Ng&agrave;y ấy, anh em sẽ nh&acirc;n danh Thầy m&agrave; xin, v&agrave; Thầy kh&ocirc;ng n&oacute;i với anh em l&agrave; Thầy sẽ cầu xin Ch&uacute;a Cha cho anh em. 27 Thật vậy, ch&iacute;nh Ch&uacute;a Cha y&ecirc;u mến anh em, v&igrave; anh em đ&atilde; y&ecirc;u mến Thầy, v&agrave; tin rằng Thầy từ Thi&ecirc;n Ch&uacute;a m&agrave; đến. 28 Thầy từ Ch&uacute;a Cha m&agrave; đến v&agrave; Thầy đ&atilde; đến thế gian. Nay Thầy lại bỏ thế gian m&agrave; đến c&ugrave;ng Ch&uacute;a Cha.”"
         }
       },
       "reflection": {
@@ -748,9 +748,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/16.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:10.974Z"
     },
     {
       "date": "2026-05-17",
@@ -783,8 +783,8 @@
         },
         "gospel_acclamation": "",
         "gospel": {
-          "reference": "Ga 17,1-11a",
-          "text": ""
+          "reference": "Mt 28,16-20\n16",
+          "text": "Thầy đ&atilde; được trao to&agrave;n quyền tr&ecirc;n trời dưới đất.\n✠Kết th&uacute;c Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 28,16-20\n16 Khi ấy, mười một m&ocirc;n đệ đi tới miền Ga-li-l&ecirc;, đến ngọn n&uacute;i Đức Gi&ecirc;-su đ&atilde; truyền cho c&aacute;c &ocirc;ng đến. 17 Khi thấy Người, c&aacute;c &ocirc;ng b&aacute;i lạy, nhưng c&oacute; mấy &ocirc;ng lại ho&agrave;i nghi. 18 Đức Gi&ecirc;-su đến gần, n&oacute;i với c&aacute;c &ocirc;ng: “Thầy đ&atilde; được trao to&agrave;n quyền tr&ecirc;n trời dưới đất. 19 Vậy anh em h&atilde;y đi v&agrave; l&agrave;m cho mu&ocirc;n d&acirc;n trở th&agrave;nh m&ocirc;n đệ, l&agrave;m ph&eacute;p rửa cho họ nh&acirc;n danh Ch&uacute;a Cha, Ch&uacute;a Con v&agrave; Ch&uacute;a Th&aacute;nh Thần, 20 dạy bảo họ tu&acirc;n giữ mọi điều Thầy đ&atilde; truyền cho anh em. V&agrave; đ&acirc;y, Thầy ở c&ugrave;ng anh em mọi ng&agrave;y cho đến tận thế.”"
         }
       },
       "reflection": {
@@ -796,9 +796,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/17.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:11.331Z"
     },
     {
       "date": "2026-05-18",
@@ -832,7 +832,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 16,29-33",
-          "text": ""
+          "text": "Can đảm l&ecirc;n ! Thầy đ&atilde; thắng thế gian.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 16,29-33\n29 Khi ấy, c&aacute;c m&ocirc;n đệ thưa với Đức Gi&ecirc;-su rằng: “B&acirc;y giờ Thầy n&oacute;i r&otilde;, chứ kh&ocirc;ng c&ograve;n d&ugrave;ng dụ ng&ocirc;n n&agrave;o nữa. 30 Giờ đ&acirc;y, ch&uacute;ng con nhận ra l&agrave; Thầy biết hết mọi sự, v&agrave; Thầy kh&ocirc;ng cần phải c&oacute; ai hỏi Thầy. V&igrave; thế, ch&uacute;ng con tin Thầy từ Thi&ecirc;n Ch&uacute;a m&agrave; đến.” 31 Đức Gi&ecirc;-su đ&aacute;p: “B&acirc;y giờ anh em tin &agrave; ? 32 N&agrave;y đến giờ -v&agrave; giờ ấy đ&atilde; đến rồi- anh em sẽ bị ph&acirc;n t&aacute;n mỗi người một ngả v&agrave; để Thầy c&ocirc; độc một m&igrave;nh. Nhưng Thầy kh&ocirc;ng c&ocirc; độc đ&acirc;u, v&igrave; Ch&uacute;a Cha ở với Thầy. 33 Thầy n&oacute;i với anh em những điều ấy, để trong Thầy anh em được b&igrave;nh an. Trong thế gian, anh em sẽ phải gian nan khốn kh&oacute;. Nhưng can đảm l&ecirc;n ! Thầy đ&atilde; thắng thế gian.”"
         }
       },
       "reflection": {
@@ -842,9 +842,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/18.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:11.683Z"
     },
     {
       "date": "2026-05-19",
@@ -878,7 +878,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 17,1-11a",
-          "text": ""
+          "text": "Lạy Cha, xin Cha t&ocirc;n vinh Con Cha.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 17,1-11a\n4 “Phần con, con đ&atilde; t&ocirc;n vinh Cha ở dưới đất, khi ho&agrave;n tất c&ocirc;ng tr&igrave;nh Cha đ&atilde; giao cho con l&agrave;m. 5 Vậy, lạy Cha, giờ đ&acirc;y, xin Cha t&ocirc;n vinh con b&ecirc;n Cha: xin ban cho con vinh quang m&agrave; con vẫn được hưởng b&ecirc;n Cha trước khi c&oacute; thế gian. 6 Những kẻ Cha đ&atilde; chọn từ giữa thế gian m&agrave; ban cho con, con đ&atilde; cho họ biết danh Cha. Họ thuộc về Cha, Cha đ&atilde; ban họ cho con, v&agrave; họ đ&atilde; tu&acirc;n giữ lời Cha. 7 Giờ đ&acirc;y, họ biết rằng tất cả những g&igrave; Cha ban cho con đều do bởi Cha, 8 v&igrave; con đ&atilde; ban cho họ lời m&agrave; Cha đ&atilde; ban cho con; họ đ&atilde; nhận những lời ấy, họ biết thật rằng con đ&atilde; từ Cha m&agrave; đến, v&agrave; họ đ&atilde; tin l&agrave; Cha đ&atilde; sai con."
         }
       },
       "reflection": {
@@ -888,9 +888,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/19.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:12.054Z"
     },
     {
       "date": "2026-05-20",
@@ -924,7 +924,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 17,11b-19",
-          "text": ""
+          "text": "Lạy Cha, xin cho họ n&ecirc;n một như ch&uacute;ng ta.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 17,11b-19"
         }
       },
       "reflection": {
@@ -934,9 +934,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/20.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:12.418Z"
     },
     {
       "date": "2026-05-21",
@@ -970,7 +970,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 17,20-26",
-          "text": ""
+          "text": "Xin cho họ được ho&agrave;n to&agrave;n n&ecirc;n một.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 17,20-26\n24 “Lạy Cha, con muốn rằng con ở đ&acirc;u, th&igrave; những người Cha đ&atilde; ban cho con cũng ở đ&oacute; với con, để họ chi&ecirc;m ngưỡng vinh quang của con, vinh quang m&agrave; Cha đ&atilde; ban cho con, v&igrave; Cha đ&atilde; y&ecirc;u thương con trước khi thế gian được tạo th&agrave;nh. 25 Lạy Cha l&agrave; Đấng c&ocirc;ng ch&iacute;nh, thế gian đ&atilde; kh&ocirc;ng biết Cha, nhưng con, con đ&atilde; biết Cha, v&agrave; những người n&agrave;y đ&atilde; biết l&agrave; ch&iacute;nh Cha đ&atilde; sai con. 26 Con đ&atilde; cho họ biết danh Cha, v&agrave; sẽ c&ograve;n cho họ biết nữa, để t&igrave;nh Cha đ&atilde; y&ecirc;u thương con, ở trong họ, v&agrave; con cũng ở trong họ nữa.”"
         }
       },
       "reflection": {
@@ -980,9 +980,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/21.html"
       },
-      "updated": "2026-06-01T04:53:26.758Z"
+      "updated": "2026-06-01T05:02:12.778Z"
     },
     {
       "date": "2026-05-22",
@@ -1016,7 +1016,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 21,15-19",
-          "text": ""
+          "text": "H&atilde;y chăn dắt chi&ecirc;n của Thầy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 21,15-19\n15 Sau khi d&ugrave;ng bữa với c&aacute;c m&ocirc;n đệ tại Biển Hồ Ti-b&ecirc;-ri-a, Đức Gi&ecirc;-su Phục Sinh hỏi &ocirc;ng Si-m&ocirc;n Ph&ecirc;-r&ocirc;: “N&agrave;y anh Si-m&ocirc;n, con &ocirc;ng Gio-an, anh c&oacute; y&ecirc;u mến Thầy hơn c&aacute;c anh em n&agrave;y kh&ocirc;ng ?” &Ocirc;ng đ&aacute;p: “Thưa Thầy c&oacute;, Thầy biết con thương mến Thầy.” Đức Gi&ecirc;-su n&oacute;i với &ocirc;ng: “H&atilde;y chăm s&oacute;c chi&ecirc;n con của Thầy.” 16 Người lại hỏi: “N&agrave;y anh Si-m&ocirc;n, con &ocirc;ng Gio-an, anh c&oacute; y&ecirc;u mến Thầy kh&ocirc;ng ?” &Ocirc;ng đ&aacute;p: “Thưa Thầy c&oacute;, Thầy biết con thương mến Thầy.” Người n&oacute;i: “H&atilde;y chăn dắt chi&ecirc;n của Thầy.” 17 Người hỏi lần thứ ba: “N&agrave;y anh Si-m&ocirc;n, con &ocirc;ng Gio-an, anh c&oacute; thương mến Thầy kh&ocirc;ng ?” &Ocirc;ng Ph&ecirc;-r&ocirc; buồn v&igrave; Người hỏi tới lần thứ ba: “Anh c&oacute; thương mến Thầy kh&ocirc;ng ?” &Ocirc;ng đ&aacute;p: “Thưa Thầy, Thầy biết r&otilde; mọi sự; Thầy biết con thương mến Thầy.” Đức Gi&ecirc;-su bảo: “H&atilde;y chăm s&oacute;c chi&ecirc;n của Thầy. 18 Thật, Thầy bảo thật cho anh biết: l&uacute;c c&ograve;n trẻ, anh tự m&igrave;nh thắt lưng lấy, v&agrave; đi đ&acirc;u tuỳ &yacute;. Nhưng khi đ&atilde; về gi&agrave;, anh sẽ phải dang tay ra cho người kh&aacute;c thắt lưng v&agrave; dẫn anh đến nơi anh chẳng muốn.” 19 Người n&oacute;i vậy, c&oacute; &yacute; &aacute;m chỉ &ocirc;ng sẽ phải chết c&aacute;ch n&agrave;o để t&ocirc;n vinh Thi&ecirc;n Ch&uacute;a. Thế rồi, Người bảo &ocirc;ng: “H&atilde;y theo Thầy.”"
         }
       },
       "reflection": {
@@ -1026,9 +1026,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/22.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:13.123Z"
     },
     {
       "date": "2026-05-23",
@@ -1062,7 +1062,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 21,20-25",
-          "text": ""
+          "text": "Ch&iacute;nh m&ocirc;n đệ n&agrave;y đ&atilde; viết ra những điều đ&oacute; v&agrave; lời chứng của người ấy l&agrave; x&aacute;c thực.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 21,20-25\n20 Khi ấy, &ocirc;ng Ph&ecirc;-r&ocirc; quay lại, th&igrave; thấy người m&ocirc;n đệ Đức Gi&ecirc;-su thương mến đi theo sau; &ocirc;ng n&agrave;y l&agrave; người đ&atilde; nghi&ecirc;ng m&igrave;nh v&agrave;o ngực Đức Gi&ecirc;-su trong bữa ăn tối v&agrave; hỏi: “Thưa Thầy, ai l&agrave; kẻ nộp Thầy ?” 21 Vậy khi thấy người đ&oacute;, &ocirc;ng Ph&ecirc;-r&ocirc; n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, c&ograve;n anh n&agrave;y th&igrave; sao ?” 22 Đức Gi&ecirc;-su đ&aacute;p: “Giả như Thầy muốn anh ấy c&ograve;n ở lại cho tới khi Thầy đến, th&igrave; việc g&igrave; đến anh ? Phần anh, h&atilde;y theo Thầy.” 23 Do đ&oacute;, mới c&oacute; tiếng đồn giữa anh em l&agrave; m&ocirc;n đệ ấy sẽ kh&ocirc;ng chết. Nhưng Đức Gi&ecirc;-su đ&atilde; kh&ocirc;ng n&oacute;i với &ocirc;ng Ph&ecirc;-r&ocirc; l&agrave;: “Anh ấy sẽ kh&ocirc;ng chết”, m&agrave; chỉ n&oacute;i: “Giả như Thầy muốn anh ấy c&ograve;n ở lại cho tới khi Thầy đến, th&igrave; việc g&igrave; đến anh ?”\n24 Ch&iacute;nh m&ocirc;n đệ n&agrave;y l&agrave;m chứng về những điều đ&oacute; v&agrave; đ&atilde; viết ra. Ch&uacute;ng t&ocirc;i biết rằng lời chứng của người ấy l&agrave; x&aacute;c thực.\n25 C&ograve;n c&oacute; nhiều điều kh&aacute;c Đức Gi&ecirc;-su đ&atilde; l&agrave;m. Nếu viết lại từng điều một, th&igrave; t&ocirc;i thiết nghĩ: cả thế giới cũng kh&ocirc;ng đủ chỗ chứa c&aacute;c s&aacute;ch viết ra."
         }
       },
       "reflection": {
@@ -1076,9 +1076,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/23.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:13.525Z"
     },
     {
       "date": "2026-05-24",
@@ -1112,7 +1112,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 20,19-23",
-          "text": ""
+          "text": "Như Ch&uacute;a Cha đ&atilde; sai Thầy, th&igrave; Thầy cũng sai anh em. Anh em h&atilde;y nhận lấy Th&aacute;nh Thần.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 20,19-23\n19 V&agrave;o chiều ng&agrave;y thứ nhất trong tuần, nơi c&aacute;c m&ocirc;n đệ ở, c&aacute;c cửa đều đ&oacute;ng k&iacute;n, v&igrave; c&aacute;c &ocirc;ng sợ người Do-th&aacute;i. Đức Gi&ecirc;-su đến, đứng giữa c&aacute;c &ocirc;ng v&agrave; n&oacute;i: “B&igrave;nh an cho anh em !” 20 N&oacute;i xong, Người cho c&aacute;c &ocirc;ng xem tay v&agrave; cạnh sườn. C&aacute;c m&ocirc;n đệ vui mừng v&igrave; được thấy Ch&uacute;a. 21 Người lại n&oacute;i với c&aacute;c &ocirc;ng: “B&igrave;nh an cho anh em ! Như Ch&uacute;a Cha đ&atilde; sai Thầy, th&igrave; Thầy cũng sai anh em.” 22 N&oacute;i xong, Người thổi hơi v&agrave;o c&aacute;c &ocirc;ng v&agrave; bảo: “Anh em h&atilde;y nhận lấy Th&aacute;nh Thần. 23 Anh em tha tội cho ai, th&igrave; người ấy được tha; anh em cầm giữ ai, th&igrave; người ấy bị cầm giữ.”"
         }
       },
       "reflection": {
@@ -1128,9 +1128,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/24.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:13.891Z"
     },
     {
       "date": "2026-05-25",
@@ -1163,8 +1163,8 @@
         },
         "gospel_acclamation": "",
         "gospel": {
-          "reference": "Ga 19,25-34",
-          "text": ""
+          "reference": "Ga 19,25-27",
+          "text": "Đ&acirc;y l&agrave; con của B&agrave;. Đ&acirc;y l&agrave; mẹ của anh.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 19,25-27\n25 Khi ấy, đứng gần thập gi&aacute; Đức Gi&ecirc;-su, c&oacute; th&acirc;n mẫu Người, chị của th&acirc;n mẫu, b&agrave; Ma-ri-a vợ &ocirc;ng Cơ-l&ocirc;-p&aacute;t, c&ugrave;ng với b&agrave; Ma-ri-a M&aacute;c-đa-la. 26 Khi thấy th&acirc;n mẫu v&agrave; m&ocirc;n đệ m&igrave;nh thương mến đứng b&ecirc;n cạnh, Đức Gi&ecirc;-su n&oacute;i với th&acirc;n mẫu rằng: “Thưa B&agrave;, đ&acirc;y l&agrave; con của B&agrave;.” 27 Rồi Người n&oacute;i với m&ocirc;n đệ: “Đ&acirc;y l&agrave; mẹ của anh.” Kể từ giờ đ&oacute;, người m&ocirc;n đệ rước b&agrave; về nh&agrave; m&igrave;nh."
         }
       },
       "reflection": {
@@ -1174,9 +1174,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/25.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:14.237Z"
     },
     {
       "date": "2026-05-26",
@@ -1210,7 +1210,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mc 10,28-31",
-          "text": ""
+          "text": "Anh em nhận được gấp trăm ở đời n&agrave;y c&ugrave;ng với sự ngược đ&atilde;i, v&agrave; sự sống vĩnh cửu ở đời sau.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 10,28-31\n28 Khi ấy, &ocirc;ng Ph&ecirc;-r&ocirc; l&ecirc;n tiếng thưa với Đức Gi&ecirc;-su rằng: “Thầy coi, phần ch&uacute;ng con, ch&uacute;ng con đ&atilde; bỏ mọi sự m&agrave; theo Thầy !” 29 Đức Gi&ecirc;-su đ&aacute;p: “Thầy bảo thật anh em: Chẳng hề c&oacute; ai bỏ nh&agrave; cửa, anh em, chị em, mẹ cha, con c&aacute;i hay ruộng đất, v&igrave; Thầy v&agrave; v&igrave; Tin Mừng, 30 m&agrave; ngay b&acirc;y giờ, ở đời n&agrave;y, lại kh&ocirc;ng nhận được nh&agrave; cửa, anh em, chị em, mẹ, con, hay ruộng đất, gấp trăm, c&ugrave;ng với sự ngược đ&atilde;i, v&agrave; sự sống vĩnh cửu ở đời sau. 31 Quả thật, nhiều kẻ đứng đầu sẽ phải xuống h&agrave;ng ch&oacute;t, c&ograve;n những kẻ đứng ch&oacute;t sẽ được l&ecirc;n h&agrave;ng đầu.”"
         }
       },
       "reflection": {
@@ -1220,9 +1220,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/26.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:14.603Z"
     },
     {
       "date": "2026-05-27",
@@ -1256,7 +1256,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mc 10,32-45",
-          "text": ""
+          "text": "N&agrave;y ch&uacute;ng ta l&ecirc;n Gi&ecirc;-ru-sa-lem, v&agrave; Con Người sẽ bị nộp.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 10,32-45\n32 Khi ấy, Đức Gi&ecirc;-su v&agrave; c&aacute;c m&ocirc;n đệ đang tr&ecirc;n đường l&ecirc;n Gi&ecirc;-ru-sa-lem, Người dẫn đầu c&aacute;c &ocirc;ng. C&aacute;c &ocirc;ng kinh ho&agrave;ng, c&ograve;n những kẻ theo sau cũng sợ h&atilde;i. Người lại k&eacute;o ri&ecirc;ng Nh&oacute;m Mười Hai ra, v&agrave; bắt đầu n&oacute;i với c&aacute;c &ocirc;ng về những điều sắp xảy đến cho m&igrave;nh: 33 “N&agrave;y ch&uacute;ng ta l&ecirc;n Gi&ecirc;-ru-sa-lem, v&agrave; Con Người sẽ bị nộp cho c&aacute;c thượng tế v&agrave; kinh sư. Họ sẽ l&ecirc;n &aacute;n xử tử Người, v&agrave; sẽ nộp Người cho d&acirc;n ngoại. 34 Họ sẽ nhạo b&aacute;ng Người, khạc nhổ v&agrave;o Người, họ sẽ đ&aacute;nh đ&ograve;n v&agrave; giết chết Người. Ba ng&agrave;y sau, Người sẽ sống lại.”\n35 Hai người con &ocirc;ng D&ecirc;-b&ecirc;-đ&ecirc; l&agrave; Gia-c&ocirc;-b&ecirc; v&agrave; Gio-an đến gần Đức Gi&ecirc;-su v&agrave; n&oacute;i: “Thưa Thầy, ch&uacute;ng con muốn Thầy thực hiện cho ch&uacute;ng con điều ch&uacute;ng con sắp xin đ&acirc;y.” 36 Người hỏi: “C&aacute;c anh muốn Thầy thực hiện cho c&aacute;c anh điều g&igrave; ?” 37 C&aacute;c &ocirc;ng thưa: “Xin cho hai anh em ch&uacute;ng con, một người được ngồi b&ecirc;n hữu, một người được ngồi b&ecirc;n tả Thầy, khi Thầy được vinh quang.” 38 Đức Gi&ecirc;-su bảo: “C&aacute;c anh kh&ocirc;ng biết c&aacute;c anh xin g&igrave; ! C&aacute;c anh c&oacute; uống nổi ch&eacute;n Thầy sắp uống, hay chịu được ph&eacute;p rửa Thầy sắp chịu kh&ocirc;ng ?” 39 C&aacute;c &ocirc;ng đ&aacute;p: “Thưa được.” Đức Gi&ecirc;-su bảo: “Ch&eacute;n Thầy sắp uống, anh em cũng sẽ uống; ph&eacute;p rửa Thầy sắp chịu, anh em cũng sẽ chịu. 40 C&ograve;n việc ngồi b&ecirc;n hữu hay b&ecirc;n tả Thầy, th&igrave; Thầy kh&ocirc;ng c&oacute; quyền cho, nhưng Thi&ecirc;n Ch&uacute;a đ&atilde; chuẩn bị cho ai th&igrave; kẻ ấy mới được.”\n41 Nghe vậy, mười m&ocirc;n đệ kia đ&acirc;m ra tức tối với &ocirc;ng Gia-c&ocirc;-b&ecirc; v&agrave; &ocirc;ng Gio-an. 42 Đức Gi&ecirc;-su gọi c&aacute;c &ocirc;ng lại v&agrave; n&oacute;i: “Anh em biết: những người được coi l&agrave; thủ l&atilde;nh c&aacute;c d&acirc;n th&igrave; d&ugrave;ng uy m&agrave; thống trị d&acirc;n, những người l&agrave;m lớn th&igrave; lấy quyền m&agrave; cai quản d&acirc;n. 43 Nhưng giữa anh em th&igrave; kh&ocirc;ng được như vậy: ai muốn l&agrave;m lớn giữa anh em, th&igrave; phải l&agrave;m người phục vụ anh em; 44 ai muốn l&agrave;m đầu anh em, th&igrave; phải l&agrave;m đầy tớ mọi người. 45 V&igrave; Con Người đến, kh&ocirc;ng phải để được người ta phục vụ, nhưng l&agrave; để phục vụ, v&agrave; hiến mạng sống l&agrave;m gi&aacute; chuộc mu&ocirc;n người.”"
         }
       },
       "reflection": {
@@ -1266,9 +1266,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/27.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:14.975Z"
     },
     {
       "date": "2026-05-28",
@@ -1302,7 +1302,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mc 10,46-52",
-          "text": ""
+          "text": "Thưa Thầy, xin cho t&ocirc;i nh&igrave;n thấy được.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 10,46-52\n46 Khi ấy, Đức Gi&ecirc;-su v&agrave; c&aacute;c m&ocirc;n đệ đến th&agrave;nh Gi&ecirc;-ri-kh&ocirc;. Khi Đức Gi&ecirc;-su c&ugrave;ng với c&aacute;c m&ocirc;n đệ v&agrave; một đ&aacute;m người kh&aacute; đ&ocirc;ng ra khỏi th&agrave;nh Gi&ecirc;-ri-kh&ocirc;, th&igrave; c&oacute; một người m&ugrave; đang ngồi ăn xin b&ecirc;n vệ đường, anh ta t&ecirc;n l&agrave; Ba-ti-m&ecirc;, con &ocirc;ng Ti-m&ecirc;. 47 Vừa nghe n&oacute;i đ&oacute; l&agrave; Đức Gi&ecirc;-su Na-da-r&eacute;t, anh ta bắt đầu k&ecirc;u l&ecirc;n rằng: “Lạy &ocirc;ng Gi&ecirc;-su, Con vua Đa-v&iacute;t, xin dủ l&ograve;ng thương t&ocirc;i !” 48 Nhiều người qu&aacute;t nạt bảo anh ta im đi, nhưng anh ta c&agrave;ng k&ecirc;u lớn tiếng: “Lạy Con vua Đa-v&iacute;t, xin dủ l&ograve;ng thương t&ocirc;i !” 49 Đức Gi&ecirc;-su đứng lại v&agrave; n&oacute;i: “Gọi anh ta lại đ&acirc;y !” Người ta gọi anh m&ugrave; v&agrave; bảo: “Cứ y&ecirc;n t&acirc;m, đứng dậy, Người gọi anh đấy !” 50 Anh m&ugrave; liền vất &aacute;o cho&agrave;ng lại, đứng phắt dậy m&agrave; đến gần Đức Gi&ecirc;-su. 51 Người hỏi: “Anh muốn t&ocirc;i l&agrave;m g&igrave; cho anh ?” Anh m&ugrave; đ&aacute;p: “Thưa Thầy, xin cho t&ocirc;i nh&igrave;n thấy được.” 52 Người n&oacute;i: “Anh h&atilde;y đi, l&ograve;ng tin của anh đ&atilde; cứu anh !” Tức khắc, anh ta nh&igrave;n thấy được v&agrave; đi theo Người tr&ecirc;n con đường Người đi."
         }
       },
       "reflection": {
@@ -1312,9 +1312,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/28.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:15.325Z"
     },
     {
       "date": "2026-05-29",
@@ -1348,7 +1348,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mc 11,11-26",
-          "text": ""
+          "text": "✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 11,11-26\n11 Đang khi đ&aacute;m đ&ocirc;ng reo h&ograve; vang dậy, Đức Gi&ecirc;-su tiến v&agrave;o Gi&ecirc;-ru-sa-lem v&agrave; đi v&agrave;o Đền Thờ. Người rảo mắt nh&igrave;n xem mọi sự, v&agrave; v&igrave; giờ đ&atilde; muộn, Người đi ra B&ecirc;-ta-ni-a c&ugrave;ng với Nh&oacute;m Mười Hai.\n12 H&ocirc;m sau, khi thầy tr&ograve; rời khỏi B&ecirc;-ta-ni-a, th&igrave; Đức Gi&ecirc;-su cảm thấy đ&oacute;i. 13 Tr&ocirc;ng thấy ở đ&agrave;ng xa c&oacute; một c&acirc;y vả tốt l&aacute;, Người đến xem c&oacute; t&igrave;m được tr&aacute;i n&agrave;o kh&ocirc;ng. Nhưng khi lại gần, Người kh&ocirc;ng t&igrave;m được g&igrave; cả, chỉ thấy l&aacute; th&ocirc;i, v&igrave; kh&ocirc;ng phải l&agrave; m&ugrave;a vả. 14 Người l&ecirc;n tiếng bảo c&acirc;y vả: “Mu&ocirc;n đời sẽ chẳng c&ograve;n ai ăn tr&aacute;i của m&agrave;y nữa !” C&aacute;c m&ocirc;n đệ đ&atilde; nghe Người n&oacute;i thế."
         }
       },
       "reflection": {
@@ -1358,9 +1358,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/29.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:15.692Z"
     },
     {
       "date": "2026-05-30",
@@ -1394,7 +1394,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mc 11,27-33",
-          "text": ""
+          "text": "&Ocirc;ng lấy quyền n&agrave;o m&agrave; l&agrave;m c&aacute;c điều ấy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 11,27-33\n27 Khi ấy, Đức Gi&ecirc;-su v&agrave; c&aacute;c m&ocirc;n đệ lại v&agrave;o Gi&ecirc;-ru-sa-lem. Đang khi Người đi đi lại lại trong Đền Thờ, th&igrave; c&aacute;c thượng tế, kinh sư v&agrave; kỳ mục đến c&ugrave;ng Người v&agrave; hỏi: 28 “&Ocirc;ng lấy quyền n&agrave;o m&agrave; l&agrave;m c&aacute;c điều ấy, hay ai đ&atilde; cho &ocirc;ng quyền l&agrave;m c&aacute;c điều ấy ?” 29 Đức Gi&ecirc;-su đ&aacute;p: “T&ocirc;i chỉ xin hỏi c&aacute;c &ocirc;ng một điều th&ocirc;i. C&aacute;c &ocirc;ng trả lời đi, rồi t&ocirc;i sẽ n&oacute;i cho c&aacute;c &ocirc;ng biết t&ocirc;i lấy quyền n&agrave;o m&agrave; l&agrave;m c&aacute;c điều ấy. 30 Vậy, ph&eacute;p rửa của &ocirc;ng Gio-an l&agrave; do Trời hay do người ta ? C&aacute;c &ocirc;ng trả lời cho t&ocirc;i đi !” 31 Họ b&agrave;n với nhau: “Nếu m&igrave;nh n&oacute;i: ‘Do Trời’, th&igrave; &ocirc;ng ấy sẽ vặn lại: ‘Thế sao c&aacute;c &ocirc;ng lại kh&ocirc;ng tin &ocirc;ng ấy ?’ 32 Nhưng chẳng lẽ m&igrave;nh n&oacute;i: ‘Do người ta’ ?” Họ sợ d&acirc;n ch&uacute;ng, v&igrave; ai nấy đều cho &ocirc;ng Gio-an thật l&agrave; một ng&ocirc;n sứ. 33 Họ mới trả lời Đức Gi&ecirc;-su: “Ch&uacute;ng t&ocirc;i kh&ocirc;ng biết.” Đức Gi&ecirc;-su liền bảo họ: “T&ocirc;i cũng vậy, t&ocirc;i cũng kh&ocirc;ng n&oacute;i cho c&aacute;c &ocirc;ng l&agrave; t&ocirc;i lấy quyền n&agrave;o m&agrave; l&agrave;m c&aacute;c điều ấy.”"
         }
       },
       "reflection": {
@@ -1404,9 +1404,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/30.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:16.420Z"
     },
     {
       "date": "2026-05-31",
@@ -1440,7 +1440,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 3,16-18",
-          "text": ""
+          "text": "Thi&ecirc;n Ch&uacute;a sai Con của Người đến thế gian, để thế gian, nhờ Con của Người, m&agrave; được cứu độ.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 3,16-18\n16 “Thi&ecirc;n Ch&uacute;a y&ecirc;u thế gian đến nỗi đ&atilde; ban Con Một, để ai tin v&agrave;o Con của Người th&igrave; khỏi phải chết, nhưng được sống mu&ocirc;n đời. 17 Quả vậy, Thi&ecirc;n Ch&uacute;a sai Con của Người đến thế gian, kh&ocirc;ng phải để l&ecirc;n &aacute;n thế gian, nhưng l&agrave; để thế gian, nhờ Con của Người, m&agrave; được cứu độ. 18 Ai tin v&agrave;o Con của Người, th&igrave; kh&ocirc;ng bị l&ecirc;n &aacute;n; nhưng kẻ kh&ocirc;ng tin, th&igrave; bị l&ecirc;n &aacute;n rồi, v&igrave; đ&atilde; kh&ocirc;ng tin v&agrave;o danh của Con Một Thi&ecirc;n Ch&uacute;a.”"
         }
       },
       "reflection": {
@@ -1455,9 +1455,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=05",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/05/31.html"
       },
-      "updated": "2026-06-01T04:53:26.759Z"
+      "updated": "2026-06-01T05:02:16.756Z"
     }
   ]
 }

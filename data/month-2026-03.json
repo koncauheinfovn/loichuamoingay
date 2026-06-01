@@ -7,9 +7,9 @@
   "source": {
     "calendar": "https://augustino.net/lich-phung-vu",
     "readings": "https://www.vaticannews.va/vi/loi-chua-hang-ngay",
-    "note": "year file contains calendar and reading references; Cloudflare Worker loads full readings live for selected date"
+    "note": "year file contains full readings"
   },
-  "updated": "2026-06-01T04:53:30.763Z",
+  "updated": "2026-06-01T05:14:01.529Z",
   "days": [
     {
       "date": "2026-03-01",
@@ -43,7 +43,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mt 17,1-9",
-          "text": ""
+          "text": "Dung nhan Đức Gi&ecirc;-su ch&oacute;i lọi như mặt trời.\n✠ Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 17,1-9\n1 Khi ấy, Đức Gi&ecirc;-su đem c&aacute;c &ocirc;ng Ph&ecirc;-r&ocirc;, Gia-c&ocirc;-b&ecirc; v&agrave; Gio-an l&agrave; em &ocirc;ng Gia-c&ocirc;-b&ecirc; đi theo m&igrave;nh. Người đưa c&aacute;c &ocirc;ng đi ri&ecirc;ng ra một chỗ, tới một ngọn n&uacute;i cao. 2 Rồi Người biến đổi h&igrave;nh dạng trước mặt c&aacute;c &ocirc;ng. Dung nhan Người ch&oacute;i lọi như mặt trời, v&agrave; y phục Người trở n&ecirc;n trắng tinh như &aacute;nh s&aacute;ng. 3 V&agrave; bỗng c&aacute;c &ocirc;ng thấy &ocirc;ng M&ocirc;-s&ecirc; v&agrave; &ocirc;ng &Ecirc;-li-a hiện ra đ&agrave;m đạo với Người. 4 Bấy giờ &ocirc;ng Ph&ecirc;-r&ocirc; thưa với Đức Gi&ecirc;-su rằng: “Lạy Ng&agrave;i, ch&uacute;ng con ở đ&acirc;y, thật l&agrave; hay ! Nếu Ng&agrave;i muốn, con xin dựng tại đ&acirc;y ba c&aacute;i lều, một cho Ng&agrave;i, một cho &ocirc;ng M&ocirc;-s&ecirc;, v&agrave; một cho &ocirc;ng &Ecirc;-li-a.” 5 &Ocirc;ng c&ograve;n đang n&oacute;i, chợt c&oacute; đ&aacute;m m&acirc;y s&aacute;ng ngời bao phủ c&aacute;c &ocirc;ng, v&agrave; c&oacute; tiếng từ đ&aacute;m m&acirc;y ph&aacute;n rằng: “Đ&acirc;y l&agrave; Con y&ecirc;u dấu của Ta, Ta h&agrave;i l&ograve;ng về Người. C&aacute;c ngươi h&atilde;y v&acirc;ng nghe lời Người !” 6 Nghe vậy, c&aacute;c m&ocirc;n đệ kinh ho&agrave;ng, ng&atilde; sấp mặt xuống đất. 7 Bấy giờ Đức Gi&ecirc;-su lại gần, chạm v&agrave;o c&aacute;c &ocirc;ng v&agrave; bảo: “Trỗi dậy đi, đừng sợ !” 8 C&aacute;c &ocirc;ng ngước mắt l&ecirc;n, kh&ocirc;ng thấy ai nữa, chỉ c&ograve;n một m&igrave;nh Đức Gi&ecirc;-su m&agrave; th&ocirc;i.\n9 Đang khi thầy tr&ograve; từ tr&ecirc;n n&uacute;i xuống, Đức Gi&ecirc;-su truyền cho c&aacute;c &ocirc;ng rằng: “Đừng n&oacute;i cho ai hay thị kiến ấy, cho đến khi Con Người từ c&otilde;i chết trỗi dậy.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -55,9 +55,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/01.html"
       },
-      "updated": "2026-06-01T04:53:25.800Z"
+      "updated": "2026-06-01T05:01:42.111Z"
     },
     {
       "date": "2026-03-02",
@@ -91,7 +91,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Lc 6,36-38",
-          "text": ""
+          "text": "Anh em h&atilde;y tha thứ, th&igrave; sẽ được Thi&ecirc;n Ch&uacute;a thứ tha.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 6,36-38\n36 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Anh em h&atilde;y c&oacute; l&ograve;ng nh&acirc;n từ, như Cha anh em l&agrave; Đấng nh&acirc;n từ. 37 Anh em đừng x&eacute;t đo&aacute;n, th&igrave; anh em sẽ kh&ocirc;ng bị Thi&ecirc;n Ch&uacute;a x&eacute;t đo&aacute;n. Anh em đừng l&ecirc;n &aacute;n, th&igrave; sẽ kh&ocirc;ng bị Thi&ecirc;n Ch&uacute;a l&ecirc;n &aacute;n. Anh em h&atilde;y tha thứ, th&igrave; sẽ được Thi&ecirc;n Ch&uacute;a thứ tha. 38 Anh em h&atilde;y cho, th&igrave; sẽ được Thi&ecirc;n Ch&uacute;a cho lại. Người sẽ đong cho anh em đấu đủ lượng đ&atilde; dằn, đ&atilde; lắc v&agrave; đầy tr&agrave;n, m&agrave; đổ v&agrave;o vạt &aacute;o anh em. V&igrave; anh em đong bằng đấu n&agrave;o, th&igrave; Thi&ecirc;n Ch&uacute;a sẽ đong lại cho anh em bằng đấu ấy.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -101,9 +101,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/02.html"
       },
-      "updated": "2026-06-01T04:53:25.800Z"
+      "updated": "2026-06-01T05:01:42.458Z"
     },
     {
       "date": "2026-03-03",
@@ -137,7 +137,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mt 23,1-12",
-          "text": ""
+          "text": "Họ n&oacute;i m&agrave; kh&ocirc;ng l&agrave;m.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 23,1-12\n1 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với d&acirc;n ch&uacute;ng v&agrave; c&aacute;c m&ocirc;n đệ Người rằng: 2 “C&aacute;c kinh sư v&agrave; c&aacute;c người Pha-ri-s&ecirc;u ngồi tr&ecirc;n to&agrave; &ocirc;ng M&ocirc;-s&ecirc; m&agrave; giảng dạy. 3 Vậy, tất cả những g&igrave; họ n&oacute;i, anh em h&atilde;y l&agrave;m, h&atilde;y giữ, c&ograve;n những việc họ l&agrave;m, th&igrave; đừng c&oacute; l&agrave;m theo, v&igrave; họ n&oacute;i m&agrave; kh&ocirc;ng l&agrave;m. 4 Họ b&oacute; những g&aacute;nh nặng m&agrave; chất l&ecirc;n vai người ta, nhưng ch&iacute;nh họ th&igrave; lại kh&ocirc;ng buồn động ng&oacute;n tay v&agrave;o. 5 Họ l&agrave;m mọi việc cốt để cho thi&ecirc;n hạ thấy. Quả vậy, họ đeo những hộp kinh thật lớn, mang những tua &aacute;o thật d&agrave;i. 6 Họ ưa ngồi chỗ danh dự trong đ&aacute;m tiệc, chiếm h&agrave;ng ghế đầu trong hội đường, 7 th&iacute;ch được người ta ch&agrave;o hỏi ở những nơi c&ocirc;ng cộng v&agrave; được thi&ecirc;n hạ gọi l&agrave; thầy.\n8 “Phần anh em, th&igrave; đừng để ai gọi m&igrave;nh l&agrave; thầy, v&igrave; anh em chỉ c&oacute; một Thầy; c&ograve;n tất cả anh em đều l&agrave; anh em với nhau. 9 Anh em cũng đừng gọi ai dưới đất n&agrave;y l&agrave; cha của anh em, v&igrave; anh em chỉ c&oacute; một Cha l&agrave; Cha tr&ecirc;n trời. 10 Anh em cũng đừng để ai gọi m&igrave;nh l&agrave; người chỉ đạo, v&igrave; anh em chỉ c&oacute; một vị chỉ đạo, l&agrave; Đấng Ki-t&ocirc;. 11 Trong anh em, người l&agrave;m lớn hơn cả, phải l&agrave;m người phục vụ anh em. 12 Ai t&ocirc;n m&igrave;nh l&ecirc;n, sẽ bị hạ xuống; c&ograve;n ai hạ m&igrave;nh xuống, sẽ được t&ocirc;n l&ecirc;n.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -147,9 +147,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/03.html"
       },
-      "updated": "2026-06-01T04:53:25.801Z"
+      "updated": "2026-06-01T05:01:42.831Z"
     },
     {
       "date": "2026-03-04",
@@ -183,7 +183,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mt 20,17-28",
-          "text": ""
+          "text": "Họ sẽ kết &aacute;n xử tử Đức Gi&ecirc;-su.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 20,17-28\n17 Khi ấy, l&uacute;c sắp l&ecirc;n Gi&ecirc;-ru-sa-lem, Đức Gi&ecirc;-su đưa Nh&oacute;m Mười Hai đi ri&ecirc;ng với m&igrave;nh, v&agrave; dọc đường Người n&oacute;i với c&aacute;c &ocirc;ng: 18 “N&agrave;y ch&uacute;ng ta l&ecirc;n Gi&ecirc;-ru-sa-lem, v&agrave; Con Người sẽ bị nộp cho c&aacute;c thượng tế v&agrave; kinh sư. Họ sẽ kết &aacute;n xử tử Người, 19 sẽ nộp Người cho d&acirc;n ngoại nhạo b&aacute;ng, đ&aacute;nh đ&ograve;n v&agrave; đ&oacute;ng đinh v&agrave;o thập gi&aacute; v&agrave;, ng&agrave;y thứ ba, Người sẽ trỗi dậy.”\n20 Bấy giờ b&agrave; mẹ của c&aacute;c con &ocirc;ng D&ecirc;-b&ecirc;-đ&ecirc; đến gặp Đức Gi&ecirc;-su, c&oacute; c&aacute;c con b&agrave; đi theo; b&agrave; b&aacute;i lạy v&agrave; k&ecirc;u xin Người một điều. 21 Người hỏi b&agrave;: “B&agrave; muốn g&igrave; ?” B&agrave; thưa: “Xin Thầy truyền cho hai con t&ocirc;i đ&acirc;y, một người ngồi b&ecirc;n hữu, một người b&ecirc;n tả Thầy trong Nước Thầy.” 22 Đức Gi&ecirc;-su bảo: “C&aacute;c người kh&ocirc;ng biết c&aacute;c người xin g&igrave; ! C&aacute;c người c&oacute; uống nổi ch&eacute;n Thầy sắp uống kh&ocirc;ng ?” Họ đ&aacute;p: “Thưa uống nổi.” 23 Đức Gi&ecirc;-su bảo: “Ch&eacute;n của Thầy, c&aacute;c người sẽ uống; c&ograve;n việc ngồi b&ecirc;n hữu hay b&ecirc;n tả Thầy, th&igrave; Thầy kh&ocirc;ng c&oacute; quyền cho, nhưng Cha Thầy đ&atilde; chuẩn bị cho ai, th&igrave; kẻ ấy mới được.”\n24 Nghe vậy, mười m&ocirc;n đệ kia tức tối với hai anh em đ&oacute;. 25 Nhưng Đức Gi&ecirc;-su gọi c&aacute;c &ocirc;ng lại v&agrave; n&oacute;i: “Anh em biết: thủ l&atilde;nh c&aacute;c d&acirc;n th&igrave; d&ugrave;ng uy m&agrave; thống trị d&acirc;n, những người l&agrave;m lớn th&igrave; lấy quyền m&agrave; cai quản d&acirc;n. 26 Giữa anh em th&igrave; kh&ocirc;ng được như vậy: Ai muốn l&agrave;m lớn giữa anh em, th&igrave; phải l&agrave;m người phục vụ anh em. 27 V&agrave; ai muốn l&agrave;m đầu anh em th&igrave; phải l&agrave;m đầy tớ anh em. 28 Cũng như Con Người đến kh&ocirc;ng phải để được người ta phục vụ, nhưng l&agrave; để phục vụ v&agrave; hiến d&acirc;ng mạng sống l&agrave;m gi&aacute; chuộc mu&ocirc;n người.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -193,9 +193,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/04.html"
       },
-      "updated": "2026-06-01T04:53:25.801Z"
+      "updated": "2026-06-01T05:01:43.202Z"
     },
     {
       "date": "2026-03-05",
@@ -229,7 +229,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Lc 16,19-31",
-          "text": ""
+          "text": "Con đ&atilde; nhận phần phước của con rồi; c&ograve;n La-da-r&ocirc; suốt một đời chịu to&agrave;n những bất hạnh. B&acirc;y giờ, La-da-r&ocirc; được an ủi nơi đ&acirc;y, c&ograve;n con th&igrave; phải chịu khốn khổ.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 16,19-31\n19 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với người Pha-ri-s&ecirc;u dụ ng&ocirc;n sau đ&acirc;y: “C&oacute; một &ocirc;ng nh&agrave; gi&agrave;u kia, mặc to&agrave;n lụa l&agrave; gấm v&oacute;c, ng&agrave;y ng&agrave;y yến tiệc linh đ&igrave;nh. 20 Lại c&oacute; một người ngh&egrave;o kh&oacute; t&ecirc;n l&agrave; La-da-r&ocirc;, mụn nhọt đầy m&igrave;nh, nằm trước cổng &ocirc;ng nh&agrave; gi&agrave;u, 21 th&egrave;m được những thứ tr&ecirc;n b&agrave;n ăn của &ocirc;ng ấy rớt xuống m&agrave; ăn cho no. Lại th&ecirc;m mấy con ch&oacute; cứ đến liếm ghẻ chốc anh ta. 22 Thế rồi người ngh&egrave;o n&agrave;y chết, v&agrave; được thi&ecirc;n thần đem v&agrave;o l&ograve;ng &ocirc;ng &Aacute;p-ra-ham. &Ocirc;ng nh&agrave; gi&agrave;u cũng chết, v&agrave; người ta đem ch&ocirc;n.\n23 “Dưới &acirc;m phủ, đang khi chịu cực h&igrave;nh, &ocirc;ng ta ngước mắt l&ecirc;n, thấy tổ phụ &Aacute;p-ra-ham ở tận đ&agrave;ng xa, v&agrave; thấy anh La-da-r&ocirc; trong l&ograve;ng tổ phụ. 24 Bấy giờ &ocirc;ng ta k&ecirc;u l&ecirc;n: ‘Lạy tổ phụ &Aacute;p-ra-ham, xin thương x&oacute;t con, v&agrave; sai anh La-da-r&ocirc; nh&uacute;ng đầu ng&oacute;n tay v&agrave;o nước, nhỏ tr&ecirc;n lưỡi con cho m&aacute;t; v&igrave; ở đ&acirc;y con bị lửa thi&ecirc;u đốt khổ lắm !’ 25 &Ocirc;ng &Aacute;p-ra-ham đ&aacute;p: ‘Con ơi, h&atilde;y nhớ lại: suốt đời con, con đ&atilde; nhận phần phước của con rồi; c&ograve;n La-da-r&ocirc; suốt một đời chịu to&agrave;n những bất hạnh. B&acirc;y giờ, La-da-r&ocirc; được an ủi nơi đ&acirc;y, c&ograve;n con th&igrave; phải chịu khốn khổ. 26 Hơn nữa, giữa ch&uacute;ng ta đ&acirc;y v&agrave; c&aacute;c con đ&atilde; c&oacute; một vực thẳm lớn, đến nỗi b&ecirc;n n&agrave;y muốn qua b&ecirc;n c&aacute;c con cũng kh&ocirc;ng được, m&agrave; b&ecirc;n đ&oacute; c&oacute; qua b&ecirc;n ch&uacute;ng ta đ&acirc;y cũng kh&ocirc;ng được.’\n27 “&Ocirc;ng nh&agrave; gi&agrave;u n&oacute;i: ‘Lạy tổ phụ, vậy th&igrave; con xin tổ phụ sai anh La-da-r&ocirc; đến nh&agrave; cha con, 28 v&igrave; con hiện c&ograve;n năm người anh em nữa. Xin sai anh đến cảnh c&aacute;o họ, kẻo họ lại cũng sa v&agrave;o chốn cực h&igrave;nh n&agrave;y !’ 29 &Ocirc;ng &Aacute;p-ra-ham đ&aacute;p: ‘Ch&uacute;ng đ&atilde; c&oacute; M&ocirc;-s&ecirc; v&agrave; c&aacute;c Ng&ocirc;n Sứ, th&igrave; ch&uacute;ng cứ nghe lời c&aacute;c vị đ&oacute;.’ 30 &Ocirc;ng nh&agrave; gi&agrave;u n&oacute;i: ‘Thưa tổ phụ &Aacute;p-ra-ham, họ kh&ocirc;ng chịu nghe đ&acirc;u, nhưng nếu c&oacute; người từ c&otilde;i chết đến với họ, th&igrave; họ sẽ ăn năn s&aacute;m hối.’ 31 &Ocirc;ng &Aacute;p-ra-ham đ&aacute;p: ‘M&ocirc;-s&ecirc; v&agrave; c&aacute;c Ng&ocirc;n Sứ m&agrave; họ c&ograve;n chẳng chịu nghe, th&igrave; người chết c&oacute; sống lại, họ cũng chẳng chịu tin.’”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -239,9 +239,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/05.html"
       },
-      "updated": "2026-06-01T04:53:25.801Z"
+      "updated": "2026-06-01T05:01:43.576Z"
     },
     {
       "date": "2026-03-06",
@@ -275,7 +275,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mt 21,33-43.45-46",
-          "text": ""
+          "text": "Đứa thừa tự đ&acirc;y rồi ! N&agrave;o ta giết qu&aacute;ch n&oacute; đi.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 21,33-43.45-46\n33 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c thượng tế v&agrave; kỳ mục trong d&acirc;n rằng: “C&aacute;c &ocirc;ng h&atilde;y nghe dụ ng&ocirc;n sau đ&acirc;y: C&oacute; chủ nh&agrave; kia trồng được một vườn nho; chung quanh vườn, &ocirc;ng r&agrave;o giậu; trong vườn, &ocirc;ng kho&eacute;t bồn đạp nho, v&agrave; x&acirc;y một th&aacute;p canh. &Ocirc;ng cho t&aacute; điền canh t&aacute;c, rồi trẩy đi xa. 34 Gần đến m&ugrave;a h&aacute;i nho, &ocirc;ng sai đầy tớ đến gặp c&aacute;c t&aacute; điền để thu hoa lợi. 35 Bọn t&aacute; điền bắt c&aacute;c đầy tớ &ocirc;ng: ch&uacute;ng đ&aacute;nh người n&agrave;y, giết người kia, n&eacute;m đ&aacute; người nọ. 36 &Ocirc;ng lại sai một số đầy tớ kh&aacute;c đ&ocirc;ng hơn trước; nhưng bọn t&aacute; điền cũng xử với họ y như vậy. 37 Sau c&ugrave;ng, &ocirc;ng sai con trai m&igrave;nh đến gặp ch&uacute;ng, v&igrave; nghĩ rằng: ‘Ch&uacute;ng sẽ nể con ta.’ 38 Nhưng bọn t&aacute; điền vừa thấy người con, th&igrave; bảo nhau: ‘Đứa thừa tự đ&acirc;y rồi ! N&agrave;o ta giết qu&aacute;ch n&oacute; đi, v&agrave; đoạt lấy gia t&agrave;i n&oacute; !’ 39 Thế l&agrave; ch&uacute;ng bắt lấy cậu, tống ra khỏi vườn nho v&agrave; giết đi. 40 Vậy khi &ocirc;ng chủ vườn nho đến, &ocirc;ng sẽ l&agrave;m g&igrave; bọn t&aacute; điền kia ?” 41 Họ đ&aacute;p: “&Aacute;c giả &aacute;c b&aacute;o, &ocirc;ng sẽ tru diệt bọn ch&uacute;ng v&agrave; cho c&aacute;c t&aacute; điền kh&aacute;c canh t&aacute;c vườn nho, để cứ đ&uacute;ng m&ugrave;a, họ nộp hoa lợi cho &ocirc;ng.” 42 Đức Gi&ecirc;-su bảo họ: “Kinh Th&aacute;nh c&oacute; c&acirc;u: ‘Tảng đ&aacute; thợ x&acirc;y nh&agrave; loại bỏ lại trở n&ecirc;n đ&aacute; tảng g&oacute;c tường. Đ&oacute; ch&iacute;nh l&agrave; c&ocirc;ng tr&igrave;nh của Ch&uacute;a, c&ocirc;ng tr&igrave;nh kỳ diệu trước mắt ch&uacute;ng ta.’ C&aacute;c &ocirc;ng chưa bao giờ đọc c&acirc;u n&agrave;y sao ?\n43 Bởi đ&oacute;, t&ocirc;i n&oacute;i cho c&aacute;c &ocirc;ng hay: Nước Thi&ecirc;n Ch&uacute;a, Người sẽ lấy đi kh&ocirc;ng cho c&aacute;c &ocirc;ng nữa, m&agrave; ban cho một d&acirc;n biết l&agrave;m cho Nước ấy sinh hoa lợi.”\n45 Nghe những dụ ng&ocirc;n Người kể, c&aacute;c thượng tế v&agrave; người Pha-ri-s&ecirc;u hiểu l&agrave; Người n&oacute;i về họ. 46 Họ t&igrave;m c&aacute;ch bắt Người, nhưng lại sợ d&acirc;n ch&uacute;ng, v&igrave; d&acirc;n ch&uacute;ng cho Người l&agrave; một ng&ocirc;n sứ.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -285,9 +285,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/06.html"
       },
-      "updated": "2026-06-01T04:53:25.801Z"
+      "updated": "2026-06-01T05:01:43.938Z"
     },
     {
       "date": "2026-03-07",
@@ -321,7 +321,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Lc 15,1-3.11-32",
-          "text": ""
+          "text": "Em con đ&acirc;y đ&atilde; chết m&agrave; nay sống lại.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 15,1-3.11-32\n1 Khi ấy, c&aacute;c người thu thuế v&agrave; c&aacute;c người tội lỗi đều lui tới với Đức Gi&ecirc;-su để nghe Người giảng. 2 Thấy vậy, những người Pha-ri-s&ecirc;u v&agrave; c&aacute;c kinh sư b&egrave;n xầm x&igrave; với nhau: “&Ocirc;ng n&agrave;y đ&oacute;n tiếp phường tội lỗi v&agrave; ăn uống với ch&uacute;ng.” 3 Đức Gi&ecirc;-su mới kể cho họ dụ ng&ocirc;n n&agrave;y:\n11 “Một người kia c&oacute; hai con trai. 12 Người con thứ n&oacute;i với cha rằng: ‘Thưa cha, xin cho con phần t&agrave;i sản con được hưởng.’ V&agrave; người cha đ&atilde; chia của cải cho hai con. 13 &Iacute;t ng&agrave;y sau, người con thứ thu g&oacute;p tất cả rồi trẩy đi phương xa. Ở đ&oacute; anh ta sống ph&oacute;ng đ&atilde;ng, phung ph&iacute; t&agrave;i sản của m&igrave;nh.\n14 “Khi anh ta đ&atilde; ăn ti&ecirc;u hết sạch, th&igrave; lại xảy ra trong v&ugrave;ng ấy một nạn đ&oacute;i khủng khiếp. V&agrave; anh ta bắt đầu l&acirc;m cảnh t&uacute;ng thiếu, 15 n&ecirc;n phải đi ở đợ cho một người d&acirc;n trong v&ugrave;ng; người n&agrave;y sai anh ta ra đồng chăn heo. 16 Anh ta ao ước lấy đậu muồng heo ăn m&agrave; nh&eacute;t cho đầy bụng, nhưng chẳng ai cho. 17 Bấy giờ anh ta hồi t&acirc;m v&agrave; tự nhủ: ‘Biết bao nhi&ecirc;u người l&agrave;m c&ocirc;ng cho cha ta được cơm dư gạo thừa, m&agrave; ta ở đ&acirc;y lại chết đ&oacute;i ! 18 Th&ocirc;i, ta đứng l&ecirc;n, đi về c&ugrave;ng cha v&agrave; thưa với người: ‘Thưa cha, con thật đắc tội với Trời v&agrave; với cha, 19 chẳng c&ograve;n đ&aacute;ng gọi l&agrave; con cha nữa. Xin coi con như một người l&agrave;m c&ocirc;ng cho cha vậy.’ 20 Thế rồi anh ta đứng l&ecirc;n đi về c&ugrave;ng cha.\n“Anh ta c&ograve;n ở đằng xa, th&igrave; người cha đ&atilde; tr&ocirc;ng thấy. &Ocirc;ng chạnh l&ograve;ng thương, chạy ra &ocirc;m cổ anh ta v&agrave; h&ocirc;n lấy h&ocirc;n để. 21 Bấy giờ người con n&oacute;i rằng: ‘Thưa cha, con thật đắc tội với Trời v&agrave; với cha, chẳng c&ograve;n đ&aacute;ng gọi l&agrave; con cha nữa...’ 22 Nhưng người cha liền bảo c&aacute;c đầy tớ rằng: ‘Mau đem &aacute;o đẹp nhất ra đ&acirc;y mặc cho cậu, xỏ nhẫn v&agrave;o ng&oacute;n tay, xỏ d&eacute;p v&agrave;o ch&acirc;n cậu, 23 rồi đi bắt con b&ecirc; đ&atilde; vỗ b&eacute;o l&agrave;m thịt để ch&uacute;ng ta mở tiệc ăn mừng ! 24 V&igrave; con ta đ&acirc;y đ&atilde; chết m&agrave; nay sống lại, đ&atilde; mất m&agrave; nay lại t&igrave;m thấy.’ V&agrave; họ bắt đầu ăn mừng.\n25 “L&uacute;c ấy người con cả của &ocirc;ng đang ở ngo&agrave;i đồng. Khi anh ta về gần đến nh&agrave;, nghe thấy tiếng đ&agrave;n ca nhảy m&uacute;a, 26 liền gọi một người đầy tớ ra m&agrave; hỏi xem c&oacute; chuyện g&igrave;. 27 Người ấy trả lời: ‘Em cậu đ&atilde; về, v&agrave; cha cậu đ&atilde; l&agrave;m thịt con b&ecirc; b&eacute;o, v&igrave; gặp lại cậu ấy mạnh khoẻ.’ 28 Người anh cả liền nổi giận v&agrave; kh&ocirc;ng chịu v&agrave;o nh&agrave;. Nhưng cha cậu ra năn nỉ. 29 Cậu trả lời cha: ‘Cha coi, đ&atilde; bao nhi&ecirc;u năm trời con hầu hạ cha, v&agrave; chẳng khi n&agrave;o tr&aacute;i lệnh, thế m&agrave; chưa bao giờ cha cho lấy được một con d&ecirc; con để con ăn mừng với bạn b&egrave;. 30 C&ograve;n thằng con của cha đ&oacute;, sau khi đ&atilde; nuốt hết của cải của cha với bọn điếm, nay trở về, th&igrave; cha lại giết b&ecirc; b&eacute;o ăn mừng !’\n31 “Nhưng người cha n&oacute;i với anh ta: ‘Con &agrave;, l&uacute;c n&agrave;o con cũng ở với cha, tất cả những g&igrave; của cha đều l&agrave; của con. 32 Nhưng ch&uacute;ng ta phải ăn mừng, phải vui vẻ, v&igrave; em con đ&acirc;y đ&atilde; chết m&agrave; nay lại sống, đ&atilde; mất m&agrave; nay lại t&igrave;m thấy.’”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -331,9 +331,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/07.html"
       },
-      "updated": "2026-06-01T04:53:25.801Z"
+      "updated": "2026-06-01T05:01:44.283Z"
     },
     {
       "date": "2026-03-08",
@@ -366,8 +366,8 @@
         },
         "gospel_acclamation": "",
         "gospel": {
-          "reference": "Ga 4,5-42",
-          "text": ""
+          "reference": "Ga 4, 5-42",
+          "text": "Mạch nước vọt l&ecirc;n, đem lại sự sống đời đời.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 4, 5-42\n5 Khi ấy, Đức Gi&ecirc;-su đến một th&agrave;nh xứ Sa-ma-ri, t&ecirc;n l&agrave; Xy-kha, gần thửa đất &ocirc;ng Gia-c&oacute;p đ&atilde; cho con l&agrave; &ocirc;ng Giu-se. 6 Ở đấy, c&oacute; giếng của &ocirc;ng Gia-c&oacute;p. Người đi đường mỏi mệt, n&ecirc;n ngồi ngay xuống bờ giếng. L&uacute;c đ&oacute; v&agrave;o khoảng mười hai giờ trưa.\n7 C&oacute; một người phụ nữ Sa-ma-ri đến lấy nước. Đức Gi&ecirc;-su n&oacute;i với người ấy: “Chị cho t&ocirc;i xin ch&uacute;t nước uống !” 8 L&uacute;c đ&oacute;, c&aacute;c m&ocirc;n đệ của Người đ&atilde; v&agrave;o th&agrave;nh mua thức ăn. 9 Người phụ nữ Sa-ma-ri liền n&oacute;i: “&Ocirc;ng l&agrave; người Do-th&aacute;i, m&agrave; lại xin t&ocirc;i, một phụ nữ Sa-ma-ri, cho &ocirc;ng nước uống sao ?” Quả thế, người Do-th&aacute;i kh&ocirc;ng được giao thiệp với người Sa-ma-ri. 10 Đức Gi&ecirc;-su trả lời: “Nếu chị nhận ra &acirc;n huệ Thi&ecirc;n Ch&uacute;a ban, v&agrave; ai l&agrave; người n&oacute;i với chị: ‘Cho t&ocirc;i ch&uacute;t nước uống’, th&igrave; hẳn chị đ&atilde; xin, v&agrave; người ấy đ&atilde; ban cho chị nước hằng sống.” 11 Chị ấy n&oacute;i: “Thưa &ocirc;ng, &ocirc;ng kh&ocirc;ng c&oacute; gầu, m&agrave; giếng lại s&acirc;u. Vậy &ocirc;ng lấy đ&acirc;u ra nước hằng sống ? 12 Chẳng lẽ &ocirc;ng lớn hơn tổ phụ ch&uacute;ng t&ocirc;i l&agrave; Gia-c&oacute;p, người đ&atilde; cho ch&uacute;ng t&ocirc;i giếng n&agrave;y ? Ch&iacute;nh Người đ&atilde; uống nước giếng n&agrave;y, cả con ch&aacute;u v&agrave; đ&agrave;n gia s&uacute;c của Người cũng vậy.” 13 Đức Gi&ecirc;-su trả lời: “Ai uống nước n&agrave;y, sẽ lại kh&aacute;t. 14 C&ograve;n ai uống nước t&ocirc;i cho, sẽ kh&ocirc;ng bao giờ kh&aacute;t nữa. V&agrave; nước t&ocirc;i cho sẽ trở th&agrave;nh nơi người ấy một mạch nước vọt l&ecirc;n, đem lại sự sống đời đời.”\n15 Người phụ nữ n&oacute;i với Đức Gi&ecirc;-su: “Thưa &ocirc;ng, xin &ocirc;ng cho t&ocirc;i thứ nước ấy, để t&ocirc;i hết kh&aacute;t v&agrave; khỏi phải đến đ&acirc;y lấy nước.” 16 Người bảo chị ấy: “Chị h&atilde;y gọi chồng chị, rồi trở lại đ&acirc;y.” 17 Người phụ nữ đ&aacute;p: “T&ocirc;i kh&ocirc;ng c&oacute; chồng.” Đức Gi&ecirc;-su bảo: “Chị n&oacute;i: ‘T&ocirc;i kh&ocirc;ng c&oacute; chồng’ l&agrave; phải, 18 v&igrave; chị đ&atilde; năm đời chồng rồi, v&agrave; người hiện đang sống với chị kh&ocirc;ng phải l&agrave; chồng chị. Chị đ&atilde; n&oacute;i đ&uacute;ng.” 19 Người phụ nữ n&oacute;i với Người: “Thưa &ocirc;ng, t&ocirc;i thấy &ocirc;ng thật l&agrave; một ng&ocirc;n sứ... 20 Cha &ocirc;ng ch&uacute;ng t&ocirc;i đ&atilde; thờ phượng Thi&ecirc;n Ch&uacute;a tr&ecirc;n n&uacute;i n&agrave;y; c&ograve;n c&aacute;c &ocirc;ng lại bảo: Gi&ecirc;-ru-sa-lem mới ch&iacute;nh l&agrave; nơi phải thờ phượng Thi&ecirc;n Ch&uacute;a.” 21 Đức Gi&ecirc;-su ph&aacute;n: “N&agrave;y chị, h&atilde;y tin t&ocirc;i: đ&atilde; đến giờ c&aacute;c người sẽ thờ phượng Ch&uacute;a Cha, kh&ocirc;ng phải tr&ecirc;n n&uacute;i n&agrave;y hay tại Gi&ecirc;-ru-sa-lem. 22 C&aacute;c người thờ Đấng c&aacute;c người kh&ocirc;ng biết; c&ograve;n ch&uacute;ng t&ocirc;i thờ Đấng ch&uacute;ng t&ocirc;i biết, v&igrave; ơn cứu độ ph&aacute;t xuất từ d&acirc;n Do-th&aacute;i. 23 Nhưng giờ đ&atilde; đến -v&agrave; ch&iacute;nh l&agrave; l&uacute;c n&agrave;y đ&acirc;y- giờ những người thờ phượng đ&iacute;ch thực sẽ thờ phượng Ch&uacute;a Cha trong thần kh&iacute; v&agrave; sự thật, v&igrave; Ch&uacute;a Cha t&igrave;m kiếm những ai thờ phượng Người như thế. 24 Thi&ecirc;n Ch&uacute;a l&agrave; thần kh&iacute;, v&agrave; những kẻ thờ phượng Người phải thờ phượng trong thần kh&iacute; v&agrave; sự thật.” 25 Người phụ nữ thưa: “T&ocirc;i biết Đấng M&ecirc;-si-a, gọi l&agrave; Đức Ki-t&ocirc;, sẽ đến. Khi Người đến, Người sẽ loan b&aacute;o cho ch&uacute;ng t&ocirc;i mọi sự.” 26 Đức Gi&ecirc;-su n&oacute;i: “Đấng ấy ch&iacute;nh l&agrave; t&ocirc;i, người đang n&oacute;i với chị đ&acirc;y.”\n27 Vừa l&uacute;c đ&oacute;, c&aacute;c m&ocirc;n đệ trở về. C&aacute;c &ocirc;ng ngạc nhi&ecirc;n v&igrave; thấy Người n&oacute;i chuyện với một phụ nữ. Tuy thế, kh&ocirc;ng ai d&aacute;m hỏi: “Thầy cần g&igrave; vậy ?” Hoặc “Thầy n&oacute;i g&igrave; với chị ấy ?” 28 Người phụ nữ để v&ograve; nước lại, v&agrave;o th&agrave;nh v&agrave; n&oacute;i với người ta: 29 “Đến m&agrave; xem: c&oacute; một người đ&atilde; n&oacute;i với t&ocirc;i tất cả những g&igrave; t&ocirc;i đ&atilde; l&agrave;m. &Ocirc;ng ấy kh&ocirc;ng phải l&agrave; Đấng Ki-t&ocirc; sao ?” 30 Họ ra khỏi th&agrave;nh v&agrave; đến gặp Người.\n31 Trong khi đ&oacute;, c&aacute;c m&ocirc;n đệ thưa với Người rằng: “R&aacute;p-bi, xin mời Thầy d&ugrave;ng bữa.” 32 Người n&oacute;i với c&aacute;c &ocirc;ng: “Thầy phải d&ugrave;ng một thứ lương thực m&agrave; anh em kh&ocirc;ng biết.” 33 C&aacute;c m&ocirc;n đệ mới hỏi nhau: “Đ&atilde; c&oacute; ai mang thức ăn đến cho Thầy rồi chăng ?” 34 Đức Gi&ecirc;-su n&oacute;i với c&aacute;c &ocirc;ng: “Lương thực của Thầy l&agrave; thi h&agrave;nh &yacute; muốn của Đấng đ&atilde; sai Thầy, v&agrave; ho&agrave;n tất c&ocirc;ng tr&igrave;nh của Người. 35 N&agrave;o anh em chẳng n&oacute;i: C&ograve;n bốn th&aacute;ng nữa mới đến m&ugrave;a gặt ? Nhưng n&agrave;y, Thầy bảo anh em: Ngước mắt l&ecirc;n m&agrave; xem, đồng l&uacute;a đ&atilde; ch&iacute;n v&agrave;ng đang chờ ng&agrave;y gặt h&aacute;i ! 36 Ai gặt th&igrave; l&atilde;nh tiền c&ocirc;ng v&agrave; thu hoa lợi để được sống mu&ocirc;n đời, v&agrave; như thế, cả người gieo lẫn kẻ gặt đều hớn hở vui mừng. 37 Thật vậy, c&acirc;u tục ngữ “kẻ n&agrave;y gieo, người kia gặt” quả l&agrave; đ&uacute;ng ! 38 Thầy sai anh em đi gặt những g&igrave; ch&iacute;nh anh em đ&atilde; kh&ocirc;ng phải vất vả l&agrave;m ra. Người kh&aacute;c đ&atilde; l&agrave;m lụng vất vả; c&ograve;n anh em, anh em được v&agrave;o hưởng kết quả c&ocirc;ng lao của họ.”\n39 C&oacute; nhiều người Sa-ma-ri trong th&agrave;nh đ&oacute; đ&atilde; tin v&agrave;o Đức Gi&ecirc;-su, v&igrave; lời người phụ nữ l&agrave;m chứng: &ocirc;ng ấy n&oacute;i với t&ocirc;i mọi việc t&ocirc;i đ&atilde; l&agrave;m. 40 Vậy, khi đến gặp Người, d&acirc;n Sa-ma-ri xin Người ở lại với họ, v&agrave; Người đ&atilde; ở lại đ&oacute; hai ng&agrave;y. 41 Số người tin v&igrave; lời Đức Gi&ecirc;-su n&oacute;i c&ograve;n đ&ocirc;ng hơn nữa. 42 Họ bảo người phụ nữ: “Kh&ocirc;ng c&ograve;n phải v&igrave; lời chị kể m&agrave; ch&uacute;ng t&ocirc;i tin. Quả thật, ch&iacute;nh ch&uacute;ng t&ocirc;i đ&atilde; nghe v&agrave; biết rằng Người thật l&agrave; Đấng cứu độ trần gian.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -381,9 +381,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/08.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:44.664Z"
     },
     {
       "date": "2026-03-09",
@@ -417,7 +417,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Lc 4,24-30",
-          "text": ""
+          "text": "Như &ocirc;ng &Ecirc;-li-a v&agrave; &ocirc;ng &Ecirc;-li-sa, Đức Gi&ecirc;-su kh&ocirc;ng chỉ được sai đến với người Do-th&aacute;i.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 4,24-30\n24 Khi đến Na-da-r&eacute;t, Đức Gi&ecirc;-su n&oacute;i với d&acirc;n ch&uacute;ng trong hội đường rằng: “T&ocirc;i bảo thật c&aacute;c &ocirc;ng: kh&ocirc;ng một ng&ocirc;n sứ n&agrave;o được chấp nhận tại qu&ecirc; hương m&igrave;nh.\n25 “Thật vậy, t&ocirc;i n&oacute;i cho c&aacute;c &ocirc;ng hay: v&agrave;o thời &ocirc;ng &Ecirc;-li-a, khi trời hạn h&aacute;n suốt ba năm s&aacute;u th&aacute;ng, cả nước phải đ&oacute;i k&eacute;m dữ dội, thiếu g&igrave; b&agrave; go&aacute; ở trong nước &Iacute;t-ra-en; 26 thế m&agrave; &ocirc;ng kh&ocirc;ng được sai đến gi&uacute;p một b&agrave; n&agrave;o cả, nhưng chỉ được sai đến gi&uacute;p b&agrave; go&aacute; th&agrave;nh Xa-r&eacute;p-ta miền Xi-đ&ocirc;n. 27 Cũng vậy, v&agrave;o thời ng&ocirc;n sứ &Ecirc;-li-sa, thiếu g&igrave; người phong hủi ở trong nước &Iacute;t-ra-en, nhưng kh&ocirc;ng người n&agrave;o được sạch, m&agrave; chỉ c&oacute; &ocirc;ng Na-a-man, người xứ Xy-ri th&ocirc;i.”\n28 Nghe vậy, mọi người trong hội đường đầy phẫn nộ. 29 Họ đứng dậy, l&ocirc;i Người ra khỏi th&agrave;nh -th&agrave;nh n&agrave;y được x&acirc;y tr&ecirc;n n&uacute;i. Họ k&eacute;o Người l&ecirc;n tận đỉnh n&uacute;i, để x&ocirc; Người xuống vực. 30 Nhưng Người băng qua giữa họ m&agrave; đi.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -427,9 +427,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/09.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:45.052Z"
     },
     {
       "date": "2026-03-10",
@@ -463,7 +463,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mt 18,21-35",
-          "text": ""
+          "text": "Nếu mỗi người trong anh em kh&ocirc;ng hết l&ograve;ng tha thứ cho anh em m&igrave;nh, th&igrave; Ch&uacute;a Cha cũng kh&ocirc;ng tha thứ cho anh em.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 18,21-35\n21 Khi ấy, &ocirc;ng Ph&ecirc;-r&ocirc; đến gần Đức Gi&ecirc;-su m&agrave; hỏi rằng: “Thưa Thầy, nếu anh em con cứ x&uacute;c phạm đến con, th&igrave; con phải tha đến mấy lần ? C&oacute; phải bảy lần kh&ocirc;ng ?” 22 Đức Gi&ecirc;-su đ&aacute;p: “Thầy kh&ocirc;ng bảo l&agrave; đến bảy lần, nhưng l&agrave; đến bảy mươi lần bảy.\n23 “V&igrave; thế, Nước Trời cũng giống như chuyện một &ocirc;ng vua kia muốn đ&ograve;i c&aacute;c đầy tớ của m&igrave;nh thanh to&aacute;n sổ s&aacute;ch. 24 Khi nh&agrave; vua vừa bắt đầu, th&igrave; người ta dẫn đến một kẻ mắc nợ vua mười ng&agrave;n yến v&agrave;ng. 25 Y kh&ocirc;ng c&oacute; g&igrave; để trả, n&ecirc;n t&ocirc;n chủ ra lệnh b&aacute;n y c&ugrave;ng tất cả vợ con, t&agrave;i sản m&agrave; trả nợ. 26 Bấy giờ, t&ecirc;n đầy tớ ấy sấp m&igrave;nh xuống b&aacute;i lạy: ‘Thưa Ng&agrave;i, xin rộng l&ograve;ng ho&atilde;n lại cho t&ocirc;i, t&ocirc;i sẽ lo trả hết.’ 27 T&ocirc;n chủ của t&ecirc;n đầy tớ ấy liền chạnh l&ograve;ng thương, cho y về v&agrave; tha lu&ocirc;n m&oacute;n nợ. 28 Nhưng vừa ra đến ngo&agrave;i, t&ecirc;n đầy tớ ấy gặp một người đồng bạn, mắc nợ y một trăm quan tiền. Y liền t&uacute;m lấy, b&oacute;p cổ m&agrave; bảo: ‘Trả nợ cho tao !’ 29 Bấy giờ, người đồng bạn sấp m&igrave;nh xuống năn nỉ: ‘Thưa anh, xin rộng l&ograve;ng ho&atilde;n lại cho t&ocirc;i, t&ocirc;i sẽ lo trả anh.’ 30 Nhưng y kh&ocirc;ng chịu, cứ tống anh ta v&agrave;o ngục cho đến khi trả xong nợ. 31 Thấy sự việc xảy ra như vậy, c&aacute;c đồng bạn của y buồn lắm, mới đi tr&igrave;nh b&agrave;y với t&ocirc;n chủ đầu đu&ocirc;i c&acirc;u chuyện. 32 Bấy giờ, t&ocirc;n chủ cho đ&ograve;i y đến v&agrave; bảo: ‘T&ecirc;n đầy tớ độc &aacute;c kia, ta đ&atilde; tha hết số nợ ấy cho ngươi, v&igrave; ngươi đ&atilde; van xin ta, 33 th&igrave; đến lượt ngươi, ngươi kh&ocirc;ng phải thương x&oacute;t đồng bạn, như ch&iacute;nh ta đ&atilde; thương x&oacute;t ngươi sao ?’ 34 Rồi t&ocirc;n chủ nổi cơn thịnh nộ, trao y cho l&iacute;nh h&agrave;nh hạ, cho đến ng&agrave;y y trả hết nợ cho &ocirc;ng. 35 Ấy vậy, Cha của Thầy ở tr&ecirc;n trời cũng sẽ đối xử với anh em như thế, nếu mỗi người trong anh em kh&ocirc;ng hết l&ograve;ng tha thứ cho anh em m&igrave;nh.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -473,9 +473,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/10.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:45.416Z"
     },
     {
       "date": "2026-03-11",
@@ -509,7 +509,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mt 5,17-19",
-          "text": ""
+          "text": "Ai tu&acirc;n h&agrave;nh v&agrave; dạy l&agrave;m như thế, th&igrave; sẽ được gọi l&agrave; kẻ lớn.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 5,17-19\n17 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với c&aacute;c m&ocirc;n đệ rằng: “Anh em đừng tưởng Thầy đến để b&atilde;i bỏ Luật M&ocirc;-s&ecirc; hoặc lời c&aacute;c ng&ocirc;n sứ. Thầy đến kh&ocirc;ng phải l&agrave; để b&atilde;i bỏ, nhưng l&agrave; để kiện to&agrave;n. 18 V&igrave;, Thầy bảo thật anh em, trước khi trời đất qua đi, th&igrave; một chấm một phết trong Lề Luật cũng sẽ kh&ocirc;ng qua đi, cho đến khi mọi sự được ho&agrave;n th&agrave;nh. 19 Vậy ai b&atilde;i bỏ d&ugrave; chỉ l&agrave; một trong những điều răn nhỏ nhất ấy, v&agrave; dạy người ta l&agrave;m như thế, th&igrave; sẽ bị gọi l&agrave; kẻ nhỏ nhất trong Nước Trời. C&ograve;n ai tu&acirc;n h&agrave;nh v&agrave; dạy l&agrave;m như thế, th&igrave; sẽ được gọi l&agrave; lớn trong Nước Trời.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -519,9 +519,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/11.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:45.774Z"
     },
     {
       "date": "2026-03-12",
@@ -555,7 +555,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Lc 11,14-23",
-          "text": ""
+          "text": "Ai kh&ocirc;ng đi với t&ocirc;i l&agrave; chống lại t&ocirc;i.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 11,14-23\n14 Khi ấy, Đức Gi&ecirc;-su trừ một t&ecirc;n quỷ, v&agrave; n&oacute; l&agrave; quỷ c&acirc;m. Khi quỷ xuất rồi, th&igrave; người c&acirc;m n&oacute;i được. Đ&aacute;m đ&ocirc;ng lấy l&agrave;m ngạc nhi&ecirc;n. 15 Nhưng trong số đ&oacute; c&oacute; mấy người lại bảo: “&Ocirc;ng ấy dựa thế quỷ vương B&ecirc;-en-d&ecirc;-bun m&agrave; trừ quỷ.” 16 Kẻ kh&aacute;c lại muốn thử Người, n&ecirc;n đ&atilde; đ&ograve;i Người một dấu lạ từ trời. 17 Nhưng Người biết tư tưởng của họ, n&ecirc;n n&oacute;i: “Nước n&agrave;o tự chia rẽ th&igrave; sẽ đi&ecirc;u t&agrave;n, nh&agrave; nọ đổ xuống nh&agrave; kia. 18 Nếu Xa-tan cũng tự chia rẽ chống lại ch&iacute;nh m&igrave;nh, th&igrave; nước n&oacute; tồn tại sao được ?... bởi lẽ c&aacute;c &ocirc;ng n&oacute;i t&ocirc;i dựa thế B&ecirc;-en-d&ecirc;-bun m&agrave; trừ quỷ. 19 Nếu t&ocirc;i dựa thế B&ecirc;-en-d&ecirc;-bun m&agrave; trừ quỷ, th&igrave; con c&aacute;i c&aacute;c &ocirc;ng dựa thế ai m&agrave; trừ ? Bởi vậy, ch&iacute;nh họ sẽ x&eacute;t xử c&aacute;c &ocirc;ng. 20 C&ograve;n nếu t&ocirc;i d&ugrave;ng ng&oacute;n tay Thi&ecirc;n Ch&uacute;a m&agrave; trừ quỷ, th&igrave; quả l&agrave; Triều Đại Thi&ecirc;n Ch&uacute;a đ&atilde; đến giữa c&aacute;c &ocirc;ng. 21 Khi một người mạnh được vũ trang đầy đủ canh giữ l&acirc;u đ&agrave;i của m&igrave;nh, th&igrave; của cải người ấy được an to&agrave;n. 22 Nhưng nếu c&oacute; người mạnh thế hơn đột nhập v&agrave; thắng được người ấy, th&igrave; sẽ tước lấy vũ kh&iacute; m&agrave; người ấy vẫn tin tưởng v&agrave; sẽ đem ph&acirc;n ph&aacute;t những g&igrave; đ&atilde; lấy được.\n23 “Ai kh&ocirc;ng đi với t&ocirc;i l&agrave; chống lại t&ocirc;i, v&agrave; ai kh&ocirc;ng c&ugrave;ng t&ocirc;i thu g&oacute;p l&agrave; ph&acirc;n t&aacute;n.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -565,9 +565,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/12.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:46.132Z"
     },
     {
       "date": "2026-03-13",
@@ -601,7 +601,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mc 12,28b-34",
-          "text": ""
+          "text": "Đức Ch&uacute;a, Thi&ecirc;n Ch&uacute;a ch&uacute;ng ta l&agrave; Đức Ch&uacute;a duy nhất; ngươi phải y&ecirc;u mến Người.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;c-c&ocirc;. Mc 12,28b-34\n28b Khi ấy, c&oacute; một người trong c&aacute;c kinh sư đến gần Đức Gi&ecirc;-su v&agrave; hỏi rằng: “Thưa Thầy, trong mọi điều răn, điều răn n&agrave;o đứng h&agrave;ng đầu ?” 29 Đức Gi&ecirc;-su trả lời: “Điều răn đứng h&agrave;ng đầu l&agrave;: Nghe đ&acirc;y, hỡi &Iacute;t-ra-en, Đức Ch&uacute;a, Thi&ecirc;n Ch&uacute;a ch&uacute;ng ta, l&agrave; Đức Ch&uacute;a duy nhất. 30 Ngươi phải y&ecirc;u mến Đức Ch&uacute;a, Thi&ecirc;n Ch&uacute;a của ngươi, hết l&ograve;ng, hết linh hồn, hết tr&iacute; kh&ocirc;n v&agrave; hết sức lực ngươi. 31 Điều răn thứ hai l&agrave;: Ngươi phải y&ecirc;u người th&acirc;n cận như ch&iacute;nh m&igrave;nh. Chẳng c&oacute; điều răn n&agrave;o kh&aacute;c lớn hơn c&aacute;c điều răn đ&oacute;.” 32 &Ocirc;ng kinh sư n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, hay lắm, Thầy n&oacute;i rất đ&uacute;ng. Thi&ecirc;n Ch&uacute;a l&agrave; Đấng duy nhất, ngo&agrave;i Người ra kh&ocirc;ng c&oacute; Đấng n&agrave;o kh&aacute;c. 33 Y&ecirc;u mến Thi&ecirc;n Ch&uacute;a hết l&ograve;ng, hết tr&iacute; kh&ocirc;n, hết sức lực, v&agrave; y&ecirc;u người th&acirc;n cận như ch&iacute;nh m&igrave;nh, l&agrave; điều qu&yacute; hơn mọi lễ to&agrave;n thi&ecirc;u v&agrave; hy lễ.” 34 Đức Gi&ecirc;-su thấy &ocirc;ng ta trả lời kh&ocirc;n ngoan như vậy, th&igrave; bảo: “&Ocirc;ng kh&ocirc;ng c&ograve;n xa Nước Thi&ecirc;n Ch&uacute;a đ&acirc;u !” Sau đ&oacute;, kh&ocirc;ng ai d&aacute;m chất vấn Người nữa.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -611,9 +611,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/13.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:46.498Z"
     },
     {
       "date": "2026-03-14",
@@ -647,7 +647,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Lc 18,9-14",
-          "text": ""
+          "text": "Người thu thuế khi trở xuống m&agrave; về nh&agrave;, th&igrave; đ&atilde; được n&ecirc;n c&ocirc;ng ch&iacute;nh, c&ograve;n người Pha-ri-s&ecirc;u th&igrave; kh&ocirc;ng.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 18,9-14\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -657,9 +657,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/14.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:46.892Z"
     },
     {
       "date": "2026-03-15",
@@ -693,7 +693,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 9,1-41",
-          "text": ""
+          "text": "Anh m&ugrave; đến rửa ở hồ Si-l&ocirc;-&aacute;c v&agrave; khi về th&igrave; nh&igrave;n thấy được.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 9,1-41\n1 Khi ấy, ra khỏi Đền Thờ, Đức Gi&ecirc;-su nh&igrave;n thấy một người m&ugrave; từ thuở mới sinh. 2 C&aacute;c m&ocirc;n đệ hỏi Người: “Thưa Thầy, ai đ&atilde; phạm tội khiến người n&agrave;y sinh ra đ&atilde; bị m&ugrave;, anh ta hay cha mẹ anh ta ?” 3 Đức Gi&ecirc;-su trả lời: “Kh&ocirc;ng phải anh ta, cũng chẳng phải cha mẹ anh ta đ&atilde; phạm tội. Nhưng sở dĩ như thế l&agrave; để thi&ecirc;n hạ nh&igrave;n thấy c&ocirc;ng tr&igrave;nh của Thi&ecirc;n Ch&uacute;a được tỏ hiện nơi anh. 4 Ch&uacute;ng ta phải thực hiện c&ocirc;ng tr&igrave;nh của Đấng đ&atilde; sai Thầy, khi trời c&ograve;n s&aacute;ng; đ&ecirc;m đến, kh&ocirc;ng ai c&oacute; thể l&agrave;m việc được. 5 Bao l&acirc;u Thầy c&ograve;n ở thế gian, Thầy l&agrave; &aacute;nh s&aacute;ng thế gian.”\n6 N&oacute;i xong, Đức Gi&ecirc;-su nhổ nước miếng xuống đất, trộn th&agrave;nh b&ugrave;n v&agrave; xức v&agrave;o mắt người m&ugrave;, 7 rồi bảo anh ta: “Anh h&atilde;y đến hồ Si-l&ocirc;-&aacute;c m&agrave; rửa” (Si-l&ocirc;-&aacute;c c&oacute; nghĩa l&agrave;: người được sai ph&aacute;i). Vậy anh ta đến rửa ở hồ, v&agrave; khi về th&igrave; nh&igrave;n thấy được.\n8 C&aacute;c người l&aacute;ng giềng v&agrave; những kẻ trước kia thường thấy anh ta ăn xin mới n&oacute;i: “Hắn kh&ocirc;ng phải l&agrave; người vẫn ngồi ăn xin đ&oacute; sao ?” 9 C&oacute; người n&oacute;i: “Ch&iacute;nh hắn đ&oacute; !” Kẻ kh&aacute;c lại rằng: “Kh&ocirc;ng phải đ&acirc;u ! Nhưng l&agrave; một đứa n&agrave;o giống hắn đ&oacute; th&ocirc;i !” C&ograve;n anh ta th&igrave; quả quyết: “Ch&iacute;nh t&ocirc;i đ&acirc;y !” 10 Người ta liền hỏi anh: “Vậy, l&agrave;m sao mắt anh lại mở ra được như thế ?” 11 Anh ta trả lời: “Người t&ecirc;n l&agrave; Gi&ecirc;-su đ&atilde; trộn một ch&uacute;t b&ugrave;n, xức v&agrave;o mắt t&ocirc;i, rồi bảo: ‘Anh h&atilde;y đến hồ Si-l&ocirc;-&aacute;c m&agrave; rửa.’ T&ocirc;i đ&atilde; đi, đ&atilde; rửa v&agrave; t&ocirc;i nh&igrave;n thấy.” 12 Họ lại hỏi anh: “&Ocirc;ng ấy ở đ&acirc;u ?” Anh ta đ&aacute;p: “T&ocirc;i kh&ocirc;ng biết.”\n13 Họ dẫn kẻ trước đ&acirc;y bị m&ugrave; đến với những người Pha-ri-s&ecirc;u. 14 Nhưng ng&agrave;y Đức Gi&ecirc;-su trộn ch&uacute;t b&ugrave;n v&agrave; l&agrave;m cho mắt anh ta mở ra lại l&agrave; ng&agrave;y sa-b&aacute;t. 15 Vậy, c&aacute;c người Pha-ri-s&ecirc;u hỏi th&ecirc;m một lần nữa l&agrave;m sao anh nh&igrave;n thấy được. Anh trả lời: “&Ocirc;ng ấy lấy b&ugrave;n thoa v&agrave;o mắt t&ocirc;i, t&ocirc;i rửa v&agrave; t&ocirc;i nh&igrave;n thấy.” 16 Trong nh&oacute;m Pha-ri-s&ecirc;u, người th&igrave; n&oacute;i: “&Ocirc;ng ta kh&ocirc;ng thể l&agrave; người của Thi&ecirc;n Ch&uacute;a được, v&igrave; kh&ocirc;ng giữ ng&agrave;y sa-b&aacute;t”; kẻ th&igrave; bảo: “Một người tội lỗi sao c&oacute; thể l&agrave;m được những dấu lạ như vậy ?” Thế l&agrave; họ đ&acirc;m ra chia rẽ. 17 Họ lại hỏi người m&ugrave;: “C&ograve;n anh, anh nghĩ g&igrave; về người đ&atilde; mở mắt cho anh ?” Anh đ&aacute;p: “Người l&agrave; một vị ng&ocirc;n sứ !”\n18 Người Do-th&aacute;i kh&ocirc;ng tin l&agrave; trước đ&acirc;y anh bị m&ugrave; m&agrave; nay nh&igrave;n thấy được, n&ecirc;n đ&atilde; gọi cha mẹ anh ta đến. 19 Họ hỏi: “Anh n&agrave;y c&oacute; phải l&agrave; con &ocirc;ng b&agrave; kh&ocirc;ng ? &Ocirc;ng b&agrave; n&oacute;i l&agrave; anh bị m&ugrave; từ khi mới sinh, vậy sao b&acirc;y giờ anh lại nh&igrave;n thấy được ?” 20 Cha mẹ anh đ&aacute;p: “Ch&uacute;ng t&ocirc;i biết n&oacute; l&agrave; con ch&uacute;ng t&ocirc;i, n&oacute; bị m&ugrave; từ khi mới sinh. 21 C&ograve;n b&acirc;y giờ l&agrave;m sao n&oacute; thấy được, ch&uacute;ng t&ocirc;i kh&ocirc;ng biết, hoặc c&oacute; ai đ&atilde; mở mắt cho n&oacute;, ch&uacute;ng t&ocirc;i cũng chẳng hay. Xin c&aacute;c &ocirc;ng cứ hỏi n&oacute;; n&oacute; đ&atilde; kh&ocirc;n lớn rồi, n&oacute; c&oacute; thể tự khai được.” 22 Cha mẹ anh n&oacute;i thế v&igrave; sợ người Do-th&aacute;i. Thật vậy, người Do-th&aacute;i đ&atilde; đồng l&ograve;ng trục xuất khỏi hội đường kẻ n&agrave;o d&aacute;m tuy&ecirc;n xưng Đức Gi&ecirc;-su l&agrave; Đấng Ki-t&ocirc;. 23 V&igrave; thế, cha mẹ anh mới n&oacute;i: “N&oacute; đ&atilde; kh&ocirc;n lớn rồi, xin c&aacute;c &ocirc;ng cứ hỏi n&oacute;.”\n24 Một lần nữa, họ gọi người trước đ&acirc;y bị m&ugrave; đến v&agrave; bảo: “Anh h&atilde;y t&ocirc;n vinh Thi&ecirc;n Ch&uacute;a. Ch&uacute;ng ta đ&acirc;y, ch&uacute;ng ta biết &ocirc;ng ấy l&agrave; người tội lỗi.” 25 Anh ta đ&aacute;p: “&Ocirc;ng ấy c&oacute; phải l&agrave; người tội lỗi hay kh&ocirc;ng, t&ocirc;i kh&ocirc;ng biết. T&ocirc;i chỉ biết một điều: trước đ&acirc;y t&ocirc;i bị m&ugrave; m&agrave; nay t&ocirc;i nh&igrave;n thấy được !” 26 Họ mới n&oacute;i với anh: “&Ocirc;ng ấy đ&atilde; l&agrave;m g&igrave; cho anh ? &Ocirc;ng ấy đ&atilde; mở mắt cho anh thế n&agrave;o ?” 27 Anh trả lời: “T&ocirc;i đ&atilde; n&oacute;i với c&aacute;c &ocirc;ng rồi m&agrave; c&aacute;c &ocirc;ng vẫn kh&ocirc;ng chịu nghe. Tại sao c&aacute;c &ocirc;ng c&ograve;n muốn nghe lại chuyện đ&oacute; nữa ? Hay c&aacute;c &ocirc;ng cũng muốn l&agrave;m m&ocirc;n đệ &ocirc;ng ấy chăng ?” 28 Họ liền mắng nhiếc anh: “C&oacute; m&agrave;y mới l&agrave; m&ocirc;n đệ của &ocirc;ng ấy; c&ograve;n ch&uacute;ng ta, ch&uacute;ng ta l&agrave; m&ocirc;n đệ của &ocirc;ng M&ocirc;-s&ecirc;. 29 Ch&uacute;ng ta biết rằng Thi&ecirc;n Ch&uacute;a đ&atilde; n&oacute;i với &ocirc;ng M&ocirc;-s&ecirc;; nhưng ch&uacute;ng ta kh&ocirc;ng biết &ocirc;ng Gi&ecirc;-su ấy bởi đ&acirc;u m&agrave; đến.” 30 Anh đ&aacute;p: “Kể cũng lạ thật ! C&aacute;c &ocirc;ng kh&ocirc;ng biết &ocirc;ng ấy bởi đ&acirc;u m&agrave; đến, thế m&agrave; &ocirc;ng ấy lại l&agrave; người đ&atilde; mở mắt t&ocirc;i ! 31 Ch&uacute;ng ta biết: Thi&ecirc;n Ch&uacute;a kh&ocirc;ng nhậm lời những kẻ tội lỗi; c&ograve;n ai k&iacute;nh sợ Thi&ecirc;n Ch&uacute;a v&agrave; l&agrave;m theo &yacute; của Người, th&igrave; Người nhậm lời kẻ ấy. 32 Xưa nay chưa hề nghe n&oacute;i c&oacute; ai đ&atilde; mở mắt cho người m&ugrave; từ l&uacute;c mới sinh. 33 Nếu kh&ocirc;ng phải l&agrave; người bởi Thi&ecirc;n Ch&uacute;a m&agrave; đến, th&igrave; &ocirc;ng ta đ&atilde; chẳng l&agrave;m được g&igrave;.” 34 Họ đối lại: “M&agrave;y sinh ra tội lỗi ngập đầu, thế m&agrave; m&agrave;y lại muốn l&agrave;m thầy ch&uacute;ng ta ư ?” Rồi họ trục xuất anh.\n35 Đức Gi&ecirc;-su nghe n&oacute;i họ đ&atilde; trục xuất anh. Khi gặp lại anh, Người hỏi: “Anh c&oacute; tin v&agrave;o Con Người kh&ocirc;ng ?” 36 Anh đ&aacute;p: “Thưa Ng&agrave;i, Đấng ấy l&agrave; ai để t&ocirc;i tin ?” 37 Đức Gi&ecirc;-su trả lời: “Anh đ&atilde; thấy Người. Ch&iacute;nh Người đang n&oacute;i với anh đ&acirc;y.” 38 Anh n&oacute;i: “Thưa Ng&agrave;i, t&ocirc;i tin.” Rồi anh sấp m&igrave;nh xuống trước mặt Người. 39 Đức Gi&ecirc;-su n&oacute;i: “T&ocirc;i đến thế gian n&agrave;y ch&iacute;nh l&agrave; để x&eacute;t xử: cho người kh&ocirc;ng xem thấy được thấy, v&agrave; kẻ xem thấy lại n&ecirc;n đui m&ugrave; !”\n40 Những người Pha-ri-s&ecirc;u đang ở đ&oacute; với Đức Gi&ecirc;-su nghe vậy, liền l&ecirc;n tiếng: “Thế ra cả ch&uacute;ng t&ocirc;i cũng đui m&ugrave; hay sao ?” 41 Đức Gi&ecirc;-su bảo họ: “Nếu c&aacute;c &ocirc;ng đui m&ugrave;, th&igrave; c&aacute;c &ocirc;ng đ&atilde; chẳng c&oacute; tội. Nhưng giờ đ&acirc;y c&aacute;c &ocirc;ng n&oacute;i rằng: ‘Ch&uacute;ng t&ocirc;i thấy’, n&ecirc;n tội c&aacute;c &ocirc;ng vẫn c&ograve;n !”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -709,9 +709,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/15.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:47.244Z"
     },
     {
       "date": "2026-03-16",
@@ -745,7 +745,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 4,43-54",
-          "text": ""
+          "text": "&Ocirc;ng cứ về đi, con &ocirc;ng sống.\n✠ Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 4,43-54\n43 Khi ấy, sau hai ng&agrave;y lưu lại Sa-ma-ri, Đức Gi&ecirc;-su đi Ga-li-l&ecirc;. 44 Ch&iacute;nh Người đ&atilde; quả quyết: ng&ocirc;n sứ kh&ocirc;ng được t&ocirc;n trọng tại qu&ecirc; hương m&igrave;nh. 45 Khi Người đến Ga-li-l&ecirc;, d&acirc;n ch&uacute;ng trong miền đ&oacute;n tiếp Người, v&igrave; đ&atilde; được chứng kiến tất cả những g&igrave; Người l&agrave;m tại Gi&ecirc;-ru-sa-lem trong dịp lễ, bởi lẽ ch&iacute;nh họ cũng đ&atilde; đi dự lễ.\n46 Vậy Đức Gi&ecirc;-su trở lại Ca-na miền Ga-li-l&ecirc;, l&agrave; nơi Người đ&atilde; l&agrave;m cho nước ho&aacute; th&agrave;nh rượu. Bấy giờ c&oacute; một sĩ quan cận vệ của nh&agrave; vua c&oacute; đứa con trai đang bị bệnh tại Ca-ph&aacute;c-na-um. 47 Khi nghe tin Đức Gi&ecirc;-su từ Giu-đ&ecirc; đến Ga-li-l&ecirc;, &ocirc;ng tới gặp v&agrave; xin Người xuống chữa con &ocirc;ng v&igrave; n&oacute; sắp chết. 48 Đức Gi&ecirc;-su n&oacute;i với &ocirc;ng: “C&aacute;c &ocirc;ng m&agrave; kh&ocirc;ng thấy dấu lạ điềm thi&ecirc;ng th&igrave; c&aacute;c &ocirc;ng sẽ chẳng tin đ&acirc;u !” 49 Vi&ecirc;n sĩ quan n&oacute;i: “Thưa Ng&agrave;i, xin Ng&agrave;i xuống cho, kẻo ch&aacute;u n&oacute; chết mất !” 50 Đức Gi&ecirc;-su bảo: “&Ocirc;ng cứ về đi, con &ocirc;ng sống.” &Ocirc;ng tin v&agrave;o lời Đức Gi&ecirc;-su n&oacute;i với m&igrave;nh, v&agrave; ra về. 51 &Ocirc;ng c&ograve;n đang đi xuống, th&igrave; gia nh&acirc;n đ&atilde; đ&oacute;n gặp v&agrave; n&oacute;i l&agrave; con &ocirc;ng sống rồi. 52 &Ocirc;ng hỏi họ con &ocirc;ng đ&atilde; bắt đầu kh&aacute; hơn v&agrave;o giờ n&agrave;o. Họ đ&aacute;p: “H&ocirc;m qua, v&agrave;o l&uacute;c một giờ trưa th&igrave; cậu hết sốt.” 53 Người cha nhận ra l&agrave; v&agrave;o đ&uacute;ng giờ đ&oacute;, Đức Gi&ecirc;-su đ&atilde; n&oacute;i với m&igrave;nh: “Con &ocirc;ng sống”, n&ecirc;n &ocirc;ng v&agrave; cả nh&agrave; đều tin. 54 Đ&oacute; l&agrave; dấu lạ thứ hai Đức Gi&ecirc;-su đ&atilde; l&agrave;m, khi Người từ miền Giu-đ&ecirc; đến miền Ga-li-l&ecirc;.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -755,9 +755,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/16.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:47.606Z"
     },
     {
       "date": "2026-03-17",
@@ -791,7 +791,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 5,1-3a.5-16",
-          "text": ""
+          "text": "Người ấy liền được khỏi bệnh.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 5,1-3a.5-16\n1 Nh&acirc;n một dịp lễ của người Do-th&aacute;i, Đức Gi&ecirc;-su l&ecirc;n Gi&ecirc;-ru-sa-lem. 2 Tại Gi&ecirc;-ru-sa-lem, gần Cửa Chi&ecirc;n, c&oacute; một hồ nước, tiếng H&iacute;p-ri gọi l&agrave; Bết-da-tha. Hồ n&agrave;y c&oacute; năm h&agrave;nh lang. 3a Nhiều người đau ốm, đui m&ugrave;, qu&egrave; quặt, bất toại nằm la liệt. 5 Ở đ&oacute;, c&oacute; một người đau ốm đ&atilde; ba mươi t&aacute;m năm. 6 Đức Gi&ecirc;-su thấy anh ta nằm đấy v&agrave; biết anh sống trong t&igrave;nh trạng đ&oacute; đ&atilde; l&acirc;u, th&igrave; n&oacute;i: “Anh c&oacute; muốn khỏi bệnh kh&ocirc;ng ?” 7 Bệnh nh&acirc;n đ&aacute;p: “Thưa Ng&agrave;i, khi nước khuấy l&ecirc;n, kh&ocirc;ng c&oacute; người đem t&ocirc;i xuống hồ. L&uacute;c t&ocirc;i tới đ&oacute;, th&igrave; đ&atilde; c&oacute; người kh&aacute;c xuống trước mất rồi !” 8 Đức Gi&ecirc;-su bảo: “Anh h&atilde;y trỗi dậy, v&aacute;c ch&otilde;ng m&agrave; đi !” 9 Người ấy liền được khỏi bệnh, v&aacute;c ch&otilde;ng v&agrave; đi được.\nH&ocirc;m đ&oacute; lại l&agrave; ng&agrave;y sa-b&aacute;t. 10 Người Do-th&aacute;i mới n&oacute;i với kẻ được khỏi bệnh: “H&ocirc;m nay l&agrave; ng&agrave;y sa-b&aacute;t, anh kh&ocirc;ng được ph&eacute;p v&aacute;c ch&otilde;ng !” 11 Nhưng anh đ&aacute;p: “Ch&iacute;nh người chữa t&ocirc;i khỏi bệnh đ&atilde; n&oacute;i với t&ocirc;i: ‘Anh h&atilde;y v&aacute;c ch&otilde;ng m&agrave; đi !’” 12 Họ hỏi anh: “Ai l&agrave; người đ&atilde; bảo anh: ‘V&aacute;c ch&otilde;ng m&agrave; đi’ ?” 13 Nhưng người đ&atilde; được khỏi bệnh kh&ocirc;ng biết l&agrave; ai. Quả thế, Đức Gi&ecirc;-su đ&atilde; l&aacute;nh đi, v&igrave; c&oacute; đ&aacute;m đ&ocirc;ng ở đấy. 14 Sau đ&oacute;, Đức Gi&ecirc;-su gặp người ấy trong Đền Thờ v&agrave; n&oacute;i: “N&agrave;y, anh đ&atilde; được khỏi bệnh. Đừng phạm tội nữa, kẻo lại phải khốn hơn trước !” 15 Anh ta đi n&oacute;i với người Do-th&aacute;i: Đức Gi&ecirc;-su l&agrave; người đ&atilde; chữa anh khỏi bệnh. 16 Do đ&oacute;, người Do-th&aacute;i chống đối Đức Gi&ecirc;-su, v&igrave; Người hay chữa bệnh ng&agrave;y sa-b&aacute;t.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -801,9 +801,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/17.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:47.963Z"
     },
     {
       "date": "2026-03-18",
@@ -837,7 +837,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 5,17-30",
-          "text": ""
+          "text": "Ch&uacute;a Cha l&agrave;m cho kẻ chết trỗi dậy v&agrave; ban sự sống cho họ thế n&agrave;o, th&igrave; người Con cũng ban sự sống cho ai tuỳ &yacute;.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 5,17-30\n17 Khi ấy, sau khi chữa l&agrave;nh một người bệnh trong ng&agrave;y sa-b&aacute;t, Đức Gi&ecirc;-su tuy&ecirc;n bố với người Do-th&aacute;i rằng: “Cho đến nay, Cha t&ocirc;i vẫn l&agrave;m việc, th&igrave; t&ocirc;i cũng l&agrave;m việc.” 18 Bởi vậy, người Do-th&aacute;i lại c&agrave;ng t&igrave;m c&aacute;ch giết Đức Gi&ecirc;-su, v&igrave; kh&ocirc;ng những Người ph&aacute; luật sa-b&aacute;t, lại c&ograve;n n&oacute;i Thi&ecirc;n Ch&uacute;a l&agrave; Cha của m&igrave;nh, v&agrave; như thế l&agrave; tự coi m&igrave;nh ngang h&agrave;ng với Thi&ecirc;n Ch&uacute;a.\n19 Đức Gi&ecirc;-su l&ecirc;n tiếng n&oacute;i với họ rằng: “Thật, t&ocirc;i bảo thật c&aacute;c &ocirc;ng: người Con kh&ocirc;ng thể tự m&igrave;nh l&agrave;m bất cứ điều g&igrave;, ngoại trừ điều Người thấy Ch&uacute;a Cha l&agrave;m; v&igrave; điều g&igrave; Ch&uacute;a Cha l&agrave;m, th&igrave; người Con cũng l&agrave;m như vậy. 20 Quả thật, Ch&uacute;a Cha y&ecirc;u người Con v&agrave; cho người Con thấy mọi điều m&igrave;nh l&agrave;m, lại sẽ c&ograve;n cho người Con thấy những việc lớn lao hơn nữa, khiến ch&iacute;nh c&aacute;c &ocirc;ng cũng phải kinh ngạc. 21 Ch&uacute;a Cha l&agrave;m cho kẻ chết trỗi dậy v&agrave; ban sự sống cho họ thế n&agrave;o, th&igrave; người Con cũng ban sự sống cho ai tuỳ &yacute;. 22 Quả thật, Ch&uacute;a Cha kh&ocirc;ng x&eacute;t xử một ai, nhưng đ&atilde; ban cho người Con mọi quyền x&eacute;t xử, 23 để ai nấy đều t&ocirc;n k&iacute;nh người Con như t&ocirc;n k&iacute;nh Ch&uacute;a Cha. Kẻ n&agrave;o kh&ocirc;ng t&ocirc;n k&iacute;nh người Con, th&igrave; cũng kh&ocirc;ng t&ocirc;n k&iacute;nh Ch&uacute;a Cha, Đấng đ&atilde; sai người Con. 24 Thật, t&ocirc;i bảo thật c&aacute;c &ocirc;ng: ai nghe lời t&ocirc;i v&agrave; tin v&agrave;o Đấng đ&atilde; sai t&ocirc;i, th&igrave; c&oacute; sự sống đời đời v&agrave; khỏi bị x&eacute;t xử, nhưng đ&atilde; từ c&otilde;i chết bước v&agrave;o c&otilde;i sống.\n25 “Thật, t&ocirc;i bảo thật c&aacute;c &ocirc;ng: giờ đ&atilde; đến -v&agrave; ch&iacute;nh l&agrave; l&uacute;c n&agrave;y đ&acirc;y- giờ c&aacute;c kẻ chết nghe tiếng Con Thi&ecirc;n Ch&uacute;a; ai nghe th&igrave; sẽ được sống. 26 Quả thật, Ch&uacute;a Cha c&oacute; sự sống nơi m&igrave;nh thế n&agrave;o, th&igrave; cũng ban cho người Con được c&oacute; sự sống nơi m&igrave;nh như vậy, 27 lại ban cho người Con được quyền x&eacute;t xử, v&igrave; người Con l&agrave; Con Người. 28 C&aacute;c &ocirc;ng chớ ngạc nhi&ecirc;n về điều n&agrave;y, v&igrave; giờ đ&atilde; đến, giờ mọi kẻ ở trong mồ sẽ nghe tiếng người Con 29 v&agrave; sẽ ra khỏi đ&oacute;: ai đ&atilde; l&agrave;m điều l&agrave;nh, th&igrave; sẽ sống lại để được sống; ai đ&atilde; l&agrave;m điều dữ, th&igrave; sẽ sống lại để bị kết &aacute;n.\n30 “T&ocirc;i kh&ocirc;ng thể tự &yacute; m&igrave;nh l&agrave;m g&igrave;. T&ocirc;i x&eacute;t xử theo như t&ocirc;i được nghe, v&agrave; ph&aacute;n quyết của t&ocirc;i thật c&ocirc;ng minh, v&igrave; t&ocirc;i kh&ocirc;ng t&igrave;m c&aacute;ch l&agrave;m theo &yacute; ri&ecirc;ng t&ocirc;i, nhưng theo &yacute; Đấng đ&atilde; sai t&ocirc;i.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -847,9 +847,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/18.html"
       },
-      "updated": "2026-06-01T04:53:25.802Z"
+      "updated": "2026-06-01T05:01:48.339Z"
     },
     {
       "date": "2026-03-19",
@@ -883,7 +883,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Mt 1,16.18-21.24a",
-          "text": ""
+          "text": "&Ocirc;ng Giu-se l&agrave;m như sứ thần Ch&uacute;a dạy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 1,16.18-21.24a\n16 &Ocirc;ng Gia-c&oacute;p sinh &ocirc;ng Giu-se, chồng của b&agrave; Ma-ri-a, b&agrave; l&agrave; mẹ Đức Gi&ecirc;-su cũng gọi l&agrave; Đấng Ki-t&ocirc;.\n18 Sau đ&acirc;y l&agrave; gốc t&iacute;ch Đức Gi&ecirc;-su Ki-t&ocirc;: b&agrave; Ma-ri-a, mẹ Người, đ&atilde; th&agrave;nh h&ocirc;n với &ocirc;ng Giu-se. Nhưng trước khi hai &ocirc;ng b&agrave; về chung sống, b&agrave; đ&atilde; c&oacute; thai do quyền năng Ch&uacute;a Th&aacute;nh Thần. 19 &Ocirc;ng Giu-se, chồng b&agrave;, l&agrave; người c&ocirc;ng ch&iacute;nh v&agrave; kh&ocirc;ng muốn tố gi&aacute;c b&agrave;, n&ecirc;n mới định t&acirc;m bỏ b&agrave; c&aacute;ch k&iacute;n đ&aacute;o. 20 &Ocirc;ng đang toan t&iacute;nh như vậy, th&igrave; k&igrave;a sứ thần Ch&uacute;a hiện đến b&aacute;o mộng cho &ocirc;ng rằng: “N&agrave;y &ocirc;ng Giu-se, con ch&aacute;u Đa-v&iacute;t, đừng ngại đ&oacute;n b&agrave; Ma-ri-a vợ &ocirc;ng về, v&igrave; người con b&agrave; cưu mang l&agrave; do quyền năng Ch&uacute;a Th&aacute;nh Thần. 21 B&agrave; sẽ sinh con trai v&agrave; &ocirc;ng phải đặt t&ecirc;n cho con trẻ l&agrave; Gi&ecirc;-su, v&igrave; ch&iacute;nh Người sẽ cứu d&acirc;n Người khỏi tội lỗi của họ.” 24a Khi tỉnh giấc, &ocirc;ng Giu-se l&agrave;m như sứ thần Ch&uacute;a dạy.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -895,9 +895,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/19.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:48.692Z"
     },
     {
       "date": "2026-03-20",
@@ -931,7 +931,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 7,1-2.10.25-30",
-          "text": ""
+          "text": "Họ t&igrave;m c&aacute;ch bắt Đức Gi&ecirc;-su, nhưng giờ của Người chưa đến.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 7,1-2.10.25-30\n1 Khi ấy, Đức Gi&ecirc;-su thường đi lại trong miền Ga-li-l&ecirc;; thật vậy, Người kh&ocirc;ng muốn đi lại trong miền Giu-đ&ecirc;, v&igrave; người Do-th&aacute;i t&igrave;m giết Người.\n2 Lễ Lều của người Do-th&aacute;i gần tới, 10 khi anh em Người đ&atilde; l&ecirc;n dự lễ, th&igrave; ch&iacute;nh Người cũng l&ecirc;n, nhưng kh&ocirc;ng c&ocirc;ng khai v&agrave; hầu như b&iacute; mật.\n25 Bấy giờ c&oacute; những người ở Gi&ecirc;-ru-sa-lem n&oacute;i: “&Ocirc;ng n&agrave;y kh&ocirc;ng phải l&agrave; người họ đang t&igrave;m giết đ&oacute; sao ? 26 K&igrave;a, &ocirc;ng ta ăn n&oacute;i c&ocirc;ng khai m&agrave; họ chẳng bảo g&igrave; cả. Phải chăng c&aacute;c nh&agrave; hữu tr&aacute;ch đ&atilde; thực sự nh&igrave;n nhận &ocirc;ng l&agrave; Đấng Ki-t&ocirc; ? 27 &Ocirc;ng ấy, ch&uacute;ng ta biết &ocirc;ng xuất th&acirc;n từ đ&acirc;u rồi; c&ograve;n Đấng Ki-t&ocirc;, khi Người đến th&igrave; chẳng ai biết Người xuất th&acirc;n từ đ&acirc;u cả.” 28 L&uacute;c giảng dạy trong Đền Thờ, Đức Gi&ecirc;-su n&oacute;i lớn tiếng rằng: “C&aacute;c &ocirc;ng biết t&ocirc;i ư ? C&aacute;c &ocirc;ng biết t&ocirc;i xuất th&acirc;n từ đ&acirc;u ư ? T&ocirc;i đ&acirc;u c&oacute; tự m&igrave;nh m&agrave; đến. Đấng đ&atilde; sai t&ocirc;i l&agrave; Đấng ch&acirc;n thật. C&aacute;c &ocirc;ng, c&aacute;c &ocirc;ng kh&ocirc;ng biết Người. 29 Phần t&ocirc;i, t&ocirc;i biết Người, bởi v&igrave; t&ocirc;i từ nơi Người m&agrave; đến, v&agrave; ch&iacute;nh Người đ&atilde; sai t&ocirc;i.”\n30 Bấy giờ họ t&igrave;m c&aacute;ch bắt Người; nhưng chẳng c&oacute; ai tra tay bắt, v&igrave; giờ của Người chưa đến.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -941,9 +941,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/20.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:49.052Z"
     },
     {
       "date": "2026-03-21",
@@ -977,7 +977,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 7,40-53",
-          "text": ""
+          "text": "Đấng Ki-t&ocirc; m&agrave; lại xuất th&acirc;n từ Ga-li-l&ecirc; sao ?\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 7,40-53\n40 Khi ấy, Đức Gi&ecirc;-su giảng dạy tại đền thờ Gi&ecirc;-ru-sa-lem. Trong d&acirc;n ch&uacute;ng, c&oacute; những người nghe c&aacute;c lời của Đức Gi&ecirc;-su th&igrave; n&oacute;i: “&Ocirc;ng n&agrave;y thật l&agrave; vị ng&ocirc;n sứ.” 41 Kẻ kh&aacute;c rằng: “&Ocirc;ng n&agrave;y l&agrave; Đấng Ki-t&ocirc;.” Nhưng c&oacute; kẻ lại n&oacute;i: “Đấng Ki-t&ocirc; m&agrave; lại xuất th&acirc;n từ Ga-li-l&ecirc; sao ? 42 N&agrave;o Kinh Th&aacute;nh đ&atilde; chẳng n&oacute;i: Đấng Ki-t&ocirc; xuất th&acirc;n từ d&ograve;ng d&otilde;i vua Đa-v&iacute;t v&agrave; từ B&ecirc;-lem, l&agrave;ng của vua Đa-v&iacute;t sao ?” 43 Vậy, v&igrave; Người m&agrave; d&acirc;n ch&uacute;ng đ&acirc;m ra chia rẽ. 44 Một số trong bọn họ muốn bắt Người, nhưng chẳng c&oacute; ai tra tay bắt.\n45 C&aacute;c vệ binh trở về với c&aacute;c thượng tế v&agrave; người Pha-ri-s&ecirc;u. Họ liền hỏi ch&uacute;ng: “Tại sao c&aacute;c anh kh&ocirc;ng điệu &ocirc;ng ấy về đ&acirc;y ?” 46 C&aacute;c vệ binh trả lời: “Xưa nay chưa hề đ&atilde; c&oacute; ai n&oacute;i năng như người ấy !” 47 Người Pha-ri-s&ecirc;u liền n&oacute;i với ch&uacute;ng: “Cả c&aacute;c anh nữa, c&aacute;c anh cũng bị m&ecirc; hoặc rồi sao ? 48 Trong h&agrave;ng thủ l&atilde;nh hay trong giới Pha-ri-s&ecirc;u, đ&atilde; c&oacute; một ai tin v&agrave;o t&ecirc;n ấy đ&acirc;u ? 49 C&ograve;n bọn d&acirc;n đen n&agrave;y, thứ người kh&ocirc;ng biết Lề Luật, đ&uacute;ng l&agrave; qu&acirc;n bị nguyền rủa !” 50 Trong nh&oacute;m Pha-ri-s&ecirc;u, c&oacute; một người t&ecirc;n l&agrave; Ni-c&ocirc;-đ&ecirc;-m&ocirc;, trước đ&acirc;y đ&atilde; đến gặp Đức Gi&ecirc;-su; &ocirc;ng n&oacute;i với họ: 51 “Lề Luật của ch&uacute;ng ta c&oacute; cho ph&eacute;p kết &aacute;n ai, trước khi nghe người ấy v&agrave; biết người ấy l&agrave;m g&igrave; kh&ocirc;ng ?” 52 Họ đ&aacute;p: “Cả &ocirc;ng nữa, &ocirc;ng cũng l&agrave; người Ga-li-l&ecirc; sao ? &Ocirc;ng cứ nghi&ecirc;n cứu, rồi sẽ thấy: kh&ocirc;ng một ng&ocirc;n sứ n&agrave;o xuất th&acirc;n từ Ga-li-l&ecirc; cả.”\n53 Sau đ&oacute;, ai nấy trở về nh&agrave; m&igrave;nh.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -987,9 +987,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/21.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:49.422Z"
     },
     {
       "date": "2026-03-22",
@@ -1023,7 +1023,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 11,1-45",
-          "text": ""
+          "text": "Ch&iacute;nh Thầy l&agrave; sự sống lại v&agrave; l&agrave; sự sống.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 11,1-45\n1 Khi ấy, c&oacute; một người bị đau nặng, t&ecirc;n l&agrave; La-da-r&ocirc;, qu&ecirc; ở B&ecirc;-ta-ni-a, l&agrave;ng của hai chị em c&ocirc; M&aacute;c-ta v&agrave; Ma-ri-a. 2 C&ocirc; Ma-ri-a l&agrave; người sau n&agrave;y sẽ xức dầu thơm cho Ch&uacute;a, v&agrave; lấy t&oacute;c lau ch&acirc;n Người. Anh La-da-r&ocirc;, người bị đau nặng, l&agrave; em của c&ocirc;. 3 Hai c&ocirc; cho người đến n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, người Thầy thương mến đang bị đau nặng.” 4 Nghe vậy, Đức Gi&ecirc;-su bảo: “Bệnh n&agrave;y kh&ocirc;ng đến nỗi chết đ&acirc;u, nhưng l&agrave; dịp để b&agrave;y tỏ vinh quang của Thi&ecirc;n Ch&uacute;a: qua cơn bệnh n&agrave;y, Con Thi&ecirc;n Ch&uacute;a được t&ocirc;n vinh.”\n5 Đức Gi&ecirc;-su qu&yacute; mến c&ocirc; M&aacute;c-ta, c&ugrave;ng hai người em l&agrave; c&ocirc; Ma-ri-a v&agrave; anh La-da-r&ocirc;.\n6 Tuy nhi&ecirc;n, sau khi được tin anh La-da-r&ocirc; l&acirc;m bệnh, Người c&ograve;n lưu lại th&ecirc;m hai ng&agrave;y tại nơi đang ở. 7 Rồi sau đ&oacute;, Người n&oacute;i với c&aacute;c m&ocirc;n đệ: “N&agrave;o ch&uacute;ng ta c&ugrave;ng trở lại miền Giu-đ&ecirc; !” 8 C&aacute;c m&ocirc;n đệ n&oacute;i: “Thưa Thầy, mới đ&acirc;y người Do-th&aacute;i t&igrave;m c&aacute;ch n&eacute;m đ&aacute; Thầy, m&agrave; Thầy lại c&ograve;n đến đ&oacute; sao ?” 9 Đức Gi&ecirc;-su trả lời: “Ban ng&agrave;y chẳng c&oacute; mười hai giờ đ&oacute; sao ? Ai đi ban ng&agrave;y th&igrave; kh&ocirc;ng vấp ng&atilde;, v&igrave; thấy &aacute;nh s&aacute;ng mặt trời. 10 C&ograve;n ai đi ban đ&ecirc;m, th&igrave; vấp ng&atilde; v&igrave; kh&ocirc;ng c&oacute; &aacute;nh s&aacute;ng nơi m&igrave;nh !”\n11 N&oacute;i những lời n&agrave;y xong, Người bảo họ: “La-da-r&ocirc;, bạn của ch&uacute;ng ta, đang y&ecirc;n giấc; tuy vậy, Thầy đi đ&aacute;nh thức anh ấy đ&acirc;y.” 12 C&aacute;c m&ocirc;n đệ n&oacute;i với Người: “Thưa Thầy, nếu anh ấy y&ecirc;n giấc được, anh ấy sẽ khoẻ lại.” 13 Đức Gi&ecirc;-su n&oacute;i về c&aacute;i chết của anh La-da-r&ocirc;, c&ograve;n họ tưởng Người n&oacute;i về giấc ngủ thường. 14 Bấy giờ Người mới n&oacute;i r&otilde;: “La-da-r&ocirc; đ&atilde; chết. 15 Thầy mừng cho anh em, v&igrave; Thầy đ&atilde; kh&ocirc;ng c&oacute; mặt ở đ&oacute;, để anh em tin. Th&ocirc;i, n&agrave;o ch&uacute;ng ta đến với anh ấy.” 16 &Ocirc;ng T&ocirc;-ma, gọi l&agrave; Đi-đy-m&ocirc;, n&oacute;i với c&aacute;c bạn đồng m&ocirc;n: “Cả ch&uacute;ng ta nữa, ch&uacute;ng ta cũng đi để c&ugrave;ng chết với Thầy !”\n17 Khi đến nơi, Đức Gi&ecirc;-su thấy anh La-da-r&ocirc; đ&atilde; ch&ocirc;n trong mồ được bốn ng&agrave;y rồi. 18 B&ecirc;-ta-ni-a c&aacute;ch Gi&ecirc;-ru-sa-lem kh&ocirc;ng đầy ba c&acirc;y số. 19 Nhiều người Do-th&aacute;i đến chia buồn với hai c&ocirc; M&aacute;c-ta v&agrave; Ma-ri-a, v&igrave; em c&aacute;c c&ocirc; mới qua đời. 20 Vừa được tin Đức Gi&ecirc;-su đến, c&ocirc; M&aacute;c-ta liền ra đ&oacute;n Người. C&ograve;n c&ocirc; Ma-ri-a th&igrave; ngồi ở nh&agrave;. 21 C&ocirc; M&aacute;c-ta n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, nếu c&oacute; Thầy ở đ&acirc;y, em con đ&atilde; kh&ocirc;ng chết. 22 Nhưng b&acirc;y giờ con biết: Bất cứ điều g&igrave; Thầy xin c&ugrave;ng Thi&ecirc;n Ch&uacute;a, Người cũng sẽ ban cho Thầy.” 23 Đức Gi&ecirc;-su n&oacute;i: “Em chị sẽ sống lại !” 24 C&ocirc; M&aacute;c-ta thưa: “Con biết em con sẽ sống lại, khi kẻ chết sống lại trong ng&agrave;y sau hết.” 25 Đức Gi&ecirc;-su liền ph&aacute;n: “Ch&iacute;nh Thầy l&agrave; sự sống lại v&agrave; l&agrave; sự sống. Ai tin v&agrave;o Thầy, th&igrave; d&ugrave; đ&atilde; chết, cũng sẽ được sống. 26 Ai sống v&agrave; tin v&agrave;o Thầy, sẽ kh&ocirc;ng bao giờ phải chết. Chị c&oacute; tin thế kh&ocirc;ng ?” 27 C&ocirc; M&aacute;c-ta đ&aacute;p: “Thưa Thầy, c&oacute;. Con vẫn tin Thầy l&agrave; Đức Ki-t&ocirc;, Con Thi&ecirc;n Ch&uacute;a, Đấng phải đến thế gian.”\n28 N&oacute;i xong, c&ocirc; đi gọi em l&agrave; Ma-ri-a, v&agrave; n&oacute;i nhỏ: “Thầy đến rồi, Thầy gọi em đấy !” 29 Nghe vậy, c&ocirc; Ma-ri-a vội đứng l&ecirc;n v&agrave; đến với Đức Gi&ecirc;-su. 30 L&uacute;c đ&oacute;, Người chưa v&agrave;o l&agrave;ng, nhưng vẫn c&ograve;n ở chỗ c&ocirc; M&aacute;c-ta đ&atilde; ra đ&oacute;n Người. 31 Những người Do-th&aacute;i đang ở trong nh&agrave; với c&ocirc; Ma-ri-a để chia buồn, thấy c&ocirc; vội v&atilde; đứng dậy đi ra, liền đi theo, tưởng rằng c&ocirc; ra mộ kh&oacute;c em.\n32 Khi đến gần Đức Gi&ecirc;-su, c&ocirc; Ma-ri-a vừa thấy Người, liền phủ phục dưới ch&acirc;n v&agrave; n&oacute;i: “Thưa Thầy, nếu c&oacute; Thầy ở đ&acirc;y, em con đ&atilde; kh&ocirc;ng chết.” 33 Thấy c&ocirc; kh&oacute;c, v&agrave; những người Do-th&aacute;i đi với c&ocirc; cũng kh&oacute;c, Đức Gi&ecirc;-su thổn thức trong l&ograve;ng v&agrave; xao xuyến. 34 Người hỏi: “C&aacute;c người để x&aacute;c anh ấy ở đ&acirc;u ?” Họ trả lời: “Thưa Thầy, mời Thầy đến m&agrave; xem.” 35 Đức Gi&ecirc;-su liền kh&oacute;c. 36 Người Do-th&aacute;i mới n&oacute;i: “K&igrave;a xem ! &Ocirc;ng ta thương anh La-da-r&ocirc; biết mấy !” 37 C&oacute; v&agrave;i người trong nh&oacute;m họ n&oacute;i: “&Ocirc;ng ta đ&atilde; mở mắt cho người m&ugrave;, lại kh&ocirc;ng thể l&agrave;m cho anh ấy khỏi chết ư ?” 38 Đức Gi&ecirc;-su lại thổn thức trong l&ograve;ng. Người đi tới mộ. Ng&ocirc;i mộ đ&oacute; l&agrave; một c&aacute;i hang c&oacute; phiến đ&aacute; đậy lại. 39 Đức Gi&ecirc;-su n&oacute;i: “Đem phiến đ&aacute; n&agrave;y đi.” C&ocirc; M&aacute;c-ta l&agrave; chị người chết liền n&oacute;i: “Thưa Thầy, nặng m&ugrave;i rồi, v&igrave; em con ở trong mồ đ&atilde; được bốn ng&agrave;y.” 40 Đức Gi&ecirc;-su bảo: “N&agrave;o Thầy đ&atilde; chẳng n&oacute;i với chị rằng nếu chị tin, chị sẽ được thấy vinh quang của Thi&ecirc;n Ch&uacute;a sao ?” 41 Rồi người ta đem phiến đ&aacute; đi. Đức Gi&ecirc;-su ngước mắt l&ecirc;n v&agrave; n&oacute;i: “Lạy Cha, con cảm tạ Cha, v&igrave; Cha đ&atilde; nhậm lời con. 42 Phần con, con biết Cha hằng nhậm lời con, nhưng v&igrave; d&acirc;n ch&uacute;ng đứng quanh đ&acirc;y, n&ecirc;n con đ&atilde; n&oacute;i để họ tin l&agrave; Cha đ&atilde; sai con.” 43 N&oacute;i xong, Người k&ecirc;u lớn tiếng: “Anh La-da-r&ocirc;, h&atilde;y ra khỏi mồ !” 44 Người chết liền ra, ch&acirc;n tay c&ograve;n quấn vải, v&agrave; mặt c&ograve;n phủ khăn. Đức Gi&ecirc;-su bảo: “Cởi khăn v&agrave; vải cho anh ấy, rồi để anh ấy đi.”\n45 Trong số những người Do-th&aacute;i đến thăm c&ocirc; Ma-ri-a v&agrave; được chứng kiến việc Đức Gi&ecirc;-su l&agrave;m, c&oacute; nhiều kẻ đ&atilde; tin v&agrave;o Người.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1039,9 +1039,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/22.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:49.794Z"
     },
     {
       "date": "2026-03-23",
@@ -1075,7 +1075,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 8,1-11",
-          "text": ""
+          "text": "Ai trong c&aacute;c &ocirc;ng sạch tội, th&igrave; cứ việc lấy đ&aacute; m&agrave; n&eacute;m trước đi.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 8,1-11\n1 Khi ấy, Đức Gi&ecirc;-su đến n&uacute;i &Ocirc;-liu.\n2 Vừa tảng s&aacute;ng, Người trở lại Đền Thờ. To&agrave;n d&acirc;n đến với Người. Người ngồi xuống giảng dạy họ. 3 L&uacute;c đ&oacute;, c&aacute;c kinh sư v&agrave; người Pha-ri-s&ecirc;u dẫn đến trước mặt Đức Gi&ecirc;-su một phụ nữ bị bắt gặp đang ngoại t&igrave;nh. Họ để chị ta đứng ở giữa, 4 rồi n&oacute;i với Người: “Thưa Thầy, người đ&agrave;n b&agrave; n&agrave;y bị bắt quả tang đang ngoại t&igrave;nh. 5 Trong s&aacute;ch Luật, &ocirc;ng M&ocirc;-s&ecirc; truyền cho ch&uacute;ng t&ocirc;i phải n&eacute;m đ&aacute; hạng đ&agrave;n b&agrave; đ&oacute;. C&ograve;n Thầy, Thầy nghĩ sao ?” 6 Họ n&oacute;i thế nhằm thử Người, để c&oacute; bằng cớ tố c&aacute;o Người. Nhưng Đức Gi&ecirc;-su c&uacute;i xuống lấy ng&oacute;n tay viết tr&ecirc;n đất. 7 V&igrave; họ cứ hỏi m&atilde;i, n&ecirc;n Người ngẩng l&ecirc;n v&agrave; bảo họ: “Ai trong c&aacute;c &ocirc;ng sạch tội, th&igrave; cứ việc lấy đ&aacute; m&agrave; n&eacute;m trước đi.” 8 Rồi Người lại c&uacute;i xuống viết tr&ecirc;n đất. 9 Nghe vậy, họ bỏ đi hết, kẻ trước người sau, bắt đầu từ những người lớn tuổi. Chỉ c&ograve;n lại một m&igrave;nh Đức Gi&ecirc;-su, v&agrave; người phụ nữ th&igrave; đứng ở giữa. 10 Người ngẩng l&ecirc;n v&agrave; n&oacute;i: “N&agrave;y chị, họ đ&acirc;u cả rồi ? Kh&ocirc;ng ai l&ecirc;n &aacute;n chị sao ?” 11 Người đ&agrave;n b&agrave; đ&aacute;p: “Thưa &ocirc;ng, kh&ocirc;ng c&oacute; ai cả.” Đức Gi&ecirc;-su n&oacute;i: “T&ocirc;i cũng vậy, t&ocirc;i kh&ocirc;ng l&ecirc;n &aacute;n chị đ&acirc;u ! Th&ocirc;i chị cứ về đi, v&agrave; từ nay đừng phạm tội nữa !”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1085,9 +1085,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/23.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:50.161Z"
     },
     {
       "date": "2026-03-24",
@@ -1121,7 +1121,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 8,21-30",
-          "text": ""
+          "text": "Khi c&aacute;c &ocirc;ng giương cao Con Người l&ecirc;n, bấy giờ c&aacute;c &ocirc;ng sẽ biết l&agrave; T&ocirc;i Hằng Hữu.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 8,21-30\n21 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với người Do-th&aacute;i rằng: “T&ocirc;i ra đi, c&aacute;c &ocirc;ng sẽ t&igrave;m t&ocirc;i, v&agrave; c&aacute;c &ocirc;ng sẽ mang tội m&igrave;nh m&agrave; chết. Nơi t&ocirc;i đi, c&aacute;c &ocirc;ng kh&ocirc;ng thể đến được.” 22 Người Do-th&aacute;i mới n&oacute;i: “&Ocirc;ng ấy sẽ tự tử hay sao m&agrave; lại n&oacute;i: ‘Nơi t&ocirc;i đi, c&aacute;c &ocirc;ng kh&ocirc;ng thể đến được’ ?” 23 Người bảo họ: “C&aacute;c &ocirc;ng bởi hạ giới; c&ograve;n t&ocirc;i, t&ocirc;i bởi thượng giới. C&aacute;c &ocirc;ng thuộc về thế gian n&agrave;y; c&ograve;n t&ocirc;i, t&ocirc;i kh&ocirc;ng thuộc về thế gian n&agrave;y. 24 T&ocirc;i đ&atilde; n&oacute;i với c&aacute;c &ocirc;ng l&agrave; c&aacute;c &ocirc;ng sẽ mang tội lỗi m&igrave;nh m&agrave; chết. Thật vậy, nếu c&aacute;c &ocirc;ng kh&ocirc;ng tin l&agrave; T&ocirc;i Hằng Hữu, c&aacute;c &ocirc;ng sẽ mang tội lỗi m&igrave;nh m&agrave; chết.” 25 Họ liền hỏi Người: “&Ocirc;ng l&agrave; ai ?” Đức Gi&ecirc;-su đ&aacute;p: “Ho&agrave;n to&agrave;n đ&uacute;ng như t&ocirc;i vừa n&oacute;i với c&aacute;c &ocirc;ng đ&oacute;. 26 T&ocirc;i c&ograve;n c&oacute; nhiều điều phải n&oacute;i v&agrave; x&eacute;t đo&aacute;n về c&aacute;c &ocirc;ng. Nhưng Đấng đ&atilde; sai t&ocirc;i l&agrave; Đấng ch&acirc;n thật; c&ograve;n t&ocirc;i, t&ocirc;i n&oacute;i lại cho thế gian những điều t&ocirc;i đ&atilde; nghe Người n&oacute;i.” 27 Họ kh&ocirc;ng hiểu l&agrave; Đức Gi&ecirc;-su n&oacute;i với họ về Ch&uacute;a Cha. 28 Người bảo họ: “Khi c&aacute;c &ocirc;ng giương cao Con Người l&ecirc;n, bấy giờ c&aacute;c &ocirc;ng sẽ biết l&agrave; T&ocirc;i Hằng Hữu, v&agrave; biết t&ocirc;i kh&ocirc;ng tự m&igrave;nh l&agrave;m bất cứ điều g&igrave;, nhưng Ch&uacute;a Cha đ&atilde; dạy t&ocirc;i thế n&agrave;o, th&igrave; t&ocirc;i n&oacute;i như vậy. 29 Đấng đ&atilde; sai t&ocirc;i vẫn ở với t&ocirc;i; Người kh&ocirc;ng để t&ocirc;i c&ocirc; độc, v&igrave; t&ocirc;i hằng l&agrave;m những điều đẹp &yacute; Người.” 30 Khi Đức Gi&ecirc;-su n&oacute;i thế, th&igrave; c&oacute; nhiều kẻ tin v&agrave;o Người.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1131,9 +1131,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/24.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:50.508Z"
     },
     {
       "date": "2026-03-25",
@@ -1167,7 +1167,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Lc 1,26-38",
-          "text": ""
+          "text": "N&agrave;y đ&acirc;y b&agrave; sẽ thụ thai, sinh hạ một con trai.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Lu-ca. Lc 1,26-38\n26 Khi ấy, b&agrave; &Ecirc;-li-sa-b&eacute;t c&oacute; thai được s&aacute;u th&aacute;ng, th&igrave; Thi&ecirc;n Ch&uacute;a sai sứ thần G&aacute;p-ri-en đến một th&agrave;nh miền Ga-li-l&ecirc;, gọi l&agrave; Na-da-r&eacute;t, 27 gặp một trinh nữ đ&atilde; th&agrave;nh h&ocirc;n với một người t&ecirc;n l&agrave; Giu-se, thuộc d&ograve;ng d&otilde;i vua Đa-v&iacute;t. Trinh nữ ấy t&ecirc;n l&agrave; Ma-ri-a.\n28 Sứ thần v&agrave;o nh&agrave; trinh nữ v&agrave; n&oacute;i: “Mừng vui l&ecirc;n, hỡi Đấng đầy &acirc;n sủng, Đức Ch&uacute;a ở c&ugrave;ng b&agrave;.” 29 Nghe lời ấy, b&agrave; rất bối rối, v&agrave; tự hỏi lời ch&agrave;o như vậy c&oacute; nghĩa g&igrave;.\n30 Sứ thần liền n&oacute;i: “Thưa b&agrave; Ma-ri-a, xin đừng sợ, v&igrave; b&agrave; được đẹp l&ograve;ng Thi&ecirc;n Ch&uacute;a. 31 N&agrave;y đ&acirc;y b&agrave; sẽ thụ thai, sinh hạ một con trai, v&agrave; đặt t&ecirc;n l&agrave; Gi&ecirc;-su. 32 Người sẽ n&ecirc;n cao cả, v&agrave; sẽ được gọi l&agrave; Con Đấng Tối Cao. Đức Ch&uacute;a l&agrave; Thi&ecirc;n Ch&uacute;a sẽ ban cho Người ngai v&agrave;ng vua Đa-v&iacute;t, tổ ti&ecirc;n Người. 33 Người sẽ trị v&igrave; nh&agrave; Gia-c&oacute;p đến mu&ocirc;n đời, v&agrave; triều đại của Người sẽ v&ocirc; c&ugrave;ng v&ocirc; tận.”\n34 B&agrave; Ma-ri-a thưa với sứ thần: “Việc ấy sẽ xảy ra thế n&agrave;o, v&igrave; t&ocirc;i kh&ocirc;ng biết đến việc vợ chồng ?”\n35 Sứ thần đ&aacute;p: “Th&aacute;nh Thần sẽ ngự xuống tr&ecirc;n b&agrave;, v&agrave; quyền năng Đấng Tối Cao sẽ toả b&oacute;ng tr&ecirc;n b&agrave;; v&igrave; thế, Đấng Th&aacute;nh sắp sinh ra sẽ được gọi l&agrave; Con Thi&ecirc;n Ch&uacute;a. 36 K&igrave;a b&agrave; &Ecirc;-li-sa-b&eacute;t, người họ h&agrave;ng với b&agrave;, tuy gi&agrave; rồi, m&agrave; cũng đang cưu mang một người con trai: b&agrave; ấy vẫn bị mang tiếng l&agrave; hiếm hoi, m&agrave; nay đ&atilde; c&oacute; thai được s&aacute;u th&aacute;ng, 37 v&igrave; đối với Thi&ecirc;n Ch&uacute;a, kh&ocirc;ng c&oacute; g&igrave; l&agrave; kh&ocirc;ng thể l&agrave;m được.”\n38 Bấy giờ b&agrave; Ma-ri-a n&oacute;i với sứ thần: “V&acirc;ng, t&ocirc;i đ&acirc;y l&agrave; nữ tỳ của Ch&uacute;a, xin Người thực hiện cho t&ocirc;i như lời sứ thần n&oacute;i.” Rồi sứ thần từ biệt ra đi.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1180,9 +1180,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/25.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:50.852Z"
     },
     {
       "date": "2026-03-26",
@@ -1216,7 +1216,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 8,51-59",
-          "text": ""
+          "text": "&Ocirc;ng &Aacute;p-ra-ham l&agrave; cha c&aacute;c &ocirc;ng đ&atilde; hớn hở vui mừng v&igrave; hy vọng được thấy ng&agrave;y của t&ocirc;i.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 8,51-59\n51 Khi ấy, Đức Gi&ecirc;-su n&oacute;i với người Do-th&aacute;i rằng: “Thật, t&ocirc;i bảo thật c&aacute;c &ocirc;ng: ai tu&acirc;n giữ lời t&ocirc;i, th&igrave; sẽ kh&ocirc;ng bao giờ phải chết.”\n52 “Người Do-th&aacute;i liền n&oacute;i: “B&acirc;y giờ, ch&uacute;ng t&ocirc;i biết chắc l&agrave; &ocirc;ng bị quỷ &aacute;m. &Ocirc;ng &Aacute;p-ra-ham đ&atilde; chết, c&aacute;c ng&ocirc;n sứ cũng vậy; thế m&agrave; &ocirc;ng lại n&oacute;i: ‘Ai tu&acirc;n giữ lời t&ocirc;i, th&igrave; sẽ kh&ocirc;ng bao giờ phải chết.’\n53 “Chẳng lẽ &ocirc;ng lại cao trọng hơn cha ch&uacute;ng t&ocirc;i l&agrave; &ocirc;ng &Aacute;p-ra-ham sao ? Người đ&atilde; chết, c&aacute;c ng&ocirc;n sứ cũng đ&atilde; chết. &Ocirc;ng tự coi m&igrave;nh l&agrave; ai ?” 54 Đức Gi&ecirc;-su đ&aacute;p: “Nếu t&ocirc;i t&ocirc;n vinh ch&iacute;nh m&igrave;nh, vinh quang của t&ocirc;i chẳng l&agrave; g&igrave; cả. Đấng t&ocirc;n vinh t&ocirc;i ch&iacute;nh l&agrave; Cha t&ocirc;i, Đấng m&agrave; c&aacute;c &ocirc;ng gọi l&agrave; Thi&ecirc;n Ch&uacute;a của c&aacute;c &ocirc;ng. 55 C&aacute;c &ocirc;ng kh&ocirc;ng biết Người; c&ograve;n t&ocirc;i, t&ocirc;i biết Người. Nếu t&ocirc;i n&oacute;i l&agrave; t&ocirc;i kh&ocirc;ng biết Người, th&igrave; t&ocirc;i cũng l&agrave; kẻ n&oacute;i dối như c&aacute;c &ocirc;ng. Nhưng t&ocirc;i biết Người v&agrave; giữ lời Người. 56 &Ocirc;ng &Aacute;p-ra-ham l&agrave; cha c&aacute;c &ocirc;ng đ&atilde; hớn hở vui mừng v&igrave; hy vọng được thấy ng&agrave;y của t&ocirc;i. &Ocirc;ng đ&atilde; thấy v&agrave; đ&atilde; mừng rỡ.”\n57 Người Do-th&aacute;i n&oacute;i: “&Ocirc;ng chưa được năm mươi tuổi m&agrave; đ&atilde; thấy &ocirc;ng &Aacute;p-ra-ham !” 58 Đức Gi&ecirc;-su đ&aacute;p: “Thật, t&ocirc;i bảo thật c&aacute;c &ocirc;ng: trước khi c&oacute; &ocirc;ng &Aacute;p-ra-ham, th&igrave; t&ocirc;i, T&ocirc;i Hằng Hữu !”\n59 Họ liền lượm đ&aacute; để n&eacute;m Người. Nhưng Đức Gi&ecirc;-su l&aacute;nh đi v&agrave; ra khỏi Đền Thờ.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1226,9 +1226,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/26.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:51.212Z"
     },
     {
       "date": "2026-03-27",
@@ -1262,7 +1262,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 10,31-42",
-          "text": ""
+          "text": "Họ t&igrave;m c&aacute;ch bắt Đức Gi&ecirc;-su, nhưng Người đ&atilde; tho&aacute;t khỏi tay họ.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 10,31-42\n31 Khi ấy, người Do-th&aacute;i lại lấy đ&aacute; để n&eacute;m Đức Gi&ecirc;-su. 32 Người bảo họ: “T&ocirc;i đ&atilde; cho c&aacute;c &ocirc;ng thấy nhiều việc tốt đẹp Ch&uacute;a Cha đ&atilde; giao cho t&ocirc;i l&agrave;m; v&igrave; việc n&agrave;o m&agrave; c&aacute;c &ocirc;ng n&eacute;m đ&aacute; t&ocirc;i ?” 33 Người Do-th&aacute;i đ&aacute;p: “Ch&uacute;ng t&ocirc;i n&eacute;m đ&aacute; &ocirc;ng, kh&ocirc;ng phải v&igrave; một việc tốt đẹp, nhưng v&igrave; một lời n&oacute;i phạm thượng: &ocirc;ng l&agrave; người ph&agrave;m m&agrave; lại tự cho m&igrave;nh l&agrave; Thi&ecirc;n Ch&uacute;a.” 34 Đức Gi&ecirc;-su bảo họ: “Trong Lề Luật c&aacute;c &ocirc;ng, đ&atilde; chẳng c&oacute; ch&eacute;p lời n&agrave;y sao: ‘Ta đ&atilde; ph&aacute;n: c&aacute;c ngươi l&agrave; những bậc thần th&aacute;nh’ ? 35 Nếu Lề Luật gọi những kẻ được Thi&ecirc;n Ch&uacute;a ngỏ lời l&agrave; những bậc thần th&aacute;nh, m&agrave; lời Kinh Th&aacute;nh kh&ocirc;ng thể bị huỷ bỏ, 36 th&igrave; t&ocirc;i l&agrave; người Ch&uacute;a Cha đ&atilde; th&aacute;nh hiến v&agrave; sai đến thế gian, l&agrave;m sao c&aacute;c &ocirc;ng lại bảo t&ocirc;i: ‘&Ocirc;ng n&oacute;i phạm thượng !’ v&igrave; t&ocirc;i đ&atilde; n&oacute;i: ‘T&ocirc;i l&agrave; Con Thi&ecirc;n Ch&uacute;a’ ? 37 Nếu t&ocirc;i kh&ocirc;ng l&agrave;m c&aacute;c việc của Cha t&ocirc;i, th&igrave; c&aacute;c &ocirc;ng đừng tin t&ocirc;i. 38 C&ograve;n nếu t&ocirc;i l&agrave;m c&aacute;c việc đ&oacute;, th&igrave; d&ugrave; c&aacute;c &ocirc;ng kh&ocirc;ng tin t&ocirc;i, &iacute;t ra cũng h&atilde;y tin c&aacute;c việc đ&oacute;. Như vậy, c&aacute;c &ocirc;ng sẽ biết v&agrave; ng&agrave;y c&agrave;ng biết th&ecirc;m rằng: Ch&uacute;a Cha ở trong t&ocirc;i v&agrave; t&ocirc;i ở trong Ch&uacute;a Cha.” 39 Bấy giờ họ lại t&igrave;m c&aacute;ch bắt Người, nhưng Người đ&atilde; tho&aacute;t khỏi tay họ.\n40 Đức Gi&ecirc;-su lại ra đi, sang b&ecirc;n kia s&ocirc;ng Gio-đan, đến chỗ trước kia &ocirc;ng Gio-an đ&atilde; l&agrave;m ph&eacute;p rửa, v&agrave; Người ở lại đ&oacute;. 41 Nhiều người đến gặp Đức Gi&ecirc;-su. Họ bảo nhau: “&Ocirc;ng Gio-an đ&atilde; kh&ocirc;ng l&agrave;m một dấu lạ n&agrave;o cả, nhưng mọi điều &ocirc;ng ấy n&oacute;i về người n&agrave;y đều đ&uacute;ng.” 42 Ở đ&oacute;, nhiều người đ&atilde; tin v&agrave;o Đức Gi&ecirc;-su.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1272,9 +1272,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/27.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:51.577Z"
     },
     {
       "date": "2026-03-28",
@@ -1308,7 +1308,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 11,45-57",
-          "text": ""
+          "text": "Để quy tụ con c&aacute;i Thi&ecirc;n Ch&uacute;a đang tản m&aacute;c khắp nơi về một mối.\n✠ Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 11,45-57\n45 Khi ấy, sau khi &ocirc;ng La-da-r&ocirc; sống lại ra khỏi mồ, trong số những người Do-th&aacute;i đến thăm c&ocirc; Ma-ri-a v&agrave; được chứng kiến việc Đức Gi&ecirc;-su l&agrave;m, c&oacute; nhiều kẻ đ&atilde; tin v&agrave;o Người. 46 Nhưng lại c&oacute; những người đi gặp nh&oacute;m Pha-ri-s&ecirc;u v&agrave; kể cho họ những g&igrave; Đức Gi&ecirc;-su đ&atilde; l&agrave;m. 47 Vậy c&aacute;c thượng tế v&agrave; c&aacute;c người Pha-ri-s&ecirc;u triệu tập Thượng Hội Đồng v&agrave; n&oacute;i: “Ch&uacute;ng ta phải l&agrave;m g&igrave; đ&acirc;y ? Người n&agrave;y l&agrave;m nhiều dấu lạ. 48 Nếu ch&uacute;ng ta cứ để &ocirc;ng ấy tiếp tục, mọi người sẽ tin v&agrave;o &ocirc;ng ấy, rồi người R&ocirc;-ma sẽ đến ph&aacute; huỷ cả nơi th&aacute;nh của ta lẫn d&acirc;n tộc ta.” 49 Một người trong Thượng Hội Đồng t&ecirc;n l&agrave; Cai-pha, l&agrave;m thượng tế năm ấy, n&oacute;i rằng: “C&aacute;c &ocirc;ng kh&ocirc;ng hiểu g&igrave; cả, 50 c&aacute;c &ocirc;ng cũng chẳng nghĩ đến điều lợi cho c&aacute;c &ocirc;ng l&agrave;: th&agrave; một người chết thay cho d&acirc;n c&ograve;n hơn l&agrave; to&agrave;n d&acirc;n bị ti&ecirc;u diệt.” 51 Điều đ&oacute;, &ocirc;ng kh&ocirc;ng tự m&igrave;nh n&oacute;i ra, nhưng v&igrave; &ocirc;ng l&agrave; thượng tế năm ấy, n&ecirc;n đ&atilde; n&oacute;i ti&ecirc;n tri l&agrave; Đức Gi&ecirc;-su sắp phải chết thay cho d&acirc;n, 52 v&agrave; kh&ocirc;ng chỉ thay cho d&acirc;n m&agrave; th&ocirc;i, nhưng c&ograve;n để quy tụ con c&aacute;i Thi&ecirc;n Ch&uacute;a đang tản m&aacute;c khắp nơi về một mối. 53 Từ ng&agrave;y đ&oacute;, họ quyết định giết Đức Gi&ecirc;-su. 54 Vậy Đức Gi&ecirc;-su kh&ocirc;ng đi lại c&ocirc;ng khai giữa người Do-th&aacute;i nữa; nhưng từ nơi ấy, Người đến một v&ugrave;ng gần hoang địa, tới một th&agrave;nh gọi l&agrave; &Eacute;p-ra-im. Người ở lại đ&oacute; với c&aacute;c m&ocirc;n đệ.\n55 Khi ấy sắp đến lễ Vượt Qua của người Do-th&aacute;i. Từ miền qu&ecirc;, nhiều người l&ecirc;n Gi&ecirc;-ru-sa-lem để cử h&agrave;nh c&aacute;c nghi thức thanh tẩy dọn m&igrave;nh mừng lễ. 56 Họ t&igrave;m Đức Gi&ecirc;-su v&agrave; đứng trong Đền Thờ b&agrave;n t&aacute;n với nhau: “C&oacute; thể &ocirc;ng ấy sẽ kh&ocirc;ng l&ecirc;n dự lễ, c&aacute;c &ocirc;ng c&oacute; nghĩ thế kh&ocirc;ng ?” 57 C&ograve;n c&aacute;c thượng tế v&agrave; người Pha-ri-s&ecirc;u th&igrave; ra lệnh: ai biết được &ocirc;ng ấy ở đ&acirc;u th&igrave; phải b&aacute;o cho họ đến bắt.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1318,9 +1318,9 @@
       "notes": [],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/28.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:51.952Z"
     },
     {
       "date": "2026-03-29",
@@ -1353,8 +1353,8 @@
         },
         "gospel_acclamation": "",
         "gospel": {
-          "reference": "Mt 26,14–27,66",
-          "text": ""
+          "reference": "Mt 27,11-54\n11",
+          "text": "Cuộc Thương Kh&oacute; của Đức Gi&ecirc;-su Ki-t&ocirc;, Ch&uacute;a ch&uacute;ng ta.\n✠ Cuộc Thương Kh&oacute; của Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh M&aacute;t-th&ecirc;u. Mt 27,11-54\n11 nk Khi ấy, Đức Gi&ecirc;-su bị điệu ra trước mặt tổng trấn; tổng trấn hỏi Người: m “&Ocirc;ng l&agrave; vua d&acirc;n Do-th&aacute;i sao ?” nk Đức Gi&ecirc;-su trả lời: ✠ “Ch&iacute;nh ng&agrave;i n&oacute;i đ&oacute;.” 12 nk Nhưng khi c&aacute;c thượng tế v&agrave; kỳ mục tố Người, th&igrave; Người kh&ocirc;ng trả lời một tiếng. 13 Bấy giờ &ocirc;ng Phi-la-t&ocirc; hỏi Người: m “&Ocirc;ng kh&ocirc;ng nghe bao nhi&ecirc;u điều họ l&agrave;m chứng chống lại &ocirc;ng đ&oacute; sao ?” 14 nk Nhưng Đức Gi&ecirc;-su kh&ocirc;ng trả lời &ocirc;ng về một điều n&agrave;o, khiến tổng trấn rất đỗi ngạc nhi&ecirc;n.\n15 nk V&agrave;o mỗi dịp lễ lớn, tổng trấn c&oacute; lệ ph&oacute;ng th&iacute;ch cho d&acirc;n ch&uacute;ng một người t&ugrave;, tuỳ &yacute; họ muốn. 16 M&agrave; khi ấy c&oacute; một người t&ugrave; kh&eacute;t tiếng, t&ecirc;n l&agrave; Ba-ra-ba. 17 Vậy khi đ&aacute;m đ&ocirc;ng đ&atilde; tụ họp lại, th&igrave; tổng trấn Phi-la-t&ocirc; n&oacute;i với họ: m “C&aacute;c người muốn ta ph&oacute;ng th&iacute;ch ai cho c&aacute;c người đ&acirc;y ? Ba-ra-ba hay Gi&ecirc;-su, cũng gọi l&agrave; Ki-t&ocirc; ?” 18 nk Bởi &ocirc;ng thừa biết chỉ v&igrave; ghen tị m&agrave; họ nộp Người.\n19 nk L&uacute;c tổng trấn đang ngồi xử &aacute;n, th&igrave; b&agrave; vợ sai người đến n&oacute;i với &ocirc;ng: m “&Ocirc;ng đừng nh&uacute;ng tay v&agrave;o vụ xử người c&ocirc;ng ch&iacute;nh n&agrave;y, v&igrave; h&ocirc;m nay, t&ocirc;i chi&ecirc;m bao thấy m&igrave;nh phải khổ nhiều v&igrave; &ocirc;ng ấy.”\n20 nk Nhưng c&aacute;c thượng tế v&agrave; kỳ mục lại x&uacute;i đ&aacute;m đ&ocirc;ng đ&ograve;i tha t&ecirc;n Ba-ra-ba m&agrave; giết Đức Gi&ecirc;-su. 21 Tổng trấn hỏi họ: m “Trong hai người n&agrave;y, c&aacute;c người muốn ta tha ai cho c&aacute;c người ?” nk Họ thưa: dc “Ba-ra-ba !” 22 nk Tổng trấn Phi-la-t&ocirc; n&oacute;i tiếp: m “Thế c&ograve;n &ocirc;ng Gi&ecirc;-su, cũng gọi l&agrave; Ki-t&ocirc;, ta sẽ l&agrave;m g&igrave; đ&acirc;y ?” nk Mọi người đồng thanh: dc “Đ&oacute;ng đinh n&oacute; v&agrave;o thập gi&aacute; !” 23 nk Tổng trấn lại n&oacute;i: m “Thế &ocirc;ng ấy đ&atilde; l&agrave;m điều g&igrave; gian &aacute;c ?” nk Họ c&agrave;ng la to: dc “Đ&oacute;ng đinh n&oacute; v&agrave;o thập gi&aacute; !” 24 nk Tổng trấn Phi-la-t&ocirc; thấy đ&atilde; chẳng được &iacute;ch g&igrave; m&agrave; c&ograve;n th&ecirc;m n&aacute;o động, n&ecirc;n lấy nước rửa tay trước mặt đ&aacute;m đ&ocirc;ng m&agrave; n&oacute;i: m “Ta v&ocirc; can trong vụ đổ m&aacute;u người n&agrave;y. Mặc c&aacute;c người liệu lấy !” 25 nk To&agrave;n d&acirc;n đ&aacute;p lại: dc “M&aacute;u hắn cứ đổ xuống đầu ch&uacute;ng t&ocirc;i v&agrave; con ch&aacute;u ch&uacute;ng t&ocirc;i !” 26 nk Bấy giờ, tổng trấn ph&oacute;ng th&iacute;ch t&ecirc;n Ba-ra-ba cho họ, c&ograve;n Đức Gi&ecirc;-su, th&igrave; &ocirc;ng truyền đ&aacute;nh đ&ograve;n, rồi trao cho họ đ&oacute;ng đinh v&agrave;o thập gi&aacute;.\n27 nk Bấy giờ l&iacute;nh của tổng trấn đem Đức Gi&ecirc;-su v&agrave;o trong dinh, v&agrave; tập trung cả cơ đội quanh Người. 28 Ch&uacute;ng lột &aacute;o Người ra, kho&aacute;c cho Người một tấm &aacute;o cho&agrave;ng đỏ, 29 rồi kết một v&ograve;ng gai l&agrave;m vương miện đặt l&ecirc;n đầu Người, v&agrave; trao v&agrave;o tay mặt Người một c&acirc;y sậy. Ch&uacute;ng quỳ gối trước mặt Người m&agrave; nhạo rằng: dc “Vạn tuế Đức Vua d&acirc;n Do-th&aacute;i !” 30 nk Rồi ch&uacute;ng khạc nhổ v&agrave;o Người v&agrave; lấy c&acirc;y sậy m&agrave; đập v&agrave;o đầu Người. 31 Chế giễu ch&aacute;n, ch&uacute;ng lột &aacute;o cho&agrave;ng ra, v&agrave; cho Người mặc &aacute;o lại như trước, rồi điệu Người đi đ&oacute;ng đinh v&agrave;o thập gi&aacute;.\n32 nk Đang đi ra, th&igrave; ch&uacute;ng gặp một người Ky-r&ecirc;-n&ecirc;, t&ecirc;n l&agrave; Si-m&ocirc;n; ch&uacute;ng bắt &ocirc;ng v&aacute;c thập gi&aacute; của Người. 33 Khi đến nơi gọi l&agrave; G&ocirc;n-g&ocirc;-tha, nghĩa l&agrave; Đồi Sọ, 34 ch&uacute;ng cho Người uống rượu pha mật đắng, nhưng Người chỉ nếm một ch&uacute;t m&agrave; kh&ocirc;ng chịu uống. 35 Đ&oacute;ng đinh Người v&agrave;o thập gi&aacute; xong, ch&uacute;ng đem &aacute;o Người ra bắt thăm m&agrave; chia nhau. 36 Rồi ch&uacute;ng ngồi đ&oacute; m&agrave; canh giữ Người.\n37 nk Ph&iacute;a tr&ecirc;n đầu Người, ch&uacute;ng đặt bản &aacute;n xử tội viết rằng: “Người n&agrave;y l&agrave; Gi&ecirc;-su, vua d&acirc;n Do-th&aacute;i.” 38 C&ugrave;ng bị đ&oacute;ng đinh với Người c&oacute; hai t&ecirc;n cướp, một t&ecirc;n b&ecirc;n phải, một t&ecirc;n b&ecirc;n tr&aacute;i.\n39 nk Kẻ qua người lại đều nhục mạ Người, vừa lắc đầu 40 vừa n&oacute;i: m “Mi l&agrave; kẻ ph&aacute; được Đền Thờ, v&agrave; nội trong ba ng&agrave;y x&acirc;y lại được, h&atilde;y cứu lấy m&igrave;nh đi ! Nếu mi l&agrave; Con Thi&ecirc;n Ch&uacute;a, th&igrave; xuống khỏi thập gi&aacute; xem n&agrave;o !” 41 nk C&aacute;c thượng tế, kinh sư v&agrave; kỳ mục cũng chế giễu Người m&agrave; n&oacute;i: 42 m “Hắn cứu được thi&ecirc;n hạ, m&agrave; chẳng cứu nổi m&igrave;nh. Hắn l&agrave; Vua &Iacute;t-ra-en ! Hắn cứ xuống khỏi thập gi&aacute; ngay b&acirc;y giờ đi, ch&uacute;ng ta tin hắn liền ! 43 Hắn cậy v&agrave;o Thi&ecirc;n Ch&uacute;a, th&igrave; b&acirc;y giờ Người cứu hắn đi, nếu quả thật Người thương hắn ! V&igrave; hắn đ&atilde; n&oacute;i: “Ta l&agrave; Con Thi&ecirc;n Ch&uacute;a !” 44 nk Cả những t&ecirc;n cướp c&ugrave;ng bị đ&oacute;ng đinh với Người cũng sỉ vả Người như thế.\n45 nk Từ giờ thứ s&aacute;u, b&oacute;ng tối bao phủ cả mặt đất, m&atilde;i đến giờ thứ ch&iacute;n. 46 V&agrave;o giờ thứ ch&iacute;n, Đức Gi&ecirc;-su k&ecirc;u lớn tiếng: ✠ “&Ecirc;-li, &Ecirc;-li, l&ecirc;-ma xa-b&aacute;c-tha-ni”, nk nghĩa l&agrave; ✠ “Lạy Thi&ecirc;n Ch&uacute;a, lạy Thi&ecirc;n Ch&uacute;a của con, sao Ng&agrave;i bỏ rơi con ?” 47 nk Nghe vậy, một v&agrave;i người đứng đ&oacute; liền n&oacute;i: m “Hắn ta gọi &ocirc;ng &Ecirc;-li-a !” 48 nk Lập tức, một người trong bọn chạy đi lấy miếng bọt biển, thấm đầy giấm, buộc v&agrave;o đầu c&acirc;y sậy v&agrave; đưa l&ecirc;n cho Người uống. 49 C&ograve;n những người kh&aacute;c lại bảo: m “Khoan đ&atilde;, để xem &ocirc;ng &Ecirc;-li-a c&oacute; đến cứu hắn kh&ocirc;ng !” 50 nk Đức Gi&ecirc;-su lại k&ecirc;u một tiếng lớn, rồi tr&uacute;t linh hồn.\n51 nk Ngay l&uacute;c đ&oacute;, bức m&agrave;n trướng trong Đền Thờ x&eacute; ra l&agrave;m hai từ tr&ecirc;n xuống dưới. Đất rung, đ&aacute; vỡ. 52 Mồ mả bật tung, v&agrave; x&aacute;c của nhiều vị th&aacute;nh đ&atilde; an nghỉ được trỗi dậy. 53 Sau khi Ch&uacute;a trỗi dậy, c&aacute;c ng&agrave;i ra khỏi mồ, v&agrave;o th&agrave;nh th&aacute;nh, v&agrave; hiện ra với nhiều người. 54 Thấy động đất v&agrave; c&aacute;c sự việc xảy ra, vi&ecirc;n đại đội trưởng v&agrave; những người c&ugrave;ng &ocirc;ng canh giữ Đức Gi&ecirc;-su đều rất đỗi sợ h&atilde;i v&agrave; n&oacute;i: m “Quả thật &ocirc;ng n&agrave;y l&agrave; Con Thi&ecirc;n Ch&uacute;a.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1385,9 +1385,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/29.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:52.336Z"
     },
     {
       "date": "2026-03-30",
@@ -1421,7 +1421,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 12,1-11",
-          "text": ""
+          "text": "H&atilde;y để c&ocirc; ấy y&ecirc;n. C&ocirc; đ&atilde; giữ dầu thơm n&agrave;y l&agrave; c&oacute; &yacute; d&agrave;nh cho ng&agrave;y mai t&aacute;ng Thầy.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 12,1-11\n1 S&aacute;u ng&agrave;y trước lễ Vượt Qua, Đức Gi&ecirc;-su đến l&agrave;ng B&ecirc;-ta-ni-a, nơi anh La-da-r&ocirc; ở. Anh n&agrave;y đ&atilde; được Người cho sống lại từ c&otilde;i chết. 2 Ở đ&oacute;, người ta dọn bữa ăn tối thết đ&atilde;i Đức Gi&ecirc;-su; c&ocirc; M&aacute;c-ta lo hầu b&agrave;n, c&ograve;n anh La-da-r&ocirc; l&agrave; một trong những kẻ c&ugrave;ng dự tiệc với Người. 3 C&ocirc; Ma-ri-a lấy một c&acirc;n dầu thơm cam t&ugrave;ng nguy&ecirc;n chất v&agrave; qu&yacute; gi&aacute; xức ch&acirc;n Đức Gi&ecirc;-su, rồi lấy t&oacute;c m&agrave; lau. Cả nh&agrave; sực m&ugrave;i thơm. 4 Một trong c&aacute;c m&ocirc;n đệ của Đức Gi&ecirc;-su l&agrave; Giu-đa &Iacute;t-ca-ri-ốt, kẻ sẽ nộp Người, liền n&oacute;i: 5 “Sao lại kh&ocirc;ng b&aacute;n dầu thơm đ&oacute; lấy ba trăm quan tiền m&agrave; cho người ngh&egrave;o ?” 6 Y n&oacute;i thế, kh&ocirc;ng phải v&igrave; lo cho người ngh&egrave;o, nhưng v&igrave; y l&agrave; một t&ecirc;n ăn cắp: y giữ t&uacute;i tiền v&agrave; thường lấy cho m&igrave;nh những g&igrave; người ta bỏ v&agrave;o quỹ chung. 7 Đức Gi&ecirc;-su n&oacute;i: “H&atilde;y để c&ocirc; ấy y&ecirc;n. C&ocirc; đ&atilde; giữ dầu thơm n&agrave;y l&agrave; c&oacute; &yacute; d&agrave;nh cho ng&agrave;y mai t&aacute;ng Thầy. 8 Thật vậy, người ngh&egrave;o th&igrave; b&ecirc;n cạnh anh em l&uacute;c n&agrave;o cũng c&oacute;; c&ograve;n Thầy, anh em kh&ocirc;ng c&oacute; m&atilde;i đ&acirc;u.” 9 Một đ&aacute;m đ&ocirc;ng người Do-th&aacute;i biết Đức Gi&ecirc;-su đang ở đ&oacute;. Họ tu&ocirc;n đến, kh&ocirc;ng phải chỉ v&igrave; Đức Gi&ecirc;-su, nhưng c&ograve;n để nh&igrave;n thấy anh La-da-r&ocirc;, kẻ đ&atilde; được Người cho sống lại từ c&otilde;i chết. 10 C&aacute;c thượng tế mới quyết định giết cả anh La-da-r&ocirc; nữa, 11 v&igrave; tại anh m&agrave; nhiều người Do-th&aacute;i đ&atilde; bỏ họ v&agrave; tin v&agrave;o Đức Gi&ecirc;-su.\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1433,9 +1433,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/30.html"
       },
-      "updated": "2026-06-01T04:53:25.803Z"
+      "updated": "2026-06-01T05:01:52.732Z"
     },
     {
       "date": "2026-03-31",
@@ -1469,7 +1469,7 @@
         "gospel_acclamation": "",
         "gospel": {
           "reference": "Ga 13,21-33.36-38",
-          "text": ""
+          "text": "Một người trong anh em sẽ nộp Thầy... G&agrave; chưa g&aacute;y, anh đ&atilde; chối Thầy ba lần.\n✠Tin Mừng Ch&uacute;a Gi&ecirc;-su Ki-t&ocirc; theo th&aacute;nh Gio-an. Ga 13,21-33.36-38\n21 Khi ấy, đang d&ugrave;ng bữa với c&aacute;c m&ocirc;n đệ, Đức Gi&ecirc;-su cảm thấy t&acirc;m thần xao xuyến. Người tuy&ecirc;n bố: “Thật, Thầy bảo thật anh em: c&oacute; một người trong anh em sẽ nộp Thầy.” 22 C&aacute;c m&ocirc;n đệ nh&igrave;n nhau, ph&acirc;n v&acirc;n kh&ocirc;ng biết Người n&oacute;i về ai. 23 Trong số c&aacute;c m&ocirc;n đệ, c&oacute; một người được Đức Gi&ecirc;-su thương mến. &Ocirc;ng đang d&ugrave;ng bữa, đầu tựa v&agrave;o l&ograve;ng Đức Gi&ecirc;-su. 24 &Ocirc;ng Si-m&ocirc;n Ph&ecirc;-r&ocirc; l&agrave;m hiệu cho &ocirc;ng ấy v&agrave; bảo: “Hỏi xem Thầy muốn n&oacute;i về ai ?” 25 &Ocirc;ng n&agrave;y liền nghi&ecirc;ng m&igrave;nh v&agrave;o ngực Đức Gi&ecirc;-su v&agrave; hỏi: “Thưa Thầy, ai vậy ?” 26 Đức Gi&ecirc;-su trả lời: “Thầy chấm b&aacute;nh đưa cho ai, th&igrave; ch&iacute;nh l&agrave; kẻ ấy.” Rồi Người chấm một miếng b&aacute;nh, trao cho Giu-đa, con &ocirc;ng Si-m&ocirc;n &Iacute;t-ca-ri-ốt. 27 Y vừa ăn xong miếng b&aacute;nh, Xa-tan liền nhập v&agrave;o y. Đức Gi&ecirc;-su bảo y: “Anh l&agrave;m g&igrave; th&igrave; l&agrave;m mau đi !” 28 Nhưng trong số c&aacute;c người đang d&ugrave;ng bữa, kh&ocirc;ng ai hiểu tại sao Người n&oacute;i với y như thế. 29 V&igrave; Giu-đa giữ t&uacute;i tiền, n&ecirc;n c&oacute; v&agrave;i người tưởng rằng Đức Gi&ecirc;-su n&oacute;i với y: “H&atilde;y mua những m&oacute;n cần d&ugrave;ng trong dịp lễ”, hoặc bảo y bố th&iacute; cho người ngh&egrave;o. 30 Sau khi ăn miếng b&aacute;nh, Giu-đa liền đi ra. L&uacute;c đ&oacute;, trời đ&atilde; tối.\n31 Khi Giu-đa đi rồi, Đức Gi&ecirc;-su n&oacute;i: “Giờ đ&acirc;y, Con Người được t&ocirc;n vinh, v&agrave; Thi&ecirc;n Ch&uacute;a cũng được t&ocirc;n vinh nơi Người. 32 Nếu Thi&ecirc;n Ch&uacute;a được t&ocirc;n vinh nơi Người, th&igrave; Thi&ecirc;n Ch&uacute;a cũng sẽ t&ocirc;n vinh Người nơi ch&iacute;nh m&igrave;nh, v&agrave; Thi&ecirc;n Ch&uacute;a sắp t&ocirc;n vinh Người.\n33 “Hỡi anh em l&agrave; những người con b&eacute; nhỏ của Thầy, Thầy c&ograve;n ở với anh em một &iacute;t l&acirc;u nữa th&ocirc;i. Anh em sẽ t&igrave;m kiếm Thầy; nhưng như Thầy đ&atilde; n&oacute;i với người Do-th&aacute;i: ‘Nơi t&ocirc;i đi, c&aacute;c người kh&ocirc;ng thể đến được’, b&acirc;y giờ, Thầy cũng n&oacute;i với anh em như vậy.”\n36 &Ocirc;ng Si-m&ocirc;n Ph&ecirc;-r&ocirc; n&oacute;i với Đức Gi&ecirc;-su: “Thưa Thầy, Thầy đi đ&acirc;u vậy ?” Đức Gi&ecirc;-su trả lời: “Nơi Thầy đi, b&acirc;y giờ anh kh&ocirc;ng thể theo đến được; nhưng sau n&agrave;y anh sẽ đi theo.” 37 &Ocirc;ng Ph&ecirc;-r&ocirc; thưa: “Thưa Thầy, sao con lại kh&ocirc;ng thể đi theo Thầy ngay b&acirc;y giờ được ? Con sẽ th&iacute; mạng con v&igrave; Thầy !” 38 Đức Gi&ecirc;-su đ&aacute;p: “Anh sẽ th&iacute; mạng v&igrave; Thầy ư ? Thật, Thầy bảo thật cho anh biết: g&agrave; chưa g&aacute;y, anh đ&atilde; chối Thầy ba lần.”\nG&Oacute;P &Yacute; CẢI THIỆN CHẤT LƯỢNG AUDIO LỜI CH&Uacute;A: LINK FORM"
         }
       },
       "reflection": {
@@ -1483,9 +1483,9 @@
       ],
       "source": {
         "calendar": "https://augustino.net/lich-phung-vu?y=2026&m=03",
-        "gospel": ""
+        "gospel": "https://www.vaticannews.va/vi/loi-chua-hang-ngay/2026/03/31.html"
       },
-      "updated": "2026-06-01T04:53:25.804Z"
+      "updated": "2026-06-01T05:01:53.094Z"
     }
   ]
 }
